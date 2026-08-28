@@ -3681,25 +3681,11 @@ If finalised as proposed, **IFRIC 21 *Levies* and IFRIC 6 would be withdrawn** a
 
 ## Interpretations — IFRIC and SIC
 
-**Status of Interpretations:** IFRIC and SIC Interpretations are authoritative pronouncements of
-the IFRS Foundation with the same standing as the Standards they interpret. Each Interpretation
-states that "the scope and authority of Interpretations are set out in the *Preface to IFRS
-Accounting Standards*". An Interpretation adds requirements to a Standard; it does not remove or
-replace them.
+**Status of Interpretations:** IFRIC and SIC Interpretations are authoritative pronouncements of the IFRS Foundation with the same standing as the Standards they interpret. Each Interpretation states that "the scope and authority of Interpretations are set out in the *Preface to IFRS Accounting Standards*". An Interpretation adds requirements to a Standard; it does not remove or replace them.
 
-**Complete population in force at 28 August 2026** (verified against the 2026 Issued edition):
-IFRIC 1, 2, 5, 6, 7, 10, 12, 14, 16, 17, 19, 20, 21, 22, 23; SIC-7, SIC-10, SIC-25, SIC-29,
-SIC-32. **Fifteen IFRICs and five SICs. There are no others.** Everything else ever issued has
-been withdrawn or superseded — see *Withdrawn Interpretations* below.
+**Complete population in force at 28 August 2026** (verified against the 2026 Issued edition): IFRIC 1, 2, 5, 6, 7, 10, 12, 14, 16, 17, 19, 20, 21, 22, 23; SIC-7, SIC-10, SIC-25, SIC-29, SIC-32. **Fifteen IFRICs and five SICs. There are no others.** Everything else ever issued has been withdrawn or superseded — see *Withdrawn Interpretations* below.
 
-**IFRS 18 consequential amendments (apply when IFRS 18 is applied, i.e. annual periods beginning
-on or after 1 January 2027, earlier application permitted):** IFRS 18 amended **IFRIC 1**
-(paragraphs 6 and 8), **IFRIC 14** (paragraph 10), **IFRIC 17** (paragraph 2), **IFRIC 19**
-(paragraph 11), **IFRIC 23** (paragraphs 14 and A4) and **SIC-32** (paragraph 5). It also
-retitled IAS 8 to *Basis of Preparation of Financial Statements*, so IAS 8 appears under that new
-name in the References section of every Interpretation. SIC-7, SIC-25, SIC-29 and SIC-32 now list
-IFRS 18 in their References sections in place of IAS 1. No Interpretation was withdrawn by
-IFRS 18.
+**IFRS 18 consequential amendments (apply when IFRS 18 is applied, i.e. annual periods beginning on or after 1 January 2027, earlier application permitted):** IFRS 18 amended **IFRIC 1** (paragraphs 6 and 8), **IFRIC 14** (paragraph 10), **IFRIC 17** (paragraph 2), **IFRIC 19** (paragraph 11), **IFRIC 23** (paragraphs 14 and A4) and **SIC-32** (paragraph 5). It also retitled IAS 8 to *Basis of Preparation of Financial Statements*, so IAS 8 appears under that new name in the References section of every Interpretation. SIC-7, SIC-25, SIC-29 and SIC-32 now list IFRS 18 in their References sections in place of IAS 1. No Interpretation was withdrawn by IFRS 18.
 
 ---
 
@@ -3707,23 +3693,9 @@ IFRS 18.
 
 **Attaches to:** IAS 16, IAS 37, IAS 23, IAS 36, IFRS 16.
 
-**Question answered:** How to account for the effect of a change in the measurement of an existing
-decommissioning, restoration or similar liability that was capitalised into the cost of an item of
-PP&E (IAS 16) or a right-of-use asset (IFRS 16) and recognised as a liability under IAS 37
-(IFRIC 1.2). Three triggering events: a change in the estimated outflow, a change in the current
-market-based discount rate defined in IAS 37.47, and unwinding of the discount (IFRIC 1.3).
+**Question answered:** How to account for the effect of a change in the measurement of an existing decommissioning, restoration or similar liability that was capitalised into the cost of an item of PP&E (IAS 16) or a right-of-use asset (IFRS 16) and recognised as a liability under IAS 37 (IFRIC 1.2). Three triggering events: a change in the estimated outflow, a change in the current market-based discount rate defined in IAS 37.47, and unwinding of the discount (IFRIC 1.3).
 
-**Conclusion:** Under the **cost model**, the change is added to or deducted from the cost of the
-related asset; the deduction cannot exceed the asset's carrying amount, and any excess goes
-immediately to P&L; an addition is an impairment indicator triggering an IAS 36 test
-(IFRIC 1.5). Under the **revaluation model**, the change adjusts the revaluation surplus — a
-decrease goes to OCI (except to the extent it reverses a deficit previously in P&L), an increase
-goes to P&L (except to the extent of an existing credit balance in that asset's revaluation
-surplus) (IFRIC 1.6). Once the asset reaches the end of its useful life, all subsequent changes go
-straight to P&L (IFRIC 1.7). **Unwinding of the discount is a finance cost recognised in P&L and
-cannot be capitalised under IAS 23** (IFRIC 1.8). Under IFRS 18, that unwinding is interest
-expense from a liability other than one arising from a transaction involving only the raising of
-finance, classified in the **financing category** applying IFRS 18.61 (IFRIC 1.8 as amended).
+**Conclusion:** Under the **cost model**, the change is added to or deducted from the cost of the related asset; the deduction cannot exceed the asset's carrying amount, and any excess goes immediately to P&L; an addition is an impairment indicator triggering an IAS 36 test (IFRIC 1.5). Under the **revaluation model**, the change adjusts the revaluation surplus — a decrease goes to OCI (except to the extent it reverses a deficit previously in P&L), an increase goes to P&L (except to the extent of an existing credit balance in that asset's revaluation surplus) (IFRIC 1.6). Once the asset reaches the end of its useful life, all subsequent changes go straight to P&L (IFRIC 1.7). **Unwinding of the discount is a finance cost recognised in P&L and cannot be capitalised under IAS 23** (IFRIC 1.8). Under IFRS 18, that unwinding is interest expense from a liability other than one arising from a transaction involving only the raising of finance, classified in the **financing category** applying IFRS 18.61 (IFRIC 1.8 as amended).
 
 *Effective for annual periods beginning on or after 1 September 2004.*
 
@@ -3731,51 +3703,19 @@ finance, classified in the **financing category** applying IFRS 18.61 (IFRIC 1.8
 
 **Attaches to:** IAS 32.
 
-**Question answered:** How the redemption terms of members' shares in co-operatives are evaluated
-in classifying those instruments as liability or equity (IFRIC 2.4).
+**Question answered:** How the redemption terms of members' shares in co-operatives are evaluated in classifying those instruments as liability or equity (IFRIC 2.4).
 
-**Conclusion:** A holder's contractual right to request redemption **does not by itself** force
-liability classification; the entity must consider all terms and conditions, including local law,
-regulation and the governing charter in force at the classification date — but not expected future
-amendments to them (IFRIC 2.5). Members' shares are equity if the entity has an **unconditional
-right to refuse redemption** (IFRIC 2.7), or if redemption is unconditionally prohibited by law,
-regulation or charter (IFRIC 2.8). A prohibition that bites **only when a condition such as a
-liquidity constraint is met is not unconditional** and does not produce equity classification
-(IFRIC 2.8). A partial prohibition splits the instrument: shares in excess of the prohibited floor
-are liabilities (IFRIC 2.9), and a change in the level of the prohibition causes a **transfer
-between liabilities and equity** (IFRIC 2.9), which must be disclosed separately as to amount,
-timing and reason (IFRIC 2.13). The redemption liability is measured at initial recognition at no
-less than the maximum amount payable under the charter, discounted from the first date it could be
-required (IFRIC 2.10) — consistent with the IFRS 13.47 demand-feature floor. Distributions on
-instruments classified as liabilities are **expenses**, however they are legally characterised
-(IFRIC 2.11). Members' demand deposits and current accounts, arising where members act as
-customers, are financial liabilities (IFRIC 2.6). Instruments that will or may be settled in the
-entity's own equity are outside scope (IFRIC 2.3).
+**Conclusion:** A holder's contractual right to request redemption **does not by itself** force liability classification; the entity must consider all terms and conditions, including local law, regulation and the governing charter in force at the classification date — but not expected future amendments to them (IFRIC 2.5). Members' shares are equity if the entity has an **unconditional right to refuse redemption** (IFRIC 2.7), or if redemption is unconditionally prohibited by law, regulation or charter (IFRIC 2.8). A prohibition that bites **only when a condition such as a liquidity constraint is met is not unconditional** and does not produce equity classification (IFRIC 2.8). A partial prohibition splits the instrument: shares in excess of the prohibited floor are liabilities (IFRIC 2.9), and a change in the level of the prohibition causes a **transfer between liabilities and equity** (IFRIC 2.9), which must be disclosed separately as to amount, timing and reason (IFRIC 2.13). The redemption liability is measured at initial recognition at no less than the maximum amount payable under the charter, discounted from the first date it could be required (IFRIC 2.10) — consistent with the IFRS 13.47 demand-feature floor. Distributions on instruments classified as liabilities are **expenses**, however they are legally characterised (IFRIC 2.11). Members' demand deposits and current accounts, arising where members act as customers, are financial liabilities (IFRIC 2.6). Instruments that will or may be settled in the entity's own equity are outside scope (IFRIC 2.3).
 
-*Effective for annual periods beginning on or after 1 January 2005; the puttable-instruments
-amendments to paragraphs 6 and 9 from 1 January 2009.*
+*Effective for annual periods beginning on or after 1 January 2005; the puttable-instruments amendments to paragraphs 6 and 9 from 1 January 2009.*
 
 ### IFRIC 5 — Rights to Interests arising from Decommissioning, Restoration and Environmental Rehabilitation Funds
 
 **Attaches to:** IAS 37, IFRS 9, IFRS 10, IFRS 11, IAS 28.
 
-**Question answered:** How a contributor accounts for its interest in a separately administered
-decommissioning fund to which its access is restricted, and how it accounts for an obligation to
-make additional contributions (IFRIC 5.4, 5.6).
+**Question answered:** How a contributor accounts for its interest in a separately administered decommissioning fund to which its access is restricted, and how it accounts for an obligation to make additional contributions (IFRIC 5.4, 5.6).
 
-**Conclusion:** The contributor recognises its decommissioning obligation as a liability and its
-interest in the fund **separately** — no netting — unless it is not liable to pay decommissioning
-costs even if the fund fails (IFRIC 5.7). It first tests for control, joint control or significant
-influence over the fund under IFRS 10 / IFRS 11 / IAS 28 and consolidates or equity-accounts if
-so (IFRIC 5.8). Otherwise the right to receive reimbursement is an **IAS 37 reimbursement asset**
-measured at the lower of the recognised decommissioning obligation and the contributor's share of
-the fair value of the fund's net assets, with movements other than contributions and payments
-going to P&L (IFRIC 5.9). A potential obligation to make additional contributions (e.g. on another
-contributor's bankruptcy, or if fund assets fall short) is an **IAS 37 contingent liability**;
-a liability is recognised only if additional contributions are probable (IFRIC 5.10). Disclose the
-nature of the interest and any restrictions on access (IFRIC 5.11). A residual interest extending
-beyond a right to reimbursement may be an IFRS 9 equity instrument and is outside scope
-(IFRIC 5.5).
+**Conclusion:** The contributor recognises its decommissioning obligation as a liability and its interest in the fund **separately** — no netting — unless it is not liable to pay decommissioning costs even if the fund fails (IFRIC 5.7). It first tests for control, joint control or significant influence over the fund under IFRS 10 / IFRS 11 / IAS 28 and consolidates or equity-accounts if so (IFRIC 5.8). Otherwise the right to receive reimbursement is an **IAS 37 reimbursement asset** measured at the lower of the recognised decommissioning obligation and the contributor's share of the fair value of the fund's net assets, with movements other than contributions and payments going to P&L (IFRIC 5.9). A potential obligation to make additional contributions (e.g. on another contributor's bankruptcy, or if fund assets fall short) is an **IAS 37 contingent liability**; a liability is recognised only if additional contributions are probable (IFRIC 5.10). Disclose the nature of the interest and any restrictions on access (IFRIC 5.11). A residual interest extending beyond a right to reimbursement may be an IFRS 9 equity instrument and is outside scope (IFRIC 5.5).
 
 *Effective for annual periods beginning on or after 1 January 2006.*
 
@@ -3783,20 +3723,9 @@ beyond a right to reimbursement may be an IFRS 9 equity instrument and is outsid
 
 **Attaches to:** IAS 37.
 
-**Question answered:** What the obligating event is, for IAS 37.14(a) purposes, for waste
-management costs of **historical household** electrical equipment under the EU WE&EE Directive
-(IFRIC 6.6, 6.8). New waste, and historical waste from non-household sources, are outside scope
-and dealt with by IAS 37 directly (IFRIC 6.7).
+**Question answered:** What the obligating event is, for IAS 37.14(a) purposes, for waste management costs of **historical household** electrical equipment under the EU WE&EE Directive (IFRIC 6.6, 6.8). New waste, and historical waste from non-household sources, are outside scope and dealt with by IAS 37 directly (IFRIC 6.7).
 
-**Conclusion:** The obligating event is **participation in the market during the measurement
-period** — not the manufacture or sale of the equipment, and not the incurrence of waste
-management costs. No obligation exists unless and until a market share exists during the
-measurement period (IFRIC 6.9). Where national legislation treats new household waste the same
-way as historical household waste, the same principles apply via the IAS 8.10–12 hierarchy, and
-that hierarchy is likewise relevant for other regulations imposing obligations on a similar cost
-attribution model (IFRIC 6.7). **This is now a general-purpose precedent for cost-attribution
-environmental levies**, and the Committee relied on it in the 2022 negative low-emission vehicle
-credits agenda decision (see *IFRS Interpretations Committee Agenda Decisions* below).
+**Conclusion:** The obligating event is **participation in the market during the measurement period** — not the manufacture or sale of the equipment, and not the incurrence of waste management costs. No obligation exists unless and until a market share exists during the measurement period (IFRIC 6.9). Where national legislation treats new household waste the same way as historical household waste, the same principles apply via the IAS 8.10–12 hierarchy, and that hierarchy is likewise relevant for other regulations imposing obligations on a similar cost attribution model (IFRIC 6.7). **This is now a general-purpose precedent for cost-attribution environmental levies**, and the Committee relied on it in the 2022 negative low-emission vehicle credits agenda decision (see *IFRS Interpretations Committee Agenda Decisions* below).
 
 *Effective for annual periods beginning on or after 1 December 2005.*
 
@@ -3804,89 +3733,38 @@ credits agenda decision (see *IFRS Interpretations Committee Agenda Decisions* b
 
 **Attaches to:** IAS 29, IAS 12.
 
-**Question answered:** How IAS 29 is applied in the **first** period in which an entity identifies
-that the economy of its functional currency is hyperinflationary, and how opening deferred tax is
-handled (IFRIC 7.2).
+**Question answered:** How IAS 29 is applied in the **first** period in which an entity identifies that the economy of its functional currency is hyperinflationary, and how opening deferred tax is handled (IFRIC 7.2).
 
-**Conclusion:** The entity applies IAS 29 **as if the economy had always been hyperinflationary**.
-Non-monetary items measured at historical cost are restated in the opening statement of financial
-position of the earliest period presented, for inflation from the date of acquisition or
-incurrence to the reporting date; items carried at amounts current at other dates are restated
-from the date those amounts were determined (IFRIC 7.3). For opening deferred tax, a **two-step**
-sequence: (a) remeasure deferred tax under IAS 12 after restating the nominal carrying amounts of
-non-monetary items at the opening date using the measuring unit at that date; then (b) restate the
-remeasured deferred tax for the change in the measuring unit from the opening date to the
-reporting date (IFRIC 7.4). In subsequent periods, all corresponding figures including deferred
-tax are restated by applying only that period's change in the measuring unit to the previously
-restated statements (IFRIC 7.5).
+**Conclusion:** The entity applies IAS 29 **as if the economy had always been hyperinflationary**. Non-monetary items measured at historical cost are restated in the opening statement of financial position of the earliest period presented, for inflation from the date of acquisition or incurrence to the reporting date; items carried at amounts current at other dates are restated from the date those amounts were determined (IFRIC 7.3). For opening deferred tax, a **two-step** sequence: (a) remeasure deferred tax under IAS 12 after restating the nominal carrying amounts of non-monetary items at the opening date using the measuring unit at that date; then (b) restate the remeasured deferred tax for the change in the measuring unit from the opening date to the reporting date (IFRIC 7.4). In subsequent periods, all corresponding figures including deferred tax are restated by applying only that period's change in the measuring unit to the previously restated statements (IFRIC 7.5).
 
-*Effective for annual periods beginning on or after 1 March 2006.*
-*Practice note:* read with the July 2025 agenda decision *Assessing Indicators of
-Hyperinflationary Economies (IAS 29)* and the November 2025 amendments to IAS 21 on translation
-to a hyperinflationary presentation currency.
+*Effective for annual periods beginning on or after 1 March 2006.* *Practice note:* read with the July 2025 agenda decision *Assessing Indicators of Hyperinflationary Economies (IAS 29)* and the November 2025 amendments to IAS 21 on translation to a hyperinflationary presentation currency.
 
 ### IFRIC 10 — Interim Financial Reporting and Impairment
 
 **Attaches to:** IAS 34, IAS 36.
 
-**Question answered:** Whether a goodwill impairment loss recognised in an interim period may be
-reversed at a later reporting date if conditions have improved (IFRIC 10.7).
+**Question answered:** Whether a goodwill impairment loss recognised in an interim period may be reversed at a later reporting date if conditions have improved (IFRIC 10.7).
 
-**Conclusion:** **No.** An entity shall not reverse a goodwill impairment loss recognised in a
-previous interim period (IFRIC 10.8) — the IAS 36.124 prohibition on reversing goodwill impairment
-prevails over the IAS 34.28 year-to-date measurement principle. The consensus **must not be
-extended by analogy** to other conflicts between IAS 34 and other Standards (IFRIC 10.9).
+**Conclusion:** **No.** An entity shall not reverse a goodwill impairment loss recognised in a previous interim period (IFRIC 10.8) — the IAS 36.124 prohibition on reversing goodwill impairment prevails over the IAS 34.28 year-to-date measurement principle. The consensus **must not be extended by analogy** to other conflicts between IAS 34 and other Standards (IFRIC 10.9).
 
-**Scope note (important):** IFRIC 10 originally also covered investments in equity instruments and
-financial assets carried at cost. **IFRS 9 (July 2014) deleted paragraphs 5, 6 and 11–13 and
-amended paragraphs 1, 2, 7 and 8** (IFRIC 10.14). Since IFRS 9 applies, **IFRIC 10 addresses
-goodwill only.**
+**Scope note (important):** IFRIC 10 originally also covered investments in equity instruments and financial assets carried at cost. **IFRS 9 (July 2014) deleted paragraphs 5, 6 and 11–13 and amended paragraphs 1, 2, 7 and 8** (IFRIC 10.14). Since IFRS 9 applies, **IFRIC 10 addresses goodwill only.**
 
 *Effective for annual periods beginning on or after 1 November 2006.*
 
 ### IFRIC 12 — Service Concession Arrangements
 
-**Attaches to:** IFRS 15, IFRS 9, IAS 38, IAS 37, IAS 23, IAS 32, IFRS 7. Disclosures are in
-SIC-29, not IFRIC 12 (IFRIC 12.10).
+**Attaches to:** IFRS 15, IFRS 9, IAS 38, IAS 37, IAS 23, IAS 32, IFRS 7. Disclosures are in SIC-29, not IFRIC 12 (IFRIC 12.10).
 
-**Question answered:** How an **operator** accounts for a public-to-private service concession
-arrangement — one in which (a) the grantor controls or regulates what services the operator must
-provide with the infrastructure, to whom, and at what price, and (b) the grantor controls any
-significant residual interest in the infrastructure at the end of the term (IFRIC 12.5).
+**Question answered:** How an **operator** accounts for a public-to-private service concession arrangement — one in which (a) the grantor controls or regulates what services the operator must provide with the infrastructure, to whom, and at what price, and (b) the grantor controls any significant residual interest in the infrastructure at the end of the term (IFRIC 12.5).
 
-**Conclusion:** The infrastructure is **not** the operator's PP&E, because the arrangement does not
-convey the right to control its use; the operator merely has access to operate it on the grantor's
-behalf (IFRIC 12.11). The operator is a **service provider**: it recognises revenue for
-construction or upgrade services and for operation services under IFRS 15 (IFRIC 12.13, 12.14,
-12.20). The consideration received determines the subsequent accounting:
-- **Financial asset model** — to the extent the operator has an unconditional contractual right to
-  receive cash from or at the direction of the grantor, including a guarantee of the shortfall
-  between user receipts and specified amounts, even where payment is contingent on meeting quality
-  or efficiency standards (IFRIC 12.16). Accounted for under IFRS 9 at amortised cost, FVOCI or
-  FVTPL (IFRIC 12.24), with effective-interest income in P&L for the first two (IFRIC 12.25).
-- **Intangible asset model** — to the extent the operator receives a licence to charge users; a
-  right to charge users is not unconditional because amounts depend on public usage
-  (IFRIC 12.17). Accounted for under IAS 38 (IFRIC 12.26).
-- **Bifurcation** — where consideration is partly each, the components are accounted for
-  separately (IFRIC 12.18). Both types are classified as an IFRS 15 **contract asset** during the
-  construction or upgrade period (IFRIC 12.19).
+**Conclusion:** The infrastructure is **not** the operator's PP&E, because the arrangement does not convey the right to control its use; the operator merely has access to operate it on the grantor's behalf (IFRIC 12.11). The operator is a **service provider**: it recognises revenue for construction or upgrade services and for operation services under IFRS 15 (IFRIC 12.13, 12.14, 12.20). The consideration received determines the subsequent accounting:
+- **Financial asset model** — to the extent the operator has an unconditional contractual right to receive cash from or at the direction of the grantor, including a guarantee of the shortfall between user receipts and specified amounts, even where payment is contingent on meeting quality or efficiency standards (IFRIC 12.16). Accounted for under IFRS 9 at amortised cost, FVOCI or FVTPL (IFRIC 12.24), with effective-interest income in P&L for the first two (IFRIC 12.25).
+- **Intangible asset model** — to the extent the operator receives a licence to charge users; a right to charge users is not unconditional because amounts depend on public usage (IFRIC 12.17). Accounted for under IAS 38 (IFRIC 12.26).
+- **Bifurcation** — where consideration is partly each, the components are accounted for separately (IFRIC 12.18). Both types are classified as an IFRS 15 **contract asset** during the construction or upgrade period (IFRIC 12.19).
 
-**Borrowing costs** are expensed as incurred **unless** the operator has a contractual right to an
-intangible asset, in which case IAS 23 capitalisation applies during the construction phase
-(IFRIC 12.22). Contractual obligations to maintain the infrastructure at a specified level of
-serviceability, or to restore it before handover, are IAS 37 provisions at best estimate, except
-for any upgrade element (IFRIC 12.21).
+**Borrowing costs** are expensed as incurred **unless** the operator has a contractual right to an intangible asset, in which case IAS 23 capitalisation applies during the construction phase (IFRIC 12.22). Contractual obligations to maintain the infrastructure at a specified level of serviceability, or to restore it before handover, are IAS 37 provisions at best estimate, except for any upgrade element (IFRIC 12.21).
 
-**Status — IFRIC 12 is under IASB attention:** in the *Post-implementation Review of IFRS 15*
-feedback statement the IASB classified "applying IFRS 15 with IFRIC 12" as a **low-priority**
-matter and **decided to consider it in its next agenda consultation**, specifically the IFRIC 12
-requirements on contractual obligations to maintain or restore concession infrastructure and their
-link with revenue recognition. Stakeholders had asked for a comprehensive review to realign
-IFRIC 12 with IFRS 9, IFRS 15 and IFRS 17. Separately, **IFRS 20 *Regulatory Assets and Regulatory
-Liabilities*** (issued 27 May 2026, effective 1 January 2029) is applied **after** IFRIC 12: an
-entity first applies IFRIC 12 to the rights and obligations arising from a service concession, and
-then applies IFRS 20 to any remaining rights and obligations meeting the definitions of a
-regulatory asset or regulatory liability.
+**Status — IFRIC 12 is under IASB attention:** in the *Post-implementation Review of IFRS 15* feedback statement the IASB classified "applying IFRS 15 with IFRIC 12" as a **low-priority** matter and **decided to consider it in its next agenda consultation**, specifically the IFRIC 12 requirements on contractual obligations to maintain or restore concession infrastructure and their link with revenue recognition. Stakeholders had asked for a comprehensive review to realign IFRIC 12 with IFRS 9, IFRS 15 and IFRS 17. Separately, **IFRS 20 *Regulatory Assets and Regulatory Liabilities*** (issued 27 May 2026, effective 1 January 2029) is applied **after** IFRIC 12: an entity first applies IFRIC 12 to the rights and obligations arising from a service concession, and then applies IFRS 20 to any remaining rights and obligations meeting the definitions of a regulatory asset or regulatory liability.
 
 *Effective for annual periods beginning on or after 1 January 2008.*
 
@@ -3894,33 +3772,9 @@ regulatory asset or regulatory liability.
 
 **Attaches to:** IAS 19; disclosure interaction with IFRS 19.
 
-**Question answered:** When the economic benefit from a defined benefit surplus is "available" for
-the purposes of the IAS 19 asset ceiling, and how a minimum funding requirement (MFR) affects
-that availability.
+**Question answered:** When the economic benefit from a defined benefit surplus is "available" for the purposes of the IAS 19 asset ceiling, and how a minimum funding requirement (MFR) affects that availability.
 
-**Conclusion:** Availability is determined by the plan's terms and conditions and any statutory
-requirements in the plan's jurisdiction (IFRIC 14.7). A benefit is available if the entity can
-realise it **at some point during the life of the plan or on settlement of the plan liabilities** —
-it need not be realisable immediately at the reporting date (IFRIC 14.8), and availability does
-not depend on how the entity intends to use the surplus (IFRIC 14.9). A **refund** is available
-only where the entity has an *unconditional* right to it — during the life of the plan, on gradual
-settlement, or on wind-up (IFRIC 14.11); if the right depends on uncertain future events not
-wholly within the entity's control, no asset is recognised (IFRIC 14.12). The refund is measured
-as the surplus the entity has a right to receive, **less associated costs**, including any non-
-income tax on the refund (IFRIC 14.13), and, on wind-up, the plan's settlement and refund costs
-including professional fees and buy-out insurance premiums (IFRIC 14.14); no time-value discount
-is applied where the refund is a proportion of the surplus rather than a fixed amount
-(IFRIC 14.15). Absent an MFR for future service, the **contribution-reduction** benefit is the
-future service cost over the shorter of the expected life of the plan and of the entity, excluding
-amounts borne by employees (IFRIC 14.16), assuming a **stable workforce** unless the entity makes
-a reduction in covered employees (IFRIC 14.17). Where an MFR applies to future service, the
-benefit is any prepayment that reduces future MFR contributions **plus** the excess of estimated
-future service cost over the MFR contributions that would have been required absent the
-prepayment (IFRIC 14.20). MFR contributions covering an existing past-service shortfall do not
-reduce future contributions and may themselves create a liability (IFRIC 14.18–14.19). Disclose
-key sources of estimation uncertainty about the recognised net asset or liability, including
-restrictions on realisability (IFRIC 14.10); **an entity applying IFRS 19 makes those disclosures
-under IFRS 19 instead** (IFRIC 14.10 as amended).
+**Conclusion:** Availability is determined by the plan's terms and conditions and any statutory requirements in the plan's jurisdiction (IFRIC 14.7). A benefit is available if the entity can realise it **at some point during the life of the plan or on settlement of the plan liabilities** — it need not be realisable immediately at the reporting date (IFRIC 14.8), and availability does not depend on how the entity intends to use the surplus (IFRIC 14.9). A **refund** is available only where the entity has an *unconditional* right to it — during the life of the plan, on gradual settlement, or on wind-up (IFRIC 14.11); if the right depends on uncertain future events not wholly within the entity's control, no asset is recognised (IFRIC 14.12). The refund is measured as the surplus the entity has a right to receive, **less associated costs**, including any non- income tax on the refund (IFRIC 14.13), and, on wind-up, the plan's settlement and refund costs including professional fees and buy-out insurance premiums (IFRIC 14.14); no time-value discount is applied where the refund is a proportion of the surplus rather than a fixed amount (IFRIC 14.15). Absent an MFR for future service, the **contribution-reduction** benefit is the future service cost over the shorter of the expected life of the plan and of the entity, excluding amounts borne by employees (IFRIC 14.16), assuming a **stable workforce** unless the entity makes a reduction in covered employees (IFRIC 14.17). Where an MFR applies to future service, the benefit is any prepayment that reduces future MFR contributions **plus** the excess of estimated future service cost over the MFR contributions that would have been required absent the prepayment (IFRIC 14.20). MFR contributions covering an existing past-service shortfall do not reduce future contributions and may themselves create a liability (IFRIC 14.18–14.19). Disclose key sources of estimation uncertainty about the recognised net asset or liability, including restrictions on realisability (IFRIC 14.10); **an entity applying IFRS 19 makes those disclosures under IFRS 19 instead** (IFRIC 14.10 as amended).
 
 *Effective for annual periods beginning on or after 1 January 2008.*
 
@@ -3928,61 +3782,19 @@ under IFRS 19 instead** (IFRIC 14.10 as amended).
 
 **Attaches to:** IFRS 9 (or IAS 39 under the election), IAS 21.
 
-**Question answered:** Three points: the nature of the hedged risk and the amount that may be
-designated; which entity in the group may hold the hedging instrument; and what is reclassified to
-P&L on disposal of the hedged foreign operation.
+**Question answered:** Three points: the nature of the hedged risk and the amount that may be designated; which entity in the group may hold the hedging instrument; and what is reclassified to P&L on disposal of the hedged foreign operation.
 
-**Conclusion:** Hedge accounting applies **only** to the exchange difference between the functional
-currency of the foreign operation and the functional currency of a parent — never a presentation
-currency (IFRIC 16.10). The hedged item is an amount of net assets no greater than the carrying
-amount of the foreign operation's net assets in the parent's consolidated financial statements
-(IFRIC 16.11). The hedged risk may be designated against the functional currency of **any** parent
-in the chain — immediate, intermediate or ultimate (IFRIC 16.12). The same net assets may qualify
-**only once** in the consolidated financial statements; if a lower-level parent's hedge is not
-maintained by a higher-level parent, the lower-level hedge accounting must be reversed before the
-higher-level hedge is recognised (IFRIC 16.13). The hedging instrument may be a derivative, a
-non-derivative, or a combination, and **may be held by any entity in the group**, provided the
-IFRS 9.6.4.1 designation, documentation and effectiveness conditions for a net investment hedge
-are met; group hedging strategy should be clearly documented because of the possibility of
-different designations at different levels (IFRIC 16.14). Effectiveness is measured against the
-functional currency of the parent whose functional currency defines the hedged risk, and is not
-affected by whether the instrument's change in value would otherwise sit in P&L or OCI, nor by
-whether the instrument is a derivative, nor by the consolidation method (IFRIC 16.15). On
-disposal, the amount reclassified in respect of the **hedging instrument** is the cumulative
-effective gain or loss identified under IFRS 9.6.5.14 (IFRIC 16.16); the amount reclassified in
-respect of the **net investment** is the amount in that parent's foreign currency translation
-reserve for that foreign operation under IAS 21.48. Whether the ultimate parent uses the direct or
-step-by-step consolidation method may change that amount for an individual foreign operation;
-adjusting to the direct-method outcome is **not required by IAS 21** but is an accounting policy
-choice to be applied consistently to all net investments (IFRIC 16.17).
+**Conclusion:** Hedge accounting applies **only** to the exchange difference between the functional currency of the foreign operation and the functional currency of a parent — never a presentation currency (IFRIC 16.10). The hedged item is an amount of net assets no greater than the carrying amount of the foreign operation's net assets in the parent's consolidated financial statements (IFRIC 16.11). The hedged risk may be designated against the functional currency of **any** parent in the chain — immediate, intermediate or ultimate (IFRIC 16.12). The same net assets may qualify **only once** in the consolidated financial statements; if a lower-level parent's hedge is not maintained by a higher-level parent, the lower-level hedge accounting must be reversed before the higher-level hedge is recognised (IFRIC 16.13). The hedging instrument may be a derivative, a non-derivative, or a combination, and **may be held by any entity in the group**, provided the IFRS 9.6.4.1 designation, documentation and effectiveness conditions for a net investment hedge are met; group hedging strategy should be clearly documented because of the possibility of different designations at different levels (IFRIC 16.14). Effectiveness is measured against the functional currency of the parent whose functional currency defines the hedged risk, and is not affected by whether the instrument's change in value would otherwise sit in P&L or OCI, nor by whether the instrument is a derivative, nor by the consolidation method (IFRIC 16.15). On disposal, the amount reclassified in respect of the **hedging instrument** is the cumulative effective gain or loss identified under IFRS 9.6.5.14 (IFRIC 16.16); the amount reclassified in respect of the **net investment** is the amount in that parent's foreign currency translation reserve for that foreign operation under IAS 21.48. Whether the ultimate parent uses the direct or step-by-step consolidation method may change that amount for an individual foreign operation; adjusting to the direct-method outcome is **not required by IAS 21** but is an accounting policy choice to be applied consistently to all net investments (IFRIC 16.17).
 
-*Effective for annual periods beginning on or after 1 October 2008 (amendment to paragraph 14 from
-1 July 2009).*
-*Note:* an entity that elects to continue applying the IAS 39 hedge accounting requirements
-instead of IFRS 9 Chapter 6 applies IFRIC 16 **without** the IFRS 9 amendments.
+*Effective for annual periods beginning on or after 1 October 2008 (amendment to paragraph 14 from 1 July 2009).* *Note:* an entity that elects to continue applying the IAS 39 hedge accounting requirements instead of IFRS 9 Chapter 6 applies IFRIC 16 **without** the IFRS 9 amendments.
 
 ### IFRIC 17 — Distributions of Non-cash Assets to Owners
 
 **Attaches to:** IAS 10, IFRS 13, IFRS 5, IFRS 18.
 
-**Question answered:** When to recognise, and how to measure, a liability for a dividend payable in
-non-cash assets, and how to account for the difference on settlement.
+**Question answered:** When to recognise, and how to measure, a liability for a dividend payable in non-cash assets, and how to account for the difference on settlement.
 
-**Conclusion:** The dividend liability is recognised when the dividend is **appropriately
-authorised and no longer at the entity's discretion** — the date of shareholder approval where the
-jurisdiction requires it, otherwise the date of declaration by management or the board
-(IFRIC 17.10). It is measured at the **fair value of the assets to be distributed**
-(IFRIC 17.11); where owners may elect cash instead, the entity estimates the dividend by weighting
-the fair value of each alternative by the probability of election (IFRIC 17.12). The liability is
-remeasured at each reporting date and at settlement, with **changes recognised in equity** as
-adjustments to the amount of the distribution (IFRIC 17.13). On settlement, the difference between
-the carrying amount of the assets distributed and the carrying amount of the dividend payable goes
-to **P&L** (IFRIC 17.14) and is presented as a **separate line item** (IFRIC 17.15). Disclose the
-opening and closing carrying amount of the dividend payable and the movement from fair value
-remeasurement (IFRIC 17.16); for a dividend declared after the reporting date but before
-authorisation of the financial statements, disclose the nature of the asset, its carrying amount at
-the reporting date, and its fair value at that date if different, with the IFRS 13.93(b), (d), (g),
-(i) and 99 valuation-method information (IFRIC 17.17).
+**Conclusion:** The dividend liability is recognised when the dividend is **appropriately authorised and no longer at the entity's discretion** — the date of shareholder approval where the jurisdiction requires it, otherwise the date of declaration by management or the board (IFRIC 17.10). It is measured at the **fair value of the assets to be distributed** (IFRIC 17.11); where owners may elect cash instead, the entity estimates the dividend by weighting the fair value of each alternative by the probability of election (IFRIC 17.12). The liability is remeasured at each reporting date and at settlement, with **changes recognised in equity** as adjustments to the amount of the distribution (IFRIC 17.13). On settlement, the difference between the carrying amount of the assets distributed and the carrying amount of the dividend payable goes to **P&L** (IFRIC 17.14) and is presented as a **separate line item** (IFRIC 17.15). Disclose the opening and closing carrying amount of the dividend payable and the movement from fair value remeasurement (IFRIC 17.16); for a dividend declared after the reporting date but before authorisation of the financial statements, disclose the nature of the asset, its carrying amount at the reporting date, and its fair value at that date if different, with the IFRS 13.93(b), (d), (g), (i) and 99 valuation-method information (IFRIC 17.17).
 
 *IFRS 18 amended paragraph 2 (scope).*
 
@@ -3990,24 +3802,9 @@ the reporting date, and its fair value at that date if different, with the IFRS 
 
 **Attaches to:** IFRS 9, IAS 32, IFRS 13, IFRS 18.
 
-**Question answered:** How a debtor accounts for the issue of its own equity instruments to a
-creditor in full or part settlement of a financial liability ("debt-for-equity swap").
+**Question answered:** How a debtor accounts for the issue of its own equity instruments to a creditor in full or part settlement of a financial liability ("debt-for-equity swap").
 
-**Conclusion:** The equity issued is **consideration paid** for IFRS 9.3.3.3 purposes, and the
-liability is derecognised when — and only when — it is extinguished under IFRS 9.3.3.1
-(IFRIC 19.5). The equity instruments are measured on initial recognition at **their own fair
-value**, unless that cannot be reliably measured, in which case they are measured to reflect the
-fair value of the liability extinguished (IFRIC 19.6–19.7); in measuring the fair value of an
-extinguished liability containing a demand feature, **the IFRS 13.47 demand floor is not applied**
-(IFRIC 19.7). The difference between the carrying amount of the liability extinguished and the
-consideration paid goes to **P&L**, and the equity is recognised at the extinguishment date
-(IFRIC 19.9). Where only part of the liability is extinguished, the entity must assess whether some
-of the consideration relates to a **modification of the surviving portion** and allocate
-accordingly on all relevant facts and circumstances (IFRIC 19.8); the consideration allocated to
-the remaining liability feeds the substantial-modification test, and if that test is met the entity
-accounts for extinguishment of the old liability and recognition of a new one under IFRS 9.3.3.2
-(IFRIC 19.10). Present the gain or loss as a separate line item in the statement of profit or loss
-**or disclose it in the notes** (IFRIC 19.11 as amended by IFRS 18).
+**Conclusion:** The equity issued is **consideration paid** for IFRS 9.3.3.3 purposes, and the liability is derecognised when — and only when — it is extinguished under IFRS 9.3.3.1 (IFRIC 19.5). The equity instruments are measured on initial recognition at **their own fair value**, unless that cannot be reliably measured, in which case they are measured to reflect the fair value of the liability extinguished (IFRIC 19.6–19.7); in measuring the fair value of an extinguished liability containing a demand feature, **the IFRS 13.47 demand floor is not applied** (IFRIC 19.7). The difference between the carrying amount of the liability extinguished and the consideration paid goes to **P&L**, and the equity is recognised at the extinguishment date (IFRIC 19.9). Where only part of the liability is extinguished, the entity must assess whether some of the consideration relates to a **modification of the surviving portion** and allocate accordingly on all relevant facts and circumstances (IFRIC 19.8); the consideration allocated to the remaining liability feeds the substantial-modification test, and if that test is met the entity accounts for extinguishment of the old liability and recognition of a new one under IFRS 9.3.3.2 (IFRIC 19.10). Present the gain or loss as a separate line item in the statement of profit or loss **or disclose it in the notes** (IFRIC 19.11 as amended by IFRS 18).
 
 *Effective for annual periods beginning on or after 1 July 2010.*
 
@@ -4015,28 +3812,9 @@ accounts for extinguishment of the old liability and recognition of a new one un
 
 **Attaches to:** IAS 2, IAS 16, IAS 38, IAS 36.
 
-**Question answered:** How to account for waste removal (stripping) costs incurred in surface
-mining during the **production** phase (IFRIC 20.6) — pre-production stripping is not addressed.
+**Question answered:** How to account for waste removal (stripping) costs incurred in surface mining during the **production** phase (IFRIC 20.6) — pre-production stripping is not addressed.
 
-**Conclusion:** Split the benefit. To the extent the benefit is **inventory produced**, apply IAS 2
-(IFRIC 20.8). To the extent it is **improved access to ore**, recognise a non-current "stripping
-activity asset", but only if all three criteria are met: probable future economic benefit from the
-improved access; the entity can **identify the component of the ore body** for which access has
-improved; and the costs for that component can be measured reliably (IFRIC 20.9). The stripping
-activity asset is accounted for as an **addition to or enhancement of an existing asset**, not a
-standalone asset (IFRIC 20.10), and takes its tangible/intangible classification from that existing
-asset (IFRIC 20.11). Initial measurement is at cost — costs directly incurred plus an allocation of
-directly attributable overheads, excluding costs of incidental operations not necessary for the
-stripping activity (IFRIC 20.12). Where inventory and asset costs are not separately identifiable,
-allocate using a **relevant production measure** computed for the identified component — e.g. cost
-of inventory produced versus expected cost, waste volume extracted versus expected, or mineral
-content versus expected (IFRIC 20.13). Subsequently carried at cost or revalued amount less
-depreciation/amortisation and impairment, on the same basis as the existing asset (IFRIC 20.14),
-and **amortised over the expected useful life of the identified component**, using units of
-production unless another method is more appropriate (IFRIC 20.15). That component life will
-normally be **shorter than the life-of-mine** used for the mine and life-of-mine assets, except
-where the stripping improves access to the whole remaining ore body — typically only near end of
-mine life (IFRIC 20.16).
+**Conclusion:** Split the benefit. To the extent the benefit is **inventory produced**, apply IAS 2 (IFRIC 20.8). To the extent it is **improved access to ore**, recognise a non-current "stripping activity asset", but only if all three criteria are met: probable future economic benefit from the improved access; the entity can **identify the component of the ore body** for which access has improved; and the costs for that component can be measured reliably (IFRIC 20.9). The stripping activity asset is accounted for as an **addition to or enhancement of an existing asset**, not a standalone asset (IFRIC 20.10), and takes its tangible/intangible classification from that existing asset (IFRIC 20.11). Initial measurement is at cost — costs directly incurred plus an allocation of directly attributable overheads, excluding costs of incidental operations not necessary for the stripping activity (IFRIC 20.12). Where inventory and asset costs are not separately identifiable, allocate using a **relevant production measure** computed for the identified component — e.g. cost of inventory produced versus expected cost, waste volume extracted versus expected, or mineral content versus expected (IFRIC 20.13). Subsequently carried at cost or revalued amount less depreciation/amortisation and impairment, on the same basis as the existing asset (IFRIC 20.14), and **amortised over the expected useful life of the identified component**, using units of production unless another method is more appropriate (IFRIC 20.15). That component life will normally be **shorter than the life-of-mine** used for the mine and life-of-mine assets, except where the stripping improves access to the whole remaining ore body — typically only near end of mine life (IFRIC 20.16).
 
 *Effective for annual periods beginning on or after 1 January 2013 (IFRIC 20 Appendix A, A1).*
 
@@ -4044,45 +3822,19 @@ mine life (IFRIC 20.16).
 
 **Attaches to:** IAS 37, IAS 34.
 
-**Question answered:** When a liability to pay a government-imposed levy within the scope of IAS 37
-is recognised, including levies whose timing and amount are certain (IFRIC 21.2). It does **not**
-address whether the debit is an asset or an expense — other Standards decide that (IFRIC 21.3).
+**Question answered:** When a liability to pay a government-imposed levy within the scope of IAS 37 is recognised, including levies whose timing and amount are certain (IFRIC 21.2). It does **not** address whether the debit is an asset or an expense — other Standards decide that (IFRIC 21.3).
 
-**Conclusion:** The obligating event is **the activity that triggers payment of the levy, as
-identified by the legislation** (IFRIC 21.8). Where the levy is calculated on a prior period's
-revenue but triggered by generating revenue in the current period, the current-period revenue
-generation is the obligating event; the earlier period's revenue is necessary but not sufficient
-(IFRIC 21.8). Economic compulsion to continue operating does **not** create a constructive
-obligation for a future-period levy (IFRIC 21.9), and the going concern assumption does not imply a
-present obligation for such a levy (IFRIC 21.10). Where the obligating event occurs **over time**,
-the liability is recognised **progressively** (IFRIC 21.11); where it is the reaching of a
-**minimum threshold**, the liability is recognised when that threshold is reached (IFRIC 21.12).
-The same recognition principles apply in interim reports as in annual financial statements —
-no liability at an interim date if no present obligation exists then (IFRIC 21.13). A levy prepaid
-before the present obligation arises is recognised as an **asset** (IFRIC 21.14).
+**Conclusion:** The obligating event is **the activity that triggers payment of the levy, as identified by the legislation** (IFRIC 21.8). Where the levy is calculated on a prior period's revenue but triggered by generating revenue in the current period, the current-period revenue generation is the obligating event; the earlier period's revenue is necessary but not sufficient (IFRIC 21.8). Economic compulsion to continue operating does **not** create a constructive obligation for a future-period levy (IFRIC 21.9), and the going concern assumption does not imply a present obligation for such a levy (IFRIC 21.10). Where the obligating event occurs **over time**, the liability is recognised **progressively** (IFRIC 21.11); where it is the reaching of a **minimum threshold**, the liability is recognised when that threshold is reached (IFRIC 21.12). The same recognition principles apply in interim reports as in annual financial statements — no liability at an interim date if no present obligation exists then (IFRIC 21.13). A levy prepaid before the present obligation arises is recognised as an **asset** (IFRIC 21.14).
 
-*Effective for annual periods beginning on or after 1 January 2014 (IFRIC 21 Appendix A, A1).*
-*Practice note:* IFRIC 21's timing rule is the reason many annual levies (bank levies, property
-levies triggered at a point in time) hit a single interim period in full rather than accruing
-evenly.
+*Effective for annual periods beginning on or after 1 January 2014 (IFRIC 21 Appendix A, A1).* *Practice note:* IFRIC 21's timing rule is the reason many annual levies (bank levies, property levies triggered at a point in time) hit a single interim period in full rather than accruing evenly.
 
 ### IFRIC 22 — Foreign Currency Transactions and Advance Consideration
 
 **Attaches to:** IAS 21, IFRS 15.
 
-**Question answered:** Which exchange rate to use when advance consideration is paid or received in
-a foreign currency and a non-monetary prepayment asset or deferred income liability is recognised
-before the related asset, expense or income (IFRIC 22.4).
+**Question answered:** Which exchange rate to use when advance consideration is paid or received in a foreign currency and a non-monetary prepayment asset or deferred income liability is recognised before the related asset, expense or income (IFRIC 22.4).
 
-**Conclusion:** The **date of the transaction** for IAS 21.21–22 purposes is the date on which the
-entity initially recognises the **non-monetary asset or non-monetary liability arising from the
-advance payment or receipt** — not the later date on which the related asset, expense or income is
-recognised (IFRIC 22.8). Where there are multiple advance payments or receipts, a **separate date
-of transaction is determined for each** (IFRIC 22.9) — in practice this requires layer-by-layer
-tracking of deposits and instalments. The Interpretation does not apply where the related item is
-measured on initial recognition at fair value, or at the fair value of consideration paid or
-received at a date other than the date of initial recognition of the non-monetary item (e.g.
-goodwill under IFRS 3) (IFRIC 22.5), and need not be applied to income taxes (IFRIC 22.6).
+**Conclusion:** The **date of the transaction** for IAS 21.21–22 purposes is the date on which the entity initially recognises the **non-monetary asset or non-monetary liability arising from the advance payment or receipt** — not the later date on which the related asset, expense or income is recognised (IFRIC 22.8). Where there are multiple advance payments or receipts, a **separate date of transaction is determined for each** (IFRIC 22.9) — in practice this requires layer-by-layer tracking of deposits and instalments. The Interpretation does not apply where the related item is measured on initial recognition at fair value, or at the fair value of consideration paid or received at a date other than the date of initial recognition of the non-monetary item (e.g. goodwill under IFRS 3) (IFRIC 22.5), and need not be applied to income taxes (IFRIC 22.6).
 
 *Effective for annual reporting periods beginning on or after 1 January 2018.*
 
@@ -4090,51 +3842,19 @@ goodwill under IFRS 3) (IFRIC 22.5), and need not be applied to income taxes (IF
 
 **Attaches to:** IAS 12, IAS 8, IAS 10, IFRS 18.
 
-**Question answered:** How to recognise and measure current and deferred tax when there is
-uncertainty over whether a taxation authority will accept a tax treatment.
+**Question answered:** How to recognise and measure current and deferred tax when there is uncertainty over whether a taxation authority will accept a tax treatment.
 
-**Conclusion:** **Unit of account** — the entity decides whether to consider each uncertain tax
-treatment separately or as a group, on the basis of which approach **better predicts the resolution
-of the uncertainty**, considering how it prepares its filings and how the authority is expected to
-examine and resolve issues (IFRIC 23.6–23.7). **Detection risk is ignored:** the entity assumes the
-authority will examine everything it has a right to examine and will have full knowledge of all
-related information (IFRIC 23.8). **Recognition threshold** — the entity assesses whether it is
-**probable** that the authority will accept the treatment (IFRIC 23.9). If probable, taxable
-profit, tax bases, unused losses and credits and tax rates are determined consistently with the
-filing position (IFRIC 23.10). If not probable, the effect of the uncertainty is reflected using
-either the **most likely amount** (better where outcomes are binary or concentrated on one value)
-or the **expected value** — the probability-weighted sum of a range of outcomes (better where
-outcomes are neither binary nor concentrated) — whichever better predicts resolution
-(IFRIC 23.11). Where an uncertain treatment affects both current and deferred tax, judgements and
-estimates must be **consistent across both** (IFRIC 23.12). **Reassessment** is required whenever
-facts and circumstances change or new information arrives (IFRIC 23.13); the effect is a **change
-in accounting estimate** under IAS 8 (IFRIC 23.14), and IAS 10 determines whether a post-reporting-
-date change is adjusting or non-adjusting (IFRIC 23.14). Disclosure requirements for uncertainty
-over income tax treatments are in IFRIC 23 Appendix A, paragraphs A4–A5.
+**Conclusion:** **Unit of account** — the entity decides whether to consider each uncertain tax treatment separately or as a group, on the basis of which approach **better predicts the resolution of the uncertainty**, considering how it prepares its filings and how the authority is expected to examine and resolve issues (IFRIC 23.6–23.7). **Detection risk is ignored:** the entity assumes the authority will examine everything it has a right to examine and will have full knowledge of all related information (IFRIC 23.8). **Recognition threshold** — the entity assesses whether it is **probable** that the authority will accept the treatment (IFRIC 23.9). If probable, taxable profit, tax bases, unused losses and credits and tax rates are determined consistently with the filing position (IFRIC 23.10). If not probable, the effect of the uncertainty is reflected using either the **most likely amount** (better where outcomes are binary or concentrated on one value) or the **expected value** — the probability-weighted sum of a range of outcomes (better where outcomes are neither binary nor concentrated) — whichever better predicts resolution (IFRIC 23.11). Where an uncertain treatment affects both current and deferred tax, judgements and estimates must be **consistent across both** (IFRIC 23.12). **Reassessment** is required whenever facts and circumstances change or new information arrives (IFRIC 23.13); the effect is a **change in accounting estimate** under IAS 8 (IFRIC 23.14), and IAS 10 determines whether a post-reporting- date change is adjusting or non-adjusting (IFRIC 23.14). Disclosure requirements for uncertainty over income tax treatments are in IFRIC 23 Appendix A, paragraphs A4–A5.
 
-*Effective for annual reporting periods beginning on or after 1 January 2019. IFRS 18 amended
-paragraphs 14 and A4.*
-*Presentation note:* the September 2019 agenda decision *Presentation of Liabilities or Assets
-Related to Uncertain Tax Treatments (IAS 1)* is **being withdrawn from 1 January 2027**; its full
-text has been reproduced after **IFRS 18.103(q)**, which is where the presentation requirement now
-lives.
+*Effective for annual reporting periods beginning on or after 1 January 2019. IFRS 18 amended paragraphs 14 and A4.* *Presentation note:* the September 2019 agenda decision *Presentation of Liabilities or Assets Related to Uncertain Tax Treatments (IAS 1)* is **being withdrawn from 1 January 2027**; its full text has been reproduced after **IFRS 18.103(q)**, which is where the presentation requirement now lives.
 
 ### SIC-7 — Introduction of the Euro
 
 **Attaches to:** IAS 21.
 
-**Question answered:** How IAS 21 applies to the changeover from a participating national currency
-to the euro on entry into Economic and Monetary Union (SIC-7.2).
+**Question answered:** How IAS 21 applies to the changeover from a participating national currency to the euro on entry into Economic and Monetary Union (SIC-7.2).
 
-**Conclusion:** IAS 21 is applied **strictly**, with no special treatment for the changeover, and
-the same rationale applies to countries joining EMU at later stages (SIC-7.3). Specifically:
-foreign currency monetary items continue to be translated at the closing rate with exchange
-differences to P&L immediately, except that an existing policy for exchange gains and losses on
-hedges of forecast transactions continues; cumulative translation differences on foreign operations
-remain in OCI and are reclassified to P&L **only** on disposal or partial disposal of the net
-investment; and exchange differences on liabilities denominated in participating currencies **must
-not** be capitalised into the carrying amount of related assets (SIC-7.4). *Still live and still
-relevant:* it governs each new euro accession, not only the 1999 cohort.
+**Conclusion:** IAS 21 is applied **strictly**, with no special treatment for the changeover, and the same rationale applies to countries joining EMU at later stages (SIC-7.3). Specifically: foreign currency monetary items continue to be translated at the closing rate with exchange differences to P&L immediately, except that an existing policy for exchange gains and losses on hedges of forecast transactions continues; cumulative translation differences on foreign operations remain in OCI and are reclassified to P&L **only** on disposal or partial disposal of the net investment; and exchange differences on liabilities denominated in participating currencies **must not** be capitalised into the carrying amount of related assets (SIC-7.4). *Still live and still relevant:* it governs each new euro accession, not only the 1999 cohort.
 
 *Effective 1 June 1998. Date of consensus October 1997.*
 
@@ -4142,15 +3862,9 @@ relevant:* it governs each new euro accession, not only the 1999 cohort.
 
 **Attaches to:** IAS 20.
 
-**Question answered:** Whether government assistance carrying no conditions specifically related to
-an entity's operating activities — for example assistance for operating in a particular industry,
-continuing in a recently privatised industry, or operating in an underdeveloped area — is a
-government grant within IAS 20 (SIC-10.1–10.2).
+**Question answered:** Whether government assistance carrying no conditions specifically related to an entity's operating activities — for example assistance for operating in a particular industry, continuing in a recently privatised industry, or operating in an underdeveloped area — is a government grant within IAS 20 (SIC-10.1–10.2).
 
-**Conclusion:** **Yes.** Such assistance meets the IAS 20 definition of a government grant even
-where the only condition is to operate in a certain region or industry sector, and it therefore
-**must not be credited directly to shareholders' interests** — it goes through IAS 20's income
-recognition mechanics (SIC-10.3).
+**Conclusion:** **Yes.** Such assistance meets the IAS 20 definition of a government grant even where the only condition is to operate in a certain region or industry sector, and it therefore **must not be credited directly to shareholders' interests** — it goes through IAS 20's income recognition mechanics (SIC-10.3).
 
 *Effective 1 August 1998. Date of consensus January 1998.*
 
@@ -4158,78 +3872,33 @@ recognition mechanics (SIC-10.3).
 
 **Attaches to:** IAS 12.
 
-**Question answered:** How to account for the current and deferred tax consequences of a change in
-the tax status of the entity or of its shareholders — for example on listing, on a restructuring
-of equity, or on a controlling shareholder moving to another country (SIC-25.1–25.3).
+**Question answered:** How to account for the current and deferred tax consequences of a change in the tax status of the entity or of its shareholders — for example on listing, on a restructuring of equity, or on a controlling shareholder moving to another country (SIC-25.1–25.3).
 
-**Conclusion:** A change in tax status **does not of itself give rise to amounts recognised outside
-profit or loss**. The current and deferred tax consequences go to **P&L for the period**, unless
-they relate to transactions or events that resulted (in the same or a different period) in a direct
-charge or credit to equity, or in amounts recognised in OCI — in which case the tax follows the
-item to equity or to OCI (SIC-25.4). *In practice this is the "backwards tracing" rule for
-status changes*, and it is a frequent audit finding on IPO-related deferred tax remeasurements.
+**Conclusion:** A change in tax status **does not of itself give rise to amounts recognised outside profit or loss**. The current and deferred tax consequences go to **P&L for the period**, unless they relate to transactions or events that resulted (in the same or a different period) in a direct charge or credit to equity, or in amounts recognised in OCI — in which case the tax follows the item to equity or to OCI (SIC-25.4). *In practice this is the "backwards tracing" rule for status changes*, and it is a frequent audit finding on IPO-related deferred tax remeasurements.
 
 *Effective 15 July 2000. Date of consensus August 1999.*
 
 ### SIC-29 — Service Concession Arrangements: Disclosures
 
-**Attaches to:** IFRIC 12 (which contains no disclosure requirements of its own — IFRIC 12.10).
-Applies to **both** the operator **and the grantor**.
+**Attaches to:** IFRIC 12 (which contains no disclosure requirements of its own — IFRIC 12.10). Applies to **both** the operator **and the grantor**.
 
-**Conclusion:** In each period, disclose: a description of the arrangement; significant terms that
-may affect the amount, timing and certainty of future cash flows (concession period, re-pricing
-dates, and the basis on which re-pricing or renegotiation is determined); the nature and extent of
-rights to use specified assets, obligations to provide or rights to expect services, obligations to
-acquire or build PP&E, obligations to deliver or rights to receive specified assets at the end of
-the concession, renewal and termination options, and other rights and obligations such as major
-overhauls; changes in the arrangement during the period; and how the arrangement has been
-classified (SIC-29.6). The **operator** additionally discloses revenue and profit or loss
-recognised in the period on exchanging construction services for a financial asset or an intangible
-asset (SIC-29.6A). Disclosures may be given per arrangement or in aggregate per **class** — a
-grouping of arrangements involving services of a similar nature, e.g. toll collection,
-telecommunications, water treatment (SIC-29.7).
+**Conclusion:** In each period, disclose: a description of the arrangement; significant terms that may affect the amount, timing and certainty of future cash flows (concession period, re-pricing dates, and the basis on which re-pricing or renegotiation is determined); the nature and extent of rights to use specified assets, obligations to provide or rights to expect services, obligations to acquire or build PP&E, obligations to deliver or rights to receive specified assets at the end of the concession, renewal and termination options, and other rights and obligations such as major overhauls; changes in the arrangement during the period; and how the arrangement has been classified (SIC-29.6). The **operator** additionally discloses revenue and profit or loss recognised in the period on exchanging construction services for a financial asset or an intangible asset (SIC-29.6A). Disclosures may be given per arrangement or in aggregate per **class** — a grouping of arrangements involving services of a similar nature, e.g. toll collection, telecommunications, water treatment (SIC-29.7).
 
-*Effective 31 December 2001. Date of consensus May 2001.*
-*Common pitfall:* preparers frequently give IFRIC 12 recognition and measurement in full and then
-omit SIC-29 entirely, or give it only for the operator. **The grantor is equally in scope.**
+*Effective 31 December 2001. Date of consensus May 2001.* *Common pitfall:* preparers frequently give IFRIC 12 recognition and measurement in full and then omit SIC-29 entirely, or give it only for the operator. **The grantor is equally in scope.**
 
 ### SIC-32 — Intangible Assets—Web Site Costs
 
 **Attaches to:** IAS 38, IAS 16, IFRS 18.
 
-**Question answered:** Whether and when an entity's own web site, developed for internal or external
-access, is an internally generated intangible asset.
+**Question answered:** Whether and when an entity's own web site, developed for internal or external access, is an internally generated intangible asset.
 
-**Conclusion:** A web site arising from development is an internally generated intangible asset
-subject to IAS 38 (SIC-32.7). It is recognised **only if** it meets the general IAS 38.21
-recognition and initial measurement criteria **and** the IAS 38.57 internal development criteria —
-in particular IAS 38.57(d), demonstrating probable future economic benefits, which an entity can do
-where the site is capable of generating revenue such as direct order-taking. **An entity cannot
-demonstrate probable future economic benefits for a site developed solely or primarily to promote
-and advertise its own products and services, and all such development expenditure is expensed as
-incurred** (SIC-32.8). Stage by stage (SIC-32.9): the **Planning** stage is akin to the IAS 38
-research phase and is expensed; the **Application and Infrastructure Development, Graphical Design
-and Content Development** stages are akin to the development phase and are capitalised where
-directly attributable and necessary to make the site capable of operating as management intends —
-but expenditure previously recognised as an expense **cannot be resurrected as an asset later**
-(IAS 38.71); **Content developed to advertise or promote the entity's own products** (e.g. digital
-product photography) is expensed as the professional services are received under IAS 38.69(c), not
-when the images go live; and the **Operating** stage is expensed unless the IAS 38.18 criteria are
-met. A capitalised site is measured after recognition under IAS 38.72–87, and **the best estimate
-of its useful life should be short** (SIC-32.10). Hardware — web servers, staging and production
-servers, internet connections — is outside scope and falls under IAS 16, and ISP hosting fees are
-expensed as the services are received (SIC-32.5; the reference in SIC-32.5 was updated by IFRS 18
-to point at **IFRS 18.46** and the *Conceptual Framework*).
+**Conclusion:** A web site arising from development is an internally generated intangible asset subject to IAS 38 (SIC-32.7). It is recognised **only if** it meets the general IAS 38.21 recognition and initial measurement criteria **and** the IAS 38.57 internal development criteria — in particular IAS 38.57(d), demonstrating probable future economic benefits, which an entity can do where the site is capable of generating revenue such as direct order-taking. **An entity cannot demonstrate probable future economic benefits for a site developed solely or primarily to promote and advertise its own products and services, and all such development expenditure is expensed as incurred** (SIC-32.8). Stage by stage (SIC-32.9): the **Planning** stage is akin to the IAS 38 research phase and is expensed; the **Application and Infrastructure Development, Graphical Design and Content Development** stages are akin to the development phase and are capitalised where directly attributable and necessary to make the site capable of operating as management intends — but expenditure previously recognised as an expense **cannot be resurrected as an asset later** (IAS 38.71); **Content developed to advertise or promote the entity's own products** (e.g. digital product photography) is expensed as the professional services are received under IAS 38.69(c), not when the images go live; and the **Operating** stage is expensed unless the IAS 38.18 criteria are met. A capitalised site is measured after recognition under IAS 38.72–87, and **the best estimate of its useful life should be short** (SIC-32.10). Hardware — web servers, staging and production servers, internet connections — is outside scope and falls under IAS 16, and ISP hosting fees are expensed as the services are received (SIC-32.5; the reference in SIC-32.5 was updated by IFRS 18 to point at **IFRS 18.46** and the *Conceptual Framework*).
 
-*Effective 25 March 2002. Date of consensus May 2001.*
-*Practice note:* SIC-32 is the natural analogue for the April 2021 cloud-computing agenda decision
-(see *IFRS Interpretations Committee Agenda Decisions* below) — SIC-32 governs a site the entity controls; the agenda decision governs configuration
-of software it does not.
+*Effective 25 March 2002. Date of consensus May 2001.* *Practice note:* SIC-32 is the natural analogue for the April 2021 cloud-computing agenda decision (see *IFRS Interpretations Committee Agenda Decisions* below) — SIC-32 governs a site the entity controls; the agenda decision governs configuration of software it does not.
 
 ### Withdrawn Interpretations — do not cite these as live
 
-Each entry below is evidenced by an explicit supersession or withdrawal statement in the named
-primary document, not by inference from a missing file.
+Each entry below is evidenced by an explicit supersession or withdrawal statement in the named primary document, not by inference from a missing file.
 
 | Interpretation | Withdrawn / superseded by | Sourced from |
 |---|---|---|
@@ -4248,21 +3917,14 @@ primary document, not by inference from a missing file.
 | **SIC-27** *Evaluating the Substance of Transactions Involving the Legal Form of a Lease* | IFRS 16 | IFRS 16 **C21(d)** |
 | **SIC-31** *Revenue—Barter Transactions Involving Advertising Services* | IFRS 15 | IFRS 15 **C10(f)** |
 
-Note that IFRS 16.C21 and IFRS 15.C10 also supersede **IAS 17** and **IAS 11 / IAS 18**
-respectively, and that IFRS 16 transition (C5–C18) still refers to contracts "previously identified
-as leases applying IAS 17 and IFRIC 4" — so a legacy IFRIC 4 reference in a transition note is
-correct in context and should not be edited away.
+Note that IFRS 16.C21 and IFRS 15.C10 also supersede **IAS 17** and **IAS 11 / IAS 18** respectively, and that IFRS 16 transition (C5–C18) still refers to contracts "previously identified as leases applying IAS 17 and IFRIC 4" — so a legacy IFRIC 4 reference in a transition note is correct in context and should not be edited away.
 
 
 ---
 
 ## IFRS Interpretations Committee Agenda Decisions
 
-**What an agenda decision is, and how binding it is.** When the Committee decides not to add a
-standard-setting project in response to a submitted application question, it publishes an **agenda
-decision** explaining why. Most agenda decisions include **explanatory material** explaining how
-the existing principles and requirements apply to the fact pattern described. The Committee's own
-framing, reproduced in every compilation volume, is precise and worth quoting exactly:
+**What an agenda decision is, and how binding it is.** When the Committee decides not to add a standard-setting project in response to a submitted application question, it publishes an **agenda decision** explaining why. Most agenda decisions include **explanatory material** explaining how the existing principles and requirements apply to the fact pattern described. The Committee's own framing, reproduced in every compilation volume, is precise and worth quoting exactly:
 
 > Agenda decisions (including any explanatory material contained within them) cannot add or change
 > requirements in IFRS Standards. Instead, explanatory material explains how the applicable
@@ -4275,34 +3937,17 @@ framing, reproduced in every compilation volume, is precise and worth quoting ex
 > — *Compilation of Agenda Decisions, Volume 4* (October 2020–March 2021), Introduction
 
 **The practical consequences of that framing:**
-- An agenda decision is **not** a new requirement and is not endorsed by the EU or UK — but it is
-  not optional either, because its authority derives from the Standard it explains.
-- A change in accounting arising from an agenda decision is generally a **voluntary change in
-  accounting policy** under IAS 8, applied retrospectively, not a correction of an error.
+- An agenda decision is **not** a new requirement and is not endorsed by the EU or UK — but it is not optional either, because its authority derives from the Standard it explains.
+- A change in accounting arising from an agenda decision is generally a **voluntary change in accounting policy** under IAS 8, applied retrospectively, not a correction of an error.
 - The Committee explicitly allows an entity **sufficient time to implement** the accounting.
-- A tentative agenda decision is exposed for comment, normally 60 days, and is published only if
-  no more than three IASB members object.
-- **Agenda decisions can be withdrawn**, and several have been (see below). A withdrawn agenda
-  decision must not be relied on after its withdrawal date.
+- A tentative agenda decision is exposed for comment, normally 60 days, and is published only if no more than three IASB members object.
+- **Agenda decisions can be withdrawn**, and several have been (see below). A withdrawn agenda decision must not be relied on after its withdrawal date.
 
-**Where to find them.** Individual decisions are on the ifrs.org agenda-decisions pages; they are
-consolidated in the *Compilation of Agenda Decisions* volumes (Volume 1, Jan–Sep 2019, through
-Volume 14, Nov 2025–Apr 2026). The Committee's deliberations are in **IFRIC Update**.
+**Where to find them.** Individual decisions are on the ifrs.org agenda-decisions pages; they are consolidated in the *Compilation of Agenda Decisions* volumes (Volume 1, Jan–Sep 2019, through Volume 14, Nov 2025–Apr 2026). The Committee's deliberations are in **IFRIC Update**.
 
-**They are also embedded in the standards themselves.** The full text of each agenda decision is
-reproduced as an annotation in the affected standard's own text, **positioned at the paragraph it
-bears on**. In the HTML editions these appear as `E1`, `E2`, … markers immediately after the
-relevant paragraph, each headed `[IFRIC® Update, <month year>, Agenda Decision, '<title>']`. This
-is the most reliable way to answer "which paragraph does this decision actually attach to", and it
-is how the anchors in the table below were determined. IAS 12 carries twenty such annotations,
-IAS 38 twelve, IFRS 16 eleven, IAS 7 nine — a preparer reading only the numbered paragraphs of a
-standard is missing a substantial body of application guidance sitting right next to them.
+**They are also embedded in the standards themselves.** The full text of each agenda decision is reproduced as an annotation in the affected standard's own text, **positioned at the paragraph it bears on**. In the HTML editions these appear as `E1`, `E2`, … markers immediately after the relevant paragraph, each headed `[IFRIC® Update, <month year>, Agenda Decision, '<title>']`. This is the most reliable way to answer "which paragraph does this decision actually attach to", and it is how the anchors in the table below were determined. IAS 12 carries twenty such annotations, IAS 38 twelve, IFRS 16 eleven, IAS 7 nine — a preparer reading only the numbered paragraphs of a standard is missing a substantial body of application guidance sitting right next to them.
 
-**⚠ Two different dates are in circulation for the same decision — do not treat them as
-inconsistent.** The embedded annotations are dated by the **IFRIC Update meeting month** (when the
-Committee finalised the decision); the compilation volumes date by the **publication month**, which
-is often the following month or meeting cycle. Both are correct, and they differ for most
-decisions:
+**⚠ Two different dates are in circulation for the same decision — do not treat them as inconsistent.** The embedded annotations are dated by the **IFRIC Update meeting month** (when the Committee finalised the decision); the compilation volumes date by the **publication month**, which is often the following month or meeting cycle. Both are correct, and they differ for most decisions:
 
 | Decision | IFRIC Update month (in-standard annotation) | Publication month (compilations) |
 |---|---|---|
@@ -4317,14 +3962,11 @@ decisions:
 | Supply Chain Financing—Reverse Factoring | December 2020 | December 2020 *(same)* |
 | Lessee's Incremental Borrowing Rate | September 2019 | September 2019 *(same)* |
 
-**Dates used throughout this section are publication dates**, per the compilations. Citing "the
-April 2021 cloud computing agenda decision" and "the March 2021 cloud computing agenda decision"
-are both defensible; citing them as two different decisions is not.
+**Dates used throughout this section are publication dates**, per the compilations. Citing "the April 2021 cloud computing agenda decision" and "the March 2021 cloud computing agenda decision" are both defensible; citing them as two different decisions is not.
 
 ### Per-standard agenda decision census
 
-How many agenda decisions bear on a given standard. Counted from the embedded annotations, so this
-is the *annotated* population — see the cut-off caveat below.
+How many agenda decisions bear on a given standard. Counted from the embedded annotations, so this is the *annotated* population — see the cut-off caveat below.
 
 | Standard | Decisions | Standard | Decisions |
 |---|---|---|---|
@@ -4335,8 +3977,7 @@ is the *annotated* population — see the cut-off caveat below.
 | IAS 7 | 9 | IAS 37 | 8 |
 | IAS 16 | 6 | IAS 21 | 6 |
 
-IFRS 9 with 36 and IAS 12 with 17 are the standards where reading only the numbered paragraphs
-leaves the most on the table.
+IFRS 9 with 36 and IAS 12 with 17 are the standards where reading only the numbered paragraphs leaves the most on the table.
 
 **How to read the census, and three caveats that bite.**
 
@@ -4350,8 +3991,7 @@ Treat the census as *decisions a preparer of that standard should read* — the 
 
 ### Which paragraph each key decision attaches to
 
-Determined from the embedded annotations in each standard's 2026 Issued HTML — sourced, not
-inferred.
+Determined from the embedded annotations in each standard's 2026 Issued HTML — sourced, not inferred.
 
 | Agenda decision | Anchored at |
 |---|---|
@@ -4365,35 +4005,14 @@ inferred.
 
 *Every paragraph cited in the narrative below was independently corroborated by these anchors.*
 
-**One companion decision worth knowing, though it predates the 2020 window.** The April 2021 cloud
-computing decision rests on an earlier one — ***Customer's Right to Receive Access to the
-Supplier's Software Hosted on the Cloud* (IAS 38), March 2019**, annotated at IAS 38.13. Without it
-the 2021 decision's opening premise — "that right to receive access does not provide the customer
-with a software asset" — reads as asserted rather than reasoned. Cite the two together.
+**One companion decision worth knowing, though it predates the 2020 window.** The April 2021 cloud computing decision rests on an earlier one — ***Customer's Right to Receive Access to the Supplier's Software Hosted on the Cloud* (IAS 38), March 2019**, annotated at IAS 38.13. Without it the 2021 decision's opening premise — "that right to receive access does not provide the customer with a software asset" — reads as asserted rather than reasoned. Cite the two together.
 
-Its fact pattern: the customer pays a fee for a right to access the supplier's application software
-for a specified term; the software runs on cloud infrastructure **managed and controlled by the
-supplier**; the customer accesses it as needed over the internet or a dedicated line; the contract
-conveys no rights over tangible assets. The Committee applied a **two-limb test** — the customer
-receives a software *asset* at commencement only if either **(a) the contract contains a software
-lease**, or **(b) the customer otherwise obtains control of software at commencement**:
+Its fact pattern: the customer pays a fee for a right to access the supplier's application software for a specified term; the software runs on cloud infrastructure **managed and controlled by the supplier**; the customer accesses it as needed over the internet or a dedicated line; the contract conveys no rights over tangible assets. The Committee applied a **two-limb test** — the customer receives a software *asset* at commencement only if either **(a) the contract contains a software lease**, or **(b) the customer otherwise obtains control of software at commencement**:
 
-- **No lease.** Under IFRS 16.9 and B9, a contract conveys the right to use an asset only if the
-  customer has both the right to obtain substantially all the economic benefits from use and the
-  right to direct that use; per IFRS 16.B9–B31 a customer generally directs use by holding
-  decision-making rights to change how and for what purpose the asset is used, which in a lease the
-  supplier has given up. A right to future access **does not confer those rights** — the supplier
-  decides how and when to update or reconfigure the software, and on which hardware or
-  infrastructure it runs. So there is no software lease.
-- **No intangible asset.** Under IAS 38.13, control requires the power to obtain the future economic
-  benefits flowing from the underlying resource and to restrict others' access. A right to future
-  access does not, at commencement, give the customer power over the benefits flowing from **the
-  software itself**, nor the ability to restrict others.
+- **No lease.** Under IFRS 16.9 and B9, a contract conveys the right to use an asset only if the customer has both the right to obtain substantially all the economic benefits from use and the right to direct that use; per IFRS 16.B9–B31 a customer generally directs use by holding decision-making rights to change how and for what purpose the asset is used, which in a lease the supplier has given up. A right to future access **does not confer those rights** — the supplier decides how and when to update or reconfigure the software, and on which hardware or infrastructure it runs. So there is no software lease.
+- **No intangible asset.** Under IAS 38.13, control requires the power to obtain the future economic benefits flowing from the underlying resource and to restrict others' access. A right to future access does not, at commencement, give the customer power over the benefits flowing from **the software itself**, nor the ability to restrict others.
 
-**Conclusion:** a contract conveying only a right to receive future access is a **service
-contract**; the customer receives the service — the access — over the term. **A payment made before
-the service is received gives the customer a right to future service and is an asset** (the
-prepayment point the 2021 decision then carries into IAS 38.70).
+**Conclusion:** a contract conveying only a right to receive future access is a **service contract**; the customer receives the service — the access — over the term. **A payment made before the service is received gives the customer a right to future service and is an asset** (the prepayment point the 2021 decision then carries into IAS 38.70).
 
 ---
 
@@ -4401,217 +4020,83 @@ prepayment point the 2021 decision then carries into IAS 38.70).
 
 #### Supply Chain Financing Arrangements—Reverse Factoring (IFRS 7, IAS 1, IAS 7) — December 2020, WITHDRAWN JULY 2026
 
-**Fact pattern:** a financial institution agrees to pay amounts the entity owes its suppliers, and
-the entity agrees to pay the institution at the same date as, or later than, suppliers are paid.
+**Fact pattern:** a financial institution agrees to pay amounts the entity owes its suppliers, and the entity agrees to pay the institution at the same date as, or later than, suppliers are paid.
 
-**Conclusions.** *Presentation.* An entity presents a financial liability as a **trade payable only
-when it (a) represents a liability to pay for goods or services, (b) is invoiced or formally agreed
-with the supplier, and (c) is part of the working capital used in the entity's normal operating
-cycle** — drawing on IAS 37.11(a) and IAS 1.70. Applying IAS 1.29, 55, 57 and 58, reverse
-factoring liabilities are presented within trade and other payables only where they have a similar
-nature and function to trade payables, and **separately** where their size, nature or function
-makes separate presentation relevant. Indicative factors: whether **additional security** is
-provided that would not otherwise be given, and the **extent to which the terms differ** from the
-entity's non-factored trade payables. *Derecognition.* Assessed under IFRS 9's derecognition
-requirements; a new liability to the financial institution is then presented under IAS 1.
-*Cash flows.* Classification follows the nature of the liability under IAS 7.6 — operating if the
-liability is a trade payable that is part of working capital used in principal revenue-producing
-activities; **financing if it represents borrowings**. Under IAS 7.43, a financing transaction
-involving no cash inflow or outflow for the entity is excluded from the statement of cash flows and
-must instead be **disclosed elsewhere in a way that provides all relevant information about the
-financing activity**. *Notes.* IFRS 7.31 liquidity risk disclosure is engaged because reverse
-factoring concentrates liabilities with a single financial institution rather than a diverse
-supplier base, and because withdrawal of the facility could impair the entity's ability to settle
-liabilities when due.
+**Conclusions.** *Presentation.* An entity presents a financial liability as a **trade payable only when it (a) represents a liability to pay for goods or services, (b) is invoiced or formally agreed with the supplier, and (c) is part of the working capital used in the entity's normal operating cycle** — drawing on IAS 37.11(a) and IAS 1.70. Applying IAS 1.29, 55, 57 and 58, reverse factoring liabilities are presented within trade and other payables only where they have a similar nature and function to trade payables, and **separately** where their size, nature or function makes separate presentation relevant. Indicative factors: whether **additional security** is provided that would not otherwise be given, and the **extent to which the terms differ** from the entity's non-factored trade payables. *Derecognition.* Assessed under IFRS 9's derecognition requirements; a new liability to the financial institution is then presented under IAS 1. *Cash flows.* Classification follows the nature of the liability under IAS 7.6 — operating if the liability is a trade payable that is part of working capital used in principal revenue-producing activities; **financing if it represents borrowings**. Under IAS 7.43, a financing transaction involving no cash inflow or outflow for the entity is excluded from the statement of cash flows and must instead be **disclosed elsewhere in a way that provides all relevant information about the financing activity**. *Notes.* IFRS 7.31 liquidity risk disclosure is engaged because reverse factoring concentrates liabilities with a single financial institution rather than a diverse supplier base, and because withdrawal of the facility could impair the entity's ability to settle liabilities when due.
 
 **Withdrawal history — this is current and consequential:**
 - **November 2025** — the Committee recommended the IASB withdraw the agenda decision.
-- **27–28 January 2026** — the IASB **deferred** the decision (12 of 13 members) and commissioned
-  targeted outreach to identify specific accounting matters that might arise from withdrawal.
-- **21–22 July 2026** — after that outreach, the IASB **decided to withdraw the agenda decision**;
-  **11 of 12 IASB members agreed**.
+- **27–28 January 2026** — the IASB **deferred** the decision (12 of 13 members) and commissioned targeted outreach to identify specific accounting matters that might arise from withdrawal.
+- **21–22 July 2026** — after that outreach, the IASB **decided to withdraw the agenda decision**; **11 of 12 IASB members agreed**.
 
-**What replaces it:** the presentation and disclosure content is now carried by **IFRS 18**
-(effective 1 January 2027) and by the **Supplier Finance Arrangements amendments to IAS 7 and
-IFRS 7**, issued 25 May 2023 and EU-effective 1 January 2024. **The supplier finance disclosure
-requirements are unaffected by the withdrawal and remain fully in force.** Do not treat the
-withdrawal as a relaxation of disclosure.
+**What replaces it:** the presentation and disclosure content is now carried by **IFRS 18** (effective 1 January 2027) and by the **Supplier Finance Arrangements amendments to IAS 7 and IFRS 7**, issued 25 May 2023 and EU-effective 1 January 2024. **The supplier finance disclosure requirements are unaffected by the withdrawal and remain fully in force.** Do not treat the withdrawal as a relaxation of disclosure.
 
 #### Configuration or Customisation Costs in a Cloud Computing Arrangement (IAS 38) — April 2021
 
 The single most commonly encountered agenda decision in practice.
 
-**Fact pattern:** a customer enters a SaaS arrangement conveying the right to receive access to a
-supplier's application software over the contract term. That right does **not** give the customer a
-software asset — access to the software is a **service** received over the term. The customer
-incurs costs of **configuration** (setting flags, switches, values or parameters within the
-existing code) and **customisation** (modifying the software code or writing additional code,
-generally changing or creating functionality). No other goods or services are received.
+**Fact pattern:** a customer enters a SaaS arrangement conveying the right to receive access to a supplier's application software over the contract term. That right does **not** give the customer a software asset — access to the software is a **service** received over the term. The customer incurs costs of **configuration** (setting flags, switches, values or parameters within the existing code) and **customisation** (modifying the software code or writing additional code, generally changing or creating functionality). No other goods or services are received.
 
-**Question I — is there an intangible asset?** Applying IAS 38.18, an item is recognised only if it
-meets both the definition of an intangible asset and the IAS 38.21–23 recognition criteria. Control
-under IAS 38.13 requires the power to obtain the future economic benefits and to restrict others'
-access. In the fact pattern **the supplier controls the application software**. The Committee
-concluded the customer **often would not recognise an intangible asset**, because it does not
-control the software being configured or customised and those activities do not create a resource
-controlled by the customer that is separate from the software. **Exception:** the arrangement may
-produce, for example, **additional code from which the customer can obtain the future economic
-benefits and restrict others' access** — in which case the customer assesses whether that
-additional code is identifiable and meets the IAS 38 recognition criteria.
+**Question I — is there an intangible asset?** Applying IAS 38.18, an item is recognised only if it meets both the definition of an intangible asset and the IAS 38.21–23 recognition criteria. Control under IAS 38.13 requires the power to obtain the future economic benefits and to restrict others' access. In the fact pattern **the supplier controls the application software**. The Committee concluded the customer **often would not recognise an intangible asset**, because it does not control the software being configured or customised and those activities do not create a resource controlled by the customer that is separate from the software. **Exception:** the arrangement may produce, for example, **additional code from which the customer can obtain the future economic benefits and restrict others' access** — in which case the customer assesses whether that additional code is identifiable and meets the IAS 38 recognition criteria.
 
-**Question II — if not an asset, when is it expensed?** Apply IAS 38.68–70. Costs are expensed
-**when the services are received**, and IAS 38.69A specifies that services are received when
-performed by the supplier under a contract to deliver them — **not when the entity uses them to
-deliver another service**. Because IAS 38 has no requirements on identifying the services received,
-IAS 8.10–11 directs the customer to IFRS 15's requirements on identifying promised goods or
-services. The resulting decision tree:
+**Question II — if not an asset, when is it expensed?** Apply IAS 38.68–70. Costs are expensed **when the services are received**, and IAS 38.69A specifies that services are received when performed by the supplier under a contract to deliver them — **not when the entity uses them to deliver another service**. Because IAS 38 has no requirements on identifying the services received, IAS 8.10–11 directs the customer to IFRS 15's requirements on identifying promised goods or services. The resulting decision tree:
 
-- **Contract with the software supplier** (including where the supplier subcontracts to a third
-  party):
+- **Contract with the software supplier** (including where the supplier subcontracts to a third party):
   - services **distinct** → expense **as the supplier configures or customises** the software.
-  - services **not distinct** (not separately identifiable from the right to access the software)
-    → expense **over the contract term, as access is provided**. *This is the deferral outcome —
-    the cost is spread, but as an expense recognition pattern, not as an asset.*
-- **Contract with an independent third-party supplier** → expense **as that third party configures
-  or customises** the software.
-- **Payment in advance of receiving the services** → recognise a **prepayment asset**
-  (IAS 38.70).
+  - services **not distinct** (not separately identifiable from the right to access the software) → expense **over the contract term, as access is provided**. *This is the deferral outcome — the cost is spread, but as an expense recognition pattern, not as an asset.*
+- **Contract with an independent third-party supplier** → expense **as that third party configures or customises** the software.
+- **Payment in advance of receiving the services** → recognise a **prepayment asset** (IAS 38.70).
 
-**Disclosure:** IAS 1.117–124 require disclosure of the accounting policy for configuration or
-customisation costs where relevant to an understanding of the financial statements.
+**Disclosure:** IAS 1.117–124 require disclosure of the accounting policy for configuration or customisation costs where relevant to an understanding of the financial statements.
 
-**Why it matters:** entities that had capitalised large ERP-cloud implementation programmes as
-intangible assets generally had to write them off and change policy. Contract structuring — who
-contracts with whom, and whether implementation services are distinct — now drives the accounting
-outcome directly.
+**Why it matters:** entities that had capitalised large ERP-cloud implementation programmes as intangible assets generally had to write them off and change policy. Contract structuring — who contracts with whom, and whether implementation services are distinct — now drives the accounting outcome directly.
 
 #### Demand Deposits with Restrictions on Use arising from a Contract with a Third Party (IAS 7) — April 2022, updated January 2026
 
-**Fact pattern:** the entity holds a demand deposit whose terms do not prevent it accessing the
-amounts (it would receive any amount on demand), but it has a **contractual obligation with a third
-party** to keep a specified amount in that separate deposit and use the cash only for specified
-purposes; using it otherwise would breach that contract.
+**Fact pattern:** the entity holds a demand deposit whose terms do not prevent it accessing the amounts (it would receive any amount on demand), but it has a **contractual obligation with a third party** to keep a specified amount in that separate deposit and use the cash only for specified purposes; using it otherwise would breach that contract.
 
-**Conclusion:** IAS 7.6 defines cash as cash on hand and demand deposits, and IAS 7 contains no
-further qualification. IAS 7.48 (disclosure of significant cash balances not available for use by
-the group) and the current/non-current classification rule both presuppose that cash **may** be
-restricted. Therefore **contractual restrictions on use do not stop a demand deposit being cash**,
-unless they change the nature of the deposit such that it no longer meets the IAS 7 definition.
-Here the entity can access the amounts on demand, so the deposit is a component of cash and cash
-equivalents in the statement of cash flows. In the statement of financial position it is presented
-as cash and cash equivalents, disaggregated into an additional line item where relevant. The
-components of cash and cash equivalents must be disclosed under IAS 7.45.
+**Conclusion:** IAS 7.6 defines cash as cash on hand and demand deposits, and IAS 7 contains no further qualification. IAS 7.48 (disclosure of significant cash balances not available for use by the group) and the current/non-current classification rule both presuppose that cash **may** be restricted. Therefore **contractual restrictions on use do not stop a demand deposit being cash**, unless they change the nature of the deposit such that it no longer meets the IAS 7 definition. Here the entity can access the amounts on demand, so the deposit is a component of cash and cash equivalents in the statement of cash flows. In the statement of financial position it is presented as cash and cash equivalents, disaggregated into an additional line item where relevant. The components of cash and cash equivalents must be disclosed under IAS 7.45.
 
 **January 2026 IFRS 18 update — the specific reference changes:**
 - Current classification: **IAS 1.66(d) → IFRS 18.99(d)**.
-- Statement of financial position line item for cash and cash equivalents: **IAS 1.54(i) →
-  IFRS 18.103(k)**.
-- The additional-line-item test changes from IAS 1.55 ("relevant to an understanding of the
-  entity's financial position") to **IFRS 18.23–24**: present additional line items and subtotals
-  **if necessary for a primary financial statement to provide a useful structured summary**, and do
-  not present a line item separately if that is not necessary for the statement to provide a useful
-  structured summary. This is a genuinely different threshold, not a renumbering.
+- Statement of financial position line item for cash and cash equivalents: **IAS 1.54(i) → IFRS 18.103(k)**.
+- The additional-line-item test changes from IAS 1.55 ("relevant to an understanding of the entity's financial position") to **IFRS 18.23–24**: present additional line items and subtotals **if necessary for a primary financial statement to provide a useful structured summary**, and do not present a line item separately if that is not necessary for the statement to provide a useful structured summary. This is a genuinely different threshold, not a renumbering.
 
 #### Lease Term and Useful Life of Leasehold Improvements (IFRS 16 and IAS 16) — November 2019
 
-Pre-2020 by date but load-bearing for cancellable and renewable leases, and still the governing
-explanatory material.
+Pre-2020 by date but load-bearing for cancellable and renewable leases, and still the governing explanatory material.
 
-**Fact pattern:** a **cancellable** lease with no specified contractual term that continues
-indefinitely until either party gives notice (notice period under, say, 12 months, with no
-termination payment obliged); and a **renewable** lease specifying an initial period that renews
-indefinitely unless terminated.
+**Fact pattern:** a **cancellable** lease with no specified contractual term that continues indefinitely until either party gives notice (notice period under, say, 12 months, with no termination payment obliged); and a **renewable** lease specifying an initial period that renews indefinitely unless terminated.
 
-**Conclusion — lease term.** IFRS 16.18 defines the lease term as the non-cancellable period plus
-extension periods the lessee is reasonably certain to exercise and termination periods it is
-reasonably certain not to exercise. **IFRS 16.B34** requires the entity to determine the period for
-which the contract is **enforceable**, and specifies that a lease is no longer enforceable when
-lessee and lessor **each** have the right to terminate without the other's permission with **no
-more than an insignificant penalty**. The Committee concluded that in applying B34:
-- (a) the entity considers **the broader economics of the contract, not only contractual
-  termination payments** — if either party has an economic incentive not to terminate such that it
-  would incur a more-than-insignificant penalty, the contract is enforceable beyond the termination
-  date. *This is where abandonment or dismantling costs of leasehold improvements enter.*
-- (b) a lease ceases to be enforceable **only when both parties** have that right. **If only one
-  party can terminate cheaply, the contract remains enforceable beyond that date.**
+**Conclusion — lease term.** IFRS 16.18 defines the lease term as the non-cancellable period plus extension periods the lessee is reasonably certain to exercise and termination periods it is reasonably certain not to exercise. **IFRS 16.B34** requires the entity to determine the period for which the contract is **enforceable**, and specifies that a lease is no longer enforceable when lessee and lessor **each** have the right to terminate without the other's permission with **no more than an insignificant penalty**. The Committee concluded that in applying B34:
+- (a) the entity considers **the broader economics of the contract, not only contractual termination payments** — if either party has an economic incentive not to terminate such that it would incur a more-than-insignificant penalty, the contract is enforceable beyond the termination date. *This is where abandonment or dismantling costs of leasehold improvements enter.*
+- (b) a lease ceases to be enforceable **only when both parties** have that right. **If only one party can terminate cheaply, the contract remains enforceable beyond that date.**
 
-Where the contract is enforceable beyond the notice period (or initial period), the entity then
-applies IFRS 16.19 and B37–B40 to assess reasonable certainty. IFRS 16.BC156 records the Board's
-view that the lease term should reflect the entity's reasonable expectation of the period the
-underlying asset will be used.
+Where the contract is enforceable beyond the notice period (or initial period), the entity then applies IFRS 16.19 and B37–B40 to assess reasonable certainty. IFRS 16.BC156 records the Board's view that the lease term should reflect the entity's reasonable expectation of the period the underlying asset will be used.
 
-**Conclusion — useful life of non-removable leasehold improvements.** IAS 16.50 requires
-depreciation over useful life, defined by reference to the period the asset is expected to be
-available for use **by the entity**. IAS 16.56(d) requires consideration of legal or similar limits
-such as expiry dates of related leases, and IAS 16.57 defines useful life in terms of the asset's
-expected utility to the entity, which may be shorter than its economic life. **If the entity does
-not expect to use the leasehold improvements beyond the lease term, their useful life is the lease
-term** (IAS 16.57), and the Committee observed an entity might often reach that conclusion.
+**Conclusion — useful life of non-removable leasehold improvements.** IAS 16.50 requires depreciation over useful life, defined by reference to the period the asset is expected to be available for use **by the entity**. IAS 16.56(d) requires consideration of legal or similar limits such as expiry dates of related leases, and IAS 16.57 defines useful life in terms of the asset's expected utility to the entity, which may be shorter than its economic life. **If the entity does not expect to use the leasehold improvements beyond the lease term, their useful life is the lease term** (IAS 16.57), and the Committee observed an entity might often reach that conclusion.
 
-**Interaction — the circularity that catches preparers.** IFRS 16.B37 requires all relevant facts
-and circumstances creating an economic incentive to be considered in the reasonable-certainty
-assessment, and **B37(b) expressly includes significant leasehold improvements undertaken or
-expected to be undertaken that are expected to have significant economic benefit when the option
-becomes exercisable**. So significant leasehold improvements lengthen the lease term, and the lease
-term caps the improvements' useful life. The two must be assessed together, not sequentially.
+**Interaction — the circularity that catches preparers.** IFRS 16.B37 requires all relevant facts and circumstances creating an economic incentive to be considered in the reasonable-certainty assessment, and **B37(b) expressly includes significant leasehold improvements undertaken or expected to be undertaken that are expected to have significant economic benefit when the option becomes exercisable**. So significant leasehold improvements lengthen the lease term, and the lease term caps the improvements' useful life. The two must be assessed together, not sequentially.
 
 #### Lessee's Incremental Borrowing Rate (IFRS 16) — September 2019
 
-**Question:** must a lessee's IBR reflect the interest rate on a loan with both a similar maturity
-**and** a similar payment profile to the lease payments?
+**Question:** must a lessee's IBR reflect the interest rate on a loan with both a similar maturity **and** a similar payment profile to the lease payments?
 
-**Conclusion:** IFRS 16.26 requires the IBR when the rate implicit in the lease is not readily
-determinable. The Appendix A definition makes the IBR a **lease-specific** rate — the rate the
-lessee would pay to borrow, over a similar term, with similar security, the funds needed to obtain
-an asset of similar value to the right-of-use asset, in a similar economic environment. The
-Committee restated those four elements explicitly. The definition **does not explicitly require**
-the rate to reflect a loan with a similar payment profile. However, IFRS 16.BC162 records that the
-Board defined the IBR to take into account the terms and conditions of the lease, and that a lessee
-may refer to a readily observable rate as a starting point and adjust it. The Committee observed
-that it would be **consistent with the Board's objective** to refer as a starting point to a
-readily observable rate for a loan with a **similar payment profile** to that of the lease.
+**Conclusion:** IFRS 16.26 requires the IBR when the rate implicit in the lease is not readily determinable. The Appendix A definition makes the IBR a **lease-specific** rate — the rate the lessee would pay to borrow, over a similar term, with similar security, the funds needed to obtain an asset of similar value to the right-of-use asset, in a similar economic environment. The Committee restated those four elements explicitly. The definition **does not explicitly require** the rate to reflect a loan with a similar payment profile. However, IFRS 16.BC162 records that the Board defined the IBR to take into account the terms and conditions of the lease, and that a lessee may refer to a readily observable rate as a starting point and adjust it. The Committee observed that it would be **consistent with the Board's objective** to refer as a starting point to a readily observable rate for a loan with a **similar payment profile** to that of the lease.
 
-**Practical effect:** an entity's group WACC, an unadjusted corporate bond yield, or a single
-portfolio-wide rate is not defensible without adjustment for term, security, right-of-use asset
-value and economic environment. A collateralised, amortising-profile starting rate is the expected
-approach.
+**Practical effect:** an entity's group WACC, an unadjusted corporate bond yield, or a single portfolio-wide rate is not defensible without adjustment for term, security, right-of-use asset value and economic environment. A collateralised, amortising-profile starting rate is the expected approach.
 
 #### Negative Low Emission Vehicle Credits (IAS 37) — July 2022
 
-**Fact pattern:** government measures apply to entities producing or importing passenger vehicles
-for a specified market. Entities receive **positive** credits where average fleet emissions in a
-calendar year are below a government target and **negative** credits where they are above. An
-entity with negative credits must eliminate them by obtaining and surrendering positive credits —
-purchased from another entity or self-generated in the following year by producing or importing
-more low-emission vehicles. Failure permits government sanctions that do **not** require payment
-of fines or any other outflow of resources, but could deny future opportunities, for example by
-restricting market access.
+**Fact pattern:** government measures apply to entities producing or importing passenger vehicles for a specified market. Entities receive **positive** credits where average fleet emissions in a calendar year are below a government target and **negative** credits where they are above. An entity with negative credits must eliminate them by obtaining and surrendering positive credits — purchased from another entity or self-generated in the following year by producing or importing more low-emission vehicles. Failure permits government sanctions that do **not** require payment of fines or any other outflow of resources, but could deny future opportunities, for example by restricting market access.
 
 **Conclusion — the entity may have an IAS 37 liability.** Working through IAS 37.10 and 17:
 
-- **Outflow of resources:** yes, either way. Whether the entity buys credits or self-generates them,
-  it surrenders **positive credits**, which are resources embodying economic benefits — self-
-  generated credits could otherwise have been sold to other entities with negative credits.
-- **The obligating event:** the **production or import, in a calendar year, of vehicles whose
-  average fuel emissions exceed the government target**. The Committee reached this by analogy to
-  the two IFRIC Interpretations of IAS 37 that address government-imposed charges: **IFRIC 6**
-  (obligation arises when the entity conducts the activity to which the charge is linked) and
-  **IFRIC 21** (the event is the activity that triggers payment as identified in the legislation).
-  The obligation arises from past events (IAS 37.19) and exists **independently of the entity's
-  future actions** — those actions determine only the *means* of settlement, not whether an
-  obligation exists. **A present obligation can arise at any date within the calendar year**, on
-  the basis of production or import activity to that date — not only at year end. *This is the
-  interim reporting trap.*
-- **No realistic alternative:** the measures **could** give rise to a **legal** obligation, because
-  the obligation derives from an operation of law and the sanctions are the mechanism by which
-  settlement may be enforceable. The entity has a legal obligation **if accepting the possible
-  sanctions is not a realistic alternative** for it — a judgement depending on the nature of the
-  sanctions and the entity's specific circumstances. If there is no legal obligation, the entity
-  must then consider whether a **constructive** obligation exists.
+- **Outflow of resources:** yes, either way. Whether the entity buys credits or self-generates them, it surrenders **positive credits**, which are resources embodying economic benefits — self- generated credits could otherwise have been sold to other entities with negative credits.
+- **The obligating event:** the **production or import, in a calendar year, of vehicles whose average fuel emissions exceed the government target**. The Committee reached this by analogy to the two IFRIC Interpretations of IAS 37 that address government-imposed charges: **IFRIC 6** (obligation arises when the entity conducts the activity to which the charge is linked) and **IFRIC 21** (the event is the activity that triggers payment as identified in the legislation). The obligation arises from past events (IAS 37.19) and exists **independently of the entity's future actions** — those actions determine only the *means* of settlement, not whether an obligation exists. **A present obligation can arise at any date within the calendar year**, on the basis of production or import activity to that date — not only at year end. *This is the interim reporting trap.*
+- **No realistic alternative:** the measures **could** give rise to a **legal** obligation, because the obligation derives from an operation of law and the sanctions are the mechanism by which settlement may be enforceable. The entity has a legal obligation **if accepting the possible sanctions is not a realistic alternative** for it — a judgement depending on the nature of the sanctions and the entity's specific circumstances. If there is no legal obligation, the entity must then consider whether a **constructive** obligation exists.
 
-**Read-across:** this is the reference analysis for any emissions, fuel-economy or environmental
-credit scheme settled in credits rather than cash. It is also the reason IFRIC 6 and IFRIC 21
-remain live and load-bearing rather than historical curiosities.
+**Read-across:** this is the reference analysis for any emissions, fuel-economy or environmental credit scheme settled in credits rather than cash. It is also the reason IFRIC 6 and IFRIC 21 remain live and load-bearing rather than historical curiosities.
 
 #### Other agenda decisions 2020–2026, by standard
 
@@ -4619,280 +4104,116 @@ Fact pattern and conclusion in brief; all are in the compilation volumes cited i
 
 **IFRS 3** — *Payments Contingent on Continued Employment during Handover Periods* (April 2024).
 
-**IFRS 8** — *Disclosure of Revenues and Expenses for Reportable Segments* (July 2024, **updated
-January 2026 for IFRS 18**). In applying IFRS 8.23(f) to disclose material items of income and
-expense per reportable segment, the entity applies the definition of **material information** in
-IFRS 18 Appendix A and IFRS 18.B2 (previously IAS 1.7), assesses materiality in the context of the
-financial statements **as a whole**, applies **IFRS 18.41–43** on aggregation and disaggregation
-(previously IAS 1.30–31), considers qualitative and quantitative factors, and considers the
-circumstances in **IFRS 18.B79** (previously IAS 1.98). The cross-reference in IFRS 8.23(f) is now
-to **IFRS 18.42** (previously IAS 1.97). IFRS 8.23(f) does **not** require every item of income and
-expense presented or disclosed to be broken down by segment; judgement is applied against IFRS 8's
-core principle.
+**IFRS 8** — *Disclosure of Revenues and Expenses for Reportable Segments* (July 2024, **updated January 2026 for IFRS 18**). In applying IFRS 8.23(f) to disclose material items of income and expense per reportable segment, the entity applies the definition of **material information** in IFRS 18 Appendix A and IFRS 18.B2 (previously IAS 1.7), assesses materiality in the context of the financial statements **as a whole**, applies **IFRS 18.41–43** on aggregation and disaggregation (previously IAS 1.30–31), considers qualitative and quantitative factors, and considers the circumstances in **IFRS 18.B79** (previously IAS 1.98). The cross-reference in IFRS 8.23(f) is now to **IFRS 18.42** (previously IAS 1.97). IFRS 8.23(f) does **not** require every item of income and expense presented or disclosed to be broken down by segment; judgement is applied against IFRS 8's core principle.
 
-**IFRS 9** — *Guarantee over a Derivative Contract* (October 2023); *Physical Settlement of
-Contracts to Buy or Sell a Non-financial Item* (March 2019, **updated January 2026 for IFRS 18**);
-*Determining and Accounting for Transaction Costs* (**January 2026** — costs directly attributable
-to origination or issuance but incurred **before** entering the contractual arrangement are **not
-precluded from being 'incremental'** and can meet the Appendix A definition of transaction costs;
-they are recognised in the statement of financial position, often as prepayments or other assets;
-no widespread effect, so no project); *Embedded Prepayment Option* (**January 2026** — in
-IFRS 9.B4.3.5(e)(ii), stakeholders read **'the entity' as the lender**, not the reporting-entity
-borrower; no diversity with material effect, so no project).
+**IFRS 9** — *Guarantee over a Derivative Contract* (October 2023); *Physical Settlement of Contracts to Buy or Sell a Non-financial Item* (March 2019, **updated January 2026 for IFRS 18**); *Determining and Accounting for Transaction Costs* (**January 2026** — costs directly attributable to origination or issuance but incurred **before** entering the contractual arrangement are **not precluded from being 'incremental'** and can meet the Appendix A definition of transaction costs; they are recognised in the statement of financial position, often as prepayments or other assets; no widespread effect, so no project); *Embedded Prepayment Option* (**January 2026** — in IFRS 9.B4.3.5(e)(ii), stakeholders read **'the entity' as the lender**, not the reporting-entity borrower; no diversity with material effect, so no project).
 
-**IFRS 9 / IFRS 15 / IFRS 17 / IAS 37** — *Guarantees Issued on Obligations of Other Entities*
-(April 2025).
+**IFRS 9 / IFRS 15 / IFRS 17 / IAS 37** — *Guarantees Issued on Obligations of Other Entities* (April 2025).
 
-**IFRS 15** — *Principal versus Agent: Software Reseller* (May 2022); *Recognition of Revenue from
-Tuition Fees* (April 2025); *Training Costs to Fulfil a Contract* (March 2020 — training costs are
-within **IAS 38's** scope by virtue of IAS 38.5, so IFRS 15.95 is never reached; IAS 38.69(b)
-treats training expenditure as producing no recognisable asset, and IAS 38.15 explains the entity
-has insufficient control because employees can leave; **expensed as incurred** even where the
-contract permits the entity to charge the training costs to the customer).
+**IFRS 15** — *Principal versus Agent: Software Reseller* (May 2022); *Recognition of Revenue from Tuition Fees* (April 2025); *Training Costs to Fulfil a Contract* (March 2020 — training costs are within **IAS 38's** scope by virtue of IAS 38.5, so IFRS 15.95 is never reached; IAS 38.69(b) treats training expenditure as producing no recognisable asset, and IAS 38.15 explains the entity has insufficient control because employees can leave; **expensed as incurred** even where the contract permits the entity to charge the training costs to the customer).
 
-**IFRS 16** — *Definition of a Lease—Decision-making Rights* (January 2020); *Sale and Leaseback
-with Variable Payments* (June 2020); *Non-refundable Value Added Tax on Lease Payments* (October
-2021); *Economic Benefits from Use of a Windfarm* (December 2021); *Definition of a Lease—
-Substitution Rights* (April 2023); *Economic Benefits from Use of a Battery under an Offtake
-Arrangement* (**April 2026**, below).
+**IFRS 16** — *Definition of a Lease—Decision-making Rights* (January 2020); *Sale and Leaseback with Variable Payments* (June 2020); *Non-refundable Value Added Tax on Lease Payments* (October 2021); *Economic Benefits from Use of a Windfarm* (December 2021); *Definition of a Lease— Substitution Rights* (April 2023); *Economic Benefits from Use of a Battery under an Offtake Arrangement* (**April 2026**, below).
 
 **IFRS 9 / IFRS 16** — *Lessor Forgiveness of Lease Payments* (October 2022).
 
 **IFRS 9 / IAS 20** — *TLTRO III Transactions* (March 2022).
 
-**IFRS 17** — *Transfer of Insurance Coverage under a Group of Annuity Contracts* (July 2022);
-*Multi-currency Groups of Insurance Contracts* (with IAS 21, October 2022); *Premiums Receivable
-from an Intermediary* (with IFRS 9, October 2023).
+**IFRS 17** — *Transfer of Insurance Coverage under a Group of Annuity Contracts* (July 2022); *Multi-currency Groups of Insurance Contracts* (with IAS 21, October 2022); *Premiums Receivable from an Intermediary* (with IFRS 9, October 2023).
 
-**IAS 1 / IAS 32 / IFRS 2** — *Special Purpose Acquisition Companies (SPAC): Accounting for
-Warrants at Acquisition* (October 2022); *SPAC: Classification of Public Shares as Financial
-Liabilities or Equity* (July 2022); *Accounting for Warrants that are Classified as Financial
-Liabilities on Initial Recognition* (October 2021).
+**IAS 1 / IAS 32 / IFRS 2** — *Special Purpose Acquisition Companies (SPAC): Accounting for Warrants at Acquisition* (October 2022); *SPAC: Classification of Public Shares as Financial Liabilities or Equity* (July 2022); *Accounting for Warrants that are Classified as Financial Liabilities on Initial Recognition* (October 2021).
 
 **IAS 2** — *Costs Necessary to Sell Inventories* (June 2021).
 
-**IAS 7** — *Classification of Cash Flows related to Variation Margin Calls on 'Collateralised-to-
-Market' Contracts* (February 2025); *Disclosure of Changes in Liabilities Arising from Financing
-Activities* (September 2019, **updated January 2026 for IFRS 18**).
+**IAS 7** — *Classification of Cash Flows related to Variation Margin Calls on 'Collateralised-to- Market' Contracts* (February 2025); *Disclosure of Changes in Liabilities Arising from Financing Activities* (September 2019, **updated January 2026 for IFRS 18**).
 
-**IAS 10** — *Preparation of Financial Statements when an Entity is No Longer a Going Concern*
-(June 2021).
+**IAS 10** — *Preparation of Financial Statements when an Entity is No Longer a Going Concern* (June 2021).
 
-**IAS 12** — *Multiple Tax Consequences of Recovering an Asset* (April 2020); *Deferred Tax related
-to an Investment in a Subsidiary* (June 2020).
+**IAS 12** — *Multiple Tax Consequences of Recovering an Asset* (April 2020); *Deferred Tax related to an Investment in a Subsidiary* (June 2020).
 
-**IAS 19** — *Attributing Benefit to Periods of Service* (May 2021); *Homes and Home Loans Provided
-to Employees* (October 2023).
+**IAS 19** — *Attributing Benefit to Periods of Service* (May 2021); *Homes and Home Loans Provided to Employees* (October 2023).
 
-**IAS 21 / IAS 29** — three decisions of March 2020: *Translation of a Hyperinflationary Foreign
-Operation—Presenting Exchange Differences*; *Cumulative Exchange Differences before a Foreign
-Operation becomes Hyperinflationary*; *Presenting Comparative Amounts when a Foreign Operation
-first becomes Hyperinflationary*.
+**IAS 21 / IAS 29** — three decisions of March 2020: *Translation of a Hyperinflationary Foreign Operation—Presenting Exchange Differences*; *Cumulative Exchange Differences before a Foreign Operation becomes Hyperinflationary*; *Presenting Comparative Amounts when a Foreign Operation first becomes Hyperinflationary*.
 
-**IAS 27** — *Merger between a Parent and Its Subsidiary in Separate Financial Statements* (January
-2024).
+**IAS 27** — *Merger between a Parent and Its Subsidiary in Separate Financial Statements* (January 2024).
 
 **IAS 29** — *Assessing Indicators of Hyperinflationary Economies* (July 2025).
 
 **IAS 37** — *Climate-related Commitments* (April 2024).
 
-**IAS 38** — *Player Transfer Payments* (June 2020); *Recognition of Intangible Assets Resulting
-from Climate-related Expenditure* (April 2025).
+**IAS 38** — *Player Transfer Payments* (June 2020); *Recognition of Intangible Assets Resulting from Climate-related Expenditure* (April 2025).
 
-**IAS 41** — *Subsequent Expenditure on Biological Assets* (September 2019, **updated January 2026
-for IFRS 18**).
+**IAS 41** — *Subsequent Expenditure on Biological Assets* (September 2019, **updated January 2026 for IFRS 18**).
 
 ---
 
 ### The IFRS 18 agenda-decision review — six updated, three withdrawn
 
-In the light of IFRS 18, the IASB asked the Committee to review agenda decisions referring to the
-general requirements on **presentation, materiality and aggregation** and to consider replacing
-IAS 1 references with IFRS 18 references. The outcome, finalised by the Committee in **November
-2025 and March 2026** and published in Compilation Volume 14:
+In the light of IFRS 18, the IASB asked the Committee to review agenda decisions referring to the general requirements on **presentation, materiality and aggregation** and to consider replacing IAS 1 references with IFRS 18 references. The outcome, finalised by the Committee in **November 2025 and March 2026** and published in Compilation Volume 14:
 
-**Six agenda decisions updated** (references replaced; new text underlined and deleted text struck
-through in the compilation):
+**Six agenda decisions updated** (references replaced; new text underlined and deleted text struck through in the compilation):
 
 1. *Disclosure of Revenues and Expenses for Reportable Segments* (IFRS 8), originally July 2024.
-2. *Physical Settlement of Contracts to Buy or Sell a Non-financial Item* (IFRS 9), originally
-   March 2019.
+2. *Physical Settlement of Contracts to Buy or Sell a Non-financial Item* (IFRS 9), originally March 2019.
 3. *Normal operating cycle* (IAS 1), originally June 2005.
-4. *Demand Deposits with Restrictions on Use arising from a Contract with a Third Party* (IAS 7),
-   originally April 2022.
-5. *Disclosure of Changes in Liabilities Arising from Financing Activities* (IAS 7), originally
-   September 2019.
+4. *Demand Deposits with Restrictions on Use arising from a Contract with a Third Party* (IAS 7), originally April 2022.
+5. *Disclosure of Changes in Liabilities Arising from Financing Activities* (IAS 7), originally September 2019.
 6. *Subsequent Expenditure on Biological Assets* (IAS 41), originally September 2019.
 
-**Three agenda decisions withdrawn as from 1 January 2027**, the date IFRS 18 becomes effective
-(IASB decisions of April 2025 and January 2026):
+**Three agenda decisions withdrawn as from 1 January 2027**, the date IFRS 18 becomes effective (IASB decisions of April 2025 and January 2026):
 
 1. *Issues related to the application of IAS 1* (IAS 1), originally May 2014.
-2. *Presentation of Liabilities or Assets Related to Uncertain Tax Treatments* (IAS 1), originally
-   September 2019. **Its full text is reproduced after IFRS 18.103(q).**
-3. *Income and expenses arising on financial instruments with a negative yield—presentation in the
-   statement of comprehensive income* (IAS 39 and IAS 1), originally January 2015. The IASB agreed
-   this withdrawal at its **27–28 January 2026** meeting; **all 13 members** supported it.
+2. *Presentation of Liabilities or Assets Related to Uncertain Tax Treatments* (IAS 1), originally September 2019. **Its full text is reproduced after IFRS 18.103(q).**
+3. *Income and expenses arising on financial instruments with a negative yield—presentation in the statement of comprehensive income* (IAS 39 and IAS 1), originally January 2015. The IASB agreed this withdrawal at its **27–28 January 2026** meeting; **all 13 members** supported it.
 
-**Still pending at 28 August 2026.** In April 2026 the Committee finalised the agenda decision
-*Presentation of Taxes or Other Charges that Are Not Tax Expense or Tax Income Applying IAS 12
-Income Taxes* (IFRS 18), together with updates to *Presentation of payments on non-income taxes*
-(IAS 1 and IAS 12) and *Classification of tonnage taxes* (IAS 12). **In May 2026 the IASB deferred
-a decision on whether it objects to these**, so they are not yet published and are not in
-Compilation Volume 14. Watch this space for non-income-tax presentation.
+**Still pending at 28 August 2026.** In April 2026 the Committee finalised the agenda decision *Presentation of Taxes or Other Charges that Are Not Tax Expense or Tax Income Applying IAS 12 Income Taxes* (IFRS 18), together with updates to *Presentation of payments on non-income taxes* (IAS 1 and IAS 12) and *Classification of tonnage taxes* (IAS 12). **In May 2026 the IASB deferred a decision on whether it objects to these**, so they are not yet published and are not in Compilation Volume 14. Watch this space for non-income-tax presentation.
 
 ### New agenda decisions published November 2025 – April 2026 (Compilation Volume 14)
 
-**Economic Benefits from Use of a Battery under an Offtake Arrangement (IFRS 16) — April 2026.**
-Battery owner and electricity retailer are both registered participants in a **gross pool**
-electricity market. The owner retains custody but is contractually obliged to operate the battery
-on the retailer's instructions covering **100% of capacity**; the battery cannot be substituted.
-The retailer pays a **fixed amount** for the right to use the battery, payable regardless of
-charging or discharging; the owner transacts with the market operator at spot and passes all
-resulting cash flows to or from the retailer; the parties settle net in cash periodically. The
-question was **IFRS 16.B9(a)** only — whether the retailer has the right to obtain substantially
-all the economic benefits from use — B9(b) (right to direct use) was assumed. **Conclusion: yes.**
-Applying **IFRS 16.B21**, the economic benefits derive from the battery's **storage capability and
-capacity** — the battery stores and releases electricity, it does not produce it — and the retailer
-has the exclusive right to use the entire capacity throughout the period of use and to direct
-whether, when and by how much to charge and discharge. *Directly relevant to the wave of battery
-storage, grid-services and renewables offtake arrangements now being structured.*
+**Economic Benefits from Use of a Battery under an Offtake Arrangement (IFRS 16) — April 2026.** Battery owner and electricity retailer are both registered participants in a **gross pool** electricity market. The owner retains custody but is contractually obliged to operate the battery on the retailer's instructions covering **100% of capacity**; the battery cannot be substituted. The retailer pays a **fixed amount** for the right to use the battery, payable regardless of charging or discharging; the owner transacts with the market operator at spot and passes all resulting cash flows to or from the retailer; the parties settle net in cash periodically. The question was **IFRS 16.B9(a)** only — whether the retailer has the right to obtain substantially all the economic benefits from use — B9(b) (right to direct use) was assumed. **Conclusion: yes.** Applying **IFRS 16.B21**, the economic benefits derive from the battery's **storage capability and capacity** — the battery stores and releases electricity, it does not produce it — and the retailer has the exclusive right to use the entire capacity throughout the period of use and to direct whether, when and by how much to charge and discharge. *Directly relevant to the wave of battery storage, grid-services and renewables offtake arrangements now being structured.*
 
-**Assessment of a Specified Main Business Activity for the Purposes of the Separate Financial
-Statements of a Parent (IFRS 18) — April 2026.** A parent whose only substantive activity is
-holding investments in unconsolidated subsidiaries, accounted for at cost. **Conclusion:** the
-absence of any other substantive activity is **sufficient evidence** that investing in
-unconsolidated subsidiaries is a main business activity for the purposes of the separate financial
-statements; the parent therefore has a **specified main business activity** and, applying
-**IFRS 18.55(b)**, classifies the income and expenses from those investments in the **operating**
-category. Three important observations: the **IFRS 18.B34–B36** factors (segmental analysis,
-subtotals used to explain operating performance) do not apply where the entity provides none, and
-their absence is **not determinative**; the absence of a parent from the **IFRS 18.B31** examples is
-not determinative, those examples not being exhaustive; and — per **IFRS 18.BC98–BC99** — the
-assessment is made for the **reporting entity as a whole**, so the outcome for a parent's separate
-financial statements **can differ** from the outcome for the consolidated financial statements.
-Relevant framework: IFRS 18.49, 52, 53(a), B30, B33, B37, B42, B44(c).
+**Assessment of a Specified Main Business Activity for the Purposes of the Separate Financial Statements of a Parent (IFRS 18) — April 2026.** A parent whose only substantive activity is holding investments in unconsolidated subsidiaries, accounted for at cost. **Conclusion:** the absence of any other substantive activity is **sufficient evidence** that investing in unconsolidated subsidiaries is a main business activity for the purposes of the separate financial statements; the parent therefore has a **specified main business activity** and, applying **IFRS 18.55(b)**, classifies the income and expenses from those investments in the **operating** category. Three important observations: the **IFRS 18.B34–B36** factors (segmental analysis, subtotals used to explain operating performance) do not apply where the entity provides none, and their absence is **not determinative**; the absence of a parent from the **IFRS 18.B31** examples is not determinative, those examples not being exhaustive; and — per **IFRS 18.BC98–BC99** — the assessment is made for the **reporting entity as a whole**, so the outcome for a parent's separate financial statements **can differ** from the outcome for the consolidated financial statements. Relevant framework: IFRS 18.49, 52, 53(a), B30, B33, B37, B42, B44(c).
 
-**Classification of a Foreign Exchange Difference from an Intragroup Monetary Liability (or Asset)
-(IFRS 18) — April 2026.** An intragroup loan between entities with different functional currencies,
-not part of the net investment. The balance and its income and expenses are eliminated on
-consolidation, but **IAS 21.45** requires the exchange difference to survive elimination and be
-recognised in consolidated profit or loss. **IFRS 18.B65** requires foreign exchange differences to
-be classified in the same category as the income and expenses from the items that gave rise to
-them, unless undue cost or effort (IFRS 18.B68). **The Committee concluded that two readings are
-both reasonable and the entity must choose one as an IAS 8 accounting policy:**
-- **View 1** — there is no 'same' category available, because the income and expenses from the loan
-  are not in the consolidated statement of profit or loss; the entity classifies the exchange
-  difference in the **operating** category by default under **IFRS 18.52**.
-- **View 2** — B65 does not require the income and expenses to be *included* in the consolidated
-  statement of profit or loss; the entity classifies the exchange difference in the category in
-  which the loan's income and expenses **would have been** classified before elimination, falling
-  back to operating where that involves undue cost or effort (assessed **per item** under
-  IFRS 18.B68). Under View 2 the classification is made **from the consolidated group's
-  perspective**, so it may differ from the subsidiary's own classification — for example where the
-  group's specified main business activities differ from the subsidiary's.
+**Classification of a Foreign Exchange Difference from an Intragroup Monetary Liability (or Asset) (IFRS 18) — April 2026.** An intragroup loan between entities with different functional currencies, not part of the net investment. The balance and its income and expenses are eliminated on consolidation, but **IAS 21.45** requires the exchange difference to survive elimination and be recognised in consolidated profit or loss. **IFRS 18.B65** requires foreign exchange differences to be classified in the same category as the income and expenses from the items that gave rise to them, unless undue cost or effort (IFRS 18.B68). **The Committee concluded that two readings are both reasonable and the entity must choose one as an IAS 8 accounting policy:**
+- **View 1** — there is no 'same' category available, because the income and expenses from the loan are not in the consolidated statement of profit or loss; the entity classifies the exchange difference in the **operating** category by default under **IFRS 18.52**.
+- **View 2** — B65 does not require the income and expenses to be *included* in the consolidated statement of profit or loss; the entity classifies the exchange difference in the category in which the loan's income and expenses **would have been** classified before elimination, falling back to operating where that involves undue cost or effort (assessed **per item** under IFRS 18.B68). Under View 2 the classification is made **from the consolidated group's perspective**, so it may differ from the subsidiary's own classification — for example where the group's specified main business activities differ from the subsidiary's.
 
-Two readings were rejected as **not reasonable**: classifying in the **financing** category on the
-basis that the transaction involves only the raising of finance (it does not always), and
-classifying in the **investing** category on the basis that cash conversion caused the difference
-(it is not cash that gave rise to it).
+Two readings were rejected as **not reasonable**: classifying in the **financing** category on the basis that the transaction involves only the raising of finance (it does not always), and classifying in the **investing** category on the basis that cash conversion caused the difference (it is not cash that gave rise to it).
 
-**Classification of Gains and Losses on a Derivative Managing a Foreign Currency Exposure
-(IFRS 18) — April 2026.** Parent P has Subsidiary A holding an FC100 investing asset and Subsidiary
-B with an FC120 financing liability, both in functional currency LC — a **net liability exposure of
-FC20**. Treasury Entity enters an **external** forward for FC20 to manage that **net** exposure per
-group risk management policy; it is **not designated as a hedging instrument** under IFRS 9.
-Internal derivatives with A and B also exist. **Conclusion:** the analysis addresses **only the
-external derivative** — per **IFRS 9.BC6.144**, risk mitigation matters for financial reporting only
-where risk is transferred outside the reporting entity. Applying **IFRS 18.B70–B76**, the entity
-first identifies the risk the derivative manages (here, expected to be evident from the approved
-risk management policy), then the categories affected. Because P classifies foreign exchange
-differences on financial liabilities in the **financing** category, and the derivative manages only
-the **net** liability exposure — a risk affecting a **single category** — no grossing up arises
-(IFRS 18.B74–B75), the **IFRS 18.B72** prohibition does not bite, and P is **required** to classify
-the gain or loss in the **financing** category. **Counterfactual, stated expressly:** had the policy
-been to manage the investing asset and the financing liability on a **gross** basis, the risks would
-affect line items in two categories, classification would require grossing up, that is prohibited by
-IFRS 18.B72, and the gain or loss would instead go to the **operating** category. **Risk management
-policy documentation now drives P&L geography.**
+**Classification of Gains and Losses on a Derivative Managing a Foreign Currency Exposure (IFRS 18) — April 2026.** Parent P has Subsidiary A holding an FC100 investing asset and Subsidiary B with an FC120 financing liability, both in functional currency LC — a **net liability exposure of FC20**. Treasury Entity enters an **external** forward for FC20 to manage that **net** exposure per group risk management policy; it is **not designated as a hedging instrument** under IFRS 9. Internal derivatives with A and B also exist. **Conclusion:** the analysis addresses **only the external derivative** — per **IFRS 9.BC6.144**, risk mitigation matters for financial reporting only where risk is transferred outside the reporting entity. Applying **IFRS 18.B70–B76**, the entity first identifies the risk the derivative manages (here, expected to be evident from the approved risk management policy), then the categories affected. Because P classifies foreign exchange differences on financial liabilities in the **financing** category, and the derivative manages only the **net** liability exposure — a risk affecting a **single category** — no grossing up arises (IFRS 18.B74–B75), the **IFRS 18.B72** prohibition does not bite, and P is **required** to classify the gain or loss in the **financing** category. **Counterfactual, stated expressly:** had the policy been to manage the investing asset and the financing liability on a **gross** basis, the risks would affect line items in two categories, classification would require grossing up, that is prohibited by IFRS 18.B72, and the gain or loss would instead go to the **operating** category. **Risk management policy documentation now drives P&L geography.**
 
-**Scope of the Requirement to Disclose Expenses by Nature (IFRS 18) — April 2026.** Does
-**IFRS 18.83** apply only to the operating expenses listed in IFRS 18.75(a)(ii), or to **any**
-expense presented by function in the operating category, including the IFRS 9 and IFRS 17 amounts
-in IFRS 18.75(b)–(c)? **Conclusion: the wider reading.** IFRS 18.83 **contains no exceptions or
-exclusions**, so the reason an expense is classified by function — the entity's judgement, or a
-requirement in another Standard — is **irrelevant**. Paragraph 83 applies to any line item
-comprising expenses classified by function in the operating category. Per **IFRS 18.B84**, the
-amounts disclosed need not be the amounts recognised as expense in the period and may include
-amounts recognised in the carrying amount of an asset; where an entity applying **IFRS 18.83(b)**
-discloses such amounts, it must give a **qualitative explanation identifying the assets involved**.
-Note 1 to **IFRS 18 IE7** illustrates. *Directly affects insurers, whose insurance service expense
-includes amortisation of previously capitalised insurance acquisition cash flows.*
+**Scope of the Requirement to Disclose Expenses by Nature (IFRS 18) — April 2026.** Does **IFRS 18.83** apply only to the operating expenses listed in IFRS 18.75(a)(ii), or to **any** expense presented by function in the operating category, including the IFRS 9 and IFRS 17 amounts in IFRS 18.75(b)–(c)? **Conclusion: the wider reading.** IFRS 18.83 **contains no exceptions or exclusions**, so the reason an expense is classified by function — the entity's judgement, or a requirement in another Standard — is **irrelevant**. Paragraph 83 applies to any line item comprising expenses classified by function in the operating category. Per **IFRS 18.B84**, the amounts disclosed need not be the amounts recognised as expense in the period and may include amounts recognised in the carrying amount of an asset; where an entity applying **IFRS 18.83(b)** discloses such amounts, it must give a **qualitative explanation identifying the assets involved**. Note 1 to **IFRS 18 IE7** illustrates. *Directly affects insurers, whose insurance service expense includes amortisation of previously capitalised insurance acquisition cash flows.*
 
-**Fair Presentation and Compliance with IFRS Accounting Standards (IAS 1 [IAS 8]) — April 2026.**
-Where an entity departs from a requirement under **IAS 1.19 [IAS 8.6E]**, must it still comply with
-the fair presentation requirement in **IAS 1.15 [IAS 8.6A]**? The Committee found the fact pattern
-arises **infrequently**, concluded the matter does not have widespread effect, and added no project.
-*Note the bracketed references: IFRS 18 relocates the fair presentation and true-and-fair-override
-requirements from IAS 1.15–24 to **IAS 8.6A–6J**, IAS 8 having been retitled* Basis of Preparation
-of Financial Statements.
+**Fair Presentation and Compliance with IFRS Accounting Standards (IAS 1 [IAS 8]) — April 2026.** Where an entity departs from a requirement under **IAS 1.19 [IAS 8.6E]**, must it still comply with the fair presentation requirement in **IAS 1.15 [IAS 8.6A]**? The Committee found the fact pattern arises **infrequently**, concluded the matter does not have widespread effect, and added no project. *Note the bracketed references: IFRS 18 relocates the fair presentation and true-and-fair-override requirements from IAS 1.15–24 to **IAS 8.6A–6J**, IAS 8 having been retitled* Basis of Preparation of Financial Statements.
 
 ### Tentative agenda decisions open at 28 August 2026 — early warning
 
-**IFRIC Update June 2026 — eight tentative agenda decisions, comments closed 9 September 2026.**
-Seven of the eight are IFRS 18 application questions, which is a fair indication of where the
-implementation pressure now sits:
+**IFRIC Update June 2026 — eight tentative agenda decisions, comments closed 9 September 2026.** Seven of the eight are IFRS 18 application questions, which is a fair indication of where the implementation pressure now sits:
 
-1. *Management-defined Performance Measures—Hypothetical Income and Expenses* (IFRS 18) — whether
-   a measure including hypothetical, unrecognised income and expenses meets the IFRS 18.117
-   definition of an MPM.
-2. *Management-defined Performance Measures—Public Communications* (IFRS 18) — whether a
-   confidential presentation to a small number of identifiable shareholders is a "public
-   communication".
-3. *Classification of Income and Expenses from Cash and Cash Equivalents* (IFRS 18) — for entities
-   with more than one main business activity, one of which is investing in financial assets.
-4. *Classification of Income and Expenses—Financing to Customers Activity* (IFRS 18) — classifying
-   expenses from finance-raising liabilities in consolidated financial statements.
-5. *Control Assessment for a Single-investor Fund* (IFRS 10) — whether a sole investor
-   automatically delegates decision-making to the fund manager as agent.
-6. *Assessment of Specified Main Business Activities—Manufacturer-Lessor* (IFRS 18) — whether
-   aggregated finance and operating lease activities constitute a main business activity of
-   providing financing to customers.
-7. *Labels of Subtotals* (IFRS 18) — whether a subtotal's label must explicitly list everything
-   included and excluded.
-8. *Presentation of Operating Expenses* (IFRS 18) — when a **mixed** presentation (nature and
-   function combined) is required, and disaggregation of expenses of the same nature.
+1. *Management-defined Performance Measures—Hypothetical Income and Expenses* (IFRS 18) — whether a measure including hypothetical, unrecognised income and expenses meets the IFRS 18.117 definition of an MPM.
+2. *Management-defined Performance Measures—Public Communications* (IFRS 18) — whether a confidential presentation to a small number of identifiable shareholders is a "public communication".
+3. *Classification of Income and Expenses from Cash and Cash Equivalents* (IFRS 18) — for entities with more than one main business activity, one of which is investing in financial assets.
+4. *Classification of Income and Expenses—Financing to Customers Activity* (IFRS 18) — classifying expenses from finance-raising liabilities in consolidated financial statements.
+5. *Control Assessment for a Single-investor Fund* (IFRS 10) — whether a sole investor automatically delegates decision-making to the fund manager as agent.
+6. *Assessment of Specified Main Business Activities—Manufacturer-Lessor* (IFRS 18) — whether aggregated finance and operating lease activities constitute a main business activity of providing financing to customers.
+7. *Labels of Subtotals* (IFRS 18) — whether a subtotal's label must explicitly list everything included and excluded.
+8. *Presentation of Operating Expenses* (IFRS 18) — when a **mixed** presentation (nature and function combined) is required, and disaggregation of expenses of the same nature.
 
-**IFRIC Update March 2026** also carried a tentative agenda decision on *Reassessment of Control*
-(IFRS 10), which the Committee concluded does not have widespread effect.
+**IFRIC Update March 2026** also carried a tentative agenda decision on *Reassessment of Control* (IFRS 10), which the Committee concluded does not have widespread effect.
 
 
 ---
 
 # Beyond IFRS Accounting Standards
 
-The four blocks below sit outside the IFRS Accounting Standards themselves but bear directly on any
-compliance statement, transition plan or cross-border comparison: the **Conceptual Framework** (the
-IAS 8.11(b) source of last resort), the **ISSB Standards**, the **IFRS for SMEs Accounting Standard**,
-and the **jurisdictional adoption map** that determines whether "IFRS" means IFRS as issued by the IASB.
+The four blocks below sit outside the IFRS Accounting Standards themselves but bear directly on any compliance statement, transition plan or cross-border comparison: the **Conceptual Framework** (the IAS 8.11(b) source of last resort), the **ISSB Standards**, the **IFRS for SMEs Accounting Standard**, and the **jurisdictional adoption map** that determines whether "IFRS" means IFRS as issued by the IASB.
 
 ---
 
 ## Conceptual Framework for Financial Reporting (2018)
 
-**Scope:** Describes the objective of, and the concepts for, general purpose financial reporting. Its
-stated purposes are to assist the IASB in developing Standards based on consistent concepts; to assist
-**preparers to develop consistent accounting policies when no Standard applies** to a particular
-transaction or other event, or when a Standard allows a choice of accounting policy; and to assist all
-parties to understand and interpret the Standards (CF SP1.1).
+**Scope:** Describes the objective of, and the concepts for, general purpose financial reporting. Its stated purposes are to assist the IASB in developing Standards based on consistent concepts; to assist **preparers to develop consistent accounting policies when no Standard applies** to a particular transaction or other event, or when a Standard allows a choice of accounting policy; and to assist all parties to understand and interpret the Standards (CF SP1.1).
 
-**Status and amendments:** Issued **March 2018**, replacing the 2010 *Conceptual Framework*. Effective
-immediately for the IASB and the IFRS Interpretations Committee; for entities using it to develop
-accounting policies, effective for annual reporting periods beginning on or after **1 January 2020**,
-earlier application permitted. **It is not a Standard, and nothing in it overrides any Standard or any
-requirement in a Standard** (CF SP1.2). The IASB may deliberately depart from it in a Standard, explaining
-the departure in that Standard's Basis for Conclusions (CF SP1.3). A revision of the Conceptual Framework
-does not automatically change any Standard (CF SP1.4).
+**Status and amendments:** Issued **March 2018**, replacing the 2010 *Conceptual Framework*. Effective immediately for the IASB and the IFRS Interpretations Committee; for entities using it to develop accounting policies, effective for annual reporting periods beginning on or after **1 January 2020**, earlier application permitted. **It is not a Standard, and nothing in it overrides any Standard or any requirement in a Standard** (CF SP1.2). The IASB may deliberately depart from it in a Standard, explaining the departure in that Standard's Basis for Conclusions (CF SP1.3). A revision of the Conceptual Framework does not automatically change any Standard (CF SP1.4).
 
 **Structure — eight chapters plus a status section:**
 - Status and purpose (CF SP1.1–SP1.5)
@@ -4907,305 +4228,119 @@ does not automatically change any Standard (CF SP1.4).
 - Appendix — Defined terms
 
 **Key rules:**
-- **Objective (CF 1.2):** to provide financial information about the reporting entity that is useful to
-  existing and potential **investors, lenders and other creditors** in making decisions relating to
-  providing resources to the entity — buying, selling or holding equity and debt instruments; providing or
-  settling loans and other credit; and exercising voting or other rights. Those decisions depend on
-  expected returns, which depend on the users' assessment of the **amount, timing and uncertainty of
-  future net cash inflows** and on their assessment of **management's stewardship** of the entity's
-  economic resources (CF 1.3). Stewardship was given explicit prominence in the 2018 revision.
+- **Objective (CF 1.2):** to provide financial information about the reporting entity that is useful to existing and potential **investors, lenders and other creditors** in making decisions relating to providing resources to the entity — buying, selling or holding equity and debt instruments; providing or settling loans and other credit; and exercising voting or other rights. Those decisions depend on expected returns, which depend on the users' assessment of the **amount, timing and uncertainty of future net cash inflows** and on their assessment of **management's stewardship** of the entity's economic resources (CF 1.3). Stewardship was given explicit prominence in the 2018 revision.
 - **Qualitative characteristics:**
-  - **Fundamental (CF 2.5):** **relevance** (CF 2.6–2.11 — predictive value, confirmatory value,
-    materiality) and **faithful representation** (CF 2.12–2.22 — **complete** CF 2.14, **neutral**
-    CF 2.15, **free from error**). Neutrality is supported by **prudence**, defined as the exercise of
-    caution under conditions of uncertainty; prudence does **not** mean asymmetry.
-  - **Enhancing (CF 2.23–2.38):** comparability (CF 2.24–2.29), verifiability, timeliness,
-    understandability.
+  - **Fundamental (CF 2.5):** **relevance** (CF 2.6–2.11 — predictive value, confirmatory value, materiality) and **faithful representation** (CF 2.12–2.22 — **complete** CF 2.14, **neutral** CF 2.15, **free from error**). Neutrality is supported by **prudence**, defined as the exercise of caution under conditions of uncertainty; prudence does **not** mean asymmetry.
+  - **Enhancing (CF 2.23–2.38):** comparability (CF 2.24–2.29), verifiability, timeliness, understandability.
   - **Cost constraint (CF 2.39–2.43).**
-- **Reporting entity (CF 3.10):** an entity that is required, or chooses, to prepare financial statements.
-  It may be a single entity, a portion of an entity, or comprise more than one entity, and **is not
-  necessarily a legal entity**. Parent + subsidiaries = consolidated; parent alone = unconsolidated
-  (CF 3.11); two or more entities not linked by a parent–subsidiary relationship = **combined financial
-  statements** (CF 3.12). Where the boundary is not set by a control relationship, it is driven by the
-  information needs of primary users (CF 3.13–3.14). **Going concern assumption at CF 3.9.**
-- **Definition of an asset (CF 4.3):** *a present economic resource controlled by the entity as a result
-  of past events*, where **an economic resource is a right that has the potential to produce economic
-  benefits** (CF 4.4). Three aspects: **right** (CF 4.6–4.13), **potential to produce economic benefits**
-  (CF 4.14–4.18), **control** (CF 4.19–4.25).
-- **Definition of a liability (CF 4.26):** *a present obligation of the entity to transfer an economic
-  resource as a result of past events*. All three criteria must be met (CF 4.27): the entity has an
-  **obligation** (CF 4.28–4.35); the obligation is to **transfer an economic resource** (CF 4.36–4.41);
-  and it is a **present obligation as a result of past events** (CF 4.42–4.47).
+- **Reporting entity (CF 3.10):** an entity that is required, or chooses, to prepare financial statements. It may be a single entity, a portion of an entity, or comprise more than one entity, and **is not necessarily a legal entity**. Parent + subsidiaries = consolidated; parent alone = unconsolidated (CF 3.11); two or more entities not linked by a parent–subsidiary relationship = **combined financial statements** (CF 3.12). Where the boundary is not set by a control relationship, it is driven by the information needs of primary users (CF 3.13–3.14). **Going concern assumption at CF 3.9.**
+- **Definition of an asset (CF 4.3):** *a present economic resource controlled by the entity as a result of past events*, where **an economic resource is a right that has the potential to produce economic benefits** (CF 4.4). Three aspects: **right** (CF 4.6–4.13), **potential to produce economic benefits** (CF 4.14–4.18), **control** (CF 4.19–4.25).
+- **Definition of a liability (CF 4.26):** *a present obligation of the entity to transfer an economic resource as a result of past events*. All three criteria must be met (CF 4.27): the entity has an **obligation** (CF 4.28–4.35); the obligation is to **transfer an economic resource** (CF 4.36–4.41); and it is a **present obligation as a result of past events** (CF 4.42–4.47).
 - **What changed in 2018 — the asset and liability definitions:**
-  - The **probability threshold was removed from the definitions**. The 2010 definitions required that
-    economic benefits be *expected to flow* to (or out of) the entity. Under 2018, it is enough that the
-    right **has the potential** to produce economic benefits — the right can meet the asset definition
-    even where the probability of benefits is low. Probability is relocated to the **recognition**
-    analysis (CF 5.12–5.17) rather than the definition.
-  - The **asset is the right, not the underlying object.** The 2018 definition identifies the asset as the
-    present economic resource — the right — rather than the ultimate inflow of economic benefits.
-  - "**Present**" was added to both definitions, and the liability definition is framed as an obligation to
-    **transfer an economic resource** rather than an outflow of resources embodying economic benefits.
-  - New material on **unit of account** (CF 4.48–4.55), **executory contracts** (CF 4.56–4.58), and the
-    **substance of contractual rights and obligations** (CF 4.59–4.62).
-  - **Equity (CF 4.63):** the residual interest in the assets of the entity after deducting all its
-    liabilities. **Income (CF 4.68)** and **expenses (CF 4.69)** are defined as increases/decreases in
-    assets or liabilities that change equity, other than contributions from or distributions to holders of
-    equity claims.
-- **Recognition criteria (CF 5.6–5.11) — the second major 2018 change.** The 2010 "probable + reliably
-  measurable" recognition criteria were **replaced**. Only items meeting the definition of an element are
-  recognised, and **not all items meeting a definition are recognised** (CF 5.6). An asset or liability is
-  recognised **only if recognition provides users with useful information** (CF 5.7): (a) **relevant**
-  information about the item and any resulting income, expenses or changes in equity (CF 5.12–5.17); and
-  (b) a **faithful representation** of it (CF 5.18–5.25) — subject to the **cost constraint** (CF 5.8).
-  Recognition is a judgement, and recognition requirements may legitimately vary between and within
-  Standards (CF 5.9). Where an item is not recognised, consider what information the non-recognition
-  conveys (CF 5.10) and whether note disclosure is needed to compensate (CF 5.11).
-- **Derecognition (CF 5.26–5.33) — new in 2018; the 2010 Framework had none.** Derecognition is the
-  removal of all or part of a recognised asset or liability from the statement of financial position, and
-  normally occurs when the item **no longer meets the definition**: for an asset, when the entity **loses
-  control** of all or part of it; for a liability, when the entity **no longer has a present obligation**
-  for all or part of it (CF 5.26). Derecognition accounting aims to faithfully represent both the assets
-  and liabilities **retained** after the transaction and the **change** in the entity's assets and
-  liabilities resulting from it (CF 5.27) — the source of the tension between "control" and "risks and
-  rewards" approaches in partial-transfer cases.
+  - The **probability threshold was removed from the definitions**. The 2010 definitions required that economic benefits be *expected to flow* to (or out of) the entity. Under 2018, it is enough that the right **has the potential** to produce economic benefits — the right can meet the asset definition even where the probability of benefits is low. Probability is relocated to the **recognition** analysis (CF 5.12–5.17) rather than the definition.
+  - The **asset is the right, not the underlying object.** The 2018 definition identifies the asset as the present economic resource — the right — rather than the ultimate inflow of economic benefits.
+  - "**Present**" was added to both definitions, and the liability definition is framed as an obligation to **transfer an economic resource** rather than an outflow of resources embodying economic benefits.
+  - New material on **unit of account** (CF 4.48–4.55), **executory contracts** (CF 4.56–4.58), and the **substance of contractual rights and obligations** (CF 4.59–4.62).
+  - **Equity (CF 4.63):** the residual interest in the assets of the entity after deducting all its liabilities. **Income (CF 4.68)** and **expenses (CF 4.69)** are defined as increases/decreases in assets or liabilities that change equity, other than contributions from or distributions to holders of equity claims.
+- **Recognition criteria (CF 5.6–5.11) — the second major 2018 change.** The 2010 "probable + reliably measurable" recognition criteria were **replaced**. Only items meeting the definition of an element are recognised, and **not all items meeting a definition are recognised** (CF 5.6). An asset or liability is recognised **only if recognition provides users with useful information** (CF 5.7): (a) **relevant** information about the item and any resulting income, expenses or changes in equity (CF 5.12–5.17); and (b) a **faithful representation** of it (CF 5.18–5.25) — subject to the **cost constraint** (CF 5.8). Recognition is a judgement, and recognition requirements may legitimately vary between and within Standards (CF 5.9). Where an item is not recognised, consider what information the non-recognition conveys (CF 5.10) and whether note disclosure is needed to compensate (CF 5.11).
+- **Derecognition (CF 5.26–5.33) — new in 2018; the 2010 Framework had none.** Derecognition is the removal of all or part of a recognised asset or liability from the statement of financial position, and normally occurs when the item **no longer meets the definition**: for an asset, when the entity **loses control** of all or part of it; for a liability, when the entity **no longer has a present obligation** for all or part of it (CF 5.26). Derecognition accounting aims to faithfully represent both the assets and liabilities **retained** after the transaction and the **change** in the entity's assets and liabilities resulting from it (CF 5.27) — the source of the tension between "control" and "risks and rewards" approaches in partial-transfer cases.
 - **Measurement bases (CF 6.4–6.22) — Chapter 6 is new in 2018:**
-  - **Historical cost (CF 6.4–6.9)** — derived, at least in part, from the price of the originating
-    transaction; does not reflect value changes except for impairment of an asset or a liability becoming
-    onerous. Historical cost of an asset = consideration paid **plus transaction costs**; of a liability =
-    consideration received **minus transaction costs** (CF 6.5).
+  - **Historical cost (CF 6.4–6.9)** — derived, at least in part, from the price of the originating transaction; does not reflect value changes except for impairment of an asset or a liability becoming onerous. Historical cost of an asset = consideration paid **plus transaction costs**; of a liability = consideration received **minus transaction costs** (CF 6.5).
   - **Current value (CF 6.10–6.22)**, comprising:
-    - **Fair value (CF 6.12–6.16)** — the price that would be received to sell an asset, or paid to
-      transfer a liability, in an orderly transaction between market participants at the measurement date.
-      **Market-participant perspective.** Does not include transaction costs incurred on acquisition.
-    - **Value in use (assets) / fulfilment value (liabilities) (CF 6.17–6.20)** — the present value of the
-      cash flows or other economic benefits the entity expects to derive from use and ultimate disposal /
-      expects to be obliged to transfer in fulfilling the liability, including amounts payable to parties
-      other than the counterparty. **Entity-specific perspective.** Excludes transaction costs on
-      acquisition/incurrence but includes the present value of expected disposal/settlement transaction
-      costs. Not directly observable — determined using cash-flow-based measurement techniques
-      (CF 6.91–6.95).
-    - **Current cost (CF 6.21–6.22)** — the cost of an equivalent asset at the measurement date
-      (consideration **plus** transaction costs) / the consideration that would be received for an
-      equivalent liability (**minus** transaction costs). Like historical cost, an **entry** value; unlike
-      historical cost, it is current.
-  - **Selecting a measurement basis (CF 6.43–6.86)** is driven by relevance (CF 6.49–6.57), faithful
-    representation (CF 6.58–6.62), the enhancing characteristics and cost (CF 6.63–6.76), factors specific
-    to initial measurement (CF 6.77–6.82) and whether **more than one basis** is needed (CF 6.83–6.86).
-- **Presentation and disclosure (Chapter 7)** and **capital maintenance (Chapter 8)** — the 2018 revision
-  added Chapter 7 (classification CF 7.7–7.19, aggregation CF 7.20–7.22) and carried Chapter 8 forward
-  largely unchanged from the 1989 *Framework*.
+    - **Fair value (CF 6.12–6.16)** — the price that would be received to sell an asset, or paid to transfer a liability, in an orderly transaction between market participants at the measurement date. **Market-participant perspective.** Does not include transaction costs incurred on acquisition.
+    - **Value in use (assets) / fulfilment value (liabilities) (CF 6.17–6.20)** — the present value of the cash flows or other economic benefits the entity expects to derive from use and ultimate disposal / expects to be obliged to transfer in fulfilling the liability, including amounts payable to parties other than the counterparty. **Entity-specific perspective.** Excludes transaction costs on acquisition/incurrence but includes the present value of expected disposal/settlement transaction costs. Not directly observable — determined using cash-flow-based measurement techniques (CF 6.91–6.95).
+    - **Current cost (CF 6.21–6.22)** — the cost of an equivalent asset at the measurement date (consideration **plus** transaction costs) / the consideration that would be received for an equivalent liability (**minus** transaction costs). Like historical cost, an **entry** value; unlike historical cost, it is current.
+  - **Selecting a measurement basis (CF 6.43–6.86)** is driven by relevance (CF 6.49–6.57), faithful representation (CF 6.58–6.62), the enhancing characteristics and cost (CF 6.63–6.76), factors specific to initial measurement (CF 6.77–6.82) and whether **more than one basis** is needed (CF 6.83–6.86).
+- **Presentation and disclosure (Chapter 7)** and **capital maintenance (Chapter 8)** — the 2018 revision added Chapter 7 (classification CF 7.7–7.19, aggregation CF 7.20–7.22) and carried Chapter 8 forward largely unchanged from the 1989 *Framework*.
 
-**How it is actually used — the IAS 8 hierarchy (IAS 8.10–12).**
-This is the operative route by which the Conceptual Framework binds a preparer. Note that IFRS 18 renamed
-IAS 8 to **IAS 8 *Basis of Preparation of Financial Statements***; the hierarchy paragraph numbers are
-unchanged.
-1. **IAS 8.7** — if a Standard specifically applies to the transaction, apply it. Unless a Standard
-   explicitly excludes a transaction from its scope, it applies (the Interpretations Committee applied
-   this reasoning to common control transactions).
-2. **IAS 8.10** — in the **absence** of a Standard that specifically applies, management shall use its
-   judgement to develop and apply an accounting policy producing information that is **(a) relevant** to
-   users' economic decision-making needs and **(b) reliable**, in that the financial statements:
-   (i) represent faithfully the financial position, financial performance and cash flows; (ii) reflect the
-   **economic substance** of transactions and not merely their legal form; (iii) are **neutral**, ie free
-   from bias; (iv) are **prudent**; and (v) are **complete** in all material respects.
-3. **IAS 8.11 — mandatory sources, in descending order:** (a) the requirements in IFRSs dealing with
-   **similar and related issues**; then (b) the **definitions, recognition criteria and measurement
-   concepts** for assets, liabilities, income and expenses in the **Conceptual Framework**.
-4. **IAS 8.12 — optional sources.** Management **may also** consider the most recent pronouncements of
-   **other standard-setting bodies that use a similar conceptual framework**, other accounting literature
-   and **accepted industry practices**, to the extent these do not conflict with the IAS 8.11 sources.
-   This is the paragraph under which US GAAP analogies are sometimes used — permissively, and only after
-   IAS 8.11 is exhausted.
+**How it is actually used — the IAS 8 hierarchy (IAS 8.10–12).** This is the operative route by which the Conceptual Framework binds a preparer. Note that IFRS 18 renamed IAS 8 to **IAS 8 *Basis of Preparation of Financial Statements***; the hierarchy paragraph numbers are unchanged.
+1. **IAS 8.7** — if a Standard specifically applies to the transaction, apply it. Unless a Standard explicitly excludes a transaction from its scope, it applies (the Interpretations Committee applied this reasoning to common control transactions).
+2. **IAS 8.10** — in the **absence** of a Standard that specifically applies, management shall use its judgement to develop and apply an accounting policy producing information that is **(a) relevant** to users' economic decision-making needs and **(b) reliable**, in that the financial statements: (i) represent faithfully the financial position, financial performance and cash flows; (ii) reflect the **economic substance** of transactions and not merely their legal form; (iii) are **neutral**, ie free from bias; (iv) are **prudent**; and (v) are **complete** in all material respects.
+3. **IAS 8.11 — mandatory sources, in descending order:** (a) the requirements in IFRSs dealing with **similar and related issues**; then (b) the **definitions, recognition criteria and measurement concepts** for assets, liabilities, income and expenses in the **Conceptual Framework**.
+4. **IAS 8.12 — optional sources.** Management **may also** consider the most recent pronouncements of **other standard-setting bodies that use a similar conceptual framework**, other accounting literature and **accepted industry practices**, to the extent these do not conflict with the IAS 8.11 sources. This is the paragraph under which US GAAP analogies are sometimes used — permissively, and only after IAS 8.11 is exhausted.
 
 **Interpretations Committee guidance on applying the hierarchy:**
-- **All aspects of the analogue apply.** When developing a policy by analogy under IAS 8.11(a),
-  management must apply **all aspects of the IFRS being analogised to that are applicable to the issue** —
-  it may not cherry-pick. (IFRIC Update March 2011, *application of the IAS 8 hierarchy*; the Committee
-  found IAS 8.10–12 sufficiently clear and did not amend it.)
-- **Consider disclosure requirements too.** In considering requirements dealing with similar and related
-  issues, an entity considers **all** the requirements dealing with those issues, **including relevant
-  disclosure requirements** (IFRIC agenda decision on commodity loans, which also pointed to what is now
-  **IFRS 18.113(c)**, formerly IAS 1.112(c), on additional disclosures needed for understanding).
-- **Both asset definitions may be considered.** In the January 2019 agenda decision on *deposits relating
-  to taxes other than income tax*, the Committee concluded that no Standard dealt with issues similar or
-  related to whether the right arising from a tax deposit met the definition of an asset. Applying
-  IAS 8.10–11 it referred to **both** the March 2018 Conceptual Framework definition **and** the previous
-  Framework definition, and concluded the right met either.
+- **All aspects of the analogue apply.** When developing a policy by analogy under IAS 8.11(a), management must apply **all aspects of the IFRS being analogised to that are applicable to the issue** — it may not cherry-pick. (IFRIC Update March 2011, *application of the IAS 8 hierarchy*; the Committee found IAS 8.10–12 sufficiently clear and did not amend it.)
+- **Consider disclosure requirements too.** In considering requirements dealing with similar and related issues, an entity considers **all** the requirements dealing with those issues, **including relevant disclosure requirements** (IFRIC agenda decision on commodity loans, which also pointed to what is now **IFRS 18.113(c)**, formerly IAS 1.112(c), on additional disclosures needed for understanding).
+- **Both asset definitions may be considered.** In the January 2019 agenda decision on *deposits relating to taxes other than income tax*, the Committee concluded that no Standard dealt with issues similar or related to whether the right arising from a tax deposit met the definition of an asset. Applying IAS 8.10–11 it referred to **both** the March 2018 Conceptual Framework definition **and** the previous Framework definition, and concluded the right met either.
 
 **Common pitfalls:**
-- Reaching for the Conceptual Framework before exhausting IAS 8.11(a). The requirements of IFRSs dealing
-  with similar and related issues rank **above** the Framework, not alongside it.
+- Reaching for the Conceptual Framework before exhausting IAS 8.11(a). The requirements of IFRSs dealing with similar and related issues rank **above** the Framework, not alongside it.
 - Applying an analogue selectively — see the March 2011 agenda decision.
-- Treating the Conceptual Framework as overriding a Standard. CF SP1.2 forecloses this; where the IASB has
-  knowingly departed from the Framework, the Standard governs.
-- Using the old "probable and reliably measurable" recognition test. Since 2018 recognition turns on
-  relevance, faithful representation and cost — not a probability threshold. Individual Standards may
-  still impose probability thresholds of their own, and where they do, the Standard governs.
-- Assuming the 2018 revision changed any Standard. CF SP1.4 — it did not, of itself. Amendments to
-  specific Standards' references to the Framework were made separately.
-- Reading value in use or fulfilment value as market-based. They are **entity-specific** (CF 6.17, 6.20);
-  fair value is the market-participant measure (CF 6.13).
+- Treating the Conceptual Framework as overriding a Standard. CF SP1.2 forecloses this; where the IASB has knowingly departed from the Framework, the Standard governs.
+- Using the old "probable and reliably measurable" recognition test. Since 2018 recognition turns on relevance, faithful representation and cost — not a probability threshold. Individual Standards may still impose probability thresholds of their own, and where they do, the Standard governs.
+- Assuming the 2018 revision changed any Standard. CF SP1.4 — it did not, of itself. Amendments to specific Standards' references to the Framework were made separately.
+- Reading value in use or fulfilment value as market-based. They are **entity-specific** (CF 6.17, 6.20); fair value is the market-participant measure (CF 6.13).
 
 ---
 
 ## IFRS S1 — General Requirements for Disclosure of Sustainability-related Financial Information
 
-**Scope:** Applies to the preparation and reporting of sustainability-related financial disclosures —
-information about sustainability-related risks and opportunities that could reasonably be expected to
-affect the entity's cash flows, its access to finance or its cost of capital over the short, medium or
-long term. Issued by the **ISSB**, not the IASB: IFRS Sustainability Disclosure Standards are a separate
-body of standards from IFRS Accounting Standards. Applying them is not a condition of complying with IFRS
-Accounting Standards, and applying IFRS Accounting Standards is not a condition of complying with them.
+**Scope:** Applies to the preparation and reporting of sustainability-related financial disclosures — information about sustainability-related risks and opportunities that could reasonably be expected to affect the entity's cash flows, its access to finance or its cost of capital over the short, medium or long term. Issued by the **ISSB**, not the IASB: IFRS Sustainability Disclosure Standards are a separate body of standards from IFRS Accounting Standards. Applying them is not a condition of complying with IFRS Accounting Standards, and applying IFRS Accounting Standards is not a condition of complying with them.
 
-**Status and amendments:** Issued 26 June 2023; effective for annual reporting periods beginning on or
-after 1 January 2024; earlier application permitted provided IFRS S2 is applied at the same time
-(IFRS S1.E1–E2). No amendments to IFRS S1 have been issued as at 28 August 2026. **Not endorsed in the
-EU or the UK** — neither the EU endorsement mechanism nor the UK Endorsement Board covers ISSB Standards;
-those bodies deal only with IFRS Accounting Standards. Jurisdictional adoption is by securities regulator
-or government, not by an accounting endorsement process (see the jurisdictional block below).
+**Status and amendments:** Issued 26 June 2023; effective for annual reporting periods beginning on or after 1 January 2024; earlier application permitted provided IFRS S2 is applied at the same time (IFRS S1.E1–E2). No amendments to IFRS S1 have been issued as at 28 August 2026. **Not endorsed in the EU or the UK** — neither the EU endorsement mechanism nor the UK Endorsement Board covers ISSB Standards; those bodies deal only with IFRS Accounting Standards. Jurisdictional adoption is by securities regulator or government, not by an accounting endorsement process (see the jurisdictional block below).
 
-**Core principle:** Disclose material information about all sustainability-related risks and opportunities
-that could reasonably be expected to affect the entity's prospects, sufficient for primary users of
-general purpose financial reports to assess those effects on enterprise value.
+**Core principle:** Disclose material information about all sustainability-related risks and opportunities that could reasonably be expected to affect the entity's prospects, sufficient for primary users of general purpose financial reports to assess those effects on enterprise value.
 
 **Key rules:**
 - **Same entity, same period, same time as the financial statements:**
-  - The reporting entity for sustainability disclosures is the **same reporting entity** as for the
-    related financial statements (IFRS S1.20, B38). A parent reporting consolidated financial statements
-    reports consolidated sustainability disclosures.
+  - The reporting entity for sustainability disclosures is the **same reporting entity** as for the related financial statements (IFRS S1.20, B38). A parent reporting consolidated financial statements reports consolidated sustainability disclosures.
   - The reporting **period** is the same as for the related financial statements (IFRS S1.64–68).
-  - The disclosures must be reported **at the same time** as the related financial statements
-    (IFRS S1.64–68). Those paragraphs also carry the rules for a change of reporting period and for
-    information obtained after the reporting date but before authorisation for issue.
-  - Disclosures are part of the entity's **general purpose financial reports** (IFRS S1.60–62) and must be
-    clearly identified and not obscured. Information may be incorporated **by cross-reference** to another
-    published report, subject to conditions (IFRS S1.63, B45–B47).
-- **Connected information (IFRS S1.21–24, B39–B44):** disclose connections between the sustainability
-  items themselves, and between the sustainability disclosures and other disclosures — including that the
-  **data and assumptions** used in preparing the sustainability disclosures are consistent, to the extent
-  possible, with those used in preparing the related financial statements. This is the practical hinge
-  between ISSB reporting and the accounting numbers: discount rates, useful lives, decommissioning
-  assumptions, impairment scenarios and going-concern horizons must not tell two different stories.
+  - The disclosures must be reported **at the same time** as the related financial statements (IFRS S1.64–68). Those paragraphs also carry the rules for a change of reporting period and for information obtained after the reporting date but before authorisation for issue.
+  - Disclosures are part of the entity's **general purpose financial reports** (IFRS S1.60–62) and must be clearly identified and not obscured. Information may be incorporated **by cross-reference** to another published report, subject to conditions (IFRS S1.63, B45–B47).
+- **Connected information (IFRS S1.21–24, B39–B44):** disclose connections between the sustainability items themselves, and between the sustainability disclosures and other disclosures — including that the **data and assumptions** used in preparing the sustainability disclosures are consistent, to the extent possible, with those used in preparing the related financial statements. This is the practical hinge between ISSB reporting and the accounting numbers: discount rates, useful lives, decommissioning assumptions, impairment scenarios and going-concern horizons must not tell two different stories.
 - **Four-pillar (TCFD-aligned) core content**, in both IFRS S1 and IFRS S2:
   - **Governance** — IFRS S1.26–27; IFRS S2.5–6
-  - **Strategy** — IFRS S1.28–42; IFRS S2.8–23 (including business model and value chain, IFRS S1.32 /
-    IFRS S2.13; financial position, performance and cash flow effects, IFRS S1.34–40 / IFRS S2.15–21;
-    and **climate resilience**, IFRS S1.41–42 / IFRS S2.22–23)
+  - **Strategy** — IFRS S1.28–42; IFRS S2.8–23 (including business model and value chain, IFRS S1.32 / IFRS S2.13; financial position, performance and cash flow effects, IFRS S1.34–40 / IFRS S2.15–21; and **climate resilience**, IFRS S1.41–42 / IFRS S2.22–23)
   - **Risk management** — IFRS S1.43–44; IFRS S2.24–25
   - **Metrics and targets** — IFRS S1.45–53; IFRS S2.27–37
-  - The ISSB assumed responsibility for monitoring TCFD-related progress from 2024; the TCFD
-    recommendations are fully incorporated into IFRS S1 and IFRS S2.
-- **The IFRS S1 "no specific Standard" hierarchy:** where no ISSB Standard specifically applies to a
-  sustainability-related risk or opportunity, IFRS S1.55(b), 57–58 and Appendix C (IFRS S1.C1–C3) direct
-  the entity to identified sources of guidance — including the **SASB Standards**' disclosure topics and
-  metrics, the CDSB Framework application guidance, and the most recent pronouncements of other
-  standard-setting bodies and industry practices. This is the sustainability analogue of the IAS 8
-  hierarchy, and it is the mechanism by which SASB has force under ISSB Standards. IFRS S1.59 requires
-  disclosure of **which sources of guidance the entity actually applied**, including the industry or
-  industries specified in IFRS S2 and any SASB Standards used.
-  - The SASB Standards are industry-based: **77 industries** under the Sustainable Industry
-    Classification System (SICS). Under IFRS S2, the entity must **refer to and consider the
-    applicability** of the industry-based metrics in the *Industry-based Guidance on Implementing
-    IFRS S2* — the SASB metrics carried into IFRS S2 (IFRS S1.55(a) → IFRS S2.127).
-    `[SASB industry count para-unconfirmed]`
-- **Proportionality mechanisms** (IFRS S1.B6(b) et seq.) allow the entity to use reasonable and
-  supportable information available at the reporting date without undue cost or effort — the practical
-  answer to value-chain data gaps.
-- **Commercially sensitive information** on an *opportunity* may be omitted in narrow circumstances
-  (IFRS S1.B34–B37); the entity must disclose that it has done so and re-assess each period. There is no
-  equivalent exemption for risks.
+  - The ISSB assumed responsibility for monitoring TCFD-related progress from 2024; the TCFD recommendations are fully incorporated into IFRS S1 and IFRS S2.
+- **The IFRS S1 "no specific Standard" hierarchy:** where no ISSB Standard specifically applies to a sustainability-related risk or opportunity, IFRS S1.55(b), 57–58 and Appendix C (IFRS S1.C1–C3) direct the entity to identified sources of guidance — including the **SASB Standards**' disclosure topics and metrics, the CDSB Framework application guidance, and the most recent pronouncements of other standard-setting bodies and industry practices. This is the sustainability analogue of the IAS 8 hierarchy, and it is the mechanism by which SASB has force under ISSB Standards. IFRS S1.59 requires disclosure of **which sources of guidance the entity actually applied**, including the industry or industries specified in IFRS S2 and any SASB Standards used.
+  - The SASB Standards are industry-based: **77 industries** under the Sustainable Industry Classification System (SICS). Under IFRS S2, the entity must **refer to and consider the applicability** of the industry-based metrics in the *Industry-based Guidance on Implementing IFRS S2* — the SASB metrics carried into IFRS S2 (IFRS S1.55(a) → IFRS S2.127). `[SASB industry count para-unconfirmed]`
+- **Proportionality mechanisms** (IFRS S1.B6(b) et seq.) allow the entity to use reasonable and supportable information available at the reporting date without undue cost or effort — the practical answer to value-chain data gaps.
+- **Commercially sensitive information** on an *opportunity* may be omitted in narrow circumstances (IFRS S1.B34–B37); the entity must disclose that it has done so and re-assess each period. There is no equivalent exemption for risks.
 
 **Transition reliefs (first annual reporting period only):**
-- **Climate-first relief — IFRS S1.E5.** In the first annual reporting period in which it applies ISSB
-  Standards, an entity may disclose information on **only its climate-related risks and opportunities**,
-  in accordance with IFRS S2. It must report on all other sustainability-related risks and opportunities
-  from the second year. An entity using this relief may still assert compliance with ISSB Standards.
-- **Comparative information relief — IFRS S1.E3 (and IFRS S2.C3).** An entity using the climate-first
-  relief is **not required to disclose comparative information** in its first year; comparatives apply
-  from the second year.
-- **Timing relief — IFRS S1.E4–E6.** In the first annual reporting period, the entity may report its
-  sustainability disclosures **later than** its related financial statements — permitting them to be
-  published with the next interim report (or, if no interim report is published, within nine months of
-  the end of the annual reporting period). From year two the same-time requirement in IFRS S1.64–68
-  applies without relief. `[the "next interim report / nine months" mechanics are para-unconfirmed —
-  IFRS S1.E4–E6 is the verified location of the timing relief]`
-- **Scope 3 relief — IFRS S2.C4(b).** In the first annual reporting period in which it applies IFRS S2,
-  an entity is not required to disclose Scope 3 GHG emissions, including (for asset management, commercial
-  banking or insurance activities) the additional financed-emissions information required by
-  IFRS S2.29(a)(vi)(2) and IFRS S2.B58–B63A.
-- **GHG measurement method relief — IFRS S2.C4(a).** In the same first period, an entity that previously
-  used a measurement method other than the GHG Protocol Corporate Standard (2004) may continue to use it,
-  disclosing the method, the reason for the choice, and how it relates to the disclosure objective.
+- **Climate-first relief — IFRS S1.E5.** In the first annual reporting period in which it applies ISSB Standards, an entity may disclose information on **only its climate-related risks and opportunities**, in accordance with IFRS S2. It must report on all other sustainability-related risks and opportunities from the second year. An entity using this relief may still assert compliance with ISSB Standards.
+- **Comparative information relief — IFRS S1.E3 (and IFRS S2.C3).** An entity using the climate-first relief is **not required to disclose comparative information** in its first year; comparatives apply from the second year.
+- **Timing relief — IFRS S1.E4–E6.** In the first annual reporting period, the entity may report its sustainability disclosures **later than** its related financial statements — permitting them to be published with the next interim report (or, if no interim report is published, within nine months of the end of the annual reporting period). From year two the same-time requirement in IFRS S1.64–68 applies without relief. `[the "next interim report / nine months" mechanics are para-unconfirmed — IFRS S1.E4–E6 is the verified location of the timing relief]`
+- **Scope 3 relief — IFRS S2.C4(b).** In the first annual reporting period in which it applies IFRS S2, an entity is not required to disclose Scope 3 GHG emissions, including (for asset management, commercial banking or insurance activities) the additional financed-emissions information required by IFRS S2.29(a)(vi)(2) and IFRS S2.B58–B63A.
+- **GHG measurement method relief — IFRS S2.C4(a).** In the same first period, an entity that previously used a measurement method other than the GHG Protocol Corporate Standard (2004) may continue to use it, disclosing the method, the reason for the choice, and how it relates to the disclosure objective.
 
 **Common pitfalls:**
-- Publishing the sustainability report on a different cycle from the financial statements after year one —
-  IFRS S1.64–68 requires simultaneous reporting, and the timing relief is first-year only.
-- Treating the SASB metrics as optional. Under IFRS S2 the entity must *refer to and consider the
-  applicability of* the industry-based metrics; under IFRS S1.59 it must disclose which it applied.
-- Using assumptions in the sustainability report that contradict those in the financial statements —
-  a direct breach of the connected-information requirements (IFRS S1.21–24, B39–B44).
-- Assuming the climate-first relief also relieves the entity from IFRS S1's general requirements. It does
-  not: an entity applying IFRS S1.E5 must still apply IFRS S1 in full *insofar as it relates to climate*.
-- Assuming the EU or UK "endorses" ISSB Standards. They do not. EU-listed entities in CSRD scope report
-  under ESRS; the UK has its own UK SRS S1/S2 (see the jurisdictional block).
+- Publishing the sustainability report on a different cycle from the financial statements after year one — IFRS S1.64–68 requires simultaneous reporting, and the timing relief is first-year only.
+- Treating the SASB metrics as optional. Under IFRS S2 the entity must *refer to and consider the applicability of* the industry-based metrics; under IFRS S1.59 it must disclose which it applied.
+- Using assumptions in the sustainability report that contradict those in the financial statements — a direct breach of the connected-information requirements (IFRS S1.21–24, B39–B44).
+- Assuming the climate-first relief also relieves the entity from IFRS S1's general requirements. It does not: an entity applying IFRS S1.E5 must still apply IFRS S1 in full *insofar as it relates to climate*.
+- Assuming the EU or UK "endorses" ISSB Standards. They do not. EU-listed entities in CSRD scope report under ESRS; the UK has its own UK SRS S1/S2 (see the jurisdictional block).
 
 ---
 
 ## IFRS S2 — Climate-related Disclosures
 
-**Scope:** Climate-related risks and opportunities that could reasonably be expected to affect the
-entity's prospects — climate-related **physical** risks, climate-related **transition** risks, and
-climate-related opportunities. Applied together with IFRS S1.
+**Scope:** Climate-related risks and opportunities that could reasonably be expected to affect the entity's prospects — climate-related **physical** risks, climate-related **transition** risks, and climate-related opportunities. Applied together with IFRS S1.
 
-**Status and amendments:** Issued 26 June 2023; effective for annual reporting periods beginning on or
-after 1 January 2024; earlier application permitted (with IFRS S1).
-- **Amendments to Greenhouse Gas Emissions Disclosures (Amendments to IFRS S2) — issued 11 December 2025;
-  effective for annual reporting periods beginning on or after 1 January 2027; earlier application
-  permitted, with disclosure of that fact (IFRS S2.C1B).** The amendments amended IFRS S2 paragraphs
-  29(a)(ii), 29(a)(vi)(2), B21–B22, B24, B28, B37, B59, B62(a), B63(a) and C4(b), and added paragraphs
-  29A–29C, B62A, B63A, C1B and C6 (IFRS S2.C1A). Approved by 11 of the 12 ISSB members. Consequential
-  amendments were also made to three SASB Standards to align financed-emissions metrics.
+**Status and amendments:** Issued 26 June 2023; effective for annual reporting periods beginning on or after 1 January 2024; earlier application permitted (with IFRS S1).
+- **Amendments to Greenhouse Gas Emissions Disclosures (Amendments to IFRS S2) — issued 11 December 2025; effective for annual reporting periods beginning on or after 1 January 2027; earlier application permitted, with disclosure of that fact (IFRS S2.C1B).** The amendments amended IFRS S2 paragraphs 29(a)(ii), 29(a)(vi)(2), B21–B22, B24, B28, B37, B59, B62(a), B63(a) and C4(b), and added paragraphs 29A–29C, B62A, B63A, C1B and C6 (IFRS S2.C1A). Approved by 11 of the 12 ISSB members. Consequential amendments were also made to three SASB Standards to align financed-emissions metrics.
 
-**Core principle:** Disclose information enabling primary users to understand the effect of
-climate-related risks and opportunities on the entity's prospects, using the four-pillar structure.
+**Core principle:** Disclose information enabling primary users to understand the effect of climate-related risks and opportunities on the entity's prospects, using the four-pillar structure.
 
 **Key rules:**
-- **Greenhouse gas emissions (IFRS S2.29(a)):** disclose absolute gross Scope 1, Scope 2 and Scope 3
-  emissions, measured in accordance with the **GHG Protocol Corporate Standard (2004)** unless a
-  jurisdictional authority or the exchange on which the entity is listed requires a different method.
+- **Greenhouse gas emissions (IFRS S2.29(a)):** disclose absolute gross Scope 1, Scope 2 and Scope 3 emissions, measured in accordance with the **GHG Protocol Corporate Standard (2004)** unless a jurisdictional authority or the exchange on which the entity is listed requires a different method.
 - **What the December 2025 amendments changed:**
-  - **Jurisdictional relief on measurement method extended to partial application** — clarified that the
-    relief operates where the entity is required to use a different method *in whole or in part*
-    (IFRS S2.29(a)(ii), B21–B22, B24).
-  - **GWP values** — permits use of global warming potential values required by a jurisdictional authority
-    or listing exchange that are **not** from the latest IPCC assessment report, rather than mandating the
-    latest IPCC values.
-  - **Scope 3 Category 15** — an entity may limit measurement and disclosure of Category 15 (investments)
-    emissions to **financed emissions** as defined in IFRS S2, disclosing the total Category 15 figure and
-    the financed-emissions subtotal within it (new IFRS S2.29C).
-  - **Industry classification** — permits an alternative industry-classification system in place of GICS
-    when disaggregating financed-emissions information (new IFRS S2.B62A, B63A; the entity discloses the
-    system selected).
-  - **Transition on first applying the amendments (IFRS S2.C6):** an entity that previously applied
-    IFRS S2 must, unless impracticable, **adjust the comparative period** — (a) if it changed its GHG
-    measurement method under the new reliefs, as if it had changed in the comparative period;
-    (b) if it disclosed Scope 3 including Category 15, to present the Category 15 total and the financed-
-    emissions subtotal as if IFRS S2.29C had applied; and (c) if it disaggregated financed emissions by
-    industry, to reflect the newly selected classification system as if it had been used then.
-- **Industry-based guidance:** the *Industry-based Guidance on Implementing IFRS S2* (derived from SASB)
-  must be referred to and its applicability considered (IFRS S2.127).
-- **Climate resilience (IFRS S2.22–23):** requires climate-related **scenario analysis**, calibrated to
-  the entity's circumstances and available skills, capabilities and resources.
+  - **Jurisdictional relief on measurement method extended to partial application** — clarified that the relief operates where the entity is required to use a different method *in whole or in part* (IFRS S2.29(a)(ii), B21–B22, B24).
+  - **GWP values** — permits use of global warming potential values required by a jurisdictional authority or listing exchange that are **not** from the latest IPCC assessment report, rather than mandating the latest IPCC values.
+  - **Scope 3 Category 15** — an entity may limit measurement and disclosure of Category 15 (investments) emissions to **financed emissions** as defined in IFRS S2, disclosing the total Category 15 figure and the financed-emissions subtotal within it (new IFRS S2.29C).
+  - **Industry classification** — permits an alternative industry-classification system in place of GICS when disaggregating financed-emissions information (new IFRS S2.B62A, B63A; the entity discloses the system selected).
+  - **Transition on first applying the amendments (IFRS S2.C6):** an entity that previously applied IFRS S2 must, unless impracticable, **adjust the comparative period** — (a) if it changed its GHG measurement method under the new reliefs, as if it had changed in the comparative period; (b) if it disclosed Scope 3 including Category 15, to present the Category 15 total and the financed- emissions subtotal as if IFRS S2.29C had applied; and (c) if it disaggregated financed emissions by industry, to reflect the newly selected classification system as if it had been used then.
+- **Industry-based guidance:** the *Industry-based Guidance on Implementing IFRS S2* (derived from SASB) must be referred to and its applicability considered (IFRS S2.127).
+- **Climate resilience (IFRS S2.22–23):** requires climate-related **scenario analysis**, calibrated to the entity's circumstances and available skills, capabilities and resources.
 
 **Common pitfalls:**
 - Applying the December 2025 amendments early without disclosing that fact (IFRS S2.C1B requires it).
-- Applying the Category 15 / classification-system reliefs prospectively only — IFRS S2.C6 requires the
-  comparative period to be adjusted unless impracticable.
-- Treating IFRS S2.C4(a) and C4(b) as available in any year. Both are **first-year-of-IFRS S2-application**
-  reliefs only.
-- Confusing IFRS S2.C4 (first-time IFRS S2 reliefs) with IFRS S2.C6 (transition into the 2025 amendments
-  for an entity already applying IFRS S2). They are different populations and different mechanics.
+- Applying the Category 15 / classification-system reliefs prospectively only — IFRS S2.C6 requires the comparative period to be adjusted unless impracticable.
+- Treating IFRS S2.C4(a) and C4(b) as available in any year. Both are **first-year-of-IFRS S2-application** reliefs only.
+- Confusing IFRS S2.C4 (first-time IFRS S2 reliefs) with IFRS S2.C6 (transition into the 2025 amendments for an entity already applying IFRS S2). They are different populations and different mechanics.
 
 **ISSB pipeline as at 28 August 2026 — what has and has not been issued.** This is the part most likely to be reported wrongly from stale training data, so state it plainly.
 
@@ -5217,311 +4352,124 @@ climate-related risks and opportunities on the entity's prospects, using the fou
 | Human capital | **Not issued.** Still a **research** project — the ISSB received an update on necessity and feasibility of standard-setting on 10 December 2025 and was not asked to make decisions. No exposure draft. |
 | Enhancing the SASB Standards — Phase 1 | **Exposure draft** issued July 2025 (comprehensive amendments to 9 SASB Standards, targeted amendments to 41 others); comment period closed 30 November 2025; redeliberations under way through 2026. A **second exposure draft** covering three further SASB Standards, plus consequential amendments to the *Industry-based Guidance on Implementing IFRS S2*, was issued in **March 2026**. Nothing finalised. |
 
-**Jurisdictional adoption of ISSB Standards.** The IFRS Foundation maintains a live tracker at
-`ifrs.org/ifrs-sustainability-disclosure-standards-around-the-world/use-by-jurisdiction/`, plus a
-*Jurisdictional Guide for the adoption or other use of ISSB Standards* and (from February 2026) a
-*Jurisdictional Readiness Assessment Guide and tool*. **Always check the tracker rather than reciting a
-list — this moves quarterly.**
+**Jurisdictional adoption of ISSB Standards.** The IFRS Foundation maintains a live tracker at `ifrs.org/ifrs-sustainability-disclosure-standards-around-the-world/use-by-jurisdiction/`, plus a *Jurisdictional Guide for the adoption or other use of ISSB Standards* and (from February 2026) a *Jurisdictional Readiness Assessment Guide and tool*. **Always check the tracker rather than reciting a list — this moves quarterly.**
 
 As at the tracker's **16 July 2026** update, finalised jurisdictional profiles existed for 25 jurisdictions:
 
-- **Asia-Pacific:** Australia, Bangladesh, Hong Kong SAR, Japan, Malaysia, Pakistan, Philippines,
-  Singapore, Sri Lanka, Chinese Taipei, Thailand
+- **Asia-Pacific:** Australia, Bangladesh, Hong Kong SAR, Japan, Malaysia, Pakistan, Philippines, Singapore, Sri Lanka, Chinese Taipei, Thailand
 - **Middle East:** Jordan, Qatar
 - **Africa:** Ghana, Kenya, Nigeria, Rwanda, Tanzania, Zambia
 - **Americas:** Brazil, Chile, Mexico
 - **Europe:** Türkiye
 - **Forthcoming profiles:** Oman, Zimbabwe
-- **Snapshots** (approach published but not yet finalised) for 9 further jurisdictions including Canada,
-  Mainland China, South Korea, the United Kingdom, Indonesia and Switzerland
+- **Snapshots** (approach published but not yet finalised) for 9 further jurisdictions including Canada, Mainland China, South Korea, the United Kingdom, Indonesia and Switzerland
 
-Earlier Foundation reporting (September 2025 data) put the total at **36–37 jurisdictions** that have
-decided to use, or are taking steps to introduce, ISSB Standards — together roughly 60% of global GDP,
-over 40% of global market capitalisation and around 60% of global GHG emissions.
+Earlier Foundation reporting (September 2025 data) put the total at **36–37 jurisdictions** that have decided to use, or are taking steps to introduce, ISSB Standards — together roughly 60% of global GDP, over 40% of global market capitalisation and around 60% of global GHG emissions.
 
 Two important non-adoptions to state explicitly:
 
-- **European Union — does not apply ISSB Standards.** In-scope entities report under the **CSRD** using
-  the **ESRS**. The European Commission adopted the **revised, simplified ESRS by delegated act on
-  3 July 2026**, the final major step of the February 2025 "Omnibus" simplification package. It cuts
-  mandatory datapoints by over 60% and total datapoints by over 70%, and is accompanied by a **voluntary
-  standard for smaller companies outside CSRD scope** with a "value chain cap". It takes effect after the
-  European Parliament/Council scrutiny period (two months, extendable by two). Reported application is for
-  financial years beginning on or after **1 January 2027**. ESRS and ISSB Standards are designed to be
-  interoperable, but they are not the same requirements and an ESRS report is not an ISSB report.
-- **United Kingdom — UK SRS, not IFRS S1/S2 directly.** The Department for Business and Trade published
-  the final **UK SRS S1 and UK SRS S2 on 25 February 2026**, based on IFRS S1 and IFRS S2 with UK
-  amendments — notably references to the **SASB Standards made optional rather than mandatory**, and the
-  specific time limits on the transition reliefs removed. Available for **voluntary** use at publication;
-  the FCA consulted (CP26/5, responses due 20 March 2026) on requiring listed companies to report against
-  UK SRS from **1 January 2027**, with final rules expected autumn 2026.
+- **European Union — does not apply ISSB Standards.** In-scope entities report under the **CSRD** using the **ESRS**. The European Commission adopted the **revised, simplified ESRS by delegated act on 3 July 2026**, the final major step of the February 2025 "Omnibus" simplification package. It cuts mandatory datapoints by over 60% and total datapoints by over 70%, and is accompanied by a **voluntary standard for smaller companies outside CSRD scope** with a "value chain cap". It takes effect after the European Parliament/Council scrutiny period (two months, extendable by two). Reported application is for financial years beginning on or after **1 January 2027**. ESRS and ISSB Standards are designed to be interoperable, but they are not the same requirements and an ESRS report is not an ISSB report.
+- **United Kingdom — UK SRS, not IFRS S1/S2 directly.** The Department for Business and Trade published the final **UK SRS S1 and UK SRS S2 on 25 February 2026**, based on IFRS S1 and IFRS S2 with UK amendments — notably references to the **SASB Standards made optional rather than mandatory**, and the specific time limits on the transition reliefs removed. Available for **voluntary** use at publication; the FCA consulted (CP26/5, responses due 20 March 2026) on requiring listed companies to report against UK SRS from **1 January 2027**, with final rules expected autumn 2026.
 
 ---
 
 ## IFRS for SMEs Accounting Standard (third edition)
 
-**Scope:** A self-contained Standard (under 330 pages) for entities that **do not have public
-accountability** and publish general purpose financial statements for external users. An entity has
-public accountability if its debt or equity instruments are traded in a public market or it is in the
-process of issuing them, or if it holds assets in a fiduciary capacity for a broad group of outsiders as
-one of its primary businesses (banks, insurers, brokers, pension funds, mutual funds). Size is not the
-test. Required or permitted in around **85 jurisdictions**.
+**Scope:** A self-contained Standard (under 330 pages) for entities that **do not have public accountability** and publish general purpose financial statements for external users. An entity has public accountability if its debt or equity instruments are traded in a public market or it is in the process of issuing them, or if it holds assets in a fiduciary capacity for a broad group of outsiders as one of its primary businesses (banks, insurers, brokers, pension funds, mutual funds). Size is not the test. Required or permitted in around **85 jurisdictions**.
 
-**Status and amendments:** Third edition **issued 27 February 2025**; effective for annual periods
-beginning on or after **1 January 2027**; **earlier application permitted**. Until then an entity may
-continue to apply the second edition (2015). Product of the IASB's **second comprehensive review**.
-Distinguish it from **IFRS 19 Subsidiaries without Public Accountability: Disclosures** (issued 9 May
-2024, effective 1 Jan 2027) — IFRS 19 keeps full IFRS recognition and measurement and reduces only
-disclosure; the IFRS for SMEs is a separate, simplified recognition and measurement framework.
+**Status and amendments:** Third edition **issued 27 February 2025**; effective for annual periods beginning on or after **1 January 2027**; **earlier application permitted**. Until then an entity may continue to apply the second edition (2015). Product of the IASB's **second comprehensive review**. Distinguish it from **IFRS 19 Subsidiaries without Public Accountability: Disclosures** (issued 9 May 2024, effective 1 Jan 2027) — IFRS 19 keeps full IFRS recognition and measurement and reduces only disclosure; the IFRS for SMEs is a separate, simplified recognition and measurement framework.
 
-**Core principle:** Full IFRS recognition and measurement, simplified where the IASB judged the
-simplification met three tests applied in the review's "alignment approach": **relevance to SMEs**,
-**simplicity**, and **faithful representation**.
+**Core principle:** Full IFRS recognition and measurement, simplified where the IASB judged the simplification met three tests applied in the review's "alignment approach": **relevance to SMEs**, **simplicity**, and **faithful representation**.
 
 **Key rules — what the third edition changed:**
-- **Section 2 Concepts and Pervasive Principles — rebased on the 2018 Conceptual Framework.** The previous
-  Section 2 was based on the 1989 *Framework*. The revision brings in the **updated definitions and
-  recognition criteria for assets and liabilities**, new concepts on **measurement, presentation and
-  disclosure**, guidance on **derecognition**, and the clarified concepts of **prudence, stewardship,
-  measurement uncertainty and substance over form**. The IASB retained **'undue cost or effort'** as a
-  relief mechanism (with disclosure of how and why it was applied), and added an **overriding principle
-  that the requirements in other sections take precedence over Section 2** where they conflict.
-- **Section 23 Revenue from Contracts with Customers — the largest change.** Renamed and rebuilt on the
-  **IFRS 15 five-step model**: identify the contract; identify the **promises** in the contract;
-  determine the transaction price; allocate the transaction price to the promises; recognise revenue when
-  (or as) the SME fulfils a promise. Simplifications:
+- **Section 2 Concepts and Pervasive Principles — rebased on the 2018 Conceptual Framework.** The previous Section 2 was based on the 1989 *Framework*. The revision brings in the **updated definitions and recognition criteria for assets and liabilities**, new concepts on **measurement, presentation and disclosure**, guidance on **derecognition**, and the clarified concepts of **prudence, stewardship, measurement uncertainty and substance over form**. The IASB retained **'undue cost or effort'** as a relief mechanism (with disclosure of how and why it was applied), and added an **overriding principle that the requirements in other sections take precedence over Section 2** where they conflict.
+- **Section 23 Revenue from Contracts with Customers — the largest change.** Renamed and rebuilt on the **IFRS 15 five-step model**: identify the contract; identify the **promises** in the contract; determine the transaction price; allocate the transaction price to the promises; recognise revenue when (or as) the SME fulfils a promise. Simplifications:
   - the term **"promise"** replaces "performance obligation"
-  - **warranties** are accounted for by reference to whether the customer *can choose* to buy the good or
-    service with or without the warranty — no assessment of whether the warranty is a service
-  - **customer options** for additional goods or services are accounted for only where the SME can do so
-    without undue cost or effort
+  - **warranties** are accounted for by reference to whether the customer *can choose* to buy the good or service with or without the warranty — no assessment of whether the warranty is a service
+  - **customer options** for additional goods or services are accounted for only where the SME can do so without undue cost or effort
   - **costs to obtain a contract are expensed as incurred** — no IFRS 15 asset-recognition assessment
   - topics judged not relevant to SMEs are omitted (for example, consideration payable to a customer)
   - disclosures streamlined relative to IFRS 15 but improved relative to the second edition
   - **transition is a policy choice (SMEs A27)** — see the transition block below
-- **Section 11 Financial Instruments — Sections 11 and 12 merged.** The old Section 11 *Basic Financial
-  Instruments* and Section 12 *Other Financial Instrument Issues* are combined into a single **Section 11
-  Financial Instruments**. Applying the alignment approach to IFRS 9, the IASB:
-  - added a **classification principle** based on contractual cash flows, **deliberately omitting the
-    IFRS 9 business model assessment** — SMEs rarely hold assets under more than one business model
-  - added new disclosures for financial assets and financial liabilities, including the **age of financial
-    assets measured at amortised cost**
-  - added the definition of a **financial guarantee contract**, and moved **intragroup financial guarantee
-    contracts issued at nil consideration** into the scope of Section 21 *Provisions and Contingencies*
+- **Section 11 Financial Instruments — Sections 11 and 12 merged.** The old Section 11 *Basic Financial Instruments* and Section 12 *Other Financial Instrument Issues* are combined into a single **Section 11 Financial Instruments**. Applying the alignment approach to IFRS 9, the IASB:
+  - added a **classification principle** based on contractual cash flows, **deliberately omitting the IFRS 9 business model assessment** — SMEs rarely hold assets under more than one business model
+  - added new disclosures for financial assets and financial liabilities, including the **age of financial assets measured at amortised cost**
+  - added the definition of a **financial guarantee contract**, and moved **intragroup financial guarantee contracts issued at nil consideration** into the scope of Section 21 *Provisions and Contingencies*
   - **removed the option to fall back to IAS 39**
-  - **retained**: the **incurred loss** impairment model (there is **no ECL model** in the IFRS for SMEs),
-    the existing hedge accounting requirements, and the existing derecognition requirements
-  - did **not** introduce the FVTPL option for financial liabilities, so **own credit risk** in OCI does
-    not arise
-- **New Section 12 Fair Value Measurement.** Fair value measurement and disclosure requirements
-  previously scattered across the Standard are consolidated into a new Section 12, aligned with IFRS 13:
-  the **IFRS 13 definition of fair value** is adopted, the requirements are aligned with the **fair value
-  hierarchy**, and the fair value disclosures are aligned with IFRS 13's.
+  - **retained**: the **incurred loss** impairment model (there is **no ECL model** in the IFRS for SMEs), the existing hedge accounting requirements, and the existing derecognition requirements
+  - did **not** introduce the FVTPL option for financial liabilities, so **own credit risk** in OCI does not arise
+- **New Section 12 Fair Value Measurement.** Fair value measurement and disclosure requirements previously scattered across the Standard are consolidated into a new Section 12, aligned with IFRS 13: the **IFRS 13 definition of fair value** is adopted, the requirements are aligned with the **fair value hierarchy**, and the fair value disclosures are aligned with IFRS 13's.
 - **Section 19 Business Combinations and Goodwill — rebased from IFRS 3 (2004) onto IFRS 3 (2008):**
   - **definition of a business** updated to align with the current IFRS 3 definition
-  - **identifying the acquirer** — new requirements explaining that a newly formed entity created to
-    effect the combination may not be the acquirer
-  - **contingent liabilities** — cannot be recognised unless they meet the Section 2 definition of a
-    liability
-  - **contingent consideration** measured at fair value where measurable reliably without undue cost or
-    effort
-  - **acquisition costs expensed** in profit or loss when incurred (previously capitalised into the cost
-    of the combination)
+  - **identifying the acquirer** — new requirements explaining that a newly formed entity created to effect the combination may not be the acquirer
+  - **contingent liabilities** — cannot be recognised unless they meet the Section 2 definition of a liability
+  - **contingent consideration** measured at fair value where measurable reliably without undue cost or effort
+  - **acquisition costs expensed** in profit or loss when incurred (previously capitalised into the cost of the combination)
   - new requirements for **step acquisitions**
 - **Section 9 Consolidated and Separate Financial Statements — rebased on IFRS 10:**
   - the **IFRS 10 control definition** adopted as the single basis for consolidation
-  - on **loss of control**, the retained interest in the former subsidiary is remeasured to **fair value**
-    at that date, with the gain or loss in profit or loss
-  - the **rebuttable presumption** that control exists where the investor holds a majority of voting
-    rights is **retained** (this differs from IFRS 10)
+  - on **loss of control**, the retained interest in the former subsidiary is remeasured to **fair value** at that date, with the gain or loss in profit or loss
+  - the **rebuttable presumption** that control exists where the investor holds a majority of voting rights is **retained** (this differs from IFRS 10)
   - the IFRS 10 **investment entity** fair value exception was **not** introduced
-- **Other amendments:** supplier finance arrangement disclosures; a reconciliation of changes in
-  liabilities arising from financing activities; the effects of vesting and non-vesting conditions on
-  cash-settled share-based payments; clarifications to paragraph 28.19 (measurement simplification for
-  defined benefit obligations) with added disclosures; alignment of the timing of recognition of
-  **termination benefits** with the recognition of restructuring costs under Section 21; and requirements
-  for assessing whether a currency is **exchangeable**, determining the exchange rate and the related
-  disclosures (mirroring the IAS 21 *Lack of Exchangeability* amendments).
+- **Other amendments:** supplier finance arrangement disclosures; a reconciliation of changes in liabilities arising from financing activities; the effects of vesting and non-vesting conditions on cash-settled share-based payments; clarifications to paragraph 28.19 (measurement simplification for defined benefit obligations) with added disclosures; alignment of the timing of recognition of **termination benefits** with the recognition of restructuring costs under Section 21; and requirements for assessing whether a currency is **exchangeable**, determining the exchange rate and the related disclosures (mirroring the IAS 21 *Lack of Exchangeability* amendments).
 
 **What the IASB deliberately did NOT change:**
-- **IFRS 16 Leases** — deferred to the next comprehensive review, pending the outcome of the IASB's
-  post-implementation review of IFRS 16. The IFRS for SMEs therefore **retains the operating/finance lease
-  distinction for lessees**. This is now the single largest recognition difference from full IFRS.
-- **IFRS 14 / regulatory deferral accounts** — deferred pending completion of the rate-regulated
-  activities project (now IFRS 20, issued 27 May 2026).
+- **IFRS 16 Leases** — deferred to the next comprehensive review, pending the outcome of the IASB's post-implementation review of IFRS 16. The IFRS for SMEs therefore **retains the operating/finance lease distinction for lessees**. This is now the single largest recognition difference from full IFRS.
+- **IFRS 14 / regulatory deferral accounts** — deferred pending completion of the rate-regulated activities project (now IFRS 20, issued 27 May 2026).
 - **Cryptocurrency and cryptoassets** — not addressed; to be revisited in the next comprehensive review.
 
-**Transition to the third edition (Appendix A — an integral part of the Standard).** The headline
-"retrospective with reliefs" understates it: several of the biggest changes are applied **prospectively**,
-and revenue carries a full policy choice. The **date of initial application** is the beginning of the
-reporting period in which the entity first applies the third edition (SMEs A2).
-- **SMEs A1** — apply the amended and revised sections for annual periods beginning on or after
-  **1 January 2027**; earlier application permitted; if applied earlier, **disclose that fact**.
-- **SMEs A2** — apply retrospectively in accordance with **Section 10 *Accounting Policies, Estimates and
-  Errors***, **except as stated in A3–A49**.
+**Transition to the third edition (Appendix A — an integral part of the Standard).** The headline "retrospective with reliefs" understates it: several of the biggest changes are applied **prospectively**, and revenue carries a full policy choice. The **date of initial application** is the beginning of the reporting period in which the entity first applies the third edition (SMEs A2).
+- **SMEs A1** — apply the amended and revised sections for annual periods beginning on or after **1 January 2027**; earlier application permitted; if applied earlier, **disclose that fact**.
+- **SMEs A2** — apply retrospectively in accordance with **Section 10 *Accounting Policies, Estimates and Errors***, **except as stated in A3–A49**.
 - **SMEs A3** — relief from the paragraph 10.13(b) disclosure for the current period.
 - **Applied prospectively from the date of initial application:**
-  - **New Section 12 *Fair Value Measurement*** and paragraph 2.89 (**SMEs A12**); Section 12 disclosures
-    are not required for comparative periods before that date (**A13**). A14 lists every paragraph the new
-    Section 12 amended or deleted.
-  - **Revised Section 19 *Business Combinations and Goodwill*** — applied only to combinations with an
-    **acquisition date on or after** the date of initial application (**SMEs A21**). Past combinations are
-    not reopened.
-  - Investment property acquisitions under 16.3A (**A16**); transfers of investment property under 16.9,
-    with a reassessment at the date of initial application and disclosure of amounts reclassified
-    (**A17–A18**); depreciation under 17.21–17.22 (**A19**); intangibles amortisation under 18.22A
-    (**A20**); materiality under 3.15A–3.16 (**A4**).
-  - **Share-based payment** — scope paragraph 26.1C (**A37**), the fair value definition in 26.1D–26.1E
-    (**A38**), the amended and new vesting-condition definitions in 26.9 (**A39**), the cash-settled
-    vesting-condition measurement in 26.14A–26.14B (**A40**, applied to awards **unvested** at the date of
-    initial application and to later grants), and net settlement for withholding tax in 26.15–26.15D
-    (**A41**, applied to awards unvested — or vested but unexercised — at that date and to later grants).
-- **Section 9 control model (SMEs A5–A10):** an entity that must now consolidate a previously
-  unconsolidated investee measures its assets, liabilities and NCI as if it had consolidated from the date
-  control was obtained, or falls back to a fair value / carrying-amount measurement at the date of initial
-  application. **A8** removes any need to adjust prior periods where the consolidation conclusion is
-  unchanged either way. **A10** — do **not** restate an investment in a former subsidiary, or remeasure the
-  gain or loss, where control was lost **before** the date of initial application.
-- **Section 11 for entities coming off the IAS 39 fallback (SMEs A11):** retrospective, with four carve-outs
-  — (a) do not resurrect financial assets and liabilities already derecognised under IAS 39, with a choice
-  for items IAS 39 did not derecognise but Section 11 would; (b) assess the 11.9–11.9ZA classification
-  conditions on the facts at the **date of initial application**, then apply that classification
-  retrospectively; (c) where retrospective effective-interest is impracticable, use fair value as the
-  gross carrying amount / amortised cost; and (d) apply the **Part II hedge accounting** requirements
-  **prospectively**, leaving pre-transition hedge accounting for expired relationships unchanged.
+  - **New Section 12 *Fair Value Measurement*** and paragraph 2.89 (**SMEs A12**); Section 12 disclosures are not required for comparative periods before that date (**A13**). A14 lists every paragraph the new Section 12 amended or deleted.
+  - **Revised Section 19 *Business Combinations and Goodwill*** — applied only to combinations with an **acquisition date on or after** the date of initial application (**SMEs A21**). Past combinations are not reopened.
+  - Investment property acquisitions under 16.3A (**A16**); transfers of investment property under 16.9, with a reassessment at the date of initial application and disclosure of amounts reclassified (**A17–A18**); depreciation under 17.21–17.22 (**A19**); intangibles amortisation under 18.22A (**A20**); materiality under 3.15A–3.16 (**A4**).
+  - **Share-based payment** — scope paragraph 26.1C (**A37**), the fair value definition in 26.1D–26.1E (**A38**), the amended and new vesting-condition definitions in 26.9 (**A39**), the cash-settled vesting-condition measurement in 26.14A–26.14B (**A40**, applied to awards **unvested** at the date of initial application and to later grants), and net settlement for withholding tax in 26.15–26.15D (**A41**, applied to awards unvested — or vested but unexercised — at that date and to later grants).
+- **Section 9 control model (SMEs A5–A10):** an entity that must now consolidate a previously unconsolidated investee measures its assets, liabilities and NCI as if it had consolidated from the date control was obtained, or falls back to a fair value / carrying-amount measurement at the date of initial application. **A8** removes any need to adjust prior periods where the consolidation conclusion is unchanged either way. **A10** — do **not** restate an investment in a former subsidiary, or remeasure the gain or loss, where control was lost **before** the date of initial application.
+- **Section 11 for entities coming off the IAS 39 fallback (SMEs A11):** retrospective, with four carve-outs — (a) do not resurrect financial assets and liabilities already derecognised under IAS 39, with a choice for items IAS 39 did not derecognise but Section 11 would; (b) assess the 11.9–11.9ZA classification conditions on the facts at the **date of initial application**, then apply that classification retrospectively; (c) where retrospective effective-interest is impracticable, use fair value as the gross carrying amount / amortised cost; and (d) apply the **Part II hedge accounting** requirements **prospectively**, leaving pre-transition hedge accounting for expired relationships unchanged.
 - **Revised Section 23 Revenue — a policy choice (SMEs A27),** applied consistently to all contracts:
-  - **(a) Retrospectively** under Section 10, subject to **A28–A31**. **A28** offers three exemptions,
-    including not restating **completed contracts** that begin and end within the same reporting period or
-    were completed at the beginning of the earliest period presented (**A29** defines "completed
-    contract"). **A30** — disclose the use of any exemption and apply it consistently to all periods
-    presented. **A31** — the 10.13(b) adjustment disclosure is required only for the annual period
-    immediately preceding the date of initial application, not earlier comparatives.
-  - **(b) Prospectively** under **A32–A36** — apply the revised Section 23 only to contracts **beginning
-    after** the date of initial application, without changing the policy for contracts already in progress.
-    **A34** and **A36** set the disclosures, including, for periods in which pre-transition contracts remain
-    in progress, disclosure about those contracts. **A35** — the Section 23 disclosures need not be applied
-    to comparative information for periods before the date of initial application.
-  - **A33** lists every paragraph elsewhere in the Standard that the revised Section 23 amended, deleted or
-    added.
-- **Retrospective, with a narrow carve-out:** the defined benefit measurement simplification in 28.19
-  (**SMEs A42** — retrospective under Section 10, but no requirement to adjust the carrying amount of
-  assets in the scope of other sections), and the deferred tax on unrealised losses amendments in 29.16A,
-  29.19(a) and 29.19A (**SMEs A43**).
-- **Table A1** in Appendix A lists every paragraph added, amended or deleted in the third edition against
-  the second edition — the practical starting point for a gap analysis.
+  - **(a) Retrospectively** under Section 10, subject to **A28–A31**. **A28** offers three exemptions, including not restating **completed contracts** that begin and end within the same reporting period or were completed at the beginning of the earliest period presented (**A29** defines "completed contract"). **A30** — disclose the use of any exemption and apply it consistently to all periods presented. **A31** — the 10.13(b) adjustment disclosure is required only for the annual period immediately preceding the date of initial application, not earlier comparatives.
+  - **(b) Prospectively** under **A32–A36** — apply the revised Section 23 only to contracts **beginning after** the date of initial application, without changing the policy for contracts already in progress. **A34** and **A36** set the disclosures, including, for periods in which pre-transition contracts remain in progress, disclosure about those contracts. **A35** — the Section 23 disclosures need not be applied to comparative information for periods before the date of initial application.
+  - **A33** lists every paragraph elsewhere in the Standard that the revised Section 23 amended, deleted or added.
+- **Retrospective, with a narrow carve-out:** the defined benefit measurement simplification in 28.19 (**SMEs A42** — retrospective under Section 10, but no requirement to adjust the carrying amount of assets in the scope of other sections), and the deferred tax on unrealised losses amendments in 29.16A, 29.19(a) and 29.19A (**SMEs A43**).
+- **Table A1** in Appendix A lists every paragraph added, amended or deleted in the third edition against the second edition — the practical starting point for a gap analysis.
 
 **Common pitfalls:**
 - Applying an **ECL model** under the IFRS for SMEs. The third edition retains the **incurred loss** model.
 - Assuming lessee leases are now on balance sheet. They are not — IFRS 16 alignment was deferred.
-- Treating the IFRS for SMEs as available to a listed subsidiary. Public accountability is assessed at the
-  reporting entity level; a subsidiary whose own debt or equity trades publicly cannot use it.
-- Confusing the IFRS for SMEs with **IFRS 19** — different frameworks, different eligibility, different
-  effect (measurement vs disclosure only).
-- Assuming the third edition applies now. It is effective **1 January 2027**; the 2015 second edition
-  remains in force until then unless the entity early-adopts.
-- **Planning a full retrospective restatement across the board.** Appendix A applies several of the
-  largest changes **prospectively** — the new Section 12 fair value requirements (A12) and the revised
-  Section 19 business combinations (A21, acquisition date on or after the date of initial application).
-  Past business combinations are **not** reopened, and neither is a subsidiary disposed of before the date
-  of initial application (A10). Scoping the transition project as if everything were retrospective wastes
-  effort; scoping it as if nothing were misses Sections 9, 11, 23, 28 and 29.
-- Treating the Section 23 transition as a single prescribed method. It is an **A27 policy choice** between
-  retrospective (A28–A31) and prospective (A32–A36), applied **consistently to all contracts**, with
-  different disclosure consequences either way.
+- Treating the IFRS for SMEs as available to a listed subsidiary. Public accountability is assessed at the reporting entity level; a subsidiary whose own debt or equity trades publicly cannot use it.
+- Confusing the IFRS for SMEs with **IFRS 19** — different frameworks, different eligibility, different effect (measurement vs disclosure only).
+- Assuming the third edition applies now. It is effective **1 January 2027**; the 2015 second edition remains in force until then unless the entity early-adopts.
+- **Planning a full retrospective restatement across the board.** Appendix A applies several of the largest changes **prospectively** — the new Section 12 fair value requirements (A12) and the revised Section 19 business combinations (A21, acquisition date on or after the date of initial application). Past business combinations are **not** reopened, and neither is a subsidiary disposed of before the date of initial application (A10). Scoping the transition project as if everything were retrospective wastes effort; scoping it as if nothing were misses Sections 9, 11, 23, 28 and 29.
+- Treating the Section 23 transition as a single prescribed method. It is an **A27 policy choice** between retrospective (A28–A31) and prospective (A32–A36), applied **consistently to all contracts**, with different disclosure consequences either way.
 
 ---
 
 ## Jurisdictional adoption — "IFRS as issued by the IASB" vs local versions
 
-**Scope:** How IFRS Accounting Standards become law in a jurisdiction, and where local versions diverge
-from the IASB text. Material to any compliance statement, any audit opinion wording, and any transition
-plan. The IFRS Foundation maintains jurisdiction profiles for **170 jurisdictions** at
-`ifrs.org/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/` — check the profile rather than
-assuming. Individual profiles carry a "profile last updated" date and some are years out of date.
+**Scope:** How IFRS Accounting Standards become law in a jurisdiction, and where local versions diverge from the IASB text. Material to any compliance statement, any audit opinion wording, and any transition plan. The IFRS Foundation maintains jurisdiction profiles for **170 jurisdictions** at `ifrs.org/use-around-the-world/use-of-ifrs-standards-by-jurisdiction/` — check the profile rather than assuming. Individual profiles carry a "profile last updated" date and some are years out of date.
 
-**Core principle:** An unreserved statement of compliance with **IFRS Accounting Standards as issued by
-the IASB** (required by IAS 8 / IFRS 18 for that assertion) is only available where the entity applies the
-IASB text in full. Where a jurisdiction carves out or modifies a requirement and the entity uses the
-carve-out, the entity may state compliance only with the **local** version.
+**Core principle:** An unreserved statement of compliance with **IFRS Accounting Standards as issued by the IASB** (required by IAS 8 / IFRS 18 for that assertion) is only available where the entity applies the IASB text in full. Where a jurisdiction carves out or modifies a requirement and the entity uses the carve-out, the entity may state compliance only with the **local** version.
 
-**The EU endorsement mechanism.** Regulation (EC) No 1606/2002 requires EU-incorporated companies whose
-securities trade on a regulated market to prepare consolidated financial statements under **IFRS as
-adopted by the EU**. No IASB pronouncement has legal effect in the EU until endorsed. The steps:
+**The EU endorsement mechanism.** Regulation (EC) No 1606/2002 requires EU-incorporated companies whose securities trade on a regulated market to prepare consolidated financial statements under **IFRS as adopted by the EU**. No IASB pronouncement has legal effect in the EU until endorsed. The steps:
 1. The **IASB** issues a Standard, amendment or Interpretation.
-2. **EFRAG** issues draft endorsement advice, consults, then issues final **endorsement advice** to the
-   European Commission — assessing the technical criteria and whether endorsement is conducive to the
-   European public good.
-3. If the Commission decides to endorse, it prepares a **draft regulation** and submits it to the
-   **Accounting Regulatory Committee (ARC)** of Member State representatives, which votes.
-4. On a positive ARC opinion, the draft goes to the **European Parliament and the Council** for a
-   **three-month scrutiny period**.
-5. Absent objection, the Commission adopts the **endorsing regulation**, which is published in the
-   **Official Journal of the European Union**. **Endorsement is complete only on OJ publication** —
-   EFRAG advice and an ARC vote are not sufficient.
-The mechanism's role is oversight, not redrafting: it intervenes only where a Standard contains material
-deficiencies or fails to cater for features specific to the EU economic or legal environment. EFRAG
-publishes a running **EU Endorsement Status Report** giving IASB issue dates, IASB effective dates, EFRAG
-advice dates, ARC vote dates, endorsement dates and OJ publication dates.
+2. **EFRAG** issues draft endorsement advice, consults, then issues final **endorsement advice** to the European Commission — assessing the technical criteria and whether endorsement is conducive to the European public good.
+3. If the Commission decides to endorse, it prepares a **draft regulation** and submits it to the **Accounting Regulatory Committee (ARC)** of Member State representatives, which votes.
+4. On a positive ARC opinion, the draft goes to the **European Parliament and the Council** for a **three-month scrutiny period**.
+5. Absent objection, the Commission adopts the **endorsing regulation**, which is published in the **Official Journal of the European Union**. **Endorsement is complete only on OJ publication** — EFRAG advice and an ARC vote are not sufficient. The mechanism's role is oversight, not redrafting: it intervenes only where a Standard contains material deficiencies or fails to cater for features specific to the EU economic or legal environment. EFRAG publishes a running **EU Endorsement Status Report** giving IASB issue dates, IASB effective dates, EFRAG advice dates, ARC vote dates, endorsement dates and OJ publication dates.
 
 **"EU-adopted IFRS" is not "IFRS as issued by the IASB" — the two live carve-outs:**
-- **The IAS 39 macro-hedging (portfolio fair value hedge) carve-out.** In November 2004 the Commission
-  endorsed IAS 39 **except** for certain provisions on the full fair value option and on hedge accounting
-  — specifically, the provisions preventing hedge accounting for a **portfolio of core deposits**, and the
-  provisions treating **prepayment risk** as an interest rate risk. Nothing was substituted; the
-  provisions were simply removed. The fair value option carve-out was resolved in **November 2005** when
-  the Commission endorsed the restricted fair value option amendment. **The hedge accounting carve-out
-  remains in force** — confirmed by EFRAG's Endorsement Status Report of **17 July 2026**, which still
-  records the hedge accounting part of IAS 39 as not endorsed.
-  - **Keep the two sources distinct.** The IASB text tells you what the requirement is; **EFRAG and the
-    Official Journal tell you what the EU disapplied**. The paragraph references below are the IASB
-    requirements the carve-out bears on — they are not themselves the text of the carve-out, which lives
-    in the Commission regulation.
-  - **What the IASB requirements are.** Portfolio fair value hedging of interest rate risk sits in
-    **IAS 39.81A, 89A and AG114–AG132**. IAS 39.81A permits the hedged portion to be designated as **an
-    amount of currency** rather than as individual assets or liabilities, and permits designation on the
-    basis of **expected rather than contractual repricing dates** for a portfolio containing prepayable
-    items; IAS 39.89A permits the hedging gain or loss to be presented in a **separate line item** in the
-    statement of financial position rather than adjusting individual instruments' carrying amounts.
-  - **The core deposits point is IAS 39.AG118(b).** That paragraph explains that because IFRS 13 specifies
-    that the fair value of a financial liability with a demand feature (demand deposits and some time
-    deposits) **is not less than the amount payable on demand**, discounted from the first date the amount
-    could be required to be paid, such an item **cannot qualify for fair value hedge accounting for any
-    time period beyond the shortest period in which the holder can demand payment**. It follows that
-    demand deposits are not part of the designated hedged item under the IASB text — they only help
-    determine the amount of assets designated. **This is the constraint the EU carve-out lifts**, letting
-    EU banks designate core deposits over their behavioural, rather than contractual, life.
-  - **The prepayment point is IAS 39.81A read with AG126.** Under the IASB text, where expected repricing
-    dates are revised (for example for a change in expected prepayments) or actual repricing dates differ
-    from those expected, **ineffectiveness arises** — IAS 39.AG126 sets out how it is calculated. Changes
-    in expected repricing dates that clearly arise from factors other than the hedged interest rate, are
-    uncorrelated with it, and can be reliably separated (demographic or tax changes, say) are excluded;
-    where the entity cannot reliably separate them, the change is **assumed** to arise from the hedged
-    interest rate. It is this assimilation of prepayment behaviour to interest rate risk that the second
-    EU carve-out addresses.
-  - **Two routes into IAS 39 hedge accounting survive under IFRS 9.** An entity may elect as an accounting
-    policy to continue applying IAS 39 hedge accounting in full (**IFRS 9.7.2.21**), or — having otherwise
-    moved to IFRS 9 Chapter 6 — may apply IAS 39 **solely** for a fair value hedge of the interest rate
-    exposure of a portion of a portfolio (**IFRS 9.6.1.3**), in which case it must also apply IAS 39.81A,
-    89A and AG114–AG132. The EU carve-out operates on that second route, which is why it survives the move
-    to IFRS 9.
-  - The IASB's **Dynamic Risk Management** project is the intended long-run replacement; it has not
-    concluded.
-- **The IFRS 17 annual cohorts exemption.** The IASB requirement is **IFRS 17.22**: *an entity shall not
-  include contracts issued more than one year apart in the same group*, further dividing the groups
-  identified under IFRS 17.16–21 if necessary. IFRS 17 and the June 2020 amendments were endorsed in
-  **November 2021** (Commission decision 19 November 2021; OJ 23 November 2021 — Commission Regulation
-  (EU) 2021/2036) with an **optional exemption** from applying IFRS 17.22 to
-  **intergenerationally-mutualised and cash flow-matched contracts**. The Commission's reasoning was that
-  annual cohorts do not always reflect the business model or the legal and contractual features of such
-  contracts, which represent more than 70% of total EU life insurance liabilities. An entity using the
-  exemption **must disclose that fact and must not make an unreserved statement of compliance with IFRS as
-  issued by the IASB**. The Commission is to **review the exemption by 31 December 2027**, taking account
-  of the IASB's post-implementation review of IFRS 17. **Still in force as at 28 August 2026.**
-- A third, now-expired, EU "top-up": financial conglomerates could elect to keep their insurance-sector
-  entities on **IAS 39** rather than IFRS 9 for financial years beginning before 1 January 2021 (later
-  extended to 2023 via the IFRS 4 deferral amendments), subject to conditions on intra-group transfers and
-  separate IFRS 7 disclosure. Entities using it likewise could not assert compliance with IFRS as issued
-  by the IASB.
+- **The IAS 39 macro-hedging (portfolio fair value hedge) carve-out.** In November 2004 the Commission endorsed IAS 39 **except** for certain provisions on the full fair value option and on hedge accounting — specifically, the provisions preventing hedge accounting for a **portfolio of core deposits**, and the provisions treating **prepayment risk** as an interest rate risk. Nothing was substituted; the provisions were simply removed. The fair value option carve-out was resolved in **November 2005** when the Commission endorsed the restricted fair value option amendment. **The hedge accounting carve-out remains in force** — confirmed by EFRAG's Endorsement Status Report of **17 July 2026**, which still records the hedge accounting part of IAS 39 as not endorsed.
+  - **Keep the two sources distinct.** The IASB text tells you what the requirement is; **EFRAG and the Official Journal tell you what the EU disapplied**. The paragraph references below are the IASB requirements the carve-out bears on — they are not themselves the text of the carve-out, which lives in the Commission regulation.
+  - **What the IASB requirements are.** Portfolio fair value hedging of interest rate risk sits in **IAS 39.81A, 89A and AG114–AG132**. IAS 39.81A permits the hedged portion to be designated as **an amount of currency** rather than as individual assets or liabilities, and permits designation on the basis of **expected rather than contractual repricing dates** for a portfolio containing prepayable items; IAS 39.89A permits the hedging gain or loss to be presented in a **separate line item** in the statement of financial position rather than adjusting individual instruments' carrying amounts.
+  - **The core deposits point is IAS 39.AG118(b).** That paragraph explains that because IFRS 13 specifies that the fair value of a financial liability with a demand feature (demand deposits and some time deposits) **is not less than the amount payable on demand**, discounted from the first date the amount could be required to be paid, such an item **cannot qualify for fair value hedge accounting for any time period beyond the shortest period in which the holder can demand payment**. It follows that demand deposits are not part of the designated hedged item under the IASB text — they only help determine the amount of assets designated. **This is the constraint the EU carve-out lifts**, letting EU banks designate core deposits over their behavioural, rather than contractual, life.
+  - **The prepayment point is IAS 39.81A read with AG126.** Under the IASB text, where expected repricing dates are revised (for example for a change in expected prepayments) or actual repricing dates differ from those expected, **ineffectiveness arises** — IAS 39.AG126 sets out how it is calculated. Changes in expected repricing dates that clearly arise from factors other than the hedged interest rate, are uncorrelated with it, and can be reliably separated (demographic or tax changes, say) are excluded; where the entity cannot reliably separate them, the change is **assumed** to arise from the hedged interest rate. It is this assimilation of prepayment behaviour to interest rate risk that the second EU carve-out addresses.
+  - **Two routes into IAS 39 hedge accounting survive under IFRS 9.** An entity may elect as an accounting policy to continue applying IAS 39 hedge accounting in full (**IFRS 9.7.2.21**), or — having otherwise moved to IFRS 9 Chapter 6 — may apply IAS 39 **solely** for a fair value hedge of the interest rate exposure of a portion of a portfolio (**IFRS 9.6.1.3**), in which case it must also apply IAS 39.81A, 89A and AG114–AG132. The EU carve-out operates on that second route, which is why it survives the move to IFRS 9.
+  - The IASB's **Dynamic Risk Management** project is the intended long-run replacement; it has not concluded.
+- **The IFRS 17 annual cohorts exemption.** The IASB requirement is **IFRS 17.22**: *an entity shall not include contracts issued more than one year apart in the same group*, further dividing the groups identified under IFRS 17.16–21 if necessary. IFRS 17 and the June 2020 amendments were endorsed in **November 2021** (Commission decision 19 November 2021; OJ 23 November 2021 — Commission Regulation (EU) 2021/2036) with an **optional exemption** from applying IFRS 17.22 to **intergenerationally-mutualised and cash flow-matched contracts**. The Commission's reasoning was that annual cohorts do not always reflect the business model or the legal and contractual features of such contracts, which represent more than 70% of total EU life insurance liabilities. An entity using the exemption **must disclose that fact and must not make an unreserved statement of compliance with IFRS as issued by the IASB**. The Commission is to **review the exemption by 31 December 2027**, taking account of the IASB's post-implementation review of IFRS 17. **Still in force as at 28 August 2026.**
+- A third, now-expired, EU "top-up": financial conglomerates could elect to keep their insurance-sector entities on **IAS 39** rather than IFRS 9 for financial years beginning before 1 January 2021 (later extended to 2023 via the IFRS 4 deferral amendments), subject to conditions on intra-group transfers and separate IFRS 7 disclosure. Entities using it likewise could not assert compliance with IFRS as issued by the IASB.
 
 **EU endorsement status of recent pronouncements** (EFRAG Endorsement Status Report, 17 July 2026):
 
@@ -5535,16 +4483,9 @@ advice dates, ARC vote dates, endorsement dates and OJ publication dates.
 | Amendments to the Fair Value Option in IAS 28 | 26 Jun 2026 | 1 Jan 2027 | **Endorsement process not started** |
 | IFRS 14 *Regulatory Deferral Accounts* | 30 Jan 2014 | — | **Deliberately never endorsed** — the Commission decided to wait for the final Standard (now IFRS 20) |
 
-**United Kingdom — UK-adopted international accounting standards.** Since 1 January 2021 the UK has its
-own endorsement regime. The **UK Endorsement Board (UKEB)** assesses and adopts IASB pronouncements for
-use in the UK; the resulting body of requirements is **"UK-adopted international accounting standards"**,
-which is the framework named in UK company law and in UK audit reports. The UKEB publishes an annual
-consolidated text of all UK-adopted standards (the 2026 edition was published 11 March 2026, with a
-2 June 2026 correction to the IAS 39 text), a running **Adoption Status Report**, and must make the
-outcome of a final adoption vote public within three working days.
+**United Kingdom — UK-adopted international accounting standards.** Since 1 January 2021 the UK has its own endorsement regime. The **UK Endorsement Board (UKEB)** assesses and adopts IASB pronouncements for use in the UK; the resulting body of requirements is **"UK-adopted international accounting standards"**, which is the framework named in UK company law and in UK audit reports. The UKEB publishes an annual consolidated text of all UK-adopted standards (the 2026 edition was published 11 March 2026, with a 2 June 2026 correction to the IAS 39 text), a running **Adoption Status Report**, and must make the outcome of a final adoption vote public within three working days.
 
-The UK has moved **ahead of the EU** on the recent standards. Per the UKEB Adoption Status Report of
-**13 May 2026**:
+The UK has moved **ahead of the EU** on the recent standards. Per the UKEB Adoption Status Report of **13 May 2026**:
 
 | Pronouncement | UKEB adoption date | UK publication | IASB effective |
 |---|---|---|---|
@@ -5555,133 +4496,54 @@ The UK has moved **ahead of the EU** on the recent standards. Per the UKEB Adopt
 | Annual Improvements Volume 11 | 11 Feb 2025 | 13 Feb 2025 | 1 Jan 2026 |
 | Lack of Exchangeability (Amendments to IAS 21) | 15 Jul 2024 | 17 Jul 2024 | 1 Jan 2025 |
 
-Not yet UK-adopted as at that report: **Translation to a Hyperinflationary Presentation Currency
-(Amendments to IAS 21)** (issued 13 Nov 2025, effective 1 Jan 2027). IFRS 20 (27 May 2026) and the
-Amendments to the Fair Value Option in IAS 28 (26 Jun 2026) were issued after the report date and are not
-covered by it.
+Not yet UK-adopted as at that report: **Translation to a Hyperinflationary Presentation Currency (Amendments to IAS 21)** (issued 13 Nov 2025, effective 1 Jan 2027). IFRS 20 (27 May 2026) and the Amendments to the Fair Value Option in IAS 28 (26 Jun 2026) were issued after the report date and are not covered by it.
 
 **GCC and MENA.**
-- **Saudi Arabia — SOCPA-endorsed IFRS.** IFRS Accounting Standards are **required** for all domestic
-  listed companies, for non-listed companies, and in **separate** as well as consolidated financial
-  statements. The **Saudi Organization for Chartered and Professional Accountants (SOCPA)** operates a
-  formal endorsement process under its Accounting Standards Board regulation: translation of the new
-  Standard, then **technical, Sharia and legal review** for compatibility with the Saudi environment, with
-  input sought from regulators, preparers, auditors, investors, academics and the public.
-  - **"Endorsed" adds two local layers.** First, SOCPA **adds disclosure requirements** to several
-    Standards, mainly to reflect Sharia or local law. These are additive: they **do not prevent an entity
-    asserting compliance with IFRS Accounting Standards**. Second, SOCPA issues **its own pronouncements
-    for matters IFRS does not address** — most importantly **Zakat**, which has no IFRS equivalent.
-  - The compliance wording is therefore distinctive: financial statements are prepared "in conformity with
-    **IFRS Accounting Standards that are endorsed in Saudi Arabia and other standards and pronouncements
-    that are endorsed by SOCPA**". Dual reporting (conformity with both IFRS and local GAAP) is **not**
-    permitted.
-  - **Capital Market Authority (CMA) overlay on revaluation.** Listed companies were **obliged to use the
-    cost model** for property and investment property for financial periods within fiscal years starting
-    **before calendar 2022** (2023 for investment fund managers), and are **permitted** to use the fair
-    value or revaluation model for periods within fiscal years starting **during or after** calendar 2022
-    (2023 for investment fund managers). Any pre-2022 Saudi comparative will therefore be at cost.
-  - Saudi Arabia has **adopted the IFRS for SMEs Accounting Standard**, again with some added SOCPA
-    disclosures reflecting Sharia or local law.
-- **United Arab Emirates.** IFRS Accounting Standards are **required** — by **UAE Commercial Companies
-  Law No 2 of 2015** (in force 1 July 2015) for all companies, and by the listing rules of **NASDAQ
-  Dubai**, the **Dubai Financial Services Authority (DFSA)**, the **Dubai Financial Market PJSC** and the
-  **Abu Dhabi Securities Exchange**. There is **no local endorsement process**: new and amended IASB
-  pronouncements take effect on their IASB effective dates. No accounting policy options have been
-  eliminated and no modifications made to the IASB text. The **IFRS for SMEs** is permitted for all
-  entities meeting its definition.
-  - Two departures arise in **practice**, not in law, and the IFRS Foundation profile records them:
-    **IAS 19 is not applied to certain end-of-service benefits** (cost and lack of actuarial data), and
-    **directors' fees are recognised directly in equity** because the law requires it. Both are tolerated
-    on materiality grounds. Where a regulator (for example, a central bank imposing additional loan-loss
-    provisioning) requires a departure, the auditor's opinion is modified accordingly.
-  - Some Islamic financial institutions apply **AAOIFI** Financial Accounting Standards rather than IFRS.
-    The DFSA permitted AAOIFI historically but **prohibited it from December 2012** for entities it
-    regulates.
-- **Qatar.** IFRS Accounting Standards are **required** for all domestic listed companies, in separate as
-  well as consolidated financial statements, and for unlisted companies under **Commercial Law No. 5 of
-  2002**. **No modifications and no eliminated options.** Dual reporting is not permitted. The **Qatar
-  Exchange has permitted some Islamic financial institutions to apply AAOIFI standards**, with IFRS
-  required where AAOIFI does not address an issue. The **IFRS for SMEs has not been adopted** and is not
-  under consideration. Qatar has a **finalised ISSB jurisdictional profile** — one of only two in the
-  Middle East (with Jordan) as at 16 July 2026.
-- **Egypt — Egyptian Accounting Standards (EAS), not IFRS.** Egypt has **not adopted IFRS Accounting
-  Standards**. Domestic entities apply **EAS**, set by a Standard Setting Committee chaired by the
-  **Financial Regulatory Authority (FRA)** and issued by ministerial decree. EAS are **based on** IFRS but
-  are "not identical or as comprehensive"; they were drafted **in Arabic from the outset** and are **not
-  referred to as IFRS**. Auditors' reports and basis-of-preparation notes state conformity with **EAS**;
-  dual reporting is not permitted. The issuing decree requires preparers to look to **IFRS guidance for
-  transactions EAS does not address**.
-  - EAS history: the current version was issued **July 2015** and amended in **2019** and **2023**. The
-    2019 update added three Standards based on **IFRS 9, IFRS 15 and IFRS 16**. In **early 2023** a
-    Standard similar to **IFRS 17** was issued, effective for periods beginning on or after **1 July
-    2024**.
+- **Saudi Arabia — SOCPA-endorsed IFRS.** IFRS Accounting Standards are **required** for all domestic listed companies, for non-listed companies, and in **separate** as well as consolidated financial statements. The **Saudi Organization for Chartered and Professional Accountants (SOCPA)** operates a formal endorsement process under its Accounting Standards Board regulation: translation of the new Standard, then **technical, Sharia and legal review** for compatibility with the Saudi environment, with input sought from regulators, preparers, auditors, investors, academics and the public.
+  - **"Endorsed" adds two local layers.** First, SOCPA **adds disclosure requirements** to several Standards, mainly to reflect Sharia or local law. These are additive: they **do not prevent an entity asserting compliance with IFRS Accounting Standards**. Second, SOCPA issues **its own pronouncements for matters IFRS does not address** — most importantly **Zakat**, which has no IFRS equivalent.
+  - The compliance wording is therefore distinctive: financial statements are prepared "in conformity with **IFRS Accounting Standards that are endorsed in Saudi Arabia and other standards and pronouncements that are endorsed by SOCPA**". Dual reporting (conformity with both IFRS and local GAAP) is **not** permitted.
+  - **Capital Market Authority (CMA) overlay on revaluation.** Listed companies were **obliged to use the cost model** for property and investment property for financial periods within fiscal years starting **before calendar 2022** (2023 for investment fund managers), and are **permitted** to use the fair value or revaluation model for periods within fiscal years starting **during or after** calendar 2022 (2023 for investment fund managers). Any pre-2022 Saudi comparative will therefore be at cost.
+  - Saudi Arabia has **adopted the IFRS for SMEs Accounting Standard**, again with some added SOCPA disclosures reflecting Sharia or local law.
+- **United Arab Emirates.** IFRS Accounting Standards are **required** — by **UAE Commercial Companies Law No 2 of 2015** (in force 1 July 2015) for all companies, and by the listing rules of **NASDAQ Dubai**, the **Dubai Financial Services Authority (DFSA)**, the **Dubai Financial Market PJSC** and the **Abu Dhabi Securities Exchange**. There is **no local endorsement process**: new and amended IASB pronouncements take effect on their IASB effective dates. No accounting policy options have been eliminated and no modifications made to the IASB text. The **IFRS for SMEs** is permitted for all entities meeting its definition.
+  - Two departures arise in **practice**, not in law, and the IFRS Foundation profile records them: **IAS 19 is not applied to certain end-of-service benefits** (cost and lack of actuarial data), and **directors' fees are recognised directly in equity** because the law requires it. Both are tolerated on materiality grounds. Where a regulator (for example, a central bank imposing additional loan-loss provisioning) requires a departure, the auditor's opinion is modified accordingly.
+  - Some Islamic financial institutions apply **AAOIFI** Financial Accounting Standards rather than IFRS. The DFSA permitted AAOIFI historically but **prohibited it from December 2012** for entities it regulates.
+- **Qatar.** IFRS Accounting Standards are **required** for all domestic listed companies, in separate as well as consolidated financial statements, and for unlisted companies under **Commercial Law No. 5 of 2002**. **No modifications and no eliminated options.** Dual reporting is not permitted. The **Qatar Exchange has permitted some Islamic financial institutions to apply AAOIFI standards**, with IFRS required where AAOIFI does not address an issue. The **IFRS for SMEs has not been adopted** and is not under consideration. Qatar has a **finalised ISSB jurisdictional profile** — one of only two in the Middle East (with Jordan) as at 16 July 2026.
+- **Egypt — Egyptian Accounting Standards (EAS), not IFRS.** Egypt has **not adopted IFRS Accounting Standards**. Domestic entities apply **EAS**, set by a Standard Setting Committee chaired by the **Financial Regulatory Authority (FRA)** and issued by ministerial decree. EAS are **based on** IFRS but are "not identical or as comprehensive"; they were drafted **in Arabic from the outset** and are **not referred to as IFRS**. Auditors' reports and basis-of-preparation notes state conformity with **EAS**; dual reporting is not permitted. The issuing decree requires preparers to look to **IFRS guidance for transactions EAS does not address**.
+  - EAS history: the current version was issued **July 2015** and amended in **2019** and **2023**. The 2019 update added three Standards based on **IFRS 9, IFRS 15 and IFRS 16**. In **early 2023** a Standard similar to **IFRS 17** was issued, effective for periods beginning on or after **1 July 2024**.
   - **Specific departures from IFRS** (per the IFRS Foundation jurisdiction profile):
-    - **Employees' profit sharing is recognised as an equity distribution, not as an expense** in profit
-      or loss. This is the single most consequential difference for earnings comparability.
-    - A **completely different model for foreign currency translation differences** arising from the
-      **2016 and 2022 currency devaluations**, extended to end-2023. One-time application, but with
-      continuing consequences for the depreciation of remeasured assets.
-    - The **revaluation models for PP&E, intangible assets and investment property were not permitted**
-      under EAS until January 2023; **investment property is accounted for under the PP&E revaluation
-      model**, not the IAS 40 fair value model.
-    - The **single-statement** presentation of comprehensive income is **not available** — the statement
-      of profit or loss must be a separate primary financial statement.
-    - The **equity method is not an alternative in separate financial statements** (the IAS 27 option
-      reinstated in 2014 does not exist in EAS).
-  - Separate frameworks exist for **banks** (Central Bank of Egypt framework, 2008, amended 2019) and for
-    **insurers** (guidance superseded by requirements based on **EAS 50** from July 2024).
-  - The **IFRS for SMEs has not been adopted and is not under consideration**; EAS effective 1 January
-    2016 include their own special requirements for small and medium-sized entities.
+    - **Employees' profit sharing is recognised as an equity distribution, not as an expense** in profit or loss. This is the single most consequential difference for earnings comparability.
+    - A **completely different model for foreign currency translation differences** arising from the **2016 and 2022 currency devaluations**, extended to end-2023. One-time application, but with continuing consequences for the depreciation of remeasured assets.
+    - The **revaluation models for PP&E, intangible assets and investment property were not permitted** under EAS until January 2023; **investment property is accounted for under the PP&E revaluation model**, not the IAS 40 fair value model.
+    - The **single-statement** presentation of comprehensive income is **not available** — the statement of profit or loss must be a separate primary financial statement.
+    - The **equity method is not an alternative in separate financial statements** (the IAS 27 option reinstated in 2014 does not exist in EAS).
+  - Separate frameworks exist for **banks** (Central Bank of Egypt framework, 2008, amended 2019) and for **insurers** (guidance superseded by requirements based on **EAS 50** from July 2024).
+  - The **IFRS for SMEs has not been adopted and is not under consideration**; EAS effective 1 January 2016 include their own special requirements for small and medium-sized entities.
   - **Foreign** companies listed on the Egyptian Exchange **may** apply IFRS with FRA approval.
 
 **Common pitfalls:**
-- Asserting compliance with "IFRS" in an EU financial statement that uses the IAS 39 hedging carve-out or
-  the IFRS 17 annual cohorts exemption. Both preclude an unreserved statement of compliance with IFRS as
-  issued by the IASB; only the local statement is available.
-- Assuming EU endorsement follows the IASB effective date. For IFRS 19 the IASB effective date is 1 Jan
-  2027 and EU endorsement was still expected in Q3/Q4 2026 as at July 2026; for IFRS 20 the endorsement
-  process had not begun.
-- Assuming the UK follows the EU. Since 2021 they are separate regimes and currently diverge in timing —
-  the UK adopted IFRS 18 in December 2025 and IFRS 19 in May 2026, ahead of the EU in both cases.
-- Treating "SOCPA-endorsed IFRS" as a modified IFRS that blocks an IFRS compliance statement. SOCPA's
-  additions are additive disclosures plus non-IFRS topics (Zakat); they do not prevent IFRS compliance.
-  The CMA cost-model requirement for pre-2022 periods is the item that actually constrains policy choice.
-- Treating **EAS as IFRS**. An Egyptian entity's profit is not comparable to an IFRS preparer's without
-  adjusting at minimum for employee profit sharing, investment property measurement and the devaluation
-  translation model.
-- Relying on a jurisdiction profile without checking its "last updated" date. The Saudi profile is dated
-  **28 July 2022**, the UAE and Qatar profiles **16 June 2016**, and Egypt **31 January 2024**.
+- Asserting compliance with "IFRS" in an EU financial statement that uses the IAS 39 hedging carve-out or the IFRS 17 annual cohorts exemption. Both preclude an unreserved statement of compliance with IFRS as issued by the IASB; only the local statement is available.
+- Assuming EU endorsement follows the IASB effective date. For IFRS 19 the IASB effective date is 1 Jan 2027 and EU endorsement was still expected in Q3/Q4 2026 as at July 2026; for IFRS 20 the endorsement process had not begun.
+- Assuming the UK follows the EU. Since 2021 they are separate regimes and currently diverge in timing — the UK adopted IFRS 18 in December 2025 and IFRS 19 in May 2026, ahead of the EU in both cases.
+- Treating "SOCPA-endorsed IFRS" as a modified IFRS that blocks an IFRS compliance statement. SOCPA's additions are additive disclosures plus non-IFRS topics (Zakat); they do not prevent IFRS compliance. The CMA cost-model requirement for pre-2022 periods is the item that actually constrains policy choice.
+- Treating **EAS as IFRS**. An Egyptian entity's profit is not comparable to an IFRS preparer's without adjusting at minimum for employee profit sharing, investment property measurement and the devaluation translation model.
+- Relying on a jurisdiction profile without checking its "last updated" date. The Saudi profile is dated **28 July 2022**, the UAE and Qatar profiles **16 June 2016**, and Egypt **31 January 2024**.
 
 
 ---
 
 # Amendment and Effective-Date Register
 
-**This register is the date spine for the whole file.** Where a date elsewhere in this document differs
-from a date here, the register governs. It is stated as at **28 August 2026**. The **EU endorsement**
-column reflects the EFRAG EU Endorsement Status Report of **17 July 2026** (the most recent available);
-the **UK** column reflects the UKEB Adoption Status Report of **13 May 2026**. Both cut-offs precede the
-currency date, so **re-check EFRAG before relying on the "not yet endorsed" status of IFRS 19, the
-Amendments to IFRS 19, or the IAS 21 hyperinflationary presentation currency amendments**, each of which
-had cleared its ARC vote before the report date.
+**This register is the date spine for the whole file.** Where a date elsewhere in this document differs from a date here, the register governs. It is stated as at **28 August 2026**. The **EU endorsement** column reflects the EFRAG EU Endorsement Status Report of **17 July 2026** (the most recent available); the **UK** column reflects the UKEB Adoption Status Report of **13 May 2026**. Both cut-offs precede the currency date, so **re-check EFRAG before relying on the "not yet endorsed" status of IFRS 19, the Amendments to IFRS 19, or the IAS 21 hyperinflationary presentation currency amendments**, each of which had cleared its ARC vote before the report date.
 
-Every IASB effective date below has been cross-checked against the standard's own effective-date
-appendix in the free paragraph-numbered text; the paragraph that fixes each date is given in section B.
-**No contradiction was found between the standards' own effective dates and EFRAG's recorded IASB
-effective dates for any item.** The two exceptions are **IFRS 20** and the **June 2026 IAS 28 fair value
-option amendments**, both issued after the annual edition closed and therefore not cross-checkable that
-way; their dates rest on the ifrs.org news items and EFRAG.
+Every IASB effective date below has been cross-checked against the standard's own effective-date appendix in the free paragraph-numbered text; the paragraph that fixes each date is given in section B. **No contradiction was found between the standards' own effective dates and EFRAG's recorded IASB effective dates for any item.** The two exceptions are **IFRS 20** and the **June 2026 IAS 28 fair value option amendments**, both issued after the annual edition closed and therefore not cross-checkable that way; their dates rest on the ifrs.org news items and EFRAG.
 
-Date format throughout: *issued <date>; effective for annual reporting periods beginning on or after
-<date>; earlier application permitted [yes/no]*.
+Date format throughout: *issued <date>; effective for annual reporting periods beginning on or after <date>; earlier application permitted [yes/no]*.
 
 ---
 
 ## A. The register
 
-Ordered by IASB effective date. "EU endorsement status" gives, for endorsed items, the Commission
-endorsement date and Official Journal publication date; for unendorsed items, the EFRAG pipeline
-position.
+Ordered by IASB effective date. "EU endorsement status" gives, for endorsed items, the Commission endorsement date and Official Journal publication date; for unendorsed items, the EFRAG pipeline position.
 
 | Amendment / Standard | Standard(s) affected | Issued | Effective for periods beginning on/after | Early adoption | EU endorsement status | One-line impact |
 |---|---|---|---|---|---|---|
@@ -5711,13 +4573,9 @@ position.
 | *Sale or Contribution of Assets between an Investor and its Associate or Joint Venture* | IFRS 10; IAS 28 | 11 Sep 2014 | **Indefinitely deferred** — IAS 28.45C requires prospective application "in annual periods beginning on or after a date to be determined by the IASB". No date has been set; the amendments remain suspended at 28 Aug 2026 | Permitted under IFRS as issued by the IASB | **Never EU-endorsed and not in the EFRAG pipeline** — so the early-application option is *not* available to an entity reporting under EU-adopted IFRS | Would eliminate the IFRS 10 / IAS 28 conflict on the gain recognised when a subsidiary is sold or contributed to an associate or joint venture; until then the existing conflicting requirements stand |
 | IFRS Practice Statement 1 *Management Commentary* (revised) | Supersedes IFRS Practice Statement 1 (Dec 2010) | June 2025 | Effective 23 June 2025 | n/a — non-mandatory Practice Statement | Not endorsed (Practice Statements are outside the IAS Regulation) | Revised, objective-based framework for narrative reporting; not part of IFRS Accounting Standards |
 
-**Nothing has an IASB effective date of 1 January 2028.** At 28 August 2026 the pipeline runs
-2027 (IFRS 18, IFRS 19 and its amendments, IAS 21 hyperinflation, IAS 28 FVO, IFRS for SMEs 3rd ed.,
-IFRS S2 GHG amendments) then jumps to 2029 (IFRS 20).
+**Nothing has an IASB effective date of 1 January 2028.** At 28 August 2026 the pipeline runs 2027 (IFRS 18, IFRS 19 and its amendments, IAS 21 hyperinflation, IAS 28 FVO, IFRS for SMEs 3rd ed., IFRS S2 GHG amendments) then jumps to 2029 (IFRS 20).
 
-**Annual Improvements:** Volume 11 (issued 18 Jul 2024, effective 1 Jan 2026) is the most recent
-volume. There is **no Annual Improvements Volume 12 project on the IASB work plan** as at
-28 August 2026, and no Volume 12 exposure draft has been issued.
+**Annual Improvements:** Volume 11 (issued 18 Jul 2024, effective 1 Jan 2026) is the most recent volume. There is **no Annual Improvements Volume 12 project on the IASB work plan** as at 28 August 2026, and no Volume 12 exposure draft has been issued.
 
 > **Same date, opposite obligation — the 2027 trap.** Put the two effective-date paragraphs side by
 > side:
@@ -5733,23 +4591,13 @@ volume. There is **no Annual Improvements Volume 12 project on the IASB work pla
 > adopted Standard **"may be used"** for financial years beginning on or after 1 January 2027, and
 > **"may be used"** for financial years beginning before it — permissive in both directions.
 
-**How the UK adopted IFRS 19 — one package, not two.** The UKEB Adoption Statement approved on
-8 May 2026 adopts, in a single instrument: IFRS 19 itself; the consequential amendments to IFRS 19
-made by the *Classification and Measurement of Financial Instruments* amendments; the consequential
-amendments made by *Contracts Referencing Nature-dependent Electricity*; and the **August 2025
-*Amendments to IFRS 19*** by name. Its footnote 4 states that any reference to IFRS 19 in the
-statement means the Standard as issued in May 2024 *including the consequential amendments and the
-Amendments — i.e. the amended Standard*. This is why the 13 May 2026 Adoption Status Report lists no
-separate line for the August 2025 amendments: there was never a separate UK adoption to list. The
-statement also records the consequential amendments carried into IFRS 1, IFRS 5, IFRS 13, IFRS 17,
-IFRS 18, IAS 32, IAS 34 and IFRIC 14, and was approved by twelve UKEB members with two abstentions.
+**How the UK adopted IFRS 19 — one package, not two.** The UKEB Adoption Statement approved on 8 May 2026 adopts, in a single instrument: IFRS 19 itself; the consequential amendments to IFRS 19 made by the *Classification and Measurement of Financial Instruments* amendments; the consequential amendments made by *Contracts Referencing Nature-dependent Electricity*; and the **August 2025 *Amendments to IFRS 19*** by name. Its footnote 4 states that any reference to IFRS 19 in the statement means the Standard as issued in May 2024 *including the consequential amendments and the Amendments — i.e. the amended Standard*. This is why the 13 May 2026 Adoption Status Report lists no separate line for the August 2025 amendments: there was never a separate UK adoption to list. The statement also records the consequential amendments carried into IFRS 1, IFRS 5, IFRS 13, IFRS 17, IFRS 18, IAS 32, IAS 34 and IFRIC 14, and was approved by twelve UKEB members with two abstentions.
 
 ---
 
 ## B. Primary-source cross-check — the paragraph that fixes each effective date
 
-Read from the standards' own effective-date appendices (2026 edition unless noted). Every date
-reconciled to EFRAG without contradiction.
+Read from the standards' own effective-date appendices (2026 edition unless noted). Every date reconciled to EFRAG without contradiction.
 
 | Item | Paragraph | What the paragraph states |
 |---|---|---|
@@ -5775,65 +4623,33 @@ reconciled to EFRAG without contradiction.
 | **IFRS 20** | *not cross-checkable* | Issued 27 May 2026, after the 2026 edition closed; `ifrs20.html` returns 404. Date from the ifrs.org news item of 27 May 2026 and EFRAG |
 | *Amendments to the Fair Value Option in IAS 28* | *not cross-checkable* | Issued 26 Jun 2026; **confirmed absent from the 2026 edition of `ias28.html`**, whose effective-date paragraphs stop at 45K. Date from the ifrs.org news item of 26 Jun 2026 and EFRAG |
 
-**Reconciliation result: no contradiction between the standards' own effective dates and EFRAG's
-recorded IASB effective dates for any item in the register.** The only divergences are the EU and UK
-*endorsement* dates in §B, which is what they are supposed to be.
+**Reconciliation result: no contradiction between the standards' own effective dates and EFRAG's recorded IASB effective dates for any item in the register.** The only divergences are the EU and UK *endorsement* dates in §B, which is what they are supposed to be.
 
 ---
 
 ## C. Divergence flags — read before advising an EU or UK preparer
 
-1. **Cannot be applied under EU-adopted IFRS at 28 August 2026** (issued by the IASB, not yet
-   endorsed by the European Commission): **IFRS 19**, **Amendments to IFRS 19**, **Amendments to
-   IAS 21 *Translation to a Hyperinflationary Presentation Currency***, **Amendments to the Fair
-   Value Option in IAS 28**, **IFRS 20**. An entity stating compliance with *IFRS as adopted by the
-   EU* may not apply any of these until the endorsing Regulation is published in the Official Journal.
+1. **Cannot be applied under EU-adopted IFRS at 28 August 2026** (issued by the IASB, not yet endorsed by the European Commission): **IFRS 19**, **Amendments to IFRS 19**, **Amendments to IAS 21 *Translation to a Hyperinflationary Presentation Currency***, **Amendments to the Fair Value Option in IAS 28**, **IFRS 20**. An entity stating compliance with *IFRS as adopted by the EU* may not apply any of these until the endorsing Regulation is published in the Official Journal.
 
-2. **The IFRS 18 / IAS 28 fair value option gap is the live EU problem.** IFRS 18 is endorsed
-   (13 Feb 2026) and is mandatory in the EU from 1 Jan 2027. The IAS 28 fair value option amendment
-   that resolves how the option interacts with IFRS 18's classification of income and expenses was
-   issued only on 26 June 2026 and has no EFRAG milestone yet. Unless it is endorsed during 2026,
-   EU preparers apply IFRS 18 without the clarification in the first mandatory year.
+2. **The IFRS 18 / IAS 28 fair value option gap is the live EU problem.** IFRS 18 is endorsed (13 Feb 2026) and is mandatory in the EU from 1 Jan 2027. The IAS 28 fair value option amendment that resolves how the option interacts with IFRS 18's classification of income and expenses was issued only on 26 June 2026 and has no EFRAG milestone yet. Unless it is endorsed during 2026, EU preparers apply IFRS 18 without the clarification in the first mandatory year.
 
-3. **IFRS 19: UK yes, EU not yet — and the UK took the amendments with it.** The UKEB adopted
-   IFRS 19 *and* the August 2025 *Amendments to IFRS 19* in one instrument on 8 May 2026. The EU
-   expects endorsement of both in Q3/Q4 2026. A UK subsidiary of an EU parent may therefore be
-   eligible for the reduced-disclosure regime for 2027, in its complete catch-up form, before its
-   EU sister entities are eligible for anything.
+3. **IFRS 19: UK yes, EU not yet — and the UK took the amendments with it.** The UKEB adopted IFRS 19 *and* the August 2025 *Amendments to IFRS 19* in one instrument on 8 May 2026. The EU expects endorsement of both in Q3/Q4 2026. A UK subsidiary of an EU parent may therefore be eligible for the reduced-disclosure regime for 2027, in its complete catch-up form, before its EU sister entities are eligible for anything.
 
-4. **IAS 21 hyperinflationary presentation currency: neither the EU nor the UK has adopted it.** It
-   is the sole item on the UKEB not-yet-adopted list (13 May 2026) and awaits EU endorsement
-   expected Q4 2026, against a 1 Jan 2027 IASB effective date. Endorsement in both jurisdictions is
-   expected to be tight against, not comfortably ahead of, the effective date.
+4. **IAS 21 hyperinflationary presentation currency: neither the EU nor the UK has adopted it.** It is the sole item on the UKEB not-yet-adopted list (13 May 2026) and awaits EU endorsement expected Q4 2026, against a 1 Jan 2027 IASB effective date. Endorsement in both jurisdictions is expected to be tight against, not comfortably ahead of, the effective date.
 
-5. **Supplier Finance Arrangements was endorsed after its effective date.** The EU endorsed on
-   15 May 2024 with an EU effective date of 1 Jan 2024 — retrospective endorsement. EU calendar-year
-   preparers could not apply the amendments in their 2023 comparatives at the time of publication.
+5. **Supplier Finance Arrangements was endorsed after its effective date.** The EU endorsed on 15 May 2024 with an EU effective date of 1 Jan 2024 — retrospective endorsement. EU calendar-year preparers could not apply the amendments in their 2023 comparatives at the time of publication.
 
-6. **IFRS 14 was never EU-endorsed.** The Commission decided not to launch endorsement of the
-   interim standard and to wait for the final Standard. EU rate-regulated entities therefore have no
-   existing regulatory deferral account balances to carry forward, making IFRS 20 (2029) a
-   first-time recognition event in the EU rather than a change of model.
+6. **IFRS 14 was never EU-endorsed.** The Commission decided not to launch endorsement of the interim standard and to wait for the final Standard. EU rate-regulated entities therefore have no existing regulatory deferral account balances to carry forward, making IFRS 20 (2029) a first-time recognition event in the EU rather than a change of model.
 
-7. **IFRS 18 comparatives.** IFRS 18 is applied retrospectively, so a calendar-year entity adopting
-   on 1 Jan 2027 needs an IFRS 18 comparative for 2026 — meaning the practical implementation
-   deadline was 1 January 2026, a year before the effective date, and only ~10 months after EU
-   endorsement.
+7. **IFRS 18 comparatives.** IFRS 18 is applied retrospectively, so a calendar-year entity adopting on 1 Jan 2027 needs an IFRS 18 comparative for 2026 — meaning the practical implementation deadline was 1 January 2026, a year before the effective date, and only ~10 months after EU endorsement.
 
-8. **ISSB standards sit outside both endorsement mechanisms.** IFRS S1/S2 and the IFRS S2 GHG
-   amendments are not endorsed under the EU IAS Regulation or by the UKEB; their application depends
-   on separate jurisdictional mandates.
+8. **ISSB standards sit outside both endorsement mechanisms.** IFRS S1/S2 and the IFRS S2 GHG amendments are not endorsed under the EU IAS Regulation or by the UKEB; their application depends on separate jurisdictional mandates.
 
 ---
 
 ## D. IASB and ISSB work plan, as at 28 August 2026
 
-Source: the work plan project data feed behind `https://www.ifrs.org/projects/work-plan/`, retrieved
-28 August 2026 (31 active projects). "Expected date" is the IASB's own estimate and is subject to
-change. `WebFetch` of the work-plan page itself returns only navigation — the project rows are
-loaded from
-`https://www.ifrs.org/content/ifrs/home/projects/work-plan/jcr:content/root/responsivegrid/tabs/item_1605100511058/col-1/responsivegrid/projectlisttable_227.projListData.nocache.html`,
-which returns the full JSON. Use that URL to refresh this table.
+Source: the work plan project data feed behind `https://www.ifrs.org/projects/work-plan/`, retrieved 28 August 2026 (31 active projects). "Expected date" is the IASB's own estimate and is subject to change. `WebFetch` of the work-plan page itself returns only navigation — the project rows are loaded from `https://www.ifrs.org/content/ifrs/home/projects/work-plan/jcr:content/root/responsivegrid/tabs/item_1605100511058/col-1/responsivegrid/projectlisttable_227.projListData.nocache.html`, which returns the full JSON. Use that URL to refresh this table.
 
 ### D1. IASB — standard-setting and research projects
 
@@ -5856,8 +4672,7 @@ which returns the full JSON. Use that URL to refresh this table.
 
 ### D2. IFRS Interpretations Committee — open application questions
 
-All are at *Tentative Agenda Decision Feedback* unless noted. The IFRS 18 cluster is the dominant
-theme: nine of the eleven open items concern IFRS 18 or IFRS 10.
+All are at *Tentative Agenda Decision Feedback* unless noted. The IFRS 18 cluster is the dominant theme: nine of the eleven open items concern IFRS 18 or IFRS 10.
 
 | Application question | Standard | Next milestone | Expected |
 |---|---|---|---|
@@ -5891,10 +4706,7 @@ theme: nine of the eleven open items concern IFRS 18 or IFRS 10.
 
 ### D5. New projects agreed but not yet on the published work plan
 
-At its **July 2026** meeting the IASB agreed to add two projects arising from the PIR of IFRS 16:
-one on **reducing lessee application cost**, and one on **rent concessions**. Neither appears in the
-work plan data retrieved on 28 August 2026. A third PIR matter — **sale and leaseback of a single
-asset** — was referred to the next agenda consultation rather than made a project.
+At its **July 2026** meeting the IASB agreed to add two projects arising from the PIR of IFRS 16: one on **reducing lessee application cost**, and one on **rent concessions**. Neither appears in the work plan data retrieved on 28 August 2026. A third PIR matter — **sale and leaseback of a single asset** — was referred to the next agenda consultation rather than made a project.
 
 ---
 
