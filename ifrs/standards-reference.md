@@ -3676,3 +3676,579 @@ If finalised as proposed, **IFRIC 21 *Levies* and IFRIC 6 would be withdrawn** a
 - Recognising an IAS 41 government grant as deferred income or as a deduction from the asset; IAS 41.34–36 requires **profit or loss** recognition and displaces IAS 20
 
 **Related standards:** IAS 2 (inventories — agricultural produce after harvest), IAS 16 (PP&E — bearer plants, agricultural land at cost), IAS 20 (government grants — general; IAS 41 overrides for in-scope biological assets), IAS 36 (impairment — applies to biological assets measured at cost under the unreliable fair value exception), IAS 40 (investment property — land used in agriculture), IFRS 13 (fair value measurement hierarchy)
+
+---
+
+## Interpretations — IFRIC and SIC
+
+**Status of Interpretations:** IFRIC and SIC Interpretations are authoritative pronouncements of
+the IFRS Foundation with the same standing as the Standards they interpret. Each Interpretation
+states that "the scope and authority of Interpretations are set out in the *Preface to IFRS
+Accounting Standards*". An Interpretation adds requirements to a Standard; it does not remove or
+replace them.
+
+**Complete population in force at 28 August 2026** (verified against the 2026 Issued edition):
+IFRIC 1, 2, 5, 6, 7, 10, 12, 14, 16, 17, 19, 20, 21, 22, 23; SIC-7, SIC-10, SIC-25, SIC-29,
+SIC-32. **Fifteen IFRICs and five SICs. There are no others.** Everything else ever issued has
+been withdrawn or superseded — see *Withdrawn Interpretations* below.
+
+**IFRS 18 consequential amendments (apply when IFRS 18 is applied, i.e. annual periods beginning
+on or after 1 January 2027, earlier application permitted):** IFRS 18 amended **IFRIC 1**
+(paragraphs 6 and 8), **IFRIC 14** (paragraph 10), **IFRIC 17** (paragraph 2), **IFRIC 19**
+(paragraph 11), **IFRIC 23** (paragraphs 14 and A4) and **SIC-32** (paragraph 5). It also
+retitled IAS 8 to *Basis of Preparation of Financial Statements*, so IAS 8 appears under that new
+name in the References section of every Interpretation. SIC-7, SIC-25, SIC-29 and SIC-32 now list
+IFRS 18 in their References sections in place of IAS 1. No Interpretation was withdrawn by
+IFRS 18.
+
+---
+
+### IFRIC 1 — Changes in Existing Decommissioning, Restoration and Similar Liabilities
+
+**Attaches to:** IAS 16, IAS 37, IAS 23, IAS 36, IFRS 16.
+
+**Question answered:** How to account for the effect of a change in the measurement of an existing
+decommissioning, restoration or similar liability that was capitalised into the cost of an item of
+PP&E (IAS 16) or a right-of-use asset (IFRS 16) and recognised as a liability under IAS 37
+(IFRIC 1.2). Three triggering events: a change in the estimated outflow, a change in the current
+market-based discount rate defined in IAS 37.47, and unwinding of the discount (IFRIC 1.3).
+
+**Conclusion:** Under the **cost model**, the change is added to or deducted from the cost of the
+related asset; the deduction cannot exceed the asset's carrying amount, and any excess goes
+immediately to P&L; an addition is an impairment indicator triggering an IAS 36 test
+(IFRIC 1.5). Under the **revaluation model**, the change adjusts the revaluation surplus — a
+decrease goes to OCI (except to the extent it reverses a deficit previously in P&L), an increase
+goes to P&L (except to the extent of an existing credit balance in that asset's revaluation
+surplus) (IFRIC 1.6). Once the asset reaches the end of its useful life, all subsequent changes go
+straight to P&L (IFRIC 1.7). **Unwinding of the discount is a finance cost recognised in P&L and
+cannot be capitalised under IAS 23** (IFRIC 1.8). Under IFRS 18, that unwinding is interest
+expense from a liability other than one arising from a transaction involving only the raising of
+finance, classified in the **financing category** applying IFRS 18.61 (IFRIC 1.8 as amended).
+
+*Effective for annual periods beginning on or after 1 September 2004.*
+
+### IFRIC 2 — Members' Shares in Co-operative Entities and Similar Instruments
+
+**Attaches to:** IAS 32.
+
+**Question answered:** How the redemption terms of members' shares in co-operatives are evaluated
+in classifying those instruments as liability or equity (IFRIC 2.4).
+
+**Conclusion:** A holder's contractual right to request redemption **does not by itself** force
+liability classification; the entity must consider all terms and conditions, including local law,
+regulation and the governing charter in force at the classification date — but not expected future
+amendments to them (IFRIC 2.5). Members' shares are equity if the entity has an **unconditional
+right to refuse redemption** (IFRIC 2.7), or if redemption is unconditionally prohibited by law,
+regulation or charter (IFRIC 2.8). A prohibition that bites **only when a condition such as a
+liquidity constraint is met is not unconditional** and does not produce equity classification
+(IFRIC 2.8). A partial prohibition splits the instrument: shares in excess of the prohibited floor
+are liabilities (IFRIC 2.9), and a change in the level of the prohibition causes a **transfer
+between liabilities and equity** (IFRIC 2.9), which must be disclosed separately as to amount,
+timing and reason (IFRIC 2.13). The redemption liability is measured at initial recognition at no
+less than the maximum amount payable under the charter, discounted from the first date it could be
+required (IFRIC 2.10) — consistent with the IFRS 13.47 demand-feature floor. Distributions on
+instruments classified as liabilities are **expenses**, however they are legally characterised
+(IFRIC 2.11). Members' demand deposits and current accounts, arising where members act as
+customers, are financial liabilities (IFRIC 2.6). Instruments that will or may be settled in the
+entity's own equity are outside scope (IFRIC 2.3).
+
+*Effective for annual periods beginning on or after 1 January 2005; the puttable-instruments
+amendments to paragraphs 6 and 9 from 1 January 2009.*
+
+### IFRIC 5 — Rights to Interests arising from Decommissioning, Restoration and Environmental Rehabilitation Funds
+
+**Attaches to:** IAS 37, IFRS 9, IFRS 10, IFRS 11, IAS 28.
+
+**Question answered:** How a contributor accounts for its interest in a separately administered
+decommissioning fund to which its access is restricted, and how it accounts for an obligation to
+make additional contributions (IFRIC 5.4, 5.6).
+
+**Conclusion:** The contributor recognises its decommissioning obligation as a liability and its
+interest in the fund **separately** — no netting — unless it is not liable to pay decommissioning
+costs even if the fund fails (IFRIC 5.7). It first tests for control, joint control or significant
+influence over the fund under IFRS 10 / IFRS 11 / IAS 28 and consolidates or equity-accounts if
+so (IFRIC 5.8). Otherwise the right to receive reimbursement is an **IAS 37 reimbursement asset**
+measured at the lower of the recognised decommissioning obligation and the contributor's share of
+the fair value of the fund's net assets, with movements other than contributions and payments
+going to P&L (IFRIC 5.9). A potential obligation to make additional contributions (e.g. on another
+contributor's bankruptcy, or if fund assets fall short) is an **IAS 37 contingent liability**;
+a liability is recognised only if additional contributions are probable (IFRIC 5.10). Disclose the
+nature of the interest and any restrictions on access (IFRIC 5.11). A residual interest extending
+beyond a right to reimbursement may be an IFRS 9 equity instrument and is outside scope
+(IFRIC 5.5).
+
+*Effective for annual periods beginning on or after 1 January 2006.*
+
+### IFRIC 6 — Liabilities arising from Participating in a Specific Market—Waste Electrical and Electronic Equipment
+
+**Attaches to:** IAS 37.
+
+**Question answered:** What the obligating event is, for IAS 37.14(a) purposes, for waste
+management costs of **historical household** electrical equipment under the EU WE&EE Directive
+(IFRIC 6.6, 6.8). New waste, and historical waste from non-household sources, are outside scope
+and dealt with by IAS 37 directly (IFRIC 6.7).
+
+**Conclusion:** The obligating event is **participation in the market during the measurement
+period** — not the manufacture or sale of the equipment, and not the incurrence of waste
+management costs. No obligation exists unless and until a market share exists during the
+measurement period (IFRIC 6.9). Where national legislation treats new household waste the same
+way as historical household waste, the same principles apply via the IAS 8.10–12 hierarchy, and
+that hierarchy is likewise relevant for other regulations imposing obligations on a similar cost
+attribution model (IFRIC 6.7). **This is now a general-purpose precedent for cost-attribution
+environmental levies**, and the Committee relied on it in the 2022 negative low-emission vehicle
+credits agenda decision (see A9.2).
+
+*Effective for annual periods beginning on or after 1 December 2005.*
+
+### IFRIC 7 — Applying the Restatement Approach under IAS 29
+
+**Attaches to:** IAS 29, IAS 12.
+
+**Question answered:** How IAS 29 is applied in the **first** period in which an entity identifies
+that the economy of its functional currency is hyperinflationary, and how opening deferred tax is
+handled (IFRIC 7.2).
+
+**Conclusion:** The entity applies IAS 29 **as if the economy had always been hyperinflationary**.
+Non-monetary items measured at historical cost are restated in the opening statement of financial
+position of the earliest period presented, for inflation from the date of acquisition or
+incurrence to the reporting date; items carried at amounts current at other dates are restated
+from the date those amounts were determined (IFRIC 7.3). For opening deferred tax, a **two-step**
+sequence: (a) remeasure deferred tax under IAS 12 after restating the nominal carrying amounts of
+non-monetary items at the opening date using the measuring unit at that date; then (b) restate the
+remeasured deferred tax for the change in the measuring unit from the opening date to the
+reporting date (IFRIC 7.4). In subsequent periods, all corresponding figures including deferred
+tax are restated by applying only that period's change in the measuring unit to the previously
+restated statements (IFRIC 7.5).
+
+*Effective for annual periods beginning on or after 1 March 2006.*
+*Practice note:* read with the July 2025 agenda decision *Assessing Indicators of
+Hyperinflationary Economies (IAS 29)* and the November 2025 amendments to IAS 21 on translation
+to a hyperinflationary presentation currency.
+
+### IFRIC 10 — Interim Financial Reporting and Impairment
+
+**Attaches to:** IAS 34, IAS 36.
+
+**Question answered:** Whether a goodwill impairment loss recognised in an interim period may be
+reversed at a later reporting date if conditions have improved (IFRIC 10.7).
+
+**Conclusion:** **No.** An entity shall not reverse a goodwill impairment loss recognised in a
+previous interim period (IFRIC 10.8) — the IAS 36.124 prohibition on reversing goodwill impairment
+prevails over the IAS 34.28 year-to-date measurement principle. The consensus **must not be
+extended by analogy** to other conflicts between IAS 34 and other Standards (IFRIC 10.9).
+
+**Scope note (important):** IFRIC 10 originally also covered investments in equity instruments and
+financial assets carried at cost. **IFRS 9 (July 2014) deleted paragraphs 5, 6 and 11–13 and
+amended paragraphs 1, 2, 7 and 8** (IFRIC 10.14). Since IFRS 9 applies, **IFRIC 10 addresses
+goodwill only.**
+
+*Effective for annual periods beginning on or after 1 November 2006.*
+
+### IFRIC 12 — Service Concession Arrangements
+
+**Attaches to:** IFRS 15, IFRS 9, IAS 38, IAS 37, IAS 23, IAS 32, IFRS 7. Disclosures are in
+SIC-29, not IFRIC 12 (IFRIC 12.10).
+
+**Question answered:** How an **operator** accounts for a public-to-private service concession
+arrangement — one in which (a) the grantor controls or regulates what services the operator must
+provide with the infrastructure, to whom, and at what price, and (b) the grantor controls any
+significant residual interest in the infrastructure at the end of the term (IFRIC 12.5).
+
+**Conclusion:** The infrastructure is **not** the operator's PP&E, because the arrangement does not
+convey the right to control its use; the operator merely has access to operate it on the grantor's
+behalf (IFRIC 12.11). The operator is a **service provider**: it recognises revenue for
+construction or upgrade services and for operation services under IFRS 15 (IFRIC 12.13, 12.14,
+12.20). The consideration received determines the subsequent accounting:
+- **Financial asset model** — to the extent the operator has an unconditional contractual right to
+  receive cash from or at the direction of the grantor, including a guarantee of the shortfall
+  between user receipts and specified amounts, even where payment is contingent on meeting quality
+  or efficiency standards (IFRIC 12.16). Accounted for under IFRS 9 at amortised cost, FVOCI or
+  FVTPL (IFRIC 12.24), with effective-interest income in P&L for the first two (IFRIC 12.25).
+- **Intangible asset model** — to the extent the operator receives a licence to charge users; a
+  right to charge users is not unconditional because amounts depend on public usage
+  (IFRIC 12.17). Accounted for under IAS 38 (IFRIC 12.26).
+- **Bifurcation** — where consideration is partly each, the components are accounted for
+  separately (IFRIC 12.18). Both types are classified as an IFRS 15 **contract asset** during the
+  construction or upgrade period (IFRIC 12.19).
+
+**Borrowing costs** are expensed as incurred **unless** the operator has a contractual right to an
+intangible asset, in which case IAS 23 capitalisation applies during the construction phase
+(IFRIC 12.22). Contractual obligations to maintain the infrastructure at a specified level of
+serviceability, or to restore it before handover, are IAS 37 provisions at best estimate, except
+for any upgrade element (IFRIC 12.21).
+
+**Status — IFRIC 12 is under IASB attention:** in the *Post-implementation Review of IFRS 15*
+feedback statement the IASB classified "applying IFRS 15 with IFRIC 12" as a **low-priority**
+matter and **decided to consider it in its next agenda consultation**, specifically the IFRIC 12
+requirements on contractual obligations to maintain or restore concession infrastructure and their
+link with revenue recognition. Stakeholders had asked for a comprehensive review to realign
+IFRIC 12 with IFRS 9, IFRS 15 and IFRS 17. Separately, **IFRS 20 *Regulatory Assets and Regulatory
+Liabilities*** (issued 27 May 2026, effective 1 January 2029) is applied **after** IFRIC 12: an
+entity first applies IFRIC 12 to the rights and obligations arising from a service concession, and
+then applies IFRS 20 to any remaining rights and obligations meeting the definitions of a
+regulatory asset or regulatory liability.
+
+*Effective for annual periods beginning on or after 1 January 2008.*
+
+### IFRIC 14 — IAS 19—The Limit on a Defined Benefit Asset, Minimum Funding Requirements and their Interaction
+
+**Attaches to:** IAS 19; disclosure interaction with IFRS 19.
+
+**Question answered:** When the economic benefit from a defined benefit surplus is "available" for
+the purposes of the IAS 19 asset ceiling, and how a minimum funding requirement (MFR) affects
+that availability.
+
+**Conclusion:** Availability is determined by the plan's terms and conditions and any statutory
+requirements in the plan's jurisdiction (IFRIC 14.7). A benefit is available if the entity can
+realise it **at some point during the life of the plan or on settlement of the plan liabilities** —
+it need not be realisable immediately at the reporting date (IFRIC 14.8), and availability does
+not depend on how the entity intends to use the surplus (IFRIC 14.9). A **refund** is available
+only where the entity has an *unconditional* right to it — during the life of the plan, on gradual
+settlement, or on wind-up (IFRIC 14.11); if the right depends on uncertain future events not
+wholly within the entity's control, no asset is recognised (IFRIC 14.12). The refund is measured
+as the surplus the entity has a right to receive, **less associated costs**, including any non-
+income tax on the refund (IFRIC 14.13), and, on wind-up, the plan's settlement and refund costs
+including professional fees and buy-out insurance premiums (IFRIC 14.14); no time-value discount
+is applied where the refund is a proportion of the surplus rather than a fixed amount
+(IFRIC 14.15). Absent an MFR for future service, the **contribution-reduction** benefit is the
+future service cost over the shorter of the expected life of the plan and of the entity, excluding
+amounts borne by employees (IFRIC 14.16), assuming a **stable workforce** unless the entity makes
+a reduction in covered employees (IFRIC 14.17). Where an MFR applies to future service, the
+benefit is any prepayment that reduces future MFR contributions **plus** the excess of estimated
+future service cost over the MFR contributions that would have been required absent the
+prepayment (IFRIC 14.20). MFR contributions covering an existing past-service shortfall do not
+reduce future contributions and may themselves create a liability (IFRIC 14.18–14.19). Disclose
+key sources of estimation uncertainty about the recognised net asset or liability, including
+restrictions on realisability (IFRIC 14.10); **an entity applying IFRS 19 makes those disclosures
+under IFRS 19 instead** (IFRIC 14.10 as amended).
+
+*Effective for annual periods beginning on or after 1 January 2008.*
+
+### IFRIC 16 — Hedges of a Net Investment in a Foreign Operation
+
+**Attaches to:** IFRS 9 (or IAS 39 under the election), IAS 21.
+
+**Question answered:** Three points: the nature of the hedged risk and the amount that may be
+designated; which entity in the group may hold the hedging instrument; and what is reclassified to
+P&L on disposal of the hedged foreign operation.
+
+**Conclusion:** Hedge accounting applies **only** to the exchange difference between the functional
+currency of the foreign operation and the functional currency of a parent — never a presentation
+currency (IFRIC 16.10). The hedged item is an amount of net assets no greater than the carrying
+amount of the foreign operation's net assets in the parent's consolidated financial statements
+(IFRIC 16.11). The hedged risk may be designated against the functional currency of **any** parent
+in the chain — immediate, intermediate or ultimate (IFRIC 16.12). The same net assets may qualify
+**only once** in the consolidated financial statements; if a lower-level parent's hedge is not
+maintained by a higher-level parent, the lower-level hedge accounting must be reversed before the
+higher-level hedge is recognised (IFRIC 16.13). The hedging instrument may be a derivative, a
+non-derivative, or a combination, and **may be held by any entity in the group**, provided the
+IFRS 9.6.4.1 designation, documentation and effectiveness conditions for a net investment hedge
+are met; group hedging strategy should be clearly documented because of the possibility of
+different designations at different levels (IFRIC 16.14). Effectiveness is measured against the
+functional currency of the parent whose functional currency defines the hedged risk, and is not
+affected by whether the instrument's change in value would otherwise sit in P&L or OCI, nor by
+whether the instrument is a derivative, nor by the consolidation method (IFRIC 16.15). On
+disposal, the amount reclassified in respect of the **hedging instrument** is the cumulative
+effective gain or loss identified under IFRS 9.6.5.14 (IFRIC 16.16); the amount reclassified in
+respect of the **net investment** is the amount in that parent's foreign currency translation
+reserve for that foreign operation under IAS 21.48. Whether the ultimate parent uses the direct or
+step-by-step consolidation method may change that amount for an individual foreign operation;
+adjusting to the direct-method outcome is **not required by IAS 21** but is an accounting policy
+choice to be applied consistently to all net investments (IFRIC 16.17).
+
+*Effective for annual periods beginning on or after 1 October 2008 (amendment to paragraph 14 from
+1 July 2009).*
+*Note:* an entity that elects to continue applying the IAS 39 hedge accounting requirements
+instead of IFRS 9 Chapter 6 applies IFRIC 16 **without** the IFRS 9 amendments.
+
+### IFRIC 17 — Distributions of Non-cash Assets to Owners
+
+**Attaches to:** IAS 10, IFRS 13, IFRS 5, IFRS 18.
+
+**Question answered:** When to recognise, and how to measure, a liability for a dividend payable in
+non-cash assets, and how to account for the difference on settlement.
+
+**Conclusion:** The dividend liability is recognised when the dividend is **appropriately
+authorised and no longer at the entity's discretion** — the date of shareholder approval where the
+jurisdiction requires it, otherwise the date of declaration by management or the board
+(IFRIC 17.10). It is measured at the **fair value of the assets to be distributed**
+(IFRIC 17.11); where owners may elect cash instead, the entity estimates the dividend by weighting
+the fair value of each alternative by the probability of election (IFRIC 17.12). The liability is
+remeasured at each reporting date and at settlement, with **changes recognised in equity** as
+adjustments to the amount of the distribution (IFRIC 17.13). On settlement, the difference between
+the carrying amount of the assets distributed and the carrying amount of the dividend payable goes
+to **P&L** (IFRIC 17.14) and is presented as a **separate line item** (IFRIC 17.15). Disclose the
+opening and closing carrying amount of the dividend payable and the movement from fair value
+remeasurement (IFRIC 17.16); for a dividend declared after the reporting date but before
+authorisation of the financial statements, disclose the nature of the asset, its carrying amount at
+the reporting date, and its fair value at that date if different, with the IFRS 13.93(b), (d), (g),
+(i) and 99 valuation-method information (IFRIC 17.17).
+
+*IFRS 18 amended paragraph 2 (scope).*
+
+### IFRIC 19 — Extinguishing Financial Liabilities with Equity Instruments
+
+**Attaches to:** IFRS 9, IAS 32, IFRS 13, IFRS 18.
+
+**Question answered:** How a debtor accounts for the issue of its own equity instruments to a
+creditor in full or part settlement of a financial liability ("debt-for-equity swap").
+
+**Conclusion:** The equity issued is **consideration paid** for IFRS 9.3.3.3 purposes, and the
+liability is derecognised when — and only when — it is extinguished under IFRS 9.3.3.1
+(IFRIC 19.5). The equity instruments are measured on initial recognition at **their own fair
+value**, unless that cannot be reliably measured, in which case they are measured to reflect the
+fair value of the liability extinguished (IFRIC 19.6–19.7); in measuring the fair value of an
+extinguished liability containing a demand feature, **the IFRS 13.47 demand floor is not applied**
+(IFRIC 19.7). The difference between the carrying amount of the liability extinguished and the
+consideration paid goes to **P&L**, and the equity is recognised at the extinguishment date
+(IFRIC 19.9). Where only part of the liability is extinguished, the entity must assess whether some
+of the consideration relates to a **modification of the surviving portion** and allocate
+accordingly on all relevant facts and circumstances (IFRIC 19.8); the consideration allocated to
+the remaining liability feeds the substantial-modification test, and if that test is met the entity
+accounts for extinguishment of the old liability and recognition of a new one under IFRS 9.3.3.2
+(IFRIC 19.10). Present the gain or loss as a separate line item in the statement of profit or loss
+**or disclose it in the notes** (IFRIC 19.11 as amended by IFRS 18).
+
+*Effective for annual periods beginning on or after 1 July 2010.*
+
+### IFRIC 20 — Stripping Costs in the Production Phase of a Surface Mine
+
+**Attaches to:** IAS 2, IAS 16, IAS 38, IAS 36.
+
+**Question answered:** How to account for waste removal (stripping) costs incurred in surface
+mining during the **production** phase (IFRIC 20.6) — pre-production stripping is not addressed.
+
+**Conclusion:** Split the benefit. To the extent the benefit is **inventory produced**, apply IAS 2
+(IFRIC 20.8). To the extent it is **improved access to ore**, recognise a non-current "stripping
+activity asset", but only if all three criteria are met: probable future economic benefit from the
+improved access; the entity can **identify the component of the ore body** for which access has
+improved; and the costs for that component can be measured reliably (IFRIC 20.9). The stripping
+activity asset is accounted for as an **addition to or enhancement of an existing asset**, not a
+standalone asset (IFRIC 20.10), and takes its tangible/intangible classification from that existing
+asset (IFRIC 20.11). Initial measurement is at cost — costs directly incurred plus an allocation of
+directly attributable overheads, excluding costs of incidental operations not necessary for the
+stripping activity (IFRIC 20.12). Where inventory and asset costs are not separately identifiable,
+allocate using a **relevant production measure** computed for the identified component — e.g. cost
+of inventory produced versus expected cost, waste volume extracted versus expected, or mineral
+content versus expected (IFRIC 20.13). Subsequently carried at cost or revalued amount less
+depreciation/amortisation and impairment, on the same basis as the existing asset (IFRIC 20.14),
+and **amortised over the expected useful life of the identified component**, using units of
+production unless another method is more appropriate (IFRIC 20.15). That component life will
+normally be **shorter than the life-of-mine** used for the mine and life-of-mine assets, except
+where the stripping improves access to the whole remaining ore body — typically only near end of
+mine life (IFRIC 20.16).
+
+*Effective for annual periods beginning on or after 1 January 2013 (IFRIC 20 Appendix A, A1).*
+
+### IFRIC 21 — Levies
+
+**Attaches to:** IAS 37, IAS 34.
+
+**Question answered:** When a liability to pay a government-imposed levy within the scope of IAS 37
+is recognised, including levies whose timing and amount are certain (IFRIC 21.2). It does **not**
+address whether the debit is an asset or an expense — other Standards decide that (IFRIC 21.3).
+
+**Conclusion:** The obligating event is **the activity that triggers payment of the levy, as
+identified by the legislation** (IFRIC 21.8). Where the levy is calculated on a prior period's
+revenue but triggered by generating revenue in the current period, the current-period revenue
+generation is the obligating event; the earlier period's revenue is necessary but not sufficient
+(IFRIC 21.8). Economic compulsion to continue operating does **not** create a constructive
+obligation for a future-period levy (IFRIC 21.9), and the going concern assumption does not imply a
+present obligation for such a levy (IFRIC 21.10). Where the obligating event occurs **over time**,
+the liability is recognised **progressively** (IFRIC 21.11); where it is the reaching of a
+**minimum threshold**, the liability is recognised when that threshold is reached (IFRIC 21.12).
+The same recognition principles apply in interim reports as in annual financial statements —
+no liability at an interim date if no present obligation exists then (IFRIC 21.13). A levy prepaid
+before the present obligation arises is recognised as an **asset** (IFRIC 21.14).
+
+*Effective for annual periods beginning on or after 1 January 2014 (IFRIC 21 Appendix A, A1).*
+*Practice note:* IFRIC 21's timing rule is the reason many annual levies (bank levies, property
+levies triggered at a point in time) hit a single interim period in full rather than accruing
+evenly.
+
+### IFRIC 22 — Foreign Currency Transactions and Advance Consideration
+
+**Attaches to:** IAS 21, IFRS 15.
+
+**Question answered:** Which exchange rate to use when advance consideration is paid or received in
+a foreign currency and a non-monetary prepayment asset or deferred income liability is recognised
+before the related asset, expense or income (IFRIC 22.4).
+
+**Conclusion:** The **date of the transaction** for IAS 21.21–22 purposes is the date on which the
+entity initially recognises the **non-monetary asset or non-monetary liability arising from the
+advance payment or receipt** — not the later date on which the related asset, expense or income is
+recognised (IFRIC 22.8). Where there are multiple advance payments or receipts, a **separate date
+of transaction is determined for each** (IFRIC 22.9) — in practice this requires layer-by-layer
+tracking of deposits and instalments. The Interpretation does not apply where the related item is
+measured on initial recognition at fair value, or at the fair value of consideration paid or
+received at a date other than the date of initial recognition of the non-monetary item (e.g.
+goodwill under IFRS 3) (IFRIC 22.5), and need not be applied to income taxes (IFRIC 22.6).
+
+*Effective for annual reporting periods beginning on or after 1 January 2018.*
+
+### IFRIC 23 — Uncertainty over Income Tax Treatments
+
+**Attaches to:** IAS 12, IAS 8, IAS 10, IFRS 18.
+
+**Question answered:** How to recognise and measure current and deferred tax when there is
+uncertainty over whether a taxation authority will accept a tax treatment.
+
+**Conclusion:** **Unit of account** — the entity decides whether to consider each uncertain tax
+treatment separately or as a group, on the basis of which approach **better predicts the resolution
+of the uncertainty**, considering how it prepares its filings and how the authority is expected to
+examine and resolve issues (IFRIC 23.6–23.7). **Detection risk is ignored:** the entity assumes the
+authority will examine everything it has a right to examine and will have full knowledge of all
+related information (IFRIC 23.8). **Recognition threshold** — the entity assesses whether it is
+**probable** that the authority will accept the treatment (IFRIC 23.9). If probable, taxable
+profit, tax bases, unused losses and credits and tax rates are determined consistently with the
+filing position (IFRIC 23.10). If not probable, the effect of the uncertainty is reflected using
+either the **most likely amount** (better where outcomes are binary or concentrated on one value)
+or the **expected value** — the probability-weighted sum of a range of outcomes (better where
+outcomes are neither binary nor concentrated) — whichever better predicts resolution
+(IFRIC 23.11). Where an uncertain treatment affects both current and deferred tax, judgements and
+estimates must be **consistent across both** (IFRIC 23.12). **Reassessment** is required whenever
+facts and circumstances change or new information arrives (IFRIC 23.13); the effect is a **change
+in accounting estimate** under IAS 8 (IFRIC 23.14), and IAS 10 determines whether a post-reporting-
+date change is adjusting or non-adjusting (IFRIC 23.14). Disclosure requirements for uncertainty
+over income tax treatments are in IFRIC 23 Appendix A, paragraphs A4–A5.
+
+*Effective for annual reporting periods beginning on or after 1 January 2019. IFRS 18 amended
+paragraphs 14 and A4.*
+*Presentation note:* the September 2019 agenda decision *Presentation of Liabilities or Assets
+Related to Uncertain Tax Treatments (IAS 1)* is **being withdrawn from 1 January 2027**; its full
+text has been reproduced after **IFRS 18.103(q)**, which is where the presentation requirement now
+lives.
+
+### SIC-7 — Introduction of the Euro
+
+**Attaches to:** IAS 21.
+
+**Question answered:** How IAS 21 applies to the changeover from a participating national currency
+to the euro on entry into Economic and Monetary Union (SIC-7.2).
+
+**Conclusion:** IAS 21 is applied **strictly**, with no special treatment for the changeover, and
+the same rationale applies to countries joining EMU at later stages (SIC-7.3). Specifically:
+foreign currency monetary items continue to be translated at the closing rate with exchange
+differences to P&L immediately, except that an existing policy for exchange gains and losses on
+hedges of forecast transactions continues; cumulative translation differences on foreign operations
+remain in OCI and are reclassified to P&L **only** on disposal or partial disposal of the net
+investment; and exchange differences on liabilities denominated in participating currencies **must
+not** be capitalised into the carrying amount of related assets (SIC-7.4). *Still live and still
+relevant:* it governs each new euro accession, not only the 1999 cohort.
+
+*Effective 1 June 1998. Date of consensus October 1997.*
+
+### SIC-10 — Government Assistance—No Specific Relation to Operating Activities
+
+**Attaches to:** IAS 20.
+
+**Question answered:** Whether government assistance carrying no conditions specifically related to
+an entity's operating activities — for example assistance for operating in a particular industry,
+continuing in a recently privatised industry, or operating in an underdeveloped area — is a
+government grant within IAS 20 (SIC-10.1–10.2).
+
+**Conclusion:** **Yes.** Such assistance meets the IAS 20 definition of a government grant even
+where the only condition is to operate in a certain region or industry sector, and it therefore
+**must not be credited directly to shareholders' interests** — it goes through IAS 20's income
+recognition mechanics (SIC-10.3).
+
+*Effective 1 August 1998. Date of consensus January 1998.*
+
+### SIC-25 — Income Taxes—Changes in the Tax Status of an Entity or its Shareholders
+
+**Attaches to:** IAS 12.
+
+**Question answered:** How to account for the current and deferred tax consequences of a change in
+the tax status of the entity or of its shareholders — for example on listing, on a restructuring
+of equity, or on a controlling shareholder moving to another country (SIC-25.1–25.3).
+
+**Conclusion:** A change in tax status **does not of itself give rise to amounts recognised outside
+profit or loss**. The current and deferred tax consequences go to **P&L for the period**, unless
+they relate to transactions or events that resulted (in the same or a different period) in a direct
+charge or credit to equity, or in amounts recognised in OCI — in which case the tax follows the
+item to equity or to OCI (SIC-25.4). *In practice this is the "backwards tracing" rule for
+status changes*, and it is a frequent audit finding on IPO-related deferred tax remeasurements.
+
+*Effective 15 July 2000. Date of consensus August 1999.*
+
+### SIC-29 — Service Concession Arrangements: Disclosures
+
+**Attaches to:** IFRIC 12 (which contains no disclosure requirements of its own — IFRIC 12.10).
+Applies to **both** the operator **and the grantor**.
+
+**Conclusion:** In each period, disclose: a description of the arrangement; significant terms that
+may affect the amount, timing and certainty of future cash flows (concession period, re-pricing
+dates, and the basis on which re-pricing or renegotiation is determined); the nature and extent of
+rights to use specified assets, obligations to provide or rights to expect services, obligations to
+acquire or build PP&E, obligations to deliver or rights to receive specified assets at the end of
+the concession, renewal and termination options, and other rights and obligations such as major
+overhauls; changes in the arrangement during the period; and how the arrangement has been
+classified (SIC-29.6). The **operator** additionally discloses revenue and profit or loss
+recognised in the period on exchanging construction services for a financial asset or an intangible
+asset (SIC-29.6A). Disclosures may be given per arrangement or in aggregate per **class** — a
+grouping of arrangements involving services of a similar nature, e.g. toll collection,
+telecommunications, water treatment (SIC-29.7).
+
+*Effective 31 December 2001. Date of consensus May 2001.*
+*Common pitfall:* preparers frequently give IFRIC 12 recognition and measurement in full and then
+omit SIC-29 entirely, or give it only for the operator. **The grantor is equally in scope.**
+
+### SIC-32 — Intangible Assets—Web Site Costs
+
+**Attaches to:** IAS 38, IAS 16, IFRS 18.
+
+**Question answered:** Whether and when an entity's own web site, developed for internal or external
+access, is an internally generated intangible asset.
+
+**Conclusion:** A web site arising from development is an internally generated intangible asset
+subject to IAS 38 (SIC-32.7). It is recognised **only if** it meets the general IAS 38.21
+recognition and initial measurement criteria **and** the IAS 38.57 internal development criteria —
+in particular IAS 38.57(d), demonstrating probable future economic benefits, which an entity can do
+where the site is capable of generating revenue such as direct order-taking. **An entity cannot
+demonstrate probable future economic benefits for a site developed solely or primarily to promote
+and advertise its own products and services, and all such development expenditure is expensed as
+incurred** (SIC-32.8). Stage by stage (SIC-32.9): the **Planning** stage is akin to the IAS 38
+research phase and is expensed; the **Application and Infrastructure Development, Graphical Design
+and Content Development** stages are akin to the development phase and are capitalised where
+directly attributable and necessary to make the site capable of operating as management intends —
+but expenditure previously recognised as an expense **cannot be resurrected as an asset later**
+(IAS 38.71); **Content developed to advertise or promote the entity's own products** (e.g. digital
+product photography) is expensed as the professional services are received under IAS 38.69(c), not
+when the images go live; and the **Operating** stage is expensed unless the IAS 38.18 criteria are
+met. A capitalised site is measured after recognition under IAS 38.72–87, and **the best estimate
+of its useful life should be short** (SIC-32.10). Hardware — web servers, staging and production
+servers, internet connections — is outside scope and falls under IAS 16, and ISP hosting fees are
+expensed as the services are received (SIC-32.5; the reference in SIC-32.5 was updated by IFRS 18
+to point at **IFRS 18.46** and the *Conceptual Framework*).
+
+*Effective 25 March 2002. Date of consensus May 2001.*
+*Practice note:* SIC-32 is the natural analogue for the April 2021 cloud-computing agenda decision
+(see A9.2) — SIC-32 governs a site the entity controls; the agenda decision governs configuration
+of software it does not.
+
+### Withdrawn Interpretations — do not cite these as live
+
+Each entry below is evidenced by an explicit supersession or withdrawal statement in the named
+primary document, not by inference from a missing file.
+
+| Interpretation | Withdrawn / superseded by | Sourced from |
+|---|---|---|
+| **IFRIC 3** *Emission Rights* | Issued Dec 2004, **withdrawn June 2005** by the IASB — no replacement; the accounting mismatches it created were considered inappropriate | IASB staff paper AP06A *Pollutant Pricing Mechanisms*, June 2015, paras 7, 9 and Appendix: "(IFRIC 3) Emission Rights (withdrawn June 2005)" |
+| **IFRIC 4** *Determining whether an Arrangement contains a Lease* | IFRS 16 | IFRS 16 **C21**: "This Standard supersedes the following Standards and Interpretations: … (b) IFRIC 4" |
+| **IFRIC 8** *Scope of IFRS 2* | *Group Cash-settled Share-based Payment Transactions*, June 2009 | IFRS 2 **64** |
+| **IFRIC 9** *Reassessment of Embedded Derivatives* | IFRS 9 | IFRS 9 **7.3.1**, under the heading "Withdrawal of IFRIC 9, IFRS 9 (2009), IFRS 9 (2010) and IFRS 9 (2013)"; requirements previously in IFRIC 9 paras 5 and 7 were incorporated into IFRS 9 in Oct 2010 |
+| **IFRIC 11** *IFRS 2—Group and Treasury Share Transactions* | *Group Cash-settled Share-based Payment Transactions*, June 2009 | IFRS 2 **64** |
+| **IFRIC 13** *Customer Loyalty Programmes* | IFRS 15 | IFRS 15 **C10(c)** |
+| **IFRIC 15** *Agreements for the Construction of Real Estate* | IFRS 15 | IFRS 15 **C10(d)** |
+| **IFRIC 18** *Transfers of Assets from Customers* | IFRS 15 | IFRS 15 **C10(e)** |
+| **SIC-12** *Consolidation—Special Purpose Entities* | IFRS 10 | IFRS 10: "This IFRS also supersedes SIC-12" |
+| **SIC-13** *Jointly Controlled Entities—Non-Monetary Contributions by Venturers* | IFRS 11 | IFRS 11 withdrawal appendix, item (b) |
+| **SIC-15** *Operating Leases—Incentives* | IFRS 16 | IFRS 16 **C21(c)** |
+| **SIC-21** *Income Taxes—Recovery of Revalued Non-Depreciable Assets* | *Deferred Tax: Recovery of Underlying Assets*, Dec 2010 | IAS 12 **99**, under the heading "Withdrawal of SIC-21" |
+| **SIC-27** *Evaluating the Substance of Transactions Involving the Legal Form of a Lease* | IFRS 16 | IFRS 16 **C21(d)** |
+| **SIC-31** *Revenue—Barter Transactions Involving Advertising Services* | IFRS 15 | IFRS 15 **C10(f)** |
+
+Note that IFRS 16.C21 and IFRS 15.C10 also supersede **IAS 17** and **IAS 11 / IAS 18**
+respectively, and that IFRS 16 transition (C5–C18) still refers to contracts "previously identified
+as leases applying IAS 17 and IFRIC 4" — so a legacy IFRIC 4 reference in a transition note is
+correct in context and should not be edited away.
