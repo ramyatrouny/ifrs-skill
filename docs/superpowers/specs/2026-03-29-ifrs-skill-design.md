@@ -134,6 +134,7 @@ Step-by-step procedures for common complex tasks:
 Per-standard checklist of required disclosures with yes/no/N/A columns.
 
 ### Gap Analysis Template
+
 | Area | Current Treatment | IFRS Requirement | Gap | Action Required | Priority |
 |------|-------------------|-------------------|-----|-----------------|----------|
 

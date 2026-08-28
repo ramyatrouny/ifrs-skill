@@ -12,7 +12,7 @@
 
 ---
 
-### Task 1: Create Skill Directory and Core Hub (`SKILL.md`)
+## Task 1: Create Skill Directory and Core Hub (`SKILL.md`)
 
 **Files:**
 - Create: `~/.claude/skills/ifrs/SKILL.md`
@@ -105,7 +105,7 @@ git commit -m "feat: add IFRS skill core hub (SKILL.md)"
 
 ---
 
-### Task 2: Write Standards Reference (`standards-reference.md`)
+## Task 2: Write Standards Reference (`standards-reference.md`)
 
 **Files:**
 - Create: `~/.claude/skills/ifrs/standards-reference.md`
@@ -1243,7 +1243,7 @@ git commit -m "feat: add IFRS standards reference (IFRS 1-17, IAS 1-41)"
 
 ---
 
-### Task 3: Write Workflows (`workflows.md`)
+## Task 3: Write Workflows (`workflows.md`)
 
 **Files:**
 - Create: `~/.claude/skills/ifrs/workflows.md`
@@ -1655,7 +1655,7 @@ git commit -m "feat: add IFRS workflows (IFRS 15, 16, IAS 36, IFRS 9, IFRS 1)"
 
 ---
 
-### Task 4: Write Compliance Templates (`compliance-templates.md`)
+## Task 4: Write Compliance Templates (`compliance-templates.md`)
 
 **Files:**
 - Create: `~/.claude/skills/ifrs/compliance-templates.md`
@@ -1914,7 +1914,7 @@ git commit -m "feat: add IFRS compliance templates (checklists, gap analysis, au
 
 ---
 
-### Task 5: Write Transition Guide (`transition-guide.md`)
+## Task 5: Write Transition Guide (`transition-guide.md`)
 
 **Files:**
 - Create: `~/.claude/skills/ifrs/transition-guide.md`
@@ -2110,7 +2110,7 @@ git commit -m "feat: add IFRS transition guide (GAAP-to-IFRS, framework-agnostic
 
 ---
 
-### Task 6: Final Verification
+## Task 6: Final Verification
 
 **Files:**
 - Verify: all files in `~/.claude/skills/ifrs/`
