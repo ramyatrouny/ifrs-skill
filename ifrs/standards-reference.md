@@ -1940,6 +1940,12 @@ Two irrevocable elections sit at the scope boundary and are frequently missed:
 
 **Scope:** Applies to all general purpose financial statements prepared in accordance with IFRS. Does not apply to condensed interim financial statements prepared under IAS 34, though IAS 34 builds upon its principles.
 
+**Status and amendments:** **Superseded by IFRS 18 for annual reporting periods beginning on or after 1 January 2027** (IFRS 18.C8). IAS 1 remains the operative presentation standard for periods beginning before that date and for entities that have not early-adopted IFRS 18 — which, at 28 August 2026, is the live population. Recent amendments still relevant to periods under IAS 1:
+- *Disclosure of Accounting Policies* (issued February 2021, effective **1 January 2023**, IAS 1.139V) replaced "significant" with **material** accounting policy information and added paragraphs 117A–117E. EU-endorsed 2 March 2022, OJ 3 March 2022.
+- *Classification of Liabilities as Current or Non-current* (issued January 2020, IAS 1.139U) and *Non-current Liabilities with Covenants* (issued October 2022, IAS 1.139W) both became effective for annual reporting periods beginning on or after **1 January 2024**, applied retrospectively, and **must be applied together**. EU-endorsed as one package 19 December 2023, OJ 20 December 2023; UK adopted 21 July 2023.
+
+**Where the IAS 1 content goes in 2027.** IFRS 18 does not simply replace IAS 1: it **redistributes** it. Fair presentation, the compliance statement, the true and fair override, going concern, the accrual basis, material accounting policy information, judgements and estimation uncertainty all move to **IAS 8**, which IFRS 18 retitles *Basis of Preparation of Financial Statements*. The mapping that matters: IAS 1.25/26 → **IAS 8.6K/6L** (going concern); IAS 1.117–124 → **IAS 8.27A–27I** (accounting policy disclosure); IAS 1.122 → **IAS 8.27G** (judgements); IAS 1.125–133 → **IAS 8.31A–31I** (estimation uncertainty). Presentation of the primary statements, aggregation and disaggregation, and the capital disclosures move to **IFRS 18**. The IASB also **withdrew three IAS 1-era agenda decisions with effect from 1 January 2027** — see the IFRS 18 entry.
+
 **Core principle:** Financial statements must present fairly the financial position, financial performance, and cash flows of an entity. Fair presentation requires faithful representation of the effects of transactions and events in accordance with the definitions and recognition criteria in the Conceptual Framework.
 
 **Key rules:**
@@ -1961,7 +1967,12 @@ Two irrevocable elections sit at the scope boundary and are frequently missed:
 - **Current/non-current distinction** — entities present current and non-current assets/liabilities separately unless a liquidity presentation provides more reliable information.
   - An asset is current if expected to be realised within 12 months or the operating cycle, held for trading, or is cash/cash equivalent.
   - A liability is current if due within 12 months, there is no unconditional right to defer settlement, or it is held for trading.
-  - Breach of loan covenants: if a breach occurs by period end and the lender has not agreed by period end to waive the right to demand repayment, the liability is current.
+  - The right to defer settlement must have **substance** and must exist at the end of the reporting period (IAS 1.72A). Classification is unaffected by the likelihood that the right will be exercised, or by actual settlement before the financial statements are authorised (IAS 1.75A).
+  - **Covenants (IAS 1.72B):** a covenant the entity must comply with **on or before** the reporting date affects whether the right exists — **even if compliance is only tested afterwards** (a period-end-position covenant assessed post year end). A covenant the entity must comply with **only after** the reporting date does **not** affect classification (a covenant based on the position six months later).
+  - Breach on or before period end making the liability payable on demand → **current**, even if the lender agrees after period end not to demand payment (IAS 1.74). A period of grace agreed **by** period end and running at least twelve months → non-current (IAS 1.75).
+  - **Covenant disclosure (IAS 1.76ZA):** where liabilities are classified non-current because covenants bite only after the reporting date, disclose the nature of the covenants and when compliance is required, the carrying amount of the related liabilities, and any facts and circumstances indicating possible difficulty complying — **including the fact that the entity would not have complied had the covenants been tested on its period-end circumstances**.
+  - **Settlement (IAS 1.76A–76B):** settlement means a transfer to the counterparty extinguishing the liability, of cash, other economic resources, or the entity's own equity instruments. A counterparty option to take own equity does **not** affect current/non-current classification where that option is classified as an equity component of a compound instrument under IAS 32.
+  - Post-period-end refinancing, rectification of a breach, and the granting of a period of grace are **non-adjusting** IAS 10 events (IAS 1.76).
 
 **Disclosure requirements:**
 - Identification of the financial statements (entity name, whether consolidated/separate, reporting date, presentation currency, level of rounding)
@@ -1973,13 +1984,16 @@ Two irrevocable elections sit at the scope boundary and are frequently missed:
 - Restatements: nature, amount of corrections, and effect on earnings per share
 
 **Common pitfalls:**
-- Failing to distinguish between material judgements (IAS 1 para 122) and estimation uncertainty (para 125) — they require separate disclosures
+- Failing to distinguish between material judgements (IAS 1.122) and estimation uncertainty (IAS 1.125) — they require separate disclosures. *(From 1 January 2027 these become **IAS 8.27G** and **IAS 8.31A** respectively.)*
 - Classifying a breach-of-covenant liability as non-current when the waiver was obtained after period end
 - Presenting a single OCI line without splitting items that will vs. will not be reclassified
 - Boilerplate accounting policy disclosures that do not reflect the entity's actual circumstances
 - Omitting the third balance sheet when a restatement or reclassification has occurred
 
-**Related standards:** IAS 7 (cash flows), IAS 8 (accounting policies, errors), IAS 10 (events after reporting period), IAS 34 (interim reporting), IFRS 7 (financial instrument disclosures), IFRS 13 (fair value hierarchy disclosures), IAS 33 (EPS)
+- Applying IAS 1 to periods beginning on or after 1 January 2027. IFRS 18 supersedes it, and the two differ materially in the statement of profit or loss, in the aggregation principles, and in where the basis-of-preparation and accounting-policy disclosures live
+- Classifying a liability as current because a covenant tested six months after the reporting date is expected to be breached. IAS 1.72B(b) says such covenants do not affect classification — but IAS 1.76ZA then requires the risk to be disclosed
+
+**Related standards:** **IFRS 18** (supersedes IAS 1 from 1 January 2027), **IAS 8** (the destination of the basis-of-preparation, going concern, accounting policy, judgement and estimation-uncertainty requirements from 2027), IAS 7 (cash flows), IAS 10 (events after the reporting period — post-period-end refinancing and grace periods are non-adjusting), IAS 34 (interim reporting), IFRS 7 (financial instrument disclosures), IFRS 13 (fair value hierarchy disclosures), IAS 32 (settlement in own equity — IAS 1.76B), IAS 33 (earnings per share)
 
 ---
 
@@ -1987,24 +2001,26 @@ Two irrevocable elections sit at the scope boundary and are frequently missed:
 
 **Scope:** Applies to all inventories except: work in progress under construction contracts (IFRS 15), financial instruments (IFRS 9), biological assets and agricultural produce at point of harvest (IAS 41), and commodity broker-traders who measure inventories at fair value less costs to sell.
 
+**Status and amendments:** Issued by the IASC in December 1993 and revised December 2003; adopted by the IASB April 2001. **There have been no substantive amendments to IAS 2 since**; changes have been consequential only. **IFRS 18** (issued 9 April 2024, effective 1 January 2027) makes consequential amendments to IAS 2, chiefly to presentation and cross-references, not to measurement.
+
 **Core principle:** Inventories shall be measured at the lower of cost and net realisable value (NRV). Cost comprises all costs of purchase, costs of conversion, and other costs incurred to bring the inventories to their present location and condition.
 
 **Key rules:**
 - **Cost of inventories:**
   - *Costs of purchase* — purchase price plus import duties, transport, handling, and other directly attributable costs, less trade discounts and rebates
   - *Costs of conversion* — direct labour and a systematic allocation of fixed and variable production overheads
-  - *Fixed overhead allocation* — based on normal capacity (not actual production); abnormal idle capacity costs are expensed as incurred
+  - *Fixed overhead allocation* — based on **normal capacity**, not actual production; abnormal idle capacity costs are expensed as incurred. **IAS 2.13:** normal capacity is the production expected *on average over a number of periods or seasons*, net of planned-maintenance downtime, and actual production may be substituted only where it approximates normal capacity. **The rule cuts both ways:** in periods of abnormally high production the per-unit fixed overhead allocation must be **reduced**, so that inventory is not measured above cost — the half preparers routinely miss
   - *Excluded costs* — abnormal waste, storage costs (unless necessary before a further production stage), administrative overheads unrelated to production, selling costs, and borrowing costs (unless IAS 23 applies)
 - **Cost formulas (methods):**
-  - Specific identification — for items not ordinarily interchangeable and goods produced for specific projects
-  - First-In First-Out (FIFO) — permitted
-  - Weighted average cost (WAC) — permitted (can be periodic or moving average)
+  - **Specific identification is required, not permitted (IAS 2.23)** — the cost of items that are not ordinarily interchangeable, and of goods or services produced and segregated for specific projects, **shall** be assigned by specific identification. An entity cannot elect FIFO for bespoke project inventory
+  - **IAS 2.24:** specific identification is **inappropriate** where there are large numbers of ordinarily interchangeable items, because selecting which items remain would let an entity engineer profit or loss
+  - **IAS 2.25 names only two general cost formulas: FIFO and weighted average cost** (which may be periodic or moving average)
   - **LIFO is explicitly prohibited under IFRS**
-  - The same cost formula must be used for all inventories of similar nature and use; different formulas may be used for different categories
+  - The same cost formula must be used for all inventories of **similar nature and use**; different formulas may be used for different categories. **IAS 2.26:** "similar nature and use" is judged by use **to the entity** — a difference in geographical location alone does not justify a different cost formula
 - **Net realisable value (NRV):**
   - Estimated selling price in the ordinary course of business, less estimated costs of completion and estimated selling costs
-  - NRV write-downs are assessed item-by-item (or by groups of similar items); not by broad category or total inventory
-  - Written-down value is reassessed each subsequent period; reversals are permitted up to the original write-down amount
+  - NRV write-downs are assessed **item by item**. **IAS 2.29:** grouping is permitted **only** for items of the same product line with similar purposes or end uses, produced and marketed in the same geographical area, that cannot practicably be evaluated separately. Writing down on the basis of a *classification* — "finished goods", or all inventories of an operating segment — is **explicitly not appropriate**
+  - **IAS 2.33:** reversal is triggered where the circumstances that caused the write-down **no longer exist** *or* there is **clear evidence of an NRV increase from changed economic circumstances**; the reversal is capped at the amount of the original write-down
 - **Recognition as expense:** The carrying amount of inventories sold is recognised as cost of goods sold in the period in which the related revenue is recognised.
 
 **Disclosure requirements:**
@@ -2016,6 +2032,8 @@ Two irrevocable elections sit at the scope boundary and are frequently missed:
 - Amount of any reversal of a write-down and the circumstances causing the reversal
 - Carrying amount of inventories pledged as security
 
+- The full disclosure list is IAS 2.36. Note that the "amount of inventories recognised as an expense during the period" is a **period figure, not a movement in the inventory balance**, and it includes write-downs and losses recognised in the period (IAS 2.34)
+
 **Common pitfalls:**
 - Using LIFO (explicitly prohibited under IFRS; common US GAAP divergence)
 - Allocating fixed overheads based on actual production rather than normal capacity, overstating inventory in low-production periods
@@ -2024,13 +2042,15 @@ Two irrevocable elections sit at the scope boundary and are frequently missed:
 - Failing to reverse NRV write-downs when selling prices subsequently recover
 - Omitting or incorrectly capitalising borrowing costs per IAS 23 for qualifying inventory
 
-**Related standards:** IAS 23 (borrowing costs for qualifying inventory), IFRS 15 (contract costs and work in progress), IAS 41 (agricultural produce pre-harvest), IFRS 13 (fair value measurement for broker-trader exception)
+**Related standards:** IAS 23 (borrowing costs for qualifying inventory), IFRS 15 (contract costs and work in progress; the IFRS 15.103 ordering rule impairs IAS 2 inventory first), IAS 41 (agricultural produce — FVLCTS at the point of harvest becomes the IAS 2 cost), IAS 16 (proceeds before intended use are measured applying IAS 2 — IAS 16.20A), IFRS 13 (fair value measurement for the broker-trader exception), IFRS 18 (presentation from 2027; the IAS 2.36(e)–(f) write-down and reversal totals feed the IFRS 18.83 by-nature note)
 
 ---
 
 ## IAS 7 — Statement of Cash Flows
 
 **Scope:** Applies to all entities that prepare financial statements in accordance with IFRS. Requires a statement of cash flows as an integral part of the financial statements for every period for which financial statements are presented.
+
+**Status and amendments:** *Supplier Finance Arrangements* (Amendments to IAS 7 and IFRS 7) — issued **25 May 2023**, adding IAS 7 paragraphs **44F–44H**; effective for annual reporting periods beginning on or after **1 January 2024**, earlier application permitted with disclosure of that fact (IAS 7.62); EU-endorsed **15 May 2024**, OJ 16 May 2024 — *after* the effective date, so EU calendar-year preparers could not apply the amendments in their 2023 comparatives at the time of publication; UK adopted 28 November 2023. *Annual Improvements Volume 11* (issued 18 July 2024) amended IAS 7.37, effective **1 January 2026** (IAS 7.65). **IFRS 18** (issued 9 April 2024) amended IAS 7 paragraphs 6, 10, 12, 14, 16–18, 20, 31, 32, 35, 46 and 47, **added paragraphs 33A and 34A–34D, and deleted paragraphs 33 and 34** — applied when IFRS 18 is applied, i.e. from **1 January 2027** (IAS 7.64).
 
 **Core principle:** The statement of cash flows provides information about an entity's historical changes in cash and cash equivalents, classified by operating, investing, and financing activities. This enables users to assess the entity's ability to generate cash and its liquidity needs.
 
@@ -2044,13 +2064,25 @@ Two irrevocable elections sit at the scope boundary and are frequently missed:
   - *Investing activities* — acquisition and disposal of long-term assets and other investments not included in cash equivalents (e.g., PPE purchases, business acquisitions/disposals, loans made and repaid, purchase/sale of investments)
   - *Financing activities* — activities that result in changes in the size and composition of equity and borrowings (e.g., proceeds from issuing shares, proceeds from borrowings, repayment of borrowings, payment of lease liabilities, dividends paid)
 - **Reporting methods for operating cash flows:**
-  - *Direct method* — discloses major classes of gross cash receipts and payments. Encouraged by IAS 7
-  - *Indirect method* — reconciles profit or loss to net cash from operating activities by adjusting for non-cash items, changes in working capital, and items classified as investing/financing. Permitted and widely used in practice
-- **Interest and dividends** — classification is an accounting policy choice that must be applied consistently:
-  - Interest paid: operating or financing
-  - Interest received: operating or investing
-  - Dividends paid: financing or operating
-  - Dividends received: investing or operating
+  - *Direct method* (IAS 7.18(a)) — discloses major classes of gross cash receipts and payments. Encouraged (IAS 7.19)
+  - *Indirect method* (IAS 7.18(b)) — **for periods before IFRS 18 applies**, the starting point is **profit or loss**, adjusted for non-cash items, changes in working capital, and items classified as investing or financing
+  - **From the date IFRS 18 is applied, the starting point is *operating profit or loss***, adjusted for non-cash effects; deferrals and accruals of past or future operating cash receipts or payments; income or expenses classified in the **operating** category whose associated cash flows are classified as investing or financing; and operating cash flows whose associated income or expenses are **not** classified in the operating category. The change of starting point removes the familiar add-back lines that reconcile from profit or loss but not from operating profit — notably the **income tax expense add-back**, which is redundant once the statement begins below the tax line
+- **Interest and dividends — the classification policy choice is largely removed from 2027.** Interest and dividends received and paid are each presented separately and classified consistently from period to period (IAS 7.31); the total interest paid is included whether expensed or capitalised under IAS 23 (IAS 7.32).
+  - **Until IFRS 18 applies** — a consistently applied accounting policy choice: interest paid, operating or financing; interest received, operating or investing; dividends paid, financing or operating; dividends received, investing or operating
+  - **From the date IFRS 18 is applied** (IAS 7.33A, 34A–34D; the old paragraphs 33 and 34 are **deleted**):
+    - **Dividends paid are classified as financing activities. No choice** (IAS 7.33A)
+    - For an entity **without** a specified main business activity (IAS 7.34A): **interest paid is financing**; **interest received and dividends received are investing**. No choice
+    - For an entity that **invests in assets or provides financing to customers as a main business activity** (IAS 7.34B), the cash flow classification follows the profit-or-loss classification it reaches under IFRS 18 for dividend income, interest income and interest expense. **The total of each of those three cash flows must go into a single cash flow category** (IAS 7.34C); where IFRS 18 requires an item to be split across more than one profit-or-loss category, the entity makes an **accounting policy choice** to put the whole related cash flow in one activity (IAS 7.34D)
+  - **IAS 7.16 as amended:** cash payments to acquire, and receipts from sales of, equity or debt instruments of other entities **and interests in associates and joint ventures** are investing (other than instruments treated as cash equivalents or held for dealing or trading)
+- **Supplier finance arrangements (IAS 7.44F–44H):**
+  - **Definition (44G):** arrangements characterised by one or more finance providers offering to pay amounts an entity owes its suppliers, with the entity agreeing to pay the finance provider **at the same date as, or later than, suppliers are paid**. They give the entity extended payment terms or its suppliers early payment, relative to the invoice due date. Also called supply chain finance, payables finance or reverse factoring. **Expressly excluded:** arrangements that are solely credit enhancements for the entity (financial guarantees, letters of credit used as guarantees) and instruments used to settle directly with a supplier (credit cards)
+  - **Objective (44F):** enable users to assess the effects on the entity's liabilities and cash flows and on its **exposure to liquidity risk**
+  - **Required disclosures, in aggregate (44H):** (a) the terms and conditions — extended payment terms, security or guarantees — with **separate** disclosure where arrangements have dissimilar terms; (b) **as at both the beginning and the end of the reporting period**, (i) the carrying amounts and associated statement of financial position line items of the financial liabilities that are part of an arrangement, (ii) the carrying amounts and line items of those liabilities **for which suppliers have already been paid by the finance provider**, and (iii) the range of payment due dates for both those liabilities and **comparable trade payables not part of an arrangement**, with explanatory information or stratified ranges where the ranges are wide; and (c) the type and effect of **non-cash changes** in the carrying amounts under (b)(i)
+  - **Transition relief (IAS 7.63):** in the year of first application, no comparatives for earlier periods; no 44H(b)(ii)–(iii) information as at the beginning of that annual period; and no 44F–44H information for any interim period within that annual period
+  - **The IFRS 18 link:** once the trade payable is derecognised, the resulting liability to the finance provider **arises from a transaction involving only the raising of finance** (IFRS 18.B51(b)), so its income and expenses sit in the **financing** category
+  - **The December 2020 agenda decision on reverse factoring was withdrawn by the IASB in July 2026** (11 of 12 members), after outreach commissioned at the January 2026 meeting. **The supplier finance disclosure requirements above are unaffected and remain fully in force** — the withdrawal is not a relaxation of disclosure. The presentation content the agenda decision carried is now delivered by IFRS 18 and by these amendments
+- **Changes in liabilities arising from financing activities (IAS 7.44A–44E):** disclose information enabling users to evaluate changes, both cash and non-cash (44A) — changes from financing cash flows, from obtaining or losing control of subsidiaries or other businesses, the effect of exchange rate changes, fair value changes, and other changes (44B). The relevant liabilities are those whose cash flows were, or will be, classified as financing (44C), and the requirement **extends to financial assets** whose cash flows were or will be included in financing (for example assets hedging financing liabilities). A reconciliation of opening to closing balances is **one way** to fulfil 44A, with sufficient information to link it to the statement of financial position and the statement of cash flows (44D); where combined with other assets and liabilities, financing liability changes must be shown **separately** (44E). **Defining and reconciling a bespoke "net debt" measure does not remove the requirement to identify liabilities arising from financing activities as defined in 44C** (IFRIC agenda decision, September 2019, updated January 2026 for IFRS 18).
+- **Restricted cash and demand deposits (IFRIC agenda decision, April 2022, updated January 2026).** IAS 7.6 defines cash as cash on hand and demand deposits, with no further qualification, and IAS 7.48 presupposes that cash **may** be restricted. **Contractual restrictions on use agreed with a third party do not stop a demand deposit being cash**, unless they change the nature of the deposit such that it no longer meets the definition. Where the entity can still access the amounts on demand, the deposit is a component of cash and cash equivalents, disaggregated into an additional line item where relevant. The January 2026 update changes the specific references: current classification IAS 1.66(d) → **IFRS 18.99(d)**; the statement of financial position line item IAS 1.54(i) → **IFRS 18.103(k)**; and the additional-line-item test moves from IAS 1.55 ("relevant to an understanding of the entity's financial position") to **IFRS 18.23–24** — present additional line items **if necessary for a primary financial statement to provide a useful structured summary**. That is a genuinely different threshold, not a renumbering.
 - **Taxes on income** — generally classified as operating unless specifically identifiable with financing or investing
 - **Foreign currency cash flows** — translated at the exchange rate at the date of the cash flow (or average rate as approximation). Effect of exchange rate changes on cash held in foreign currencies is presented separately as a reconciling item
 - **Non-cash transactions** — excluded from the cash flow statement but disclosed elsewhere in the notes (e.g., acquiring an asset via finance lease, converting debt to equity, acquiring assets by assuming liabilities)
@@ -2069,6 +2101,10 @@ Two irrevocable elections sit at the scope boundary and are frequently missed:
 - Segment cash flow information (encouraged but not required)
 - Undrawn borrowing facilities
 
+- Supplier finance arrangement disclosures per IAS 7.44H, at **both** the beginning and the end of the period
+- Significant cash and cash equivalent balances **not available for use by the group**, with a commentary by management (IAS 7.48) — for example balances held by a subsidiary subject to exchange controls or other legal restrictions (IAS 7.49)
+- Components of cash and cash equivalents, with a reconciliation to the statement of financial position (IAS 7.45)
+
 **Common pitfalls:**
 - Classifying bank overdrafts as financing rather than as a component of cash and cash equivalents (when part of cash management)
 - Presenting investing/financing cash flows on a net basis when gross presentation is required
@@ -2077,27 +2113,56 @@ Two irrevocable elections sit at the scope boundary and are frequently missed:
 - Failing to disclose restricted cash separately and the resulting reconciliation break
 - Treating proceeds from sale of financial assets (held for investment) as operating rather than investing
 
-**Related standards:** IAS 1 (financial statement presentation), IAS 21 (foreign currency translation of cash flows), IFRS 16 (lease liability payments in financing activities), IFRS 3 (cash flows from business combinations)
+- Carrying the pre-2027 interest and dividend policy choices into an IFRS 18 period. Dividends paid become **financing without exception**, and for an entity without a specified main business activity interest paid is financing and interest and dividends received are investing
+- Starting the indirect method at profit or loss in an IFRS 18 period. IAS 7.18(b) starts at **operating profit or loss**, and the old profit-or-loss-only reconciling lines — the income tax expense add-back among them — fall away
+- Splitting one of interest paid, interest received or dividends received across more than one cash flow category. IAS 7.34B requires the **total of each in a single category**, and IAS 7.34D then forces a policy choice where profit or loss splits it
+- Treating contractual restrictions on the use of a demand deposit as removing it from cash (IFRIC, April 2022, updated January 2026) — disclose under IAS 7.48 and, if needed, present it as a separate line item
+- Applying the supplier finance disclosures only to arrangements labelled "reverse factoring", or including credit cards and letters of credit used as guarantees, which IAS 7.44G expressly excludes
+- Giving the supplier finance carrying amounts only at the reporting date; IAS 7.44H(b) requires them at **both** the beginning and the end of the period
+- Treating the July 2026 withdrawal of the reverse factoring agenda decision as relaxing the supplier finance disclosures. It does not
+
+**Related standards:** IAS 1 (presentation until IFRS 18 applies), **IFRS 18** (the source of the 2027 IAS 7 amendments; operating profit as the indirect-method starting point; specified main business activities at IFRS 18.B30–B41), IFRS 7 (the companion supplier finance disclosures), IAS 21 (translation of foreign currency cash flows), IFRS 16 (lease principal in financing; the interest component moves to financing from 2027), IFRS 3 (cash flows from business combinations), IAS 23 (interest paid includes amounts capitalised)
 
 ---
 
 ## IAS 8 — Accounting Policies, Changes in Accounting Estimates and Errors
+*(renamed **Basis of Preparation of Financial Statements** by IFRS 18, for annual reporting periods beginning on or after 1 January 2027)*
 
 **Scope:** Applies to the selection and application of accounting policies and the accounting for changes in accounting policies, changes in accounting estimates, and corrections of prior period errors. Does not address accounting for income taxes arising from corrections of errors or changes in accounting policies (see IAS 12).
+
+**Status and amendments:** *Definition of Material* (Amendments to IAS 1 and IAS 8, issued October 2018) amended IAS 8.5 and deleted IAS 8.6, applied prospectively for periods beginning on or after 1 January 2020 (IAS 8.54H). ***Definition of Accounting Estimates*** (issued February 2021) amended paragraphs 5, 32, 34, 38 and 48 and added **32A, 32B and 34A**; effective for annual reporting periods beginning on or after **1 January 2023**, earlier application permitted, **applied to changes in accounting estimates and changes in accounting policies occurring on or after the beginning of the first annual period of application** (IAS 8.54I); EU-endorsed 2 March 2022, OJ 3 March 2022. **IFRS 18** (issued 9 April 2024) **renames the Standard *Basis of Preparation of Financial Statements***, amends paragraphs 1, 3, 5, 11 and 32, adds **3A, 6A–6N, 27A–27I and 31A–31I**, and deletes paragraph 2 — applied when IFRS 18 is applied, i.e. from **1 January 2027** (IAS 8.54J).
+
+**The renaming is substantive, not cosmetic.** From 2027, fair presentation, the compliance statement, the true and fair override, going concern, the accrual basis, material accounting policy information, judgements and estimation uncertainty **all move from IAS 1 into IAS 8**. A user asking "where is the going concern requirement" or "where is the compliance statement" in a 2027 context must be sent to IAS 8, not IAS 1.
+
+**Scope from 2027 (IAS 8.1, 3, 3A):** IAS 8 prescribes the **basis of preparation** of financial statements, comprising the general matters in paragraphs 6A–6N, the criteria for selecting, changing and disclosing accounting policies, and the treatment of changes in accounting policies, changes in accounting estimates and corrections of errors. **Paragraphs 6A–6N also apply to condensed interim financial statements prepared under IAS 34** (IAS 8.3A).
 
 **Core principle:** Accounting policies shall be selected and applied consistently. Changes in accounting policy, changes in accounting estimates, and corrections of material prior period errors each have specific and distinct accounting treatments.
 
 **Key rules:**
+- **Basis of preparation — general matters (IAS 8.6A–6N, moved from IAS 1 by IFRS 18, applying from 1 January 2027):**
+  - **Fair presentation (6A):** financial statements shall present fairly; fair presentation requires faithful representation in accordance with the Conceptual Framework definitions and recognition criteria. Applying IFRS Accounting Standards, with additional disclosure where necessary, is **presumed** to achieve fair presentation
+  - **Compliance statement (6B):** an entity whose statements comply with IFRS Accounting Standards makes an **explicit and unreserved statement of compliance in the notes**, and must not describe them as compliant unless they comply with **all** requirements
+  - **What fair presentation additionally requires (6C):** selecting and applying policies under IAS 8; presenting information so that it is relevant, reliable, comparable and understandable; and **providing additional disclosures where the specific requirements are insufficient** for users to understand the impact of particular transactions. Inappropriate accounting policies cannot be rectified by disclosure (6D)
+  - **True and fair override (6E–6J):** in extremely rare circumstances where compliance with a requirement would be so misleading that it would conflict with the objective of financial statements, the entity **shall** depart from that requirement — **but only if the relevant regulatory framework requires or does not prohibit it** (6E), with the disclosures in 6F. Where the regulatory framework **prohibits** departure, the entity instead discloses the title of the Standard, the nature of the requirement, why compliance is misleading, and **for each period presented, the adjustments to each item** that would be necessary to achieve fair presentation (6I). If other entities in similar circumstances comply, there is a **rebuttable presumption** that compliance would not be so misleading (6J(b))
+  - **Going concern (6K–6L):** management assesses the entity's ability to continue as a going concern; the going concern basis is used unless management intends to liquidate or cease trading or has no realistic alternative. **Material uncertainties casting significant doubt must be disclosed.** If the basis is not going concern, disclose that fact, the basis used, and the reason. The assessment takes into account all available information about the future, **at least, but not limited to, twelve months from the end of the reporting period** (6L)
+  - **Accrual basis (6M–6N):** all financial statements except cash flow information are prepared on the accrual basis; items are recognised when they satisfy the Conceptual Framework definitions and recognition criteria
 - **Selection of accounting policies:**
   - When an IFRS specifically applies, follow that standard
-  - When no specific IFRS applies, management uses judgement to develop a policy that is relevant and reliable, considering in order: (1) requirements of IFRS dealing with similar/related issues, (2) the IASB Conceptual Framework
-  - May also consider pronouncements of other standard-setting bodies that use a similar framework, other accounting literature, and accepted industry practices
+  - **IAS 8.10 — in the absence of a Standard that specifically applies**, management shall use its judgement to develop and apply an accounting policy producing information that is **(a) relevant** to users' economic decision-making needs and **(b) reliable**, in that the financial statements represent faithfully the financial position, financial performance and cash flows; reflect the **economic substance** of transactions and not merely their legal form; are **neutral**, i.e. free from bias; are **prudent**; and are **complete** in all material respects
+  - **IAS 8.11 — mandatory sources, in descending order:** (a) the requirements in IFRSs dealing with **similar and related issues**; then (b) the **definitions, recognition criteria and measurement concepts** for assets, liabilities, income and expenses in the **Conceptual Framework**
+  - **IAS 8.12 — optional sources.** Management **may also** consider the most recent pronouncements of **other standard-setting bodies that use a similar conceptual framework**, other accounting literature and **accepted industry practices**, to the extent these do not conflict with the IAS 8.11 sources. This is the paragraph under which US GAAP analogies are sometimes used — permissively, and only after IAS 8.11 is exhausted
+  - **Two Committee observations on applying the hierarchy.** Where a policy is developed **by analogy** under IAS 8.11(a), management must apply **all aspects of the IFRS being analogised to that are applicable to the issue** — it may not cherry-pick (IFRIC Update, March 2011). And in considering requirements dealing with similar and related issues, an entity considers **all** those requirements, **including the relevant disclosure requirements** (the commodity loans agenda decision)
+  - **IAS 8.7:** unless a Standard explicitly excludes a transaction from its scope, that Standard applies — the reasoning the Committee has applied to common control transactions
 - **Changes in accounting policy:**
   - Permitted only if required by an IFRS, or if the change results in the financial statements providing more reliable and relevant information
   - **Retrospective application** — restate all prior periods presented as if the new policy had always been applied; adjust the opening balance of equity of the earliest period presented
   - If retrospective application is impracticable for a specific prior period, apply the new policy from the beginning of the earliest period for which retrospective application is practicable
   - Changes resulting from initial application of a new IFRS are accounted for per the transitional provisions of that IFRS (which may specify prospective or modified retrospective)
 - **Changes in accounting estimates:**
+  - **Definition (IAS 8.5, as amended 2021):** accounting estimates are **monetary amounts in financial statements that are subject to measurement uncertainty**. An accounting policy may require an item to be measured at an amount that cannot be observed directly; the entity develops an accounting estimate to achieve the objective set by the policy (IAS 8.32). Named examples: a loss allowance for expected credit losses (IFRS 9); the net realisable value of inventory (IAS 2); the fair value of an asset or liability (IFRS 13); depreciation expense for PP&E (IAS 16); a warranty provision (IAS 37)
+  - **Measurement techniques and inputs (IAS 8.32A):** an entity uses measurement techniques and inputs to develop an estimate; measurement techniques include estimation techniques (ECL) and valuation techniques (IFRS 13 fair value)
+  - **The decisive rule (IAS 8.34A): the effects on an accounting estimate of a change in an input or a change in a measurement technique are changes in accounting estimates** — unless they result from the correction of a prior period error. This is what resolves most policy-versus-estimate arguments in practice
+  - **IAS 8.32B:** not every use of the word "estimate" in the Standards denotes an accounting estimate; sometimes it means an **input** used in developing one
   - A change in estimate results from new information or new developments, not from correcting errors
   - **Prospective application** — recognise the effect in profit or loss in the current period and future periods affected
   - Examples: useful lives and residual values of assets, allowance for expected credit losses, warranty provisions, fair value measurements
@@ -2110,6 +2175,13 @@ Two irrevocable elections sit at the scope boundary and are frequently missed:
 - **Impracticability** — applying a requirement is impracticable when the entity cannot apply it after making every reasonable effort to do so (e.g., data not available, significant estimation required that cannot be reliably made)
 
 **Disclosure requirements:**
+- **Material accounting policy information (IAS 8.27A–27I, moved from IAS 1 by IFRS 18, applying from 1 January 2027):**
+  - Disclose **material** accounting policy information. Policy information is material if, considered together with other information in the financial statements, it could reasonably be expected to **influence users' decisions** (27A)
+  - Policy information about immaterial transactions is immaterial and need not be disclosed; but policy information can be material because of the **nature** of the transactions even where the amounts are immaterial; and not all policy information about material transactions is itself material (27B)
+  - **Expected to be material (27C)** where the information relates to material transactions and: the policy changed in the period with a material effect; the policy was **chosen from options** permitted by IFRS Accounting Standards (cost rather than fair value for investment property); the policy was developed under IAS 8 in the absence of a specific Standard; the policy relates to an area requiring significant judgements or assumptions disclosed under 27G and 31A; or the accounting is complex and users would otherwise not understand the transactions
+  - **Entity-specific** policy information — how the entity applied the requirements to **its own** circumstances — is more useful than standardised text or text that merely duplicates or summarises the Standards (27D). Immaterial policy information must not **obscure** material policy information (27E); a conclusion that policy information is immaterial does not affect disclosure requirements in other Standards (27F)
+  - **Judgements (27G):** disclose the judgements, apart from those involving estimations, made in applying the entity's accounting policies that have the most significant effect on the amounts recognised
+- **Estimation uncertainty (IAS 8.31A):** disclose the assumptions about the future, and other major sources of estimation uncertainty at the end of the reporting period, that have a **significant risk of resulting in a material adjustment to carrying amounts within the next financial year**, including the nature and carrying amount of the affected assets and liabilities
 - **Change in accounting policy:**
   - Title of the standard, nature and reason for change
   - Amount of adjustment for current and each prior period presented (and beyond if practicable)
@@ -2132,13 +2204,23 @@ Two irrevocable elections sit at the scope boundary and are frequently missed:
 - Voluntary changes in accounting policy without documenting that the change provides more reliable and relevant information
 - Disclosing only current-year impact without providing the per-period impact table required by IAS 8
 
-**Related standards:** IAS 1 (presentation), IAS 12 (tax effects of corrections and policy changes), IAS 16 (change in depreciation method treated as change in estimate), IAS 37 (revision of provisions treated as change in estimate), all IFRS transitional provisions
+- Looking in IAS 1 for the compliance statement, going concern, the accrual basis, material accounting policy information, judgements or estimation uncertainty in an IFRS 18 period. From 2027 they are IAS 8 paragraphs 6B, 6K–6L, 6M–6N, 27A–27I, 27G and 31A respectively
+- Treating a change in a **measurement technique** as a change in accounting policy. IAS 8.34A makes it a change in **estimate** unless it corrects a prior period error
+- Disclosing "significant" rather than **material** accounting policy information, and reproducing standard text rather than entity-specific application (IAS 8.27A, 27D)
+- Applying the true and fair override without confirming the regulatory framework permits it. Where departure is prohibited, IAS 8.6I requires **quantified adjustment disclosure for each period presented** instead
+- Limiting the going concern assessment to exactly twelve months. IAS 8.6L requires **at least** twelve months from the reporting date, and not limited to that
+- Applying the *Definition of Accounting Estimates* amendments retrospectively; IAS 8.54I applies them to changes occurring on or after the beginning of the first annual period of application
+- Reaching for the Conceptual Framework before exhausting IAS 8.11(a), or applying an analogue selectively rather than in all applicable aspects
+
+**Related standards:** **IFRS 18** (presentation; IFRS 18.113(a) signposts the basis-of-preparation and policy disclosures to IAS 8), IAS 1 (the source of the paragraphs moving into IAS 8, and the operative presentation standard until 2027), IAS 34 (paragraphs 6A–6N apply to condensed interims via IAS 8.3A), IAS 12 (tax effects of corrections and policy changes), IAS 16 (a change in depreciation method is a change in estimate), IAS 37 (revision of provisions is a change in estimate), IAS 2 / IFRS 9 / IFRS 13 (the named estimate examples in IAS 8.32), the **Conceptual Framework** (the IAS 8.11(b) source), all IFRS transitional provisions
 
 ---
 
 ## IAS 10 — Events after the Reporting Period
 
 **Scope:** Applies to the accounting for, and disclosure of, events — both favourable and unfavourable — that occur between the end of the reporting period and the date on which the financial statements are authorised for issue. Does not address events already reflected in the financial statements or addressed by other standards (e.g., discontinued operations under IFRS 5).
+
+**Status and amendments:** **IFRS 18** (issued 9 April 2024) amended IAS 10 paragraphs **13 and 16 only** — the substance of IAS 10 is unchanged. From 1 January 2027 the cross-references change: dividends declared after the reporting period are disclosed under **IFRS 18.132** (IAS 10.13, previously IAS 1.137), and the going concern disclosure requirements referenced in IAS 10.16 sit in **IAS 8.6K–6L** rather than IAS 1.25.
 
 **Core principle:** Events after the reporting period are classified as either adjusting or non-adjusting. Adjusting events provide evidence of conditions existing at the end of the reporting period and require changes to the financial statements. Non-adjusting events are indicative of conditions that arose after the reporting period and are disclosed but do not change recognised amounts.
 
@@ -2159,10 +2241,11 @@ Two irrevocable elections sit at the scope boundary and are frequently missed:
   - Abnormally large changes in asset prices or foreign exchange rates after period end
   - Changes in tax rates or tax laws enacted after period end
   - Entering into significant commitments or contingent liabilities
-- **Dividends:**
-  - Dividends declared after the reporting period but before the financial statements are authorised for issue are **non-adjusting** — no liability is recognised at period end. They are disclosed in the notes
-- **Going concern:**
-  - If management determines after the reporting period that it intends to liquidate the entity or cease trading, or has no realistic alternative but to do so, the going concern basis is inappropriate even if the event occurs after period end — the financial statements must be revised accordingly
+- **Dividends (IAS 10.12–13):**
+  - Dividends declared after the reporting period but before the financial statements are authorised for issue are **non-adjusting**: they create no obligation at the reporting date, so **no liability is recognised at period end**. They are disclosed in the notes — under **IAS 1.137** before 2027 and **IFRS 18.132** thereafter
+- **Going concern (IAS 10.14–16):**
+  - If management determines after the reporting period that it intends to liquidate the entity or cease trading, or has no realistic alternative but to do so, the going concern basis is inappropriate **even though the event occurs after period end** — the financial statements must be revised accordingly
+  - **The prohibition is absolute.** An entity that is no longer a going concern **cannot** prepare financial statements on a going concern basis — **including financial statements for prior periods not yet authorised for issue** (IAS 10.14; IFRIC agenda decision, June 2021). Deterioration after the reporting period may indicate the assumption is no longer appropriate; if so, the effect is so **pervasive** that a **fundamental change in the basis of accounting** is required, not an adjustment within the existing basis (IAS 10.15)
 - **Date of authorisation for issue:**
   - Must be disclosed; this is the date the financial statements are approved by the board (or equivalent)
   - If the entity's owners or others have the power to amend the financial statements after issue, that does not change the authorisation date
@@ -2181,13 +2264,25 @@ Two irrevocable elections sit at the scope boundary and are frequently missed:
 - Overlooking going concern events that arise between period end and authorisation
 - Confusion between the "reporting period" (year-end) and the "authorisation date" — the window between these two dates is where IAS 10 applies
 
-**Related standards:** IAS 1 (going concern, authorisation date for comparative third balance sheet), IAS 37 (provisions for conditions existing at period end), IAS 36 (impairment evidence arising after period end), IFRS 5 (discontinued operations)
+**Related standards:** IAS 1 (going concern and dividend disclosure until IFRS 18 applies), **IAS 8** (the going concern requirements from 2027 — IAS 8.6K–6L), **IFRS 18** (dividend disclosure from 2027 — IFRS 18.132), IAS 37 (provisions for conditions existing at period end), IAS 36 (impairment evidence arising after period end), IFRS 5 (discontinued operations), IFRIC 23 (whether a post-reporting-date change in an uncertain tax treatment is adjusting)
 
 ---
 
 ## IAS 12 — Income Taxes
 
 **Scope:** Applies to the accounting for income taxes, including all domestic and foreign taxes based on taxable profits, and withholding taxes payable by subsidiaries on distributions to the parent. Does not apply to government grants (IAS 20) or investment tax credits, except by analogy where appropriate. IFRIC 23 supplements IAS 12 for uncertain tax treatments.
+
+**Status and amendments:** IAS 12 was adopted by the IASB in April 2001 (originally IASC, October 1996). Amendments in force, most recent first:
+- ***International Tax Reform — Pillar Two Model Rules*** — issued **23 May 2023**; added paragraphs **4A and 88A–88D**. The **exception in 4A and the disclosure in 88A apply immediately on issue and retrospectively under IAS 8**; paragraphs **88B–88D** apply for annual reporting periods beginning on or after **1 January 2023**, with no requirement to give that information for any interim period ending on or before 31 December 2023 (IAS 12.98M). EU-endorsed 8 November 2023, OJ 9 November 2023; UK adopted 19 July 2023.
+- ***Deferred Tax related to Assets and Liabilities arising from a Single Transaction*** — issued **7 May 2021**; amended paragraphs 15, 22 and 24 and added **22A**; effective for annual periods beginning on or after **1 January 2023**, earlier application permitted (IAS 12.98J); transition applies to transactions occurring on or after the beginning of the earliest comparative period presented, with a catch-up recognition of deferred tax on all lease and decommissioning temporary differences at that date and the cumulative effect taken to opening retained earnings (98K–98L). EU-endorsed 11 August 2022, OJ 12 August 2022.
+- *Annual Improvements 2015–2017 Cycle* — issued December 2017; added paragraph **57A** (income tax consequences of dividends) and deleted 52B; effective 1 January 2019.
+- *Recognition of Deferred Tax Assets for Unrealised Losses* — issued January 2016; amended paragraph 29 and added **27A and 29A**; effective 1 January 2017.
+- ***IFRS 18* consequential amendments** — issued April 2024; amended paragraphs 62A, 77, 78 and 81; applied when IFRS 18 is applied, i.e. from 1 January 2027 (IAS 12.98N). Paragraph 98N is the final effective-date paragraph: **no amendment to IAS 12 has been issued since April 2024.**
+
+**Open at the reporting date, and not yet standard-setting output:**
+- **The Pillar Two temporary exception has no expiry date and remains fully in force at 28 August 2026.** Neither IAS 12.4A nor 98M contains a sunset clause. The IASB carries a *maintenance pipeline* project stating that it "plans to undertake further work to determine whether to remove the temporary exception — or to make it permanent — after there is sufficient clarity about how jurisdictions implemented the rules and the related effects on entities." No timetable has been published. **Do not tell a preparer the exception expires.**
+- **July 2026 (tentative):** the IASB decided to require an entity to classify, in the **income taxes** category of the statement of profit or loss, tax charges imposed by a government **as a direct substitute for income taxes** — but only where legislation specifies that the entity pays *either* an income tax *or* the specified charge; with disaggregation of other tax charges from income taxes, disclosure of their nature, amount and basis of calculation, relabelling of affected subtotals, and consequential adjustment of MPM reconciliations. This followed the June 2026 meeting, at which five members signalled they would vote against publishing an exposure draft on classifying Pillar Two "covered taxes" in the income taxes category. **Tentative — no exposure draft has been published.**
+- **Agenda decisions finalised but pending IASB non-objection:** in April 2026 the Interpretations Committee finalised the agenda decision *Presentation of Taxes or Other Charges that Are Not Tax Expense or Tax Income Applying IAS 12* (IFRS 18), and updates to *Presentation of payments on non-income taxes* (IAS 1 and IAS 12) and *Classification of tonnage taxes* (IAS 12). **In May 2026 the IASB deferred its decision on whether it objects**, so none of these appear in the agenda-decision compilations and none is yet published.
 
 **Core principle:** Current and deferred tax are recognised as income or expense in profit or loss, except to the extent that the tax arises from a transaction recognised in OCI or directly in equity, in which case the tax is also recognised in OCI or equity respectively. Deferred tax reflects the future tax consequences of recovering or settling the carrying amounts of assets and liabilities.
 
@@ -2196,6 +2291,15 @@ Two irrevocable elections sit at the scope boundary and are frequently missed:
   - The amount of income tax payable (recoverable) in respect of taxable profit (loss) for the current and prior periods
   - Measured using enacted or substantively enacted tax rates at the balance sheet date
   - Recognised as a liability (or asset if tax paid exceeds tax due)
+- **Pillar Two income taxes (IAS 12.4A, 88A–88D):**
+  - **Scope:** income taxes arising from tax law enacted or substantively enacted to implement the OECD Pillar Two model rules, **including qualified domestic minimum top-up taxes (QDMTTs)**
+  - **The temporary exception (4A) is mandatory, not a policy choice:** an entity shall **neither recognise nor disclose** deferred tax assets and liabilities related to Pillar Two income taxes. There is no opt-out
+  - **It is confined to *deferred* tax.** Current tax on Pillar Two top-up tax is recognised normally as it arises
+  - **88A** — disclose the fact that the exception has been applied
+  - **88B** — disclose **separately** the current tax expense (income) related to Pillar Two income taxes. This bites only once the legislation is in effect
+  - **88C** — for periods in which Pillar Two legislation is **enacted or substantively enacted but not yet in effect**, disclose known or reasonably estimable information enabling users to understand the entity's exposure
+  - **88D** — that information must be **qualitative *and* quantitative**, need not reflect all the specific requirements of the legislation, and **may be given as an indicative range**. Where information is not known or reasonably estimable, disclose **that fact plus the entity's progress in assessing its exposure**. Examples given: how the entity is affected and the main jurisdictions where exposure might exist; the proportion of profits potentially subject to top-up tax and the average effective tax rate on those profits; or how the average effective tax rate would have changed had the legislation been in effect
+- **Tonnage taxes are not income taxes (IAS 12 agenda decision, May 2009).** "Tonnage tax" covers several regimes — taxation on tonnage transported, on tonnage capacity, or on a notional profit, in place of ordinary corporate income tax, sometimes irrevocably. IAS 12 applies to taxes based on **taxable profit**, which implies a **net** rather than a gross amount. Taxes on tonnage transported or capacity are levied on gross amounts, and taxes on notional income derived from capacity are not based on the entity's actual income and expenses. **Such taxes are not income taxes and are not presented within tax expense**; the charge sits in operating expenses, and where the regime is elected, deferred tax generally ceases to be recognised on the assets within it. An entity may present additional subtotals where relevant. *(An update to this decision was finalised in April 2026 but the IASB deferred its non-objection in May 2026 — see Status and amendments.)*
 - **Temporary differences:**
   - Differences between the carrying amount of an asset or liability in the balance sheet and its tax base
   - *Taxable temporary differences* — give rise to deferred tax liabilities (DTLs): taxable amounts in future periods
@@ -2203,16 +2307,24 @@ Two irrevocable elections sit at the scope boundary and are frequently missed:
 - **Deferred tax liabilities (DTLs):**
   - Recognised for all taxable temporary differences except:
     - Initial recognition of goodwill
-    - Initial recognition of an asset or liability in a transaction that is not a business combination and, at the time of the transaction, affects neither accounting profit nor taxable profit (the "initial recognition exemption")
+    - Initial recognition of an asset or liability in a transaction that (i) is **not a business combination**, (ii) at the time of the transaction affects **neither accounting profit nor taxable profit**, **and (iii) — the third condition, added with effect from 1 January 2023 — does not give rise to equal taxable and deductible temporary differences** (IAS 12.15(b)(iii); the mirror condition for deferred tax assets is IAS 12.24(c))
+    - **IAS 12.22A is the consequence:** at the commencement date of a lease a lessee typically recognises a lease liability and an equal amount in the cost of the right-of-use asset, and depending on the tax law equal taxable and deductible temporary differences arise. **The exemption does not apply**, and the entity recognises **both** the resulting deferred tax liability and the deferred tax asset. Decommissioning, restoration and similar liabilities with a corresponding amount in the cost of the related asset are the other principal case
+    - **Mechanics.** The ROU asset gives a **taxable** temporary difference (carrying amount against a nil tax base where deductions follow lease payments) and the lease liability an equal **deductible** temporary difference. **Gross them up**; do not net them off the face of the statement of financial position unless the IAS 12.74 offsetting conditions are met. The deferred tax asset remains subject to the recoverability test in IAS 12.24 — if the deductible difference fails the "probable taxable profit" test, a deferred tax liability is recognised **without** a matching asset, and there is a profit-or-loss charge
+    - **The direction of the tax deductions decides whether temporary differences arise at all**, and it varies by jurisdiction. The IAS 12 Illustrative Examples work a five-year building lease (annual payments CU100, advance lease payment CU15, initial direct costs CU5, incremental borrowing rate 5%, tax rate 20%): the lessee recognises a lease liability of CU435 and a lease asset of CU455. Where the deductions relate to **repayment of the lease liability**, the tax base of both the liability and the corresponding CU435 component of the asset is nil, producing a taxable temporary difference of CU435 on the asset and a deductible temporary difference of CU435 on the liability — recognised **gross at CU87 each**. The example's own footnote records the alternative: where the applicable tax law means the deductions relate to **the lease asset**, **no temporary differences arise on initial recognition at all**. Establish which of the two the local tax law produces before applying 22A
+    - **The advance lease payment and initial direct costs are a separate question and do not depend on 22A.** In the same example those components (CU15 and CU5) have a nil tax base because the deductions were already received when paid. The paragraph 15 exemption does not apply to them — not because of 22A, but because those transactions **affected taxable profit at the time of the transaction**, failing condition 15(b)(ii). Deferred tax liabilities of CU3 and CU1 are recognised
     - Taxable temporary differences arising on investments in subsidiaries, associates, and joint ventures where the parent/investor controls the timing of reversal and it is probable the difference will not reverse in the foreseeable future
 - **Deferred tax assets (DTAs):**
   - Recognised for all deductible temporary differences to the extent that it is probable that taxable profit will be available against which the deductible temporary difference can be utilised
   - Also recognised for unused tax losses and tax credits carried forward, to the extent probable that future taxable profit will be available
-  - The assessment of "probable" requires judgement and must be reviewed at each balance sheet date
-  - Unrecognised DTAs reassessed at each period end
+  - **"Probable" is met first from sufficient taxable temporary differences (IAS 12.28)** relating to the same taxation authority and the same taxable entity, expected to reverse in the right periods; only where those are insufficient does the entity look to future taxable profit or tax planning opportunities (IAS 12.29)
+  - **IAS 12.27A — the source restriction.** The assessment must respect any **tax-law restriction on the sources of taxable profit** against which the deduction may be made. If tax law restricts the source (capital losses deductible only against capital gains), assess that deductible temporary difference **separately**; if not, assess it in combination with all other deductible temporary differences
+  - **IAS 12.29A:** estimated future taxable profit may include recovering an asset for **more than its carrying amount** where there is sufficient evidence that this is probable — relevant to debt instruments measured at fair value where the entity expects to hold to maturity and collect par
+  - **IAS 12.35:** the criteria for tax losses are the same, but "**the existence of unused tax losses is strong evidence that future taxable profit may not be available**". A history of recent losses raises the evidential bar materially — recognise only to the extent of taxable temporary differences or convincing other evidence
+  - **IAS 12.56:** the carrying amount of a deferred tax asset is reviewed at the end of **each** reporting period, and reductions are reversed when recovery again becomes probable
 - **Measurement of deferred tax:**
   - Measured at the tax rates expected to apply in the period the asset is realised or the liability settled, based on enacted or substantively enacted rates at the balance sheet date
-  - The rate used depends on the *expected manner of recovery/settlement* (e.g., use vs. sale of an asset may attract different rates)
+  - **IAS 12.51:** measurement reflects the tax consequences that follow from **the manner in which the entity expects, at the end of the reporting period, to recover or settle** the carrying amount. **IAS 12.51A:** in some jurisdictions the manner of recovery affects the **rate *and/or* the tax base**, so a decision to sell rather than use an asset can change both
+  - **IAS 12.52A and 82A:** where a jurisdiction taxes distributed and undistributed profits at different rates, current and deferred tax are measured at the rate applicable to **undistributed** profits, and the entity discloses the nature of the potential income tax consequences of paying dividends, the amounts practicably determinable, and whether any are not practicably determinable
   - Deferred tax is **not discounted**
 - **Offsetting:**
   - Current tax assets and liabilities may be offset only when there is a legally enforceable right to offset and the entity intends to settle on a net basis or simultaneously
@@ -2226,6 +2338,10 @@ Two irrevocable elections sit at the scope boundary and are frequently missed:
   - The entity assumes the tax authority will examine the positions and has full knowledge of all relevant information
   - Measurement: either the most likely amount or the expected value (probability-weighted), whichever better predicts the resolution
   - Reassess judgements whenever facts or circumstances change or new information becomes available
+  - **IFRIC 23.6 — the unit of account:** decide whether to consider each uncertain tax treatment **separately or as a group**, on the basis of which better predicts the resolution of the uncertainty, considering how the entity prepares and supports its filings and how the authority is expected to examine them
+  - **IFRIC 23.8 — detection risk is ignored:** assume the taxation authority **will examine** amounts it has a right to examine and will have **full knowledge of all related information**. There is no "detection risk" discount
+  - **IFRIC 23.12:** make **consistent** judgements and estimates across current tax and deferred tax where a treatment affects both. **IFRIC 23.13–14:** reassess on a change in facts and circumstances or on new information — the expiry of a statute of limitation is the classic trigger — and account for the effect as a **change in accounting estimate** under IAS 8, with IAS 10 determining whether a post-reporting-date change is adjusting or non-adjusting
+  - **Presentation note:** the September 2019 agenda decision *Presentation of Liabilities or Assets Related to Uncertain Tax Treatments (IAS 1)* is **withdrawn with effect from 1 January 2027**; its full text has been reproduced after **IFRS 18.103(q)**, which is where the presentation requirement now lives
 
 **Disclosure requirements:**
 - Current and deferred tax recognised in profit or loss, OCI, and equity
@@ -2239,9 +2355,13 @@ Two irrevocable elections sit at the scope boundary and are frequently missed:
 - Tax consequences of dividends proposed or declared
 - Uncertain tax positions recognised (per IFRIC 23): judgements made, key assumptions, potential changes
 
+- Pillar Two: the fact that the exception has been applied (88A); the current tax expense related to Pillar Two income taxes, **separately** (88B); and, in the window between substantive enactment and the legislation taking effect, the qualitative and quantitative exposure information required by 88C–88D, or a "not known or reasonably estimable" statement plus the entity's progress
+- **IAS 12.82:** where utilisation of a recognised deferred tax asset depends on future taxable profits **in excess of** existing taxable temporary differences, or where the entity has suffered a loss in the current or preceding period in that jurisdiction, disclose the amount **and the nature of the evidence supporting recognition**
+- Potential income tax consequences of dividends where distributed and undistributed rates differ (IAS 12.82A), read with the temporary-difference disclosures for investments in subsidiaries (IAS 12.87C)
+
 **Common pitfalls:**
 - Recognising a DTA for tax losses without sufficient evidence of probable future taxable profits
-- Applying the wrong tax rate (e.g., using the enacted rate rather than the substantively enacted rate, or failing to consider the expected manner of recovery/settlement)
+- Using a rate that is **neither enacted nor substantively enacted** at the reporting date — for example an announced but not substantively enacted future rate. Note that IAS 12.47 permits **either** enacted **or** substantively enacted rates; there is no hierarchy between them. The related error is failing to reflect the **expected manner of recovery or settlement** (IAS 12.51, 51A)
 - Incorrectly applying the initial recognition exemption to subsequent changes in temporary differences (it applies only at initial recognition)
 - Recognising a DTL on goodwill (explicitly prohibited)
 - Failing to recognise tax on OCI items separately from tax in profit or loss
@@ -2249,7 +2369,15 @@ Two irrevocable elections sit at the scope boundary and are frequently missed:
 - Discounting deferred tax balances (prohibited under IAS 12)
 - Not reassessing previously unrecognised DTAs when circumstances improve
 
-**Related standards:** IAS 1 (presentation of tax on OCI), IAS 8 (tax effects of corrections and policy changes), IFRS 3 (deferred tax in business combinations), IAS 32/IFRS 9 (tax on equity components), IFRIC 23 (uncertain tax treatments)
+- Treating the Pillar Two exception as optional, or extending it to **current** tax. It is mandatory and applies only to deferred tax
+- Omitting the 88C–88D exposure disclosures in the window between substantive enactment and the legislation taking effect, or omitting the "not reasonably estimable plus progress" fallback
+- Continuing to apply the initial recognition exemption to leases and decommissioning provisions after the 2021 amendment (IAS 12.15(b)(iii), 22A, 24(c)), or netting the resulting deferred tax asset and liability without meeting IAS 12.74
+- Recognising the lease deferred tax liability but ignoring the recoverability test on the matching asset
+- Assessing deferred tax asset recoverability across all sources of taxable profit where tax law restricts the source (IAS 12.27A)
+- Applying a "detection risk" haircut under IFRIC 23 — paragraph 8 forbids it
+- Presenting **tonnage tax** within income tax expense
+
+**Related standards:** IAS 1 (presentation of tax on OCI until IFRS 18 applies), **IFRS 18** (the income taxes category; the pending reconsideration of non-income-tax presentation), IAS 8 (tax effects of corrections and policy changes; IFRIC 23 reassessments are changes in estimate), IFRS 3 (deferred tax in business combinations; and the IAS 12.15(b) block in a single-asset **asset** acquisition), IFRS 16 (the lease deferred tax gross-up at IAS 12.22A), IAS 37 (decommissioning provisions — the other 22A case), IAS 32 / IFRS 9 (tax on equity components), **IFRIC 23** (uncertain tax treatments), **SIC-25** (changes in the tax status of an entity or its shareholders)
 
 ---
 
