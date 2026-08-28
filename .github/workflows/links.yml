@@ -39,6 +39,5 @@ jobs:
             --timeout 30
             --accept 200,206,429
             --user-agent "Mozilla/5.0 (compatible; ifrs-skill link check)"
-            --exclude-mail
             "**/*.md"
           fail: true
