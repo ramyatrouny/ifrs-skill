@@ -1,0 +1,78 @@
+name: Quarterly currency review
+
+on:
+  schedule:
+    # 09:00 UTC on the first day of January, April, July and October.
+    - cron: "0 9 1 1,4,7,10 *"
+  workflow_dispatch:
+
+permissions:
+  issues: write
+
+jobs:
+  reminder:
+    name: Open the currency review issue
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    # Do not run in forks of this repository.
+    if: github.repository == 'ramyatrouny/ifrs-skill'
+    steps:
+      - name: Open the issue unless one is already open
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          set -euo pipefail
+
+          gh label create currency-review \
+            --description "Scheduled re-verification of effective dates and endorsement status" \
+            --color 0E8A16 2>/dev/null || true
+
+          existing=$(gh issue list --state open --label currency-review --limit 1 \
+            --json number --jq '.[0].number // empty')
+          if [ -n "$existing" ]; then
+            echo "Issue #${existing} is still open; not opening another."
+            exit 0
+          fi
+
+          quarter="$(date -u +'Q%q %Y' 2>/dev/null || date -u +'%Y-%m')"
+          gh issue create \
+            --title "Currency review: re-verify effective dates and endorsement status (${quarter})" \
+            --label currency-review \
+            --body "$(cat <<'BODY'
+          Scheduled quarterly re-verification. The amendment and effective-date register at the
+          end of `ifrs/standards-reference.md` is the date spine for the whole skill: where a
+          date elsewhere disagrees with the register, the register governs.
+
+          Work through the procedure in `docs/SOURCING.md`.
+
+          - [ ] Pull the current **EFRAG Endorsement Status Report** from the live page and diff
+                it against the register. Do not rely on a saved copy - the reports move roughly
+                monthly, and a six-day-old report has already misrepresented an amendment's
+                status once on this project.
+                https://www.efrag.org/en/financial-reporting/endorsement-status
+          - [ ] Check the **UK Endorsement Board** adoption status report for divergence from
+                the EU position.
+          - [ ] Re-check the **standards landing pages** for anything issued since the last
+                annual edition. Remember that the annotated edition runs a year behind its
+                label: the 2026 edition contains documents issued as at 31 December 2025, so
+                nothing issued in calendar 2026 is in it.
+                https://www.ifrs.org/issued-standards/list-of-standards/
+          - [ ] Check the **IASB work plan** for projects that have moved stage or acquired an
+                expected publication date. https://www.ifrs.org/projects/work-plan/
+          - [ ] Check for new **IFRS IC agenda decisions** since the last review, and whether
+                any existing decision has been annotated onto a standard the skill covers.
+          - [ ] Refresh the **IAS 29 hyperinflationary economies** list. It is maintained by the
+                IPTF/CAQ, not by the IASB, so it will not appear in any IASB source.
+          - [ ] Confirm the **IFRS 20** position. It is covered at status level only; if its
+                paragraph text has been published, the disclosure checklist can now be written.
+          - [ ] Re-run the checks:
+                `python3 scripts/check_skill_structure.py` and
+                `python3 scripts/check_journal_entries.py`.
+          - [ ] Update the "content stated as at" date in `docs/SOURCING.md` and add a
+                `CHANGELOG.md` entry if anything changed.
+
+          Close this issue when the review is complete. The next reminder will not open while
+          this one is still open.
+          BODY
+          )"

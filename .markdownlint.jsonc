@@ -1,0 +1,47 @@
+{
+  // Every rule is on unless it is turned off below, with the reason it is off.
+  "default": true,
+
+  // The skill files are dense reference prose with long table rows and long
+  // citation-bearing sentences. Hard-wrapping them would hurt readability and
+  // produce enormous diffs on every edit.
+  "MD013": false,
+
+  // Headings such as "Step 3: Measure the lease liability" are the house style.
+  // Trailing '?' is also allowed - several headings are questions.
+  "MD026": { "punctuation": ".,;!" },
+
+  // A reference of this size legitimately repeats headings ("Disclosure
+  // requirements", "Common pitfalls") under each standard, and uses more than one
+  // top-level heading per file.
+  "MD024": false,
+  "MD025": false,
+  "MD041": false,
+
+  // Spacing and fence conventions in the existing content are consistent and
+  // readable; enforcing these would be a large mechanical diff with no benefit.
+  "MD012": false,
+  "MD022": false,
+  "MD028": false,
+  "MD031": false,
+  "MD032": false,
+  "MD046": false,
+
+  // Journal-entry and worked-example blocks are deliberately untagged: they are
+  // ledger extracts, not code in any language.
+  "MD040": false,
+
+  // Ordered-list numbering and emphasis-as-heading are used intentionally in the
+  // workflow files.
+  "MD029": false,
+  "MD036": false,
+
+  // Bare URLs appear in source citations, and table pipe spacing is not worth
+  // reformatting 13,000 lines over.
+  "MD034": false,
+  "MD060": false,
+
+  // HTML is not used, but the rule fires on angle-bracket placeholders such as
+  // <id> in the documented URL pattern.
+  "MD033": false
+}

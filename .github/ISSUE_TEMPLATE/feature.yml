@@ -1,0 +1,60 @@
+name: Feature or coverage request
+description: Propose new coverage, a new workflow, or a change to how the skill is structured.
+title: "[feature] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: >-
+        Proposals for new coverage are welcome. Please describe the reporting problem it
+        solves rather than the section you would like added.
+
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of addition
+      options:
+        - Coverage of a standard or topic not currently covered
+        - A new workflow or worked example
+        - A new disclosure checklist or compliance template
+        - Transition guidance from a specific local GAAP
+        - A change to SKILL.md routing or structure
+        - Tooling, scripts, or CI
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: The problem
+      description: >-
+        What does someone doing IFRS work need that the skill does not currently give them.
+        A concrete question the skill answers badly today is the most useful form of this.
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed addition
+      description: What should be added, and to which file.
+    validations:
+      required: true
+
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources it would be built from
+      description: >-
+        Which standards and paragraphs. Content must be built from the standards' own text -
+        see CONTRIBUTING.md. If the material is only available behind a paywall, say so, as
+        that constrains what can be written.
+
+  - type: checkboxes
+    id: offer
+    attributes:
+      label: Would you write it
+      options:
+        - label: I am willing to open a pull request for this.
+          required: false

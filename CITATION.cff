@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "IFRS Skill for AI Coding Agents"
+message: "If you use this repository, please cite it as below."
+type: software
+authors:
+  - alias: ramyatrouny
+    name-particle: ""
+    given-names: "Rami"
+    family-names: "Atrouni"
+repository-code: "https://github.com/ramyatrouny/ifrs-skill"
+url: "https://github.com/ramyatrouny/ifrs-skill"
+abstract: >-
+  A comprehensive IFRS knowledge skill for AI agents, covering all current IFRS and IAS
+  standards, IFRIC and SIC interpretations, IFRS S1 and S2 sustainability disclosure
+  standards, and GAAP-to-IFRS transition, with paragraph-level citations verified against
+  the standards' own text.
+keywords:
+  - IFRS
+  - IAS
+  - IASB
+  - financial reporting
+  - accounting standards
+  - agent skills
+  - sustainability disclosure
+license: MIT
+version: 2.0.0
+date-released: "2026-08-28"

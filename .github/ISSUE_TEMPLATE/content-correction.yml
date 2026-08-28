@@ -1,0 +1,107 @@
+name: Content correction
+description: A citation, figure, or statement in the skill is wrong.
+title: "[correction] "
+labels: ["correction", "content"]
+body:
+  - type: markdown
+    attributes:
+      value: >-
+        Use this template when something in the repository is incorrect: a wrong paragraph
+        reference, a misstated requirement, a figure that does not reconcile, or a journal
+        entry that does not balance.
+
+
+        Corrections are handled ahead of other work. Please give enough detail that the
+        maintainer can verify the correction against the standard rather than re-research it.
+
+  - type: input
+    id: location
+    attributes:
+      label: Where is it
+      description: File and, if you can, the line number or the heading it sits under.
+      placeholder: "ifrs/standards-reference.md, under 'IAS 36 - Impairment of Assets'"
+    validations:
+      required: true
+
+  - type: textarea
+    id: current
+    attributes:
+      label: What the repository currently says
+      description: Quote the incorrect text exactly as it appears.
+      render: markdown
+    validations:
+      required: true
+
+  - type: textarea
+    id: correct
+    attributes:
+      label: What it should say
+      description: State the correct position.
+    validations:
+      required: true
+
+  - type: input
+    id: paragraph
+    attributes:
+      label: Correct paragraph reference
+      description: >-
+        The paragraph that establishes the correct position, in house format - IFRS 16.26,
+        IAS 36.104, IFRS 3.32, IFRS 18.55(b). A standard-level reference such as "IAS 36" is
+        not sufficient. If you know the standard is right but cannot confirm the paragraph,
+        write "unconfirmed" and say so below.
+      placeholder: "IAS 36.104"
+    validations:
+      required: true
+
+  - type: textarea
+    id: source
+    attributes:
+      label: Source
+      description: >-
+        Where you read it. A URL to the free standard text on ifrs.org is ideal - see
+        docs/SOURCING.md for the URL pattern. An IFRS IC agenda decision, an EFRAG
+        Endorsement Status Report, or a named published document is also acceptable. State
+        which, and give the date or edition.
+      placeholder: |
+        https://www.ifrs.org/content/dam/ifrs/publications/html-standards/english/2026/issued/ias36.html
+        Read paragraph 104 in the wrapper div id="IAS36_104".
+    validations:
+      required: true
+
+  - type: dropdown
+    id: verification
+    attributes:
+      label: How did you verify the paragraph reference
+      options:
+        - I opened the paragraph in the standard's own text
+        - I read it in a published secondary source, named above
+        - I have not verified the paragraph number, only the substance
+    validations:
+      required: true
+
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Effect of the error
+      description: How wrong is the output an agent would produce from the current text.
+      options:
+        - Material - would lead to an incorrect accounting treatment
+        - Moderate - a wrong reference or date, correct substance
+        - Minor - typographical or editorial
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Confirmations
+      options:
+        - label: >-
+            I have checked the amendment and effective-date register at the end of
+            standards-reference.md, and my correction is consistent with it (or corrects it
+            too).
+          required: true
+        - label: >-
+            I have not pasted copyrighted standard text beyond what is needed to identify the
+            requirement.
+          required: true

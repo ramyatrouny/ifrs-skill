@@ -1,0 +1,17 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/ramyatrouny/ifrs-skill/security/advisories/new
+    about: >-
+      Report a security issue privately. Note that incorrect accounting guidance is a
+      content issue, not a vulnerability - use the content correction template instead.
+  - name: Question or discussion
+    url: https://github.com/ramyatrouny/ifrs-skill/discussions
+    about: >-
+      Ask how to use the skill, or discuss an accounting treatment. Please do not open an
+      issue to ask an IFRS question.
+  - name: Contributing guide
+    url: https://github.com/ramyatrouny/ifrs-skill/blob/main/CONTRIBUTING.md
+    about: >-
+      The evidentiary standard for content, and how to verify a citation against the
+      standard's own text.

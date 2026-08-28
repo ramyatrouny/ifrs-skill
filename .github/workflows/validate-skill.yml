@@ -1,0 +1,39 @@
+name: Validate skill
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "ifrs/**"
+      - "scripts/**"
+      - ".github/workflows/validate-skill.yml"
+  pull_request:
+    paths:
+      - "ifrs/**"
+      - "scripts/**"
+      - ".github/workflows/validate-skill.yml"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: validate-skill-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    name: Structure and arithmetic
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate skill structure
+        run: python3 scripts/check_skill_structure.py
+
+      - name: Check journal entries and run assertion blocks
+        run: python3 scripts/check_journal_entries.py

@@ -1,0 +1,93 @@
+name: Standard update
+description: A standard or amendment has been issued, amended, withdrawn, or endorsed.
+title: "[update] "
+labels: ["standard-update", "content"]
+body:
+  - type: markdown
+    attributes:
+      value: >-
+        Use this template when the standards themselves have moved and the repository has not
+        caught up - a new standard or amendment, a change to an effective date, a withdrawal,
+        or a change in EU or UK endorsement status.
+
+
+        For something the repository states incorrectly about the standards as they already
+        stand, use the content correction template instead.
+
+  - type: input
+    id: standard
+    attributes:
+      label: Standard or amendment
+      placeholder: "IFRS 9 - Amendments to the Classification and Measurement of Financial Instruments"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: change
+    attributes:
+      label: What changed
+      options:
+        - A new standard or interpretation was issued
+        - An existing standard was amended
+        - An effective date changed
+        - A standard or exemption was withdrawn or superseded
+        - EU endorsement status changed
+        - UK endorsement status changed
+        - A new IFRS IC agenda decision was published
+    validations:
+      required: true
+
+  - type: input
+    id: issued
+    attributes:
+      label: Date issued or published
+      placeholder: "27 May 2026"
+    validations:
+      required: true
+
+  - type: input
+    id: effective
+    attributes:
+      label: Effective date
+      description: >-
+        Annual reporting periods beginning on or after. State whether earlier application is
+        permitted.
+      placeholder: "1 January 2028; earlier application permitted"
+    validations:
+      required: true
+
+  - type: textarea
+    id: source
+    attributes:
+      label: Source
+      description: >-
+        The IASB or ISSB announcement, the standard's landing page, the relevant IASB Update,
+        or the EFRAG Endorsement Status Report with its date. Note that the annual annotated
+        edition on ifrs.org runs one year behind its label and will not contain a current-year
+        issuance.
+    validations:
+      required: true
+
+  - type: textarea
+    id: affected
+    attributes:
+      label: Which files are affected
+      description: >-
+        At minimum the amendment and effective-date register at the end of
+        standards-reference.md. List any workflow, checklist, or transition section that
+        states a position this change alters.
+      placeholder: |
+        - ifrs/standards-reference.md - amendment register, and the IFRS 9 section
+        - ifrs/compliance-templates.md - the IFRS 9 disclosure checklist
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Confirmations
+      options:
+        - label: >-
+            I checked the live EFRAG endorsement status page rather than a saved copy. Reports
+            move monthly and a stale one misrepresents the pipeline.
+          required: true

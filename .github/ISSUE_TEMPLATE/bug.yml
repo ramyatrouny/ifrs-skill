@@ -1,0 +1,65 @@
+name: Bug
+description: The skill does not load, route, or render as it should.
+title: "[bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: >-
+        Use this template for a defect in how the skill works: it does not load, the agent
+        does not route to the right file, a file is missing or malformed, a script or workflow
+        fails.
+
+
+        If the skill loads correctly but the accounting content is wrong, that is a content
+        correction, not a bug.
+
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      description: Include the prompt you used, if the problem is in how the agent routed.
+      placeholder: |
+        1. Installed to ~/.claude/skills/ifrs
+        2. Asked: "What discount rate does a lessee use under IFRS 16?"
+        3. The agent answered without loading standards-reference.md
+    validations:
+      required: true
+
+  - type: input
+    id: agent
+    attributes:
+      label: Agent and version
+      placeholder: "Claude Code 2.x / Codex CLI / Cursor"
+    validations:
+      required: true
+
+  - type: input
+    id: commit
+    attributes:
+      label: Repository version
+      description: The tag or commit SHA you have installed.
+      placeholder: "v2.0.0"
+    validations:
+      required: true
+
+  - type: textarea
+    id: output
+    attributes:
+      label: Relevant output
+      description: Error text, or the agent's response. Pasted here it is formatted as code.
+      render: shell

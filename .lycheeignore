@@ -1,0 +1,5 @@
+# The URL pattern documented in docs/SOURCING.md contains a placeholder, not a URL.
+^https://www\.ifrs\.org/content/dam/ifrs/publications/html-standards/english/\d{4}/issued/<id>\.html$
+
+# Example filenames that appear in curl commands.
+^file://
