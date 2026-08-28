@@ -16,3 +16,6 @@ Thumbs.db
 # third-party copyrighted content: never commit them to this MIT-licensed repo.
 # Everything here is re-derivable; see docs/SOURCING.md for how.
 .upgrade/
+
+# Repository-upgrade research working area (transient, re-derivable)
+.repo-upgrade/
