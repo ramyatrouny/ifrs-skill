@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+  <style>
+    .sans { font-family: 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            font-variant-numeric: tabular-nums lining-nums; }
+    .mono { font-family: 'JetBrains Mono', 'SF Mono', Menlo, monospace; }
+    .eyebrow  { font-size: 20px; font-weight: 600; letter-spacing: 2.4px; fill: #6B7280; }
+    .handle   { font-size: 20px; font-weight: 400; letter-spacing: 0;     fill: #6B7280; }
+    .headline { font-size: 76px; font-weight: 600; letter-spacing: -1.52px; fill: #111418; }
+    .subhead  { font-size: 28px; font-weight: 400; fill: #3D4551; }
+    .figure   { font-size: 40px; font-weight: 600; letter-spacing: -0.4px; fill: #111418; }
+    .label    { font-size: 18px; font-weight: 500; letter-spacing: 1.44px; fill: #6B7280; }
+  </style>
+
+  <!-- canvas: warm off-white, flat, no transparency -->
+  <rect width="1280" height="640" fill="#F5F4F1"/>
+
+  <!-- 1 — accent bar, the only use of navy -->
+  <rect x="96" y="88" width="4" height="216" fill="#14315C"/>
+
+  <!-- 2 — eyebrow -->
+  <text class="sans eyebrow" x="132" y="108">AGENT SKILL · MIT LICENSED</text>
+
+  <!-- 3 — repository handle, right-aligned to the live-area edge -->
+  <text class="mono handle" x="1184" y="108" text-anchor="end">github.com/ramyatrouny/ifrs-skill</text>
+
+  <!-- 4 — headline, manual line break -->
+  <text class="sans headline" x="132" y="212">Every IFRS and IAS standard,</text>
+  <text class="sans headline" x="132" y="296">in one agent skill.</text>
+
+  <!-- 5 — hairline rule -->
+  <rect x="96" y="344" width="1088" height="1" fill="#D8D5CE"/>
+
+  <!-- 6 — subhead, manual line break -->
+  <text class="sans subhead" x="96" y="396">Paragraph-cited guidance, disclosure checklists and worked journal entries —</text>
+  <text class="sans subhead" x="96" y="436">plus a GAAP-to-IFRS transition guide. For Claude Code, Codex CLI and Cursor.</text>
+
+  <!-- 7 — figure row, three cells divided by vertical hairlines -->
+  <rect x="456" y="492" width="1" height="74" fill="#D8D5CE"/>
+  <rect x="816" y="492" width="1" height="74" fill="#D8D5CE"/>
+
+  <text class="sans figure" x="96"  y="532">13,321</text>
+  <text class="sans label"  x="96"  y="560">LINES OF SOURCED GUIDANCE</text>
+
+  <text class="sans figure" x="488" y="532">IFRS + IAS</text>
+  <text class="sans label"  x="488" y="560">EVERY ACTIVE STANDARD</text>
+
+  <text class="sans figure" x="848" y="532">IFRS 18</text>
+  <text class="sans label"  x="848" y="560">PRESENTATION-READY</text>
+</svg>
