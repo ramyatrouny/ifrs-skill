@@ -1956,7 +1956,7 @@ Two irrevocable elections sit at the scope boundary and are frequently missed:
   - Statement of cash flows
   - Notes (including a summary of material accounting policies)
   - Comparative statement of financial position when an entity restates prior periods or reclassifies items
-- **Going concern** — management must assess the entity's ability to continue as a going concern. If material uncertainties exist, they must be disclosed. If not a going concern, that basis must be used and disclosed.
+- **Going concern (IAS 1.25–26)** — management must assess the entity's ability to continue as a going concern, taking into account all available information about the future for at least twelve months from the reporting date. If material uncertainties casting significant doubt exist, they must be disclosed. If the entity is not a going concern, another basis must be used and disclosed, with the reason. *(From 1 January 2027 this requirement sits at **IAS 8.6K–6L**, not in IFRS 18 — IFRS 18 contains no going concern requirement.)*
 - **Accrual basis** — all financial statements except the cash flow statement must be prepared on an accrual basis.
 - **Materiality and aggregation** — each material class of similar items must be presented separately. Immaterial items may be aggregated.
 - **Offsetting** — assets and liabilities, income and expenses, shall not be offset unless required or permitted by an IFRS.
