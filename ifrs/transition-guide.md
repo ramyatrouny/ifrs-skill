@@ -897,7 +897,7 @@ The following issues recur frequently in IFRS transition projects. Awareness of 
 
 8. **Missing the hedge documentation deadline (B4–B6)** — Hedge relationships cannot be designated retrospectively. Every continuing hedge must be designated and documented under IFRS 9 **on or before the date of transition**. This is the only transition step with no remedy at any cost, and it is the most common failure in treasury.
 
-9. **Relying on an employee benefits exemption that no longer exists** — D10–D11 were deleted in 2011. Any project plan or checklist that assumes cumulative actuarial gains and losses can be reset to zero is planning for relief that is not available, and will discover a material unrelieved adjustment late.
+9. **Relying on an employee benefits exemption that no longer exists** — D10–D11 were deleted in 2011, when IAS 19 removed the corridor. There is no deferred actuarial balance left to reset, so the exemption is redundant rather than withdrawn and its absence changes no measurement: the full net defined benefit liability is recognised at the date of transition either way. The hazard is planning, not measurement — stale secondary sources still list D10–D11, so a project plan built around resetting cumulative actuarial gains and losses to zero is built on relief that does not exist. The adjustment on moving from a corridor-based local GAAP is often large, but it is IAS 19 that causes it, not the absence of the exemption.
 
 ---
 

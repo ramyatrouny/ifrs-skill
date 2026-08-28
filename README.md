@@ -1,22 +1,29 @@
 # IFRS Skill
 
-**IFRS and IAS reference for AI coding agents.** Paragraph-cited guidance on every standard in
-force, written for controllers, financial reporting teams and auditors — and for the developers
-who install agent skills on their behalf.
+**A cited IFRS and IAS reference that plugs into an AI assistant.** Ask a question in plain
+English; get an answer with the paragraph reference attached, so you can check it against the
+standard yourself.
+
+Written for controllers, financial reporting teams and auditors, and for the developers who install
+it on their behalf.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Release](https://img.shields.io/github/v/release/ramyatrouny/ifrs-skill)](https://github.com/ramyatrouny/ifrs-skill/releases)
-[![Stars](https://img.shields.io/github/stars/ramyatrouny/ifrs-skill?style=flat)](https://github.com/ramyatrouny/ifrs-skill/stargazers)
 [![Content currency](https://img.shields.io/badge/content%20current-28%20August%202026-informational)](docs/SOURCING.md)
 
 ```bash
 npx skills add ramyatrouny/ifrs-skill
 ```
 
-Works with Claude Code, Codex CLI, Gemini CLI and Cursor. Installation for each is [below](#installation).
+**You need one of these AI assistants already installed:** Claude Code, Codex CLI, Gemini CLI or
+Cursor. This adds IFRS knowledge to an assistant you already use; it is not a standalone
+application. Installation for each is [below](#installation).
 
-> This skill provides technical guidance. It does not replace professional judgment, and it is not
-> a substitute for advice from a qualified accountant or auditor. See [Scope and limitations](#scope-and-limitations).
+> **This content is compiled with AI assistance and contains known and expected residual errors.**
+> Every paragraph reference must be confirmed against the standard before it is relied on in a
+> financial statement or working paper. Citations produced by this skill are not audit evidence:
+> treat them as a pointer to the paragraph you then read. It does not replace professional
+> judgment. See [Scope and limitations](#scope-and-limitations).
 
 ---
 
@@ -27,6 +34,7 @@ Works with Claude Code, Codex CLI, Gemini CLI and Cursor. Installation for each 
 - [Coverage](#coverage)
 - [IFRS 18 — Presentation and Disclosure, mandatory 2027](#ifrs-18--presentation-and-disclosure-mandatory-2027)
 - [Installation](#installation)
+- [Troubleshooting](#troubleshooting)
 - [Example queries](#example-queries)
 - [How it works](#how-it-works)
 - [How the content was verified](#how-the-content-was-verified)
@@ -57,11 +65,15 @@ Debits 6,000,000 against credits 6,800,000. The example then reconciled the 800,
 crediting goodwill to retained earnings — posting a fictitious credit to equity. Goodwill is the
 residual debit that makes the entry balance (IFRS 3.32); it is never recognised against equity.
 
-**Relief offered that does not exist.** The transition guide listed the IFRS 1 exemption at
+**An exemption that no longer exists.** The transition guide listed the IFRS 1 exemption at
 paragraphs D10–D11, permitting cumulative actuarial gains and losses to be reset to zero on
 transition. Those paragraphs were deleted by IAS 19 as amended in June 2011, a deletion recorded at
-IFRS 1.39L. A company relying on it would budget for a small pension adjustment and meet a large
-unrelieved one late in its transition.
+IFRS 1.39L — the corridor approach went with them, so there is no longer a deferred actuarial
+balance to reset and the full net defined benefit liability is recognised either way.
+
+The exemption is therefore redundant rather than withdrawn, and its absence changes no measurement.
+The hazard is that stale secondary sources still list it: a first-time adopter who searches for
+D10–D11 finds a live-looking exemption, and plans around relief that is not there.
 
 Both are now corrected, and the second is stated as an explicit warning rather than silently
 removed, so the assumption is not made again from memory.
@@ -78,19 +90,24 @@ checked against the standard's own text.
 npx skills add ramyatrouny/ifrs-skill
 ```
 
-**2. Verify it loaded.** Paste this into your agent:
+**2. Verify it installed.** Two checks, neither of which requires you to judge an accounting answer.
 
-> For a 31 December 2027 year-end, which standard and paragraph carries the going concern
-> disclosure requirement? Answer with the reference only.
+Files in the right place:
 
-| Answer | Meaning |
-|---|---|
-| `IAS 8.6K–6L` | Skill loaded and current |
-| `IAS 1.25–26` | Skill not loaded — the model is answering from its own knowledge |
-| `Unknown command` | Skill not found; see [Troubleshooting](#troubleshooting) |
+```bash
+ls ~/.claude/skills/ifrs/SKILL.md
+```
 
-The distinction matters: IFRS 18 supersedes IAS 1 for periods beginning on or after 1 January 2027
-and moves the going concern requirement into IAS 8. Most sources still give the IAS 1 answer.
+It must print that path. If it prints nothing, or a path ending `ifrs/ifrs/SKILL.md`, see
+[Troubleshooting](#troubleshooting).
+
+The agent can actually see it — ask:
+
+> List the supporting files the IFRS skill gives you access to.
+
+It should name four: `standards-reference.md`, `workflows.md`, `compliance-templates.md` and
+`transition-guide.md`. That answer is deterministic and checkable by someone who knows no IFRS.
+An agent answering from its own knowledge cannot produce that list.
 
 **3. Ask something real:**
 
@@ -117,8 +134,7 @@ Content is current as at **28 August 2026**.
 ## IFRS 18 — Presentation and Disclosure, mandatory 2027
 
 IFRS 18 supersedes IAS 1 for annual periods beginning on or after 1 January 2027, with earlier
-application permitted. It is the largest change to the face of the financial statements in two
-decades, and it moves several requirements out of IAS 1 into IAS 8, which it retitles
+application permitted. It moves several requirements out of IAS 1 into IAS 8, which it retitles
 *Basis of Preparation of Financial Statements*.
 
 | Requirement | Periods before 1 Jan 2027 | Periods from 1 Jan 2027 |
@@ -139,7 +155,7 @@ That is the date the election becomes available, not a deadline.
 
 ## Installation
 
-Every command below has been tested. Prefer the first.
+Prefer the first: it is the only one that does not depend on where you are in the filesystem.
 
 ### One command, all agents
 
@@ -157,6 +173,14 @@ Installs to `~/.agents/skills/ifrs/` and links into each agent's skills director
 | **Codex CLI** | `mkdir -p ~/.agents/skills/ifrs && cp ifrs/*.md ~/.agents/skills/ifrs/` |
 | **Gemini CLI** | `mkdir -p ~/.gemini/skills/ifrs && cp ifrs/*.md ~/.gemini/skills/ifrs/` |
 | **Cursor** | `mkdir -p ~/.cursor/skills/ifrs && cp ifrs/*.md ~/.cursor/skills/ifrs/` |
+
+These copy from a local checkout, so clone the repository somewhere neutral first — anywhere
+outside a skills directory — and run them from inside it:
+
+```bash
+git clone https://github.com/ramyatrouny/ifrs-skill.git
+cd ifrs-skill
+```
 
 For a project-scoped install, use the project equivalent — `.claude/skills/`, `.agents/skills/`,
 `.gemini/skills/` or `.cursor/skills/`.
@@ -210,8 +234,24 @@ For a project-scoped install, use the project equivalent — `.claude/skills/`, 
 ## How it works
 
 The skill uses progressive disclosure. `SKILL.md` is a routing file of 82 lines that the agent
-always reads; it decides which of four reference files to load based on the question, so a simple
-query does not pull all 13,321 lines into context.
+always reads; it decides which of the four reference files to load based on the question, so a
+simple query does not pull the whole repository into context.
+
+**Context cost — read this before deploying.** The reference files are large, and routing narrows
+the read without making it small:
+
+| File | Size | Approx. tokens |
+|---|---|---|
+| `SKILL.md` | 6 KB | ~1,600 |
+| `transition-guide.md` | 164 KB | ~43,000 |
+| `workflows.md` | 196 KB | ~51,000 |
+| `compliance-templates.md` | 322 KB | ~85,000 |
+| `standards-reference.md` | 923 KB | ~242,000 |
+
+A guidance question routes to `standards-reference.md`, around **244,000 tokens**. A compliance task
+routes to that plus `compliance-templates.md`, around **327,000 tokens**. Use an agent with a large
+context window, and name the standard you are asking about — a question scoped to IFRS 16 costs far
+less than an open one.
 
 | File | Purpose |
 |---|---|
@@ -223,12 +263,34 @@ query does not pull all 13,321 lines into context.
 
 ## How the content was verified
 
-| Check | Result |
+Two checks were run, and they measure different things. The distinction matters more than either
+number.
+
+**Resolution — does the cited paragraph exist in the standard's own text?**
+4,234 of 4,240 citations resolve (99.86%). The six that do not are Basis for Conclusions pointers
+and IAS 39, for which no machine-readable source exists. This catches a wrong paragraph number. It
+does **not** catch a correct number attached to a wrong statement.
+
+**Semantic review — does the paragraph say what this skill says it says?**
+171 citations (4.0% of the total) were read in full, weighted towards prohibitions, thresholds,
+deadlines, lettered sub-items and checklist rows asserting that a disclosure is required. Three were
+wrong and were corrected.
+
+That is a defect rate of roughly 1.8% in the sample. **Expect a comparable density in the 96% not
+yet reviewed — on the order of several dozen citations.** Treat every citation here as a pointer to
+a paragraph you then read, not as a substitute for reading it.
+
+| Other checks | Result |
 |---|---|
-| Paragraph citations resolved against the standards' own text | **4,234 of 4,240 (99.86%)** |
-| Citations additionally read for meaning, weighted to high-risk claims | 171 sampled, 3 defects found and fixed |
 | Journal-entry blocks balancing | **60 of 60** |
 | Runnable assertion blocks | **6 blocks, 38 assertions, all passing** |
+
+You can re-run the mechanical checks yourself:
+
+```bash
+python3 scripts/check_skill_structure.py    # frontmatter, referenced files, size
+python3 scripts/check_journal_entries.py    # every Dr/Cr block, every assertion block
+```
 
 The assertion blocks are committed inside `workflows.md` and `transition-guide.md` and are intended
 to be re-run. They prove, among other things, that the IFRS 17 liability cross-casts to its
@@ -237,8 +299,6 @@ components and that an IAS 36 impairment is absorbed by goodwill before pro rata
 Sources, method, and the traps encountered are documented in [`docs/SOURCING.md`](docs/SOURCING.md).
 
 ## Scope and limitations
-
-Stated plainly, because knowing where a reference stops is part of using it.
 
 - **This is not professional advice.** It supports judgment; it does not replace it. Conclusions
   affecting financial statements should be reviewed by a qualified professional.
