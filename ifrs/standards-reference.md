@@ -5730,3 +5730,260 @@ covered by it.
   translation model.
 - Relying on a jurisdiction profile without checking its "last updated" date. The Saudi profile is dated
   **28 July 2022**, the UAE and Qatar profiles **16 June 2016**, and Egypt **31 January 2024**.
+
+
+---
+
+# Amendment and Effective-Date Register
+
+**This register is the date spine for the whole file.** Where a date elsewhere in this document differs
+from a date here, the register governs. It is stated as at **28 August 2026**. The **EU endorsement**
+column reflects the EFRAG EU Endorsement Status Report of **17 July 2026** (the most recent available);
+the **UK** column reflects the UKEB Adoption Status Report of **13 May 2026**. Both cut-offs precede the
+currency date, so **re-check EFRAG before relying on the "not yet endorsed" status of IFRS 19, the
+Amendments to IFRS 19, or the IAS 21 hyperinflationary presentation currency amendments**, each of which
+had cleared its ARC vote before the report date.
+
+Every IASB effective date below has been cross-checked against the standard's own effective-date
+appendix in the free paragraph-numbered text; the paragraph that fixes each date is given in section B.
+**No contradiction was found between the standards' own effective dates and EFRAG's recorded IASB
+effective dates for any item.** The two exceptions are **IFRS 20** and the **June 2026 IAS 28 fair value
+option amendments**, both issued after the annual edition closed and therefore not cross-checkable that
+way; their dates rest on the ifrs.org news items and EFRAG.
+
+Date format throughout: *issued <date>; effective for annual reporting periods beginning on or after
+<date>; earlier application permitted [yes/no]*.
+
+---
+
+## A. The register
+
+Ordered by IASB effective date. "EU endorsement status" gives, for endorsed items, the Commission
+endorsement date and Official Journal publication date; for unendorsed items, the EFRAG pipeline
+position.
+
+| Amendment / Standard | Standard(s) affected | Issued | Effective for periods beginning on/after | Early adoption | EU endorsement status | One-line impact |
+|---|---|---|---|---|---|---|
+| IFRS 17 *Insurance Contracts* (incl. *Amendments to IFRS 17*, issued 25 Jun 2020) | IFRS 17; IFRS 4 (withdrawn) | 18 May 2017 | 1 Jan 2023 | Permitted **only for entities applying IFRS 9 on or before the date of initial application of IFRS 17** (IFRS 17.C1) | Endorsed 19 Nov 2021, OJ 23 Nov 2021; EU effective 1 Jan 2023. UK adopted 16 May 2022 | Replaced IFRS 4 with a current-measurement model (GMM/VFA/PAA) for all insurance contracts |
+| *Initial Application of IFRS 17 and IFRS 9—Comparative Information* (Amendments to IFRS 17) | IFRS 17 | 9 Dec 2021 | 1 Jan 2023 | Permitted (moot) | Endorsed 8 Sep 2022, OJ 9 Sep 2022; EU effective 1 Jan 2023. UK adopted 16 May 2022 (bundled with IFRS 17) | Optional classification overlay so IFRS 9 comparatives align with IFRS 17 on transition |
+| *Disclosure of Accounting Policies* | IAS 1; IFRS Practice Statement 2 | 12 Feb 2021 | 1 Jan 2023 | Permitted (moot) | Endorsed 2 Mar 2022, OJ 3 Mar 2022; EU effective 1 Jan 2023. UK adopted 30 Nov 2022 | Disclose *material* rather than *significant* accounting policy information |
+| *Definition of Accounting Estimates* | IAS 8 | 12 Feb 2021 | 1 Jan 2023 | Permitted (moot) | Endorsed 2 Mar 2022, OJ 3 Mar 2022; EU effective 1 Jan 2023. UK adopted 30 Nov 2022 | Defines accounting estimates, separating them from policy changes for retrospective/prospective treatment |
+| *Deferred Tax related to Assets and Liabilities arising from a Single Transaction* | IAS 12 | 7 May 2021 | 1 Jan 2023 | Permitted (moot) | Endorsed 11 Aug 2022, OJ 12 Aug 2022; EU effective 1 Jan 2023. UK adopted 30 Nov 2022 | Narrows the initial recognition exemption — leases and decommissioning provisions now generate gross DTA/DTL |
+| *International Tax Reform—Pillar Two Model Rules* | IAS 12 | 23 May 2023 | **Exception (IAS 12.4A) and the disclosure of having applied it (88A) apply immediately on issue, retrospectively**; the substantive disclosures (88B–88D) for periods beginning on/after 1 Jan 2023 | n/a (immediate); no 88B–88D disclosure required for any interim period ending on or before 31 Dec 2023 (IAS 12.98M) | Endorsed 8 Nov 2023, OJ 9 Nov 2023; EU effective "immediately and 1 January 2023". UK adopted 19 Jul 2023 | Mandatory temporary exception from recognising Pillar Two deferred tax, plus targeted disclosures |
+| *Classification of Liabilities as Current or Non-current* (23 Jan 2020) + *Deferral of Effective Date* (15 Jul 2020) + *Non-current Liabilities with Covenants* (31 Oct 2022) | IAS 1 | see dates in first column | 1 Jan 2024 | Permitted, but the two must be applied together in any earlier period (IAS 1.139U, 139W(b)); the *Non-current Liabilities with Covenants* amendment to IAS 1.139U itself applied immediately on issue | Endorsed as one package 19 Dec 2023, OJ 20 Dec 2023; EU effective 1 Jan 2024. UK adopted 21 Jul 2023 | Classification turns on rights existing at the reporting date; covenants tested only up to that date, with disclosure of post-date covenants |
+| *Lease Liability in a Sale and Leaseback* | IFRS 16 | 22 Sep 2022 | 1 Jan 2024 | Permitted (moot) | Endorsed 20 Nov 2023, OJ 21 Nov 2023; EU effective 1 Jan 2024. UK adopted 11 May 2023 | Seller-lessee must measure the retained lease liability so that no gain/loss on the retained right of use is recognised, including for variable payments |
+| *Supplier Finance Arrangements* | IAS 7; IFRS 7 | 25 May 2023 | 1 Jan 2024 | Permitted (moot) | Endorsed **15 May 2024**, OJ 16 May 2024 — *after* the effective date; EU effective 1 Jan 2024. UK adopted 28 Nov 2023 | New disclosure package on reverse factoring: terms, carrying amounts, ranges of payment dates, liquidity risk |
+| IFRS S1 *General Requirements for Disclosure of Sustainability-related Financial Information* and IFRS S2 *Climate-related Disclosures* | (ISSB standards) | June 2023 | 1 Jan 2024 | Permitted, provided IFRS S2 is applied at the same time | **Outside the EU/UK IFRS endorsement mechanism** — ISSB standards are adopted jurisdiction by jurisdiction; the EU mandates ESRS under CSRD instead | Investor-focused sustainability and climate reporting, connected to the financial statements |
+| *Lack of Exchangeability* | IAS 21 | 15 Aug 2023 | 1 Jan 2025 | Permitted (moot) | Endorsed 12 Nov 2024, OJ 13 Nov 2024; EU effective 1 Jan 2025. UK adopted 15 Jul 2024 | Framework for assessing exchangeability and estimating a spot rate when a currency is not exchangeable, with disclosures |
+| *Amendments to the Classification and Measurement of Financial Instruments* | IFRS 9; IFRS 7 (and consequentially IFRS 19) | 30 May 2024 | 1 Jan 2026 | Permitted, and **may be split**: an early adopter may apply either all the amendments, or only the Section 4.1 application-guidance amendments on classification of financial assets (IFRS 9.7.1.13). The derecognition/electronic-payment amendments cannot be early-applied on their own | Endorsed 27 May 2025, OJ 28 May 2025; EU effective 1 Jan 2026. UK adopted 15 Apr 2025 | Derecognition of financial liabilities settled by electronic payment; clarified SPPI assessment for ESG-linked and non-recourse/contractually linked instruments; new FVOCI-equity and contingent-feature disclosures |
+| *Contracts Referencing Nature-dependent Electricity* | IFRS 9; IFRS 7 (and consequentially IFRS 19) | 18 Dec 2024 | 1 Jan 2026 | Permitted | Endorsed 30 Jun 2025, OJ 1 Jul 2025; EU effective 1 Jan 2026. UK adopted 23 Jul 2025 | Own-use clarification and a hedge-accounting designation route for renewable PPAs, plus disclosures |
+| *Annual Improvements to IFRS Accounting Standards—Volume 11* | IFRS 1; IFRS 7; IFRS 9; IFRS 10; IAS 7 | 18 Jul 2024 | 1 Jan 2026 | Permitted | Endorsed 9 Jul 2025, OJ 10 Jul 2025; EU effective 1 Jan 2026. UK adopted 11 Feb 2025 | Five narrow clarifications/corrections; no change of principle |
+| **IFRS 18 *Presentation and Disclosure in Financial Statements*** | Supersedes IAS 1; consequential changes across the suite (some IAS 1 content moved to IAS 8 and IFRS 7) | 9 Apr 2024 | **1 Jan 2027**, applied retrospectively | Permitted | **Endorsed 13 Feb 2026, OJ 16 Feb 2026**; EU effective 1 Jan 2027. UK adopted 10 Dec 2025, published 12 Dec 2025 | Mandatory operating / investing / financing categories and two defined subtotals (operating profit; profit before financing and income taxes); disclosure of management-defined performance measures; new aggregation/disaggregation requirements |
+| **IFRS 19 *Subsidiaries without Public Accountability: Disclosures*** | IFRS 19 (elective disclosure regime; recognition and measurement unchanged) | 9 May 2024 | **1 Jan 2027 — but the Standard is never mandatory.** IFRS 19.A1 reads *"An entity **may elect** to apply this Standard for reporting periods beginning on or after 1 January 2027"*; 2027 is when the election becomes available, not a compliance deadline | Permitted; an entity electing IFRS 19 before it first applies IFRS 18 substitutes the Appendix B disclosures for the IFRS 18-based ones (IFRS 19.A3, B1) | **NOT YET EU-ENDORSED.** EFRAG draft advice 23 May 2025; final advice 25 Sep 2025; ARC vote 5 Jun 2026; endorsement expected Q3/Q4 2026. UK adopted 8 May 2026, published 13 May 2026 — **as a single package including the August 2025 Amendments** | Eligible subsidiaries may apply full IFRS recognition and measurement with a single reduced disclosure set |
+| *Amendments to IFRS 19* (catch-up) | IFRS 19 | 21 Aug 2025 | 1 Jan 2027 | Permitted | **NOT YET EU-ENDORSED.** EFRAG draft advice 29 Sep 2025; final advice 18 Dec 2025; ARC vote 5 Jun 2026; endorsement expected Q3/Q4 2026. **UK: adopted 8 May 2026**, bundled into the IFRS 19 adoption statement rather than listed separately (see note below the table) | Extends the reduced disclosures to Standards and amendments issued Feb 2021 – May 2024, so IFRS 19 is complete as at its 2027 effective date |
+| *Translation to a Hyperinflationary Presentation Currency* | IAS 21 | 13 Nov 2025 | 1 Jan 2027 | Permitted | **NOT YET EU-ENDORSED.** EFRAG draft advice 18 Dec 2025; final advice 26 Feb 2026; ARC vote 10 Jul 2026; endorsement expected Q4 2026. **UK: not yet adopted** — the only item on the UKEB not-yet-adopted list at 13 May 2026 | Translating from a non-hyperinflationary functional currency into a hyperinflationary presentation currency; distinct from the 2023 *Lack of Exchangeability* amendments |
+| *Amendments to the Fair Value Option in IAS 28* | IAS 28 (interaction with IFRS 18) | 26 Jun 2026 | **Takes effect when the entity first applies IFRS 18** — i.e. 1 Jan 2027 on the mandatory date, earlier if IFRS 18 is adopted early | Tied to IFRS 18 adoption | **NOT YET EU-ENDORSED.** No EFRAG milestone dates recorded at 17 Jul 2026 | Clarifies which investments in associates and joint ventures qualify for the IAS 28 fair value option, and therefore how the related income and expenses are classified under IFRS 18 |
+| *IFRS for SMEs Accounting Standard*, **third edition** | IFRS for SMEs (supersedes the 2015 second edition) | 27 Feb 2025 | 1 Jan 2027 | Permitted; an entity may continue on the 2015 edition until then | **Outside EU-adopted IFRS** — the EU IAS Regulation covers full IFRS only; national frameworks decide | Comprehensive review: alignment with IFRS 13, IFRS 15 and parts of IFRS 9, plus revised consolidation and impairment sections |
+| *Amendments to Greenhouse Gas Emissions Disclosures* (Amendments to IFRS S2) | IFRS S2 | 11 Dec 2025 | 1 Jan 2027 | Permitted | Outside the EU/UK IFRS endorsement mechanism | Scope 3 Category 15 may be limited to financed emissions; alternative industry-classification systems allowed; jurisdictional reliefs for GHG measurement methods and for IPCC global warming potentials |
+| **IFRS 20 *Regulatory Assets and Regulatory Liabilities*** | Supersedes IFRS 14 *Regulatory Deferral Accounts*; supplements IFRS 15 | **27 May 2026** | **1 Jan 2029** | Permitted | **NOT YET EU-ENDORSED.** No EFRAG milestone dates recorded at 17 Jul 2026. Note the EC decided **not** to launch endorsement of the interim IFRS 14 and to wait for the final Standard | Recognises regulatory assets/liabilities for differences in timing between supplying regulatory goods or services and charging for them; regulatory income/expense presented immediately below IFRS 15 revenue; measured at updated future cash flows discounted at the regulatory interest rate |
+| *Disclosures about Uncertainties in the Financial Statements* | Accompanying guidance to IFRS 7, IFRS 18, IAS 1, IAS 8, IAS 36, IAS 37 | November 2025 | **No effective date** — illustrative examples are not an integral part of the Standards, so there is no transition requirement; the IASB expects timely reflection in reporting | n/a | Not an endorsable instrument (no change to the Standards' requirements) | Eight worked examples on disclosing the effects of uncertainties, drawn from climate-related scenarios but applicable to uncertainty generally |
+| *Sale or Contribution of Assets between an Investor and its Associate or Joint Venture* | IFRS 10; IAS 28 | 11 Sep 2014 | **Indefinitely deferred** — IAS 28.45C requires prospective application "in annual periods beginning on or after a date to be determined by the IASB". No date has been set; the amendments remain suspended at 28 Aug 2026 | Permitted under IFRS as issued by the IASB | **Never EU-endorsed and not in the EFRAG pipeline** — so the early-application option is *not* available to an entity reporting under EU-adopted IFRS | Would eliminate the IFRS 10 / IAS 28 conflict on the gain recognised when a subsidiary is sold or contributed to an associate or joint venture; until then the existing conflicting requirements stand |
+| IFRS Practice Statement 1 *Management Commentary* (revised) | Supersedes IFRS Practice Statement 1 (Dec 2010) | June 2025 | Effective 23 June 2025 | n/a — non-mandatory Practice Statement | Not endorsed (Practice Statements are outside the IAS Regulation) | Revised, objective-based framework for narrative reporting; not part of IFRS Accounting Standards |
+
+**Nothing has an IASB effective date of 1 January 2028.** At 28 August 2026 the pipeline runs
+2027 (IFRS 18, IFRS 19 and its amendments, IAS 21 hyperinflation, IAS 28 FVO, IFRS for SMEs 3rd ed.,
+IFRS S2 GHG amendments) then jumps to 2029 (IFRS 20).
+
+**Annual Improvements:** Volume 11 (issued 18 Jul 2024, effective 1 Jan 2026) is the most recent
+volume. There is **no Annual Improvements Volume 12 project on the IASB work plan** as at
+28 August 2026, and no Volume 12 exposure draft has been issued.
+
+> **Same date, opposite obligation — the 2027 trap.** Put the two effective-date paragraphs side by
+> side:
+>
+> - **IFRS 18.C1** — *"An entity **shall** apply this Standard for annual reporting periods
+>   beginning on or after 1 January 2027."*
+> - **IFRS 19.A1** — *"An entity **may elect** to apply this Standard for reporting periods
+>   beginning on or after 1 January 2027."*
+>
+> Identical date, opposite force. IFRS 18 is a deadline; IFRS 19 is an option opening. A transition
+> plan that treats "the 2027 standards" as one workstream will misstate one of them. The UK adoption
+> instrument corroborates this independently: the UKEB Adoption Statement for IFRS 19 says the
+> adopted Standard **"may be used"** for financial years beginning on or after 1 January 2027, and
+> **"may be used"** for financial years beginning before it — permissive in both directions.
+
+**How the UK adopted IFRS 19 — one package, not two.** The UKEB Adoption Statement approved on
+8 May 2026 adopts, in a single instrument: IFRS 19 itself; the consequential amendments to IFRS 19
+made by the *Classification and Measurement of Financial Instruments* amendments; the consequential
+amendments made by *Contracts Referencing Nature-dependent Electricity*; and the **August 2025
+*Amendments to IFRS 19*** by name. Its footnote 4 states that any reference to IFRS 19 in the
+statement means the Standard as issued in May 2024 *including the consequential amendments and the
+Amendments — i.e. the amended Standard*. This is why the 13 May 2026 Adoption Status Report lists no
+separate line for the August 2025 amendments: there was never a separate UK adoption to list. The
+statement also records the consequential amendments carried into IFRS 1, IFRS 5, IFRS 13, IFRS 17,
+IFRS 18, IAS 32, IAS 34 and IFRIC 14, and was approved by twelve UKEB members with two abstentions.
+
+---
+
+## B. Primary-source cross-check — the paragraph that fixes each effective date
+
+Read from the standards' own effective-date appendices (2026 edition unless noted). Every date
+reconciled to EFRAG without contradiction.
+
+| Item | Paragraph | What the paragraph states |
+|---|---|---|
+| IFRS 17 | **IFRS 17.C1** | Apply for annual reporting periods beginning on or after 1 Jan 2023; early application permitted for entities applying IFRS 9 on or before the date of initial application of IFRS 17 |
+| *Initial Application of IFRS 17 and IFRS 9—Comparative Information* | **IFRS 17.C2A** | Issued Dec 2021; an entity choosing to apply C28A–C28E and C33A applies them on initial application of IFRS 17 |
+| *Disclosure of Accounting Policies* | **IAS 1.139V** (2024 edition) | Issued Feb 2021; annual reporting periods beginning on or after 1 Jan 2023; earlier application permitted |
+| *Definition of Accounting Estimates* | **IAS 8.54I** | Annual reporting periods beginning on or after 1 Jan 2023; earlier application permitted; applied to changes occurring on or after the start of the first annual period of application |
+| *Deferred Tax related to a Single Transaction* | **IAS 12.98J** | Annual reporting periods beginning on or after 1 Jan 2023, applied per 98K–98L; earlier application permitted |
+| *Pillar Two Model Rules* | **IAS 12.98M** | 4A and 88A apply immediately on issue and retrospectively per IAS 8; 88B–88D for annual reporting periods beginning on or after 1 Jan 2023; no 88B–88D disclosure for any interim period ending on or before 31 Dec 2023 |
+| *Classification of Liabilities as Current or Non-current* | **IAS 1.139U** (2024 edition) | Issued Jan 2020; annual reporting periods beginning on or after 1 Jan 2024, retrospectively per IAS 8; if applied early after *Non-current Liabilities with Covenants* was issued, that must be applied too |
+| *Non-current Liabilities with Covenants* | **IAS 1.139W** (2024 edition) | Issued Oct 2022; the amendment to 139U applied immediately on issue; all other amendments for periods beginning on or after 1 Jan 2024; early application requires *Classification of Liabilities* to be applied too |
+| *Lease Liability in a Sale and Leaseback* | **IFRS 16.C1D** | Issued Sep 2022; a seller-lessee applies for annual reporting periods beginning on or after 1 Jan 2024; earlier application permitted |
+| *Supplier Finance Arrangements* | **IAS 7.62** and **IFRS 7.44JJ** | Issued May 2023; IAS 7 amendments for annual reporting periods beginning on or after 1 Jan 2024, earlier application permitted; the IFRS 7 amendment (B11F) is applied when the IAS 7 amendments are applied |
+| *Lack of Exchangeability* | **IAS 21.60L** | Issued Aug 2023; annual reporting periods beginning on or after 1 Jan 2025; earlier application permitted; no restatement of comparatives (60M) |
+| *Amendments to Classification and Measurement of Financial Instruments* | **IFRS 9.7.1.12–7.1.13**, **IFRS 7.44LL** | Issued May 2024; annual reporting periods beginning on or after 1 Jan 2026; on early application, either all the amendments together or only the Section 4.1 classification application guidance |
+| *Annual Improvements—Volume 11* | **IFRS 9.7.1.14** | Issued Jul 2024; annual reporting periods beginning on or after 1 Jan 2026; earlier application permitted |
+| *Contracts Referencing Nature-dependent Electricity* | **IFRS 9.7.1.15**, **IFRS 7.44OO–44PP** | Issued Dec 2024; annual reporting periods beginning on or after 1 Jan 2026; early application permitted; no comparatives for the new IFRS 7.30A–30C disclosures if IFRS 9 comparatives are not restated |
+| **IFRS 18** | **IFRS 18.C1**, and the consequential-amendments appendix | Annual reporting periods beginning on or after 1 Jan 2027, earlier application permitted, disclose the fact; retrospective per IAS 8 (C2), with a required profit-or-loss line-item reconciliation for the immediately preceding comparative period (C3). Its consequential amendments to other Standards apply from the same date, or earlier if IFRS 18 is applied earlier |
+| **IFRS 19** | **IFRS 19.A1** | *"An entity **may elect** to apply this Standard for reporting periods beginning on or after 1 January 2027."* Earlier application permitted. Note the language — election, not obligation |
+| *Amendments to IFRS 19* (Aug 2025) | **IFRS 19.A4A, A5, A6** | Each catch-up amendment is tied to the effective date of the Standard it mirrors: the IAS 21 hyperinflation disclosures apply when the IAS 21 amendments are applied; the IFRS 9/IFRS 7 disclosures apply when those amendments are applied |
+| *Translation to a Hyperinflationary Presentation Currency* | **IAS 21.60O** | Issued Nov 2025; annual reporting periods beginning on or after 1 Jan 2027; earlier application permitted; transition in 60P |
+| *Sale or Contribution of Assets* (IFRS 10 / IAS 28) | **IAS 28.45C** | Issued Sep 2014; applied prospectively to transactions occurring in annual periods beginning on or after **a date to be determined by the IASB**; earlier application permitted |
+| **IFRS 20** | *not cross-checkable* | Issued 27 May 2026, after the 2026 edition closed; `ifrs20.html` returns 404. Date from the ifrs.org news item of 27 May 2026 and EFRAG |
+| *Amendments to the Fair Value Option in IAS 28* | *not cross-checkable* | Issued 26 Jun 2026; **confirmed absent from the 2026 edition of `ias28.html`**, whose effective-date paragraphs stop at 45K. Date from the ifrs.org news item of 26 Jun 2026 and EFRAG |
+
+**Reconciliation result: no contradiction between the standards' own effective dates and EFRAG's
+recorded IASB effective dates for any item in the register.** The only divergences are the EU and UK
+*endorsement* dates in §B, which is what they are supposed to be.
+
+---
+
+## C. Divergence flags — read before advising an EU or UK preparer
+
+1. **Cannot be applied under EU-adopted IFRS at 28 August 2026** (issued by the IASB, not yet
+   endorsed by the European Commission): **IFRS 19**, **Amendments to IFRS 19**, **Amendments to
+   IAS 21 *Translation to a Hyperinflationary Presentation Currency***, **Amendments to the Fair
+   Value Option in IAS 28**, **IFRS 20**. An entity stating compliance with *IFRS as adopted by the
+   EU* may not apply any of these until the endorsing Regulation is published in the Official Journal.
+
+2. **The IFRS 18 / IAS 28 fair value option gap is the live EU problem.** IFRS 18 is endorsed
+   (13 Feb 2026) and is mandatory in the EU from 1 Jan 2027. The IAS 28 fair value option amendment
+   that resolves how the option interacts with IFRS 18's classification of income and expenses was
+   issued only on 26 June 2026 and has no EFRAG milestone yet. Unless it is endorsed during 2026,
+   EU preparers apply IFRS 18 without the clarification in the first mandatory year.
+
+3. **IFRS 19: UK yes, EU not yet — and the UK took the amendments with it.** The UKEB adopted
+   IFRS 19 *and* the August 2025 *Amendments to IFRS 19* in one instrument on 8 May 2026. The EU
+   expects endorsement of both in Q3/Q4 2026. A UK subsidiary of an EU parent may therefore be
+   eligible for the reduced-disclosure regime for 2027, in its complete catch-up form, before its
+   EU sister entities are eligible for anything.
+
+4. **IAS 21 hyperinflationary presentation currency: neither the EU nor the UK has adopted it.** It
+   is the sole item on the UKEB not-yet-adopted list (13 May 2026) and awaits EU endorsement
+   expected Q4 2026, against a 1 Jan 2027 IASB effective date. Endorsement in both jurisdictions is
+   expected to be tight against, not comfortably ahead of, the effective date.
+
+5. **Supplier Finance Arrangements was endorsed after its effective date.** The EU endorsed on
+   15 May 2024 with an EU effective date of 1 Jan 2024 — retrospective endorsement. EU calendar-year
+   preparers could not apply the amendments in their 2023 comparatives at the time of publication.
+
+6. **IFRS 14 was never EU-endorsed.** The Commission decided not to launch endorsement of the
+   interim standard and to wait for the final Standard. EU rate-regulated entities therefore have no
+   existing regulatory deferral account balances to carry forward, making IFRS 20 (2029) a
+   first-time recognition event in the EU rather than a change of model.
+
+7. **IFRS 18 comparatives.** IFRS 18 is applied retrospectively, so a calendar-year entity adopting
+   on 1 Jan 2027 needs an IFRS 18 comparative for 2026 — meaning the practical implementation
+   deadline was 1 January 2026, a year before the effective date, and only ~10 months after EU
+   endorsement.
+
+8. **ISSB standards sit outside both endorsement mechanisms.** IFRS S1/S2 and the IFRS S2 GHG
+   amendments are not endorsed under the EU IAS Regulation or by the UKEB; their application depends
+   on separate jurisdictional mandates.
+
+---
+
+## D. IASB and ISSB work plan, as at 28 August 2026
+
+Source: the work plan project data feed behind `https://www.ifrs.org/projects/work-plan/`, retrieved
+28 August 2026 (31 active projects). "Expected date" is the IASB's own estimate and is subject to
+change. `WebFetch` of the work-plan page itself returns only navigation — the project rows are
+loaded from
+`https://www.ifrs.org/content/ifrs/home/projects/work-plan/jcr:content/root/responsivegrid/tabs/item_1605100511058/col-1/responsivegrid/projectlisttable_227.projListData.nocache.html`,
+which returns the full JSON. Use that URL to refresh this table.
+
+### D1. IASB — standard-setting and research projects
+
+| Project | Type / stage | Standards | Next milestone | Expected |
+|---|---|---|---|---|
+| Business Combinations—Disclosures, Goodwill and Impairment | Standard-setting (major); redeliberating the Exposure Draft | IFRS 3; IAS 36 | Decide Project Direction | 31 Dec 2026 |
+| Financial Instruments with Characteristics of Equity (FICE) | Standard-setting; redeliberation complete on most matters | IAS 32; IFRS 7; IFRS 18; IAS 1; Conceptual Framework | Final Amendments | 30 Sep 2027 |
+| Equity Method | Standard-setting; redeliberating the Exposure Draft *Equity Method of Accounting—IAS 28 (revised 202x)* | IAS 28 | Final Amendments | 31 Mar 2027 |
+| Risk Mitigation Accounting | Standard-setting (major); Exposure Draft published, feedback stage | IFRS 9 | Exposure Draft Feedback | 28 Feb 2027 |
+| Amortised Cost Measurement | Standard-setting; pre-Exposure Draft | IFRS 9 | Exposure Draft | 31 Dec 2027 |
+| Statement of Cash Flows and Related Matters | Standard-setting; pre-Exposure Draft | IAS 7 | Exposure Draft | 31 Dec 2027 |
+| Provisions—Targeted Improvements | Maintenance; post-Exposure Draft | IAS 37; IFRIC 6; IFRIC 21; Conceptual Framework | Final Amendments | 30 Jun 2027 |
+| Presentation of Taxes or Other Charges that Are Not Tax Expense or Tax Income Applying IAS 12 (IFRS 18) | Maintenance | IFRS 18 | Exposure Draft | 31 Dec 2026 |
+| Intangible Assets | Research; exploratory (test cases, incl. SaaS arrangements) | IAS 38 | Decide Project Direction | 31 Oct 2026 |
+| Post-implementation Review of IFRS 9—Hedge Accounting | Research (PIR); first-phase feedback analysed, RFI questions approved Jul 2026 | IFRS 9; IFRS 7 | Request for Information | 30 Sep 2026 |
+| Post-implementation Review of IFRS 16 Leases | Research (PIR); IASB concluded Jul 2026 that IFRS 16 works as intended | IFRS 16 | Project Summary and Feedback Statement | 30 Nov 2026 |
+| IFRS for SMEs Accounting Standard—Consolidation Exception | Maintenance; post-Exposure Draft | IFRS for SMEs | Exposure Draft Feedback | 31 Oct 2026 |
+| IFRS Accounting Taxonomy Update—Regulatory Assets and Regulatory Liabilities, Translation to a Hyperinflationary Presentation Currency and Amendments to IFRS 19 | Taxonomy | IAS 21; IFRS 19 (and IFRS 20) | Proposed IFRS Taxonomy Update Feedback | 15 Sep 2026 |
+| IFRS Accounting Taxonomy Update—General Improvements | Taxonomy | — | Proposed IFRS Taxonomy Update Feedback | 7 Sep 2026 |
+
+### D2. IFRS Interpretations Committee — open application questions
+
+All are at *Tentative Agenda Decision Feedback* unless noted. The IFRS 18 cluster is the dominant
+theme: nine of the eleven open items concern IFRS 18 or IFRS 10.
+
+| Application question | Standard | Next milestone | Expected |
+|---|---|---|---|
+| Assessment of Specified Main Business Activities for a Manufacturer-Lessor | IFRS 18 | Tentative Agenda Decision Feedback | 30 Nov 2026 |
+| Management-defined Performance Measures—Hypothetical Income and Expenses | IFRS 18 | Tentative Agenda Decision Feedback | 30 Nov 2026 |
+| Management-defined Performance Measures—Public Communications | IFRS 18 | Tentative Agenda Decision Feedback | 30 Nov 2026 |
+| Classification of Income and Expenses when an Entity Has a Main Business Activity of Providing Financing to Customers | IFRS 18 | Tentative Agenda Decision Feedback | 30 Nov 2026 |
+| Classification of Income and Expenses from Cash and Cash Equivalents | IFRS 18 | Tentative Agenda Decision Feedback | 30 Nov 2026 |
+| Presentation of Operating Expenses | IFRS 18 | Tentative Agenda Decision Feedback | 30 Nov 2026 |
+| Labels of Subtotals | IFRS 18 | Tentative Agenda Decision Feedback | 30 Nov 2026 |
+| Updates to the Committee's agenda decisions for IFRS 18 | IFRS 18 | Agenda Decision | 30 May 2026 (date as published; milestone appears passed) |
+| Reassessment of Control | IFRS 10 | Tentative Agenda Decision Feedback | 30 Sep 2026 |
+| Control Assessment for a Single-investor Fund | IFRS 10 | Tentative Agenda Decision Feedback | 30 Nov 2026 |
+
+### D3. ISSB — sustainability projects
+
+| Project | Type / stage | Standards | Next milestone | Expected |
+|---|---|---|---|---|
+| Nature-related Disclosures | Standard-setting; pre-Exposure Draft | IFRS S1; IFRS S2 | Exposure Draft | 31 Oct 2026 |
+| Human Capital | Research | — | Decide Project Direction | 31 Dec 2026 |
+| Enhancing the SASB Standards—Phase 1 | Standard-setting | IFRS S1; IFRS S2 | SASB Standards Amendments | 30 Jun 2027 |
+| Enhancing the SASB Standards—Phase 1—Continued | Standard-setting; post-Exposure Draft | IFRS S1; IFRS S2 | Exposure Draft Feedback | 31 Dec 2026 |
+| Amendments to the IFRS S2 Industry-based Guidance—Phase 1 | Standard-setting | IFRS S2 | IFRS Industry-based Guidance Amendments | 30 Jun 2027 |
+| IFRS Sustainability Disclosure Taxonomy Update—Amendments to Greenhouse Gas Emissions Disclosures | Taxonomy | IFRS S2 | Proposed IFRS Taxonomy Update Feedback | 1 Sep 2026 |
+
+### D4. IFRS Foundation governance
+
+| Project | Next milestone | Expected |
+|---|---|---|
+| Proposed Targeted Amendments to the IFRS Foundation Constitution | Exposure Draft Feedback | 30 Nov 2026 |
+
+### D5. New projects agreed but not yet on the published work plan
+
+At its **July 2026** meeting the IASB agreed to add two projects arising from the PIR of IFRS 16:
+one on **reducing lessee application cost**, and one on **rent concessions**. Neither appears in the
+work plan data retrieved on 28 August 2026. A third PIR matter — **sale and leaseback of a single
+asset** — was referred to the next agenda consultation rather than made a project.
+
+---
+
+## E. Post-implementation Reviews
+
+| PIR | Stage at 28 Aug 2026 | Key dates and outcome |
+|---|---|---|
+| **IFRS 9—Classification and Measurement** | **Complete** | Report published December 2022. Led to the *Amendments to the Classification and Measurement of Financial Instruments* (30 May 2024, effective 1 Jan 2026) |
+| **IFRS 9—Impairment** | **Complete** | Request for Information May 2023; Project Summary and Feedback Statement published **4 July 2024**. IASB concluded the impairment requirements are working as intended; no fundamental change, with some matters referred to narrow-scope or educational follow-up |
+| **IFRS 9—Hedge Accounting** | **Active — first phase complete** | First-phase feedback analysed and the RFI questions approved at the July 2026 IASB meeting. **Request for Information expected September 2026** (work plan: 30 Sep 2026) |
+| **IFRS 15** | **Complete** | Review launched September 2022; Request for Information June 2023; Project Summary and Feedback Statement published **September 2024**. IASB concluded IFRS 15 is working as intended |
+| **IFRS 16** | **Substantially complete** | Request for Information published **17 June 2025**, comment period closed **15 October 2025**. At its **July 2026** meeting the IASB concluded IFRS 16 is working as intended and agreed two follow-on projects (lessee cost reduction; rent concessions), referring single-asset sale-and-leaseback to the next agenda consultation. **Project Summary and Feedback Statement expected Q4 2026** (work plan: 30 Nov 2026) |
+| **IFRS 17** | **Not started** | No PIR of IFRS 17 appears on the IASB work plan at 28 August 2026. IFRS 17 became effective 1 Jan 2023; a PIR normally begins roughly two years after global implementation is substantially complete, so the earliest realistic start is the next agenda consultation |
