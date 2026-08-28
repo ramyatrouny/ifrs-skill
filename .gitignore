@@ -11,5 +11,8 @@ Thumbs.db
 # Claude Code
 .claude/
 
-# Unrelated files
-badr-pinescript
+# Upgrade working area — research staging and downloaded source material.
+# sources/ holds IFRS Foundation, EFRAG and Big Four documents that are
+# third-party copyrighted content: never commit them to this MIT-licensed repo.
+# Everything here is re-derivable; see docs/SOURCING.md for how.
+.upgrade/
