@@ -122,8 +122,8 @@ An agent answering from its own knowledge cannot produce that list.
 | Interpretations | **20** | Live IFRIC and SIC interpretations, plus IFRS IC agenda decisions to April 2026 |
 | Workflows | **17** | Multi-step procedures with worked figures and complete journal entries |
 | Templates | **12** | Disclosure checklists, materiality, going concern, interim, audit response |
-| Checklist rows | **1,590** | Each carrying its paragraph reference |
-| Paragraph citations | **4,240** | Verified against the standards' own text |
+| Checklist rows | **1,554** | Cited disclosure requirements, each with its paragraph reference |
+| Paragraph citations | **4,438** | Resolved against the standards' own text where a source exists |
 
 Sustainability standards IFRS S1 and IFRS S2 are covered, as is the Conceptual Framework, the
 IFRS for SMEs Accounting Standard, and a jurisdictional adoption map including EU and UK
@@ -267,18 +267,28 @@ Two checks were run, and they measure different things. The distinction matters 
 number.
 
 **Resolution — does the cited paragraph exist in the standard's own text?**
-4,234 of 4,240 citations resolve (99.86%). The six that do not are Basis for Conclusions pointers
-and IAS 39, for which no machine-readable source exists. This catches a wrong paragraph number. It
-does **not** catch a correct number attached to a wrong statement.
+Of 4,438 paragraph citations, 4,231 can be checked against an extracted copy of the standard;
+**4,225 of those resolve (99.86%)**. The remaining 207 cite standards for which no machine-readable
+source was obtainable — chiefly IAS 39 and nine IFRIC and SIC interpretations. Six citations do not
+resolve and are correct as written: four Basis for Conclusions pointers, one Illustrative Examples
+reference, and `IFRS 7.27A`, which the text identifies as a deleted paragraph.
+
+Reproduce it yourself with `python3 scripts/check_citations.py --verbose`, having rebuilt the source
+corpus per [`docs/SOURCING.md`](docs/SOURCING.md).
+
+This check catches a wrong paragraph number. It does **not** catch a correct number attached to a
+wrong statement.
 
 **Semantic review — does the paragraph say what this skill says it says?**
-171 citations (4.0% of the total) were read in full, weighted towards prohibitions, thresholds,
-deadlines, lettered sub-items and checklist rows asserting that a disclosure is required. Three were
-wrong and were corrected.
+A sample of 171 citations was read in full during the August 2026 audit, weighted towards
+prohibitions, thresholds, deadlines, lettered sub-items and checklist rows asserting that a
+disclosure is required. Three were wrong and were corrected. That sample was a one-off review rather
+than a committed artefact, so unlike the resolution figure above it cannot be re-run from this
+repository — treat it as a stated finding, not a reproducible measurement.
 
-That is a defect rate of roughly 1.8% in the sample. **Expect a comparable density in the 96% not
-yet reviewed — on the order of several dozen citations.** Treat every citation here as a pointer to
-a paragraph you then read, not as a substitute for reading it.
+On that sample, roughly 1.8% of citations carried a semantic defect. **Expect a comparable density
+in the ~96% not read for meaning — on the order of several dozen.** Treat every citation here as a
+pointer to a paragraph you then read, not as a substitute for reading it.
 
 | Other checks | Result |
 |---|---|
@@ -290,6 +300,7 @@ You can re-run the mechanical checks yourself:
 ```bash
 python3 scripts/check_skill_structure.py    # frontmatter, referenced files, size
 python3 scripts/check_journal_entries.py    # every Dr/Cr block, every assertion block
+python3 scripts/check_citations.py          # every paragraph citation (needs the source corpus)
 ```
 
 The assertion blocks are committed inside `workflows.md` and `transition-guide.md` and are intended
@@ -310,8 +321,8 @@ Sources, method, and the traps encountered are documented in [`docs/SOURCING.md`
   registration-gated, so the comparison follows EY *US GAAP versus IFRS* (January 2026) and
   FASB ASU 2025-10. Confirm ASC references against the Codification before relying on them. The US
   federal tax consequences of abandoning LIFO are flagged as requiring a specialist, not stated.
-- **Roughly 50 IFRIC citations could not be verified** — IFRIC 2, 10, 12, 17 and 21 have no
-  machine-readable source text available.
+- **60 interpretation citations could not be verified** — IFRIC 2, 10, 12, 17 and 21 and SIC-7, 10,
+  25 and 29 have no machine-readable source text available.
 - **Basis for Conclusions text is not included.** BC paragraphs are cited as pointers, or attributed
   to an agenda decision that quotes them. The skill never characterises what a BC paragraph argues.
 - **Jurisdiction matters.** EU-adopted IFRS is not the same as IFRS as issued by the IASB, and an

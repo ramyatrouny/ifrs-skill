@@ -1091,8 +1091,13 @@ The entity **may elect** to use any of the following exemptions (key exemptions 
 | **Insurance contracts** (IFRS 1.D4) | Apply transitional provisions in IFRS 17 |
 | **Decommissioning liabilities** (IFRS 1.D21-D21A) | Use a simplified measurement of the decommissioning provision at the date of transition |
 | **Revenue from contracts with customers** (IFRS 1.D34-D35) | Need not restate contracts completed before the date of transition |
-| **Employee benefits** (IFRS 1.D10-D11) | Recognise all cumulative actuarial gains and losses at the date of transition (even if the corridor approach was used under previous GAAP) |
 | **Fair value measurement of financial instruments** (IFRS 1.D19-D19D) | Apply the requirements for day-one gains/losses prospectively |
+
+> **There is no employee benefits exemption.** IFRS 1.D10–D11 were deleted by *IAS 19 Employee
+> Benefits* (as amended June 2011), recorded at IFRS 1.39L. IAS 19 removed the corridor at the same
+> time, so there is no deferred actuarial balance left to reset: a first-time adopter recognises the
+> **full net defined benefit liability or asset** at the date of transition either way. Stale
+> secondary sources still list D10–D11, so do not plan a transition around it.
 
 **Key judgment:** The choice of exemptions is entity-specific and should be driven by cost-benefit analysis, materiality, and the availability of historical data.
 
