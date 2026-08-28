@@ -4252,3 +4252,694 @@ Note that IFRS 16.C21 and IFRS 15.C10 also supersede **IAS 17** and **IAS 11 / I
 respectively, and that IFRS 16 transition (C5–C18) still refers to contracts "previously identified
 as leases applying IAS 17 and IFRIC 4" — so a legacy IFRIC 4 reference in a transition note is
 correct in context and should not be edited away.
+
+
+---
+
+## IFRS Interpretations Committee Agenda Decisions
+
+**What an agenda decision is, and how binding it is.** When the Committee decides not to add a
+standard-setting project in response to a submitted application question, it publishes an **agenda
+decision** explaining why. Most agenda decisions include **explanatory material** explaining how
+the existing principles and requirements apply to the fact pattern described. The Committee's own
+framing, reproduced in every compilation volume, is precise and worth quoting exactly:
+
+> Agenda decisions (including any explanatory material contained within them) cannot add or change
+> requirements in IFRS Standards. Instead, explanatory material explains how the applicable
+> principles and requirements in IFRS Standards apply to the transaction or fact pattern described
+> in the agenda decision.
+>
+> Explanatory material derives its authority from the Standards themselves. Accordingly, an entity
+> is required to apply the applicable IFRS Standard(s), reflecting the explanatory material in an
+> agenda decision (subject to it having sufficient time to implement that accounting).
+> — *Compilation of Agenda Decisions, Volume 4* (October 2020–March 2021), Introduction
+
+**The practical consequences of that framing:**
+- An agenda decision is **not** a new requirement and is not endorsed by the EU or UK — but it is
+  not optional either, because its authority derives from the Standard it explains.
+- A change in accounting arising from an agenda decision is generally a **voluntary change in
+  accounting policy** under IAS 8, applied retrospectively, not a correction of an error.
+- The Committee explicitly allows an entity **sufficient time to implement** the accounting.
+- A tentative agenda decision is exposed for comment, normally 60 days, and is published only if
+  no more than three IASB members object.
+- **Agenda decisions can be withdrawn**, and several have been (see below). A withdrawn agenda
+  decision must not be relied on after its withdrawal date.
+
+**Where to find them.** Individual decisions are on the ifrs.org agenda-decisions pages; they are
+consolidated in the *Compilation of Agenda Decisions* volumes (Volume 1, Jan–Sep 2019, through
+Volume 14, Nov 2025–Apr 2026). The Committee's deliberations are in **IFRIC Update**.
+
+**They are also embedded in the standards themselves.** The full text of each agenda decision is
+reproduced as an annotation in the affected standard's own text, **positioned at the paragraph it
+bears on**. In the HTML editions these appear as `E1`, `E2`, … markers immediately after the
+relevant paragraph, each headed `[IFRIC® Update, <month year>, Agenda Decision, '<title>']`. This
+is the most reliable way to answer "which paragraph does this decision actually attach to", and it
+is how the anchors in the table below were determined. IAS 12 carries twenty such annotations,
+IAS 38 twelve, IFRS 16 eleven, IAS 7 nine — a preparer reading only the numbered paragraphs of a
+standard is missing a substantial body of application guidance sitting right next to them.
+
+**⚠ Two different dates are in circulation for the same decision — do not treat them as
+inconsistent.** The embedded annotations are dated by the **IFRIC Update meeting month** (when the
+Committee finalised the decision); the compilation volumes date by the **publication month**, which
+is often the following month or meeting cycle. Both are correct, and they differ for most
+decisions:
+
+| Decision | IFRIC Update month (in-standard annotation) | Publication month (compilations) |
+|---|---|---|
+| Configuration or Customisation Costs in a Cloud Computing Arrangement | March 2021 | **April 2021** |
+| Demand Deposits with Restrictions on Use | March 2022 | **April 2022** |
+| Negative Low Emission Vehicle Credits | June 2022 | **July 2022** |
+| Climate-related Commitments | March 2024 | **April 2024** |
+| Guarantees Issued on Obligations of Other Entities | March 2025 | **April 2025** |
+| Recognition of Intangible Assets Resulting from Climate-related Expenditure | March 2025 | **April 2025** |
+| Variation Margin on 'Collateralised-to-Market' Contracts | November 2024 | **February 2025** |
+| Assessing Indicators of Hyperinflationary Economies | June 2025 | **July 2025** |
+| Supply Chain Financing—Reverse Factoring | December 2020 | December 2020 *(same)* |
+| Lessee's Incremental Borrowing Rate | September 2019 | September 2019 *(same)* |
+
+**Dates used throughout this document are publication dates**, per the compilations. Citing "the
+April 2021 cloud computing agenda decision" and "the March 2021 cloud computing agenda decision"
+are both defensible; citing them as two different decisions is not.
+
+### Per-standard agenda decision census
+
+How many agenda decisions bear on a given standard. Counted from the embedded annotations, so this
+is the *annotated* population — see the cut-off caveat below.
+
+| Standard | Decisions | Standard | Decisions |
+|---|---|---|---|
+| IFRS 9 | **36** | IAS 12 | **17** |
+| IFRS 10 | 12 | IFRS 11 | 12 |
+| IFRS 2 | 11 | IFRS 15 | 10 |
+| IAS 38 | 10 | IFRS 16 | 9 |
+| IAS 7 | 9 | IAS 37 | 8 |
+| IAS 16 | 6 | IAS 21 | 6 |
+
+IFRS 9 with 36 and IAS 12 with 17 are the standards where reading only the numbered paragraphs
+leaves the most on the table.
+
+**Counting recipe — two traps, both of which inflate the count.** A naive
+`grep -o "Agenda Decision, '[^']*" | tr -s ' ' | sort -u` returns **12** for IFRS 15, not 10:
+
+1. **Table-of-contents mentions.** IFRS 15 lines 36–37 quote two decision titles in the contents
+   list. They are mentions, not annotations. Filtering to line-start `E<n> [IFRIC` markers excludes
+   them — the same TOC-decoy problem the brief flags for paragraph numbers, in a different guise.
+2. **`tr -s ' '` does not fully normalise.** It squeezes *runs* of spaces but leaves a single space
+   after a bracket, so `contract ( IFRS 15 …)` and `contract (IFRS 15 …)` survive as two entries.
+   The real-estate decisions appear in both forms and double-count. `tr -d ' '` before `sort -u`
+   fixes it.
+
+```bash
+grep -E "^E[0-9]+ \[IFRIC" "$1" \
+  | grep -o "Agenda Decision, ‘[^’]*" \
+  | sed "s/Agenda Decision, ‘ *//" \
+  | tr -d ' ' | sort -u | wc -l
+```
+
+This reproduces the independently verified counts (IFRS 15 → 10, IFRS 16 → 9).
+
+**⚠ Do not "correct" these counts upward to match a broad-pattern figure.** Two independent
+effects on IFRS 15 both happen to equal 2, which makes a wrong reconciliation very easy. Measured
+on the same files, same recipe each side:
+
+| | 2025 edition | 2026 edition |
+|---|---|---|
+| Broad pattern (inflated) | 10 | **12** |
+| Corrected (distinct decisions) | 8 | **10** |
+
+The edition genuinely adds two decisions — *Recognition of Revenue from Tuition Fees* and
+*Guarantees Issued on Obligations of Other Entities*, both March 2025, confirmed by diffing the two
+editions. **And** the broad pattern independently inflates by two in *both* editions. So "2025 → 10,
+2026 → 12" and "2026 → 10 distinct" are all correct statements about different quantities. The
+census above is distinct decisions on 2026 files, and already includes both March 2025 additions.
+
+**Edition dependency — it matters for exactly seven standards.** Per the 2026 front matter, agenda
+decisions published since 1 January 2025 were added as annotations to **IFRS 9, IFRS 15, IFRS 17,
+IAS 7, IAS 29, IAS 37 and IAS 38** only; for every other standard the two editions agree. Six of
+those seven are in my census and all were pulled from the `/2026/` path this session, corroborated
+by the presence of post-January-2025 annotations in IFRS 9, IFRS 15, IAS 29, IAS 37 and IAS 38.
+IAS 7 shows none, correctly — its most recent decision is the November 2024 variation-margin one,
+so the editions agree for it. IFRS 17 is not in my census; its three decisions in Part 2 come from
+Compilation Volumes 7 and 9, not from annotations.
+
+**Attribution — an annotation in a standard is not necessarily a decision *about* that standard.**
+This bites my own census and must be read alongside it. Three patterns:
+- **Genuine joint decisions**, correctly counted under both hosts: *Lease Term and Useful Life of
+  Leasehold Improvements* (IFRS 16 and IAS 16), *Lessor Forgiveness of Lease Payments* (IFRS 9 and
+  IFRS 16), *Training Costs to Fulfil a Contract* (IFRS 15 and IAS 38), *Guarantees Issued on
+  Obligations of Other Entities* (IFRS 9, IFRS 15, IFRS 17 and IAS 37).
+- **Cross-references to another standard's decision.** IAS 37 hosts *IAS 12—Interest and penalties
+  related to income taxes*, which is an IAS 12 decision; IAS 21 hosts *Transition issues under
+  IFRS 1*. These inflate the host's count.
+- **Predecessor-standard decisions.** The bulk of IFRS 9's 36 are **IAS 39** decisions carried
+  forward — derecognition, embedded derivatives, revolving structures and so on. They are real and
+  still useful, but "IFRS 9 has 36 agenda decisions" overstates how many were written against
+  IFRS 9 itself.
+
+Treat the census as *decisions a preparer of that standard should read*, which is the useful
+question, rather than *decisions formally issued under that standard*.
+
+**One further recipe caveat, found while auditing the above.** The title-capture `[^’]*` terminates
+at a curly apostrophe used as punctuation, so any title containing one is truncated in the output —
+*Customer's Right to Receive Access…* renders as `IAS 38 Intangible Assets —Customer`. Apostrophe
+characters are inconsistent in the source (`’` truncates, `'` does not), so the effect is patchy.
+**Counts are unaffected**: I checked every repeated title and all are genuine same-decision-annotated-
+at-multiple-paragraphs cases, not collisions between distinct decisions. IAS 12 is the clean proof —
+deduping on whole annotation lines gives 23 against 17 titles, and the gap is exactly three
+decisions each annotated twice. Displayed titles need eyeballing; the numbers stand.
+
+**Marker count ≠ decision count, and the gap is informative.** IFRS 16 has 11 `E` markers but 9
+decisions: *Lease Term and Useful Life of Leasehold Improvements* is annotated twice (at B34 and at
+B37) and *Subsurface Rights* twice. IAS 12 has 29 markers for 17 decisions. A decision annotated at
+several paragraphs is one that bears on several requirements — which is precisely how the anchor
+table below was built, so do not dedupe the markers away when you are hunting anchors.
+
+**Cut-off — verified, and narrower than it looks.** The "2026" edition carries content issued as at
+**31 December 2025**, so no calendar-2026 decision is annotated anywhere. I confirmed directly that
+*Determining and Accounting for Transaction Costs*, *Embedded Prepayment Option*, *Economic Benefits
+from Use of a Battery* and *Scope of the Requirement to Disclose Expenses by Nature* are **absent
+from the standards text**. All eight new Vol 14 decisions must come from the compilation.
+*One caution against over-reading this:* the latest annotation across the twelve standards I first
+pulled was March 2025, which looks like an earlier wall — but it is not. Fetching IAS 29 shows the
+*Assessing Indicators of Hyperinflationary Economies* decision annotated and dated June 2025. The
+apparent March 2025 ceiling was an artefact of which standards happened to be in hand. Test the
+cut-off on the standard a decision actually attaches to, not on a convenience sample.
+
+### Which paragraph each key decision attaches to
+
+Determined from the embedded annotations in each standard's 2026 Issued HTML — sourced, not
+inferred.
+
+| Agenda decision | Anchored at |
+|---|---|
+| Configuration or Customisation Costs in a Cloud Computing Arrangement | **IAS 38.13** (control — "power to obtain the future economic benefits") and **IAS 38.69A** (when services are received) |
+| Customer's Right to Receive Access to the Supplier's Software Hosted on the Cloud (Mar 2019) | **IAS 38.13** |
+| Supply Chain Financing Arrangements—Reverse Factoring | **IAS 7.9** (movements between items constituting cash and cash equivalents) |
+| Demand Deposits with Restrictions on Use | **IAS 7.6** (definitions — "cash") |
+| Negative Low Emission Vehicle Credits | **IAS 37.19** (obligations arising from past events existing independently of future actions) |
+| Lease Term and Useful Life of Leasehold Improvements | **IFRS 16.B34** (enforceable period) and **IFRS 16.B37** (economic-incentive factors, including B37(b) leasehold improvements); and **IAS 16.56** (useful life factors) |
+| Lessee's Incremental Borrowing Rate | **IFRS 16 Appendix A**, the definition of *lessee's incremental borrowing rate* |
+
+*Every paragraph cited in the narrative below was independently corroborated by these anchors.*
+
+**One companion decision worth knowing, though it predates the 2020 window.** The April 2021 cloud
+computing decision rests on an earlier one — ***Customer's Right to Receive Access to the
+Supplier's Software Hosted on the Cloud* (IAS 38), March 2019**, annotated at IAS 38.13. Without it
+the 2021 decision's opening premise — "that right to receive access does not provide the customer
+with a software asset" — reads as asserted rather than reasoned. Cite the two together.
+
+Its fact pattern: the customer pays a fee for a right to access the supplier's application software
+for a specified term; the software runs on cloud infrastructure **managed and controlled by the
+supplier**; the customer accesses it as needed over the internet or a dedicated line; the contract
+conveys no rights over tangible assets. The Committee applied a **two-limb test** — the customer
+receives a software *asset* at commencement only if either **(a) the contract contains a software
+lease**, or **(b) the customer otherwise obtains control of software at commencement**:
+
+- **No lease.** Under IFRS 16.9 and B9, a contract conveys the right to use an asset only if the
+  customer has both the right to obtain substantially all the economic benefits from use and the
+  right to direct that use; per IFRS 16.B9–B31 a customer generally directs use by holding
+  decision-making rights to change how and for what purpose the asset is used, which in a lease the
+  supplier has given up. A right to future access **does not confer those rights** — the supplier
+  decides how and when to update or reconfigure the software, and on which hardware or
+  infrastructure it runs. So there is no software lease.
+- **No intangible asset.** Under IAS 38.13, control requires the power to obtain the future economic
+  benefits flowing from the underlying resource and to restrict others' access. A right to future
+  access does not, at commencement, give the customer power over the benefits flowing from **the
+  software itself**, nor the ability to restrict others.
+
+**Conclusion:** a contract conveying only a right to receive future access is a **service
+contract**; the customer receives the service — the access — over the term. **A payment made before
+the service is received gives the customer a right to future service and is an asset** (the
+prepayment point the 2021 decision then carries into IAS 38.70).
+
+---
+
+### Agenda decisions from 2020 that change practice
+
+#### Supply Chain Financing Arrangements—Reverse Factoring (IFRS 7, IAS 1, IAS 7) — December 2020
+##### ⚠ WITHDRAWN BY THE IASB, JULY 2026
+
+**Fact pattern:** a financial institution agrees to pay amounts the entity owes its suppliers, and
+the entity agrees to pay the institution at the same date as, or later than, suppliers are paid.
+
+**Conclusions.** *Presentation.* An entity presents a financial liability as a **trade payable only
+when it (a) represents a liability to pay for goods or services, (b) is invoiced or formally agreed
+with the supplier, and (c) is part of the working capital used in the entity's normal operating
+cycle** — drawing on IAS 37.11(a) and IAS 1.70. Applying IAS 1.29, 55, 57 and 58, reverse
+factoring liabilities are presented within trade and other payables only where they have a similar
+nature and function to trade payables, and **separately** where their size, nature or function
+makes separate presentation relevant. Indicative factors: whether **additional security** is
+provided that would not otherwise be given, and the **extent to which the terms differ** from the
+entity's non-factored trade payables. *Derecognition.* Assessed under IFRS 9's derecognition
+requirements; a new liability to the financial institution is then presented under IAS 1.
+*Cash flows.* Classification follows the nature of the liability under IAS 7.6 — operating if the
+liability is a trade payable that is part of working capital used in principal revenue-producing
+activities; **financing if it represents borrowings**. Under IAS 7.43, a financing transaction
+involving no cash inflow or outflow for the entity is excluded from the statement of cash flows and
+must instead be **disclosed elsewhere in a way that provides all relevant information about the
+financing activity**. *Notes.* IFRS 7.31 liquidity risk disclosure is engaged because reverse
+factoring concentrates liabilities with a single financial institution rather than a diverse
+supplier base, and because withdrawal of the facility could impair the entity's ability to settle
+liabilities when due.
+
+**Withdrawal history — this is current and consequential:**
+- **November 2025** — the Committee recommended the IASB withdraw the agenda decision.
+- **27–28 January 2026** — the IASB **deferred** the decision (12 of 13 members) and commissioned
+  targeted outreach to identify specific accounting matters that might arise from withdrawal.
+- **21–22 July 2026** — after that outreach, the IASB **decided to withdraw the agenda decision**;
+  **11 of 12 IASB members agreed**.
+
+**What replaces it:** the presentation and disclosure content is now carried by **IFRS 18**
+(effective 1 January 2027) and by the **Supplier Finance Arrangements amendments to IAS 7 and
+IFRS 7**, issued 25 May 2023 and EU-effective 1 January 2024. **The supplier finance disclosure
+requirements are unaffected by the withdrawal and remain fully in force.** Do not treat the
+withdrawal as a relaxation of disclosure.
+
+#### Configuration or Customisation Costs in a Cloud Computing Arrangement (IAS 38) — April 2021
+
+The single most commonly encountered agenda decision in practice.
+
+**Fact pattern:** a customer enters a SaaS arrangement conveying the right to receive access to a
+supplier's application software over the contract term. That right does **not** give the customer a
+software asset — access to the software is a **service** received over the term. The customer
+incurs costs of **configuration** (setting flags, switches, values or parameters within the
+existing code) and **customisation** (modifying the software code or writing additional code,
+generally changing or creating functionality). No other goods or services are received.
+
+**Question I — is there an intangible asset?** Applying IAS 38.18, an item is recognised only if it
+meets both the definition of an intangible asset and the IAS 38.21–23 recognition criteria. Control
+under IAS 38.13 requires the power to obtain the future economic benefits and to restrict others'
+access. In the fact pattern **the supplier controls the application software**. The Committee
+concluded the customer **often would not recognise an intangible asset**, because it does not
+control the software being configured or customised and those activities do not create a resource
+controlled by the customer that is separate from the software. **Exception:** the arrangement may
+produce, for example, **additional code from which the customer can obtain the future economic
+benefits and restrict others' access** — in which case the customer assesses whether that
+additional code is identifiable and meets the IAS 38 recognition criteria.
+
+**Question II — if not an asset, when is it expensed?** Apply IAS 38.68–70. Costs are expensed
+**when the services are received**, and IAS 38.69A specifies that services are received when
+performed by the supplier under a contract to deliver them — **not when the entity uses them to
+deliver another service**. Because IAS 38 has no requirements on identifying the services received,
+IAS 8.10–11 directs the customer to IFRS 15's requirements on identifying promised goods or
+services. The resulting decision tree:
+
+- **Contract with the software supplier** (including where the supplier subcontracts to a third
+  party):
+  - services **distinct** → expense **as the supplier configures or customises** the software.
+  - services **not distinct** (not separately identifiable from the right to access the software)
+    → expense **over the contract term, as access is provided**. *This is the deferral outcome —
+    the cost is spread, but as an expense recognition pattern, not as an asset.*
+- **Contract with an independent third-party supplier** → expense **as that third party configures
+  or customises** the software.
+- **Payment in advance of receiving the services** → recognise a **prepayment asset**
+  (IAS 38.70).
+
+**Disclosure:** IAS 1.117–124 require disclosure of the accounting policy for configuration or
+customisation costs where relevant to an understanding of the financial statements.
+
+**Why it matters:** entities that had capitalised large ERP-cloud implementation programmes as
+intangible assets generally had to write them off and change policy. Contract structuring — who
+contracts with whom, and whether implementation services are distinct — now drives the accounting
+outcome directly.
+
+#### Demand Deposits with Restrictions on Use arising from a Contract with a Third Party (IAS 7) — April 2022, updated January 2026
+
+**Fact pattern:** the entity holds a demand deposit whose terms do not prevent it accessing the
+amounts (it would receive any amount on demand), but it has a **contractual obligation with a third
+party** to keep a specified amount in that separate deposit and use the cash only for specified
+purposes; using it otherwise would breach that contract.
+
+**Conclusion:** IAS 7.6 defines cash as cash on hand and demand deposits, and IAS 7 contains no
+further qualification. IAS 7.48 (disclosure of significant cash balances not available for use by
+the group) and the current/non-current classification rule both presuppose that cash **may** be
+restricted. Therefore **contractual restrictions on use do not stop a demand deposit being cash**,
+unless they change the nature of the deposit such that it no longer meets the IAS 7 definition.
+Here the entity can access the amounts on demand, so the deposit is a component of cash and cash
+equivalents in the statement of cash flows. In the statement of financial position it is presented
+as cash and cash equivalents, disaggregated into an additional line item where relevant. The
+components of cash and cash equivalents must be disclosed under IAS 7.45.
+
+**January 2026 IFRS 18 update — the specific reference changes:**
+- Current classification: **IAS 1.66(d) → IFRS 18.99(d)**.
+- Statement of financial position line item for cash and cash equivalents: **IAS 1.54(i) →
+  IFRS 18.103(k)**.
+- The additional-line-item test changes from IAS 1.55 ("relevant to an understanding of the
+  entity's financial position") to **IFRS 18.23–24**: present additional line items and subtotals
+  **if necessary for a primary financial statement to provide a useful structured summary**, and do
+  not present a line item separately if that is not necessary for the statement to provide a useful
+  structured summary. This is a genuinely different threshold, not a renumbering.
+
+#### Lease Term and Useful Life of Leasehold Improvements (IFRS 16 and IAS 16) — November 2019
+
+Pre-2020 by date but load-bearing for cancellable and renewable leases, and still the governing
+explanatory material.
+
+**Fact pattern:** a **cancellable** lease with no specified contractual term that continues
+indefinitely until either party gives notice (notice period under, say, 12 months, with no
+termination payment obliged); and a **renewable** lease specifying an initial period that renews
+indefinitely unless terminated.
+
+**Conclusion — lease term.** IFRS 16.18 defines the lease term as the non-cancellable period plus
+extension periods the lessee is reasonably certain to exercise and termination periods it is
+reasonably certain not to exercise. **IFRS 16.B34** requires the entity to determine the period for
+which the contract is **enforceable**, and specifies that a lease is no longer enforceable when
+lessee and lessor **each** have the right to terminate without the other's permission with **no
+more than an insignificant penalty**. The Committee concluded that in applying B34:
+- (a) the entity considers **the broader economics of the contract, not only contractual
+  termination payments** — if either party has an economic incentive not to terminate such that it
+  would incur a more-than-insignificant penalty, the contract is enforceable beyond the termination
+  date. *This is where abandonment or dismantling costs of leasehold improvements enter.*
+- (b) a lease ceases to be enforceable **only when both parties** have that right. **If only one
+  party can terminate cheaply, the contract remains enforceable beyond that date.**
+
+Where the contract is enforceable beyond the notice period (or initial period), the entity then
+applies IFRS 16.19 and B37–B40 to assess reasonable certainty. IFRS 16.BC156 records the Board's
+view that the lease term should reflect the entity's reasonable expectation of the period the
+underlying asset will be used.
+
+**Conclusion — useful life of non-removable leasehold improvements.** IAS 16.50 requires
+depreciation over useful life, defined by reference to the period the asset is expected to be
+available for use **by the entity**. IAS 16.56(d) requires consideration of legal or similar limits
+such as expiry dates of related leases, and IAS 16.57 defines useful life in terms of the asset's
+expected utility to the entity, which may be shorter than its economic life. **If the entity does
+not expect to use the leasehold improvements beyond the lease term, their useful life is the lease
+term** (IAS 16.57), and the Committee observed an entity might often reach that conclusion.
+
+**Interaction — the circularity that catches preparers.** IFRS 16.B37 requires all relevant facts
+and circumstances creating an economic incentive to be considered in the reasonable-certainty
+assessment, and **B37(b) expressly includes significant leasehold improvements undertaken or
+expected to be undertaken that are expected to have significant economic benefit when the option
+becomes exercisable**. So significant leasehold improvements lengthen the lease term, and the lease
+term caps the improvements' useful life. The two must be assessed together, not sequentially.
+
+#### Lessee's Incremental Borrowing Rate (IFRS 16) — September 2019
+
+**Question:** must a lessee's IBR reflect the interest rate on a loan with both a similar maturity
+**and** a similar payment profile to the lease payments?
+
+**Conclusion:** IFRS 16.26 requires the IBR when the rate implicit in the lease is not readily
+determinable. The Appendix A definition makes the IBR a **lease-specific** rate — the rate the
+lessee would pay to borrow, over a similar term, with similar security, the funds needed to obtain
+an asset of similar value to the right-of-use asset, in a similar economic environment. The
+Committee restated those four elements explicitly. The definition **does not explicitly require**
+the rate to reflect a loan with a similar payment profile. However, IFRS 16.BC162 records that the
+Board defined the IBR to take into account the terms and conditions of the lease, and that a lessee
+may refer to a readily observable rate as a starting point and adjust it. The Committee observed
+that it would be **consistent with the Board's objective** to refer as a starting point to a
+readily observable rate for a loan with a **similar payment profile** to that of the lease.
+
+**Practical effect:** an entity's group WACC, an unadjusted corporate bond yield, or a single
+portfolio-wide rate is not defensible without adjustment for term, security, right-of-use asset
+value and economic environment. A collateralised, amortising-profile starting rate is the expected
+approach.
+
+#### Negative Low Emission Vehicle Credits (IAS 37) — July 2022
+
+**Fact pattern:** government measures apply to entities producing or importing passenger vehicles
+for a specified market. Entities receive **positive** credits where average fleet emissions in a
+calendar year are below a government target and **negative** credits where they are above. An
+entity with negative credits must eliminate them by obtaining and surrendering positive credits —
+purchased from another entity or self-generated in the following year by producing or importing
+more low-emission vehicles. Failure permits government sanctions that do **not** require payment
+of fines or any other outflow of resources, but could deny future opportunities, for example by
+restricting market access.
+
+**Conclusion — the entity may have an IAS 37 liability.** Working through IAS 37.10 and 17:
+
+- **Outflow of resources:** yes, either way. Whether the entity buys credits or self-generates them,
+  it surrenders **positive credits**, which are resources embodying economic benefits — self-
+  generated credits could otherwise have been sold to other entities with negative credits.
+- **The obligating event:** the **production or import, in a calendar year, of vehicles whose
+  average fuel emissions exceed the government target**. The Committee reached this by analogy to
+  the two IFRIC Interpretations of IAS 37 that address government-imposed charges: **IFRIC 6**
+  (obligation arises when the entity conducts the activity to which the charge is linked) and
+  **IFRIC 21** (the event is the activity that triggers payment as identified in the legislation).
+  The obligation arises from past events (IAS 37.19) and exists **independently of the entity's
+  future actions** — those actions determine only the *means* of settlement, not whether an
+  obligation exists. **A present obligation can arise at any date within the calendar year**, on
+  the basis of production or import activity to that date — not only at year end. *This is the
+  interim reporting trap.*
+- **No realistic alternative:** the measures **could** give rise to a **legal** obligation, because
+  the obligation derives from an operation of law and the sanctions are the mechanism by which
+  settlement may be enforceable. The entity has a legal obligation **if accepting the possible
+  sanctions is not a realistic alternative** for it — a judgement depending on the nature of the
+  sanctions and the entity's specific circumstances. If there is no legal obligation, the entity
+  must then consider whether a **constructive** obligation exists.
+
+**Read-across:** this is the reference analysis for any emissions, fuel-economy or environmental
+credit scheme settled in credits rather than cash. It is also the reason IFRIC 6 and IFRIC 21
+remain live and load-bearing rather than historical curiosities.
+
+#### Other agenda decisions 2020–2026, by standard
+
+Fact pattern and conclusion in brief; all are in the compilation volumes cited in SOURCES.
+
+**IFRS 3** — *Payments Contingent on Continued Employment during Handover Periods* (April 2024).
+
+**IFRS 8** — *Disclosure of Revenues and Expenses for Reportable Segments* (July 2024, **updated
+January 2026 for IFRS 18**). In applying IFRS 8.23(f) to disclose material items of income and
+expense per reportable segment, the entity applies the definition of **material information** in
+IFRS 18 Appendix A and IFRS 18.B2 (previously IAS 1.7), assesses materiality in the context of the
+financial statements **as a whole**, applies **IFRS 18.41–43** on aggregation and disaggregation
+(previously IAS 1.30–31), considers qualitative and quantitative factors, and considers the
+circumstances in **IFRS 18.B79** (previously IAS 1.98). The cross-reference in IFRS 8.23(f) is now
+to **IFRS 18.42** (previously IAS 1.97). IFRS 8.23(f) does **not** require every item of income and
+expense presented or disclosed to be broken down by segment; judgement is applied against IFRS 8's
+core principle.
+
+**IFRS 9** — *Guarantee over a Derivative Contract* (October 2023); *Physical Settlement of
+Contracts to Buy or Sell a Non-financial Item* (March 2019, **updated January 2026 for IFRS 18**);
+*Determining and Accounting for Transaction Costs* (**January 2026** — costs directly attributable
+to origination or issuance but incurred **before** entering the contractual arrangement are **not
+precluded from being 'incremental'** and can meet the Appendix A definition of transaction costs;
+they are recognised in the statement of financial position, often as prepayments or other assets;
+no widespread effect, so no project); *Embedded Prepayment Option* (**January 2026** — in
+IFRS 9.B4.3.5(e)(ii), stakeholders read **'the entity' as the lender**, not the reporting-entity
+borrower; no diversity with material effect, so no project).
+
+**IFRS 9 / IFRS 15 / IFRS 17 / IAS 37** — *Guarantees Issued on Obligations of Other Entities*
+(April 2025).
+
+**IFRS 15** — *Principal versus Agent: Software Reseller* (May 2022); *Recognition of Revenue from
+Tuition Fees* (April 2025); *Training Costs to Fulfil a Contract* (March 2020 — training costs are
+within **IAS 38's** scope by virtue of IAS 38.5, so IFRS 15.95 is never reached; IAS 38.69(b)
+treats training expenditure as producing no recognisable asset, and IAS 38.15 explains the entity
+has insufficient control because employees can leave; **expensed as incurred** even where the
+contract permits the entity to charge the training costs to the customer).
+
+**IFRS 16** — *Definition of a Lease—Decision-making Rights* (January 2020); *Sale and Leaseback
+with Variable Payments* (June 2020); *Non-refundable Value Added Tax on Lease Payments* (October
+2021); *Economic Benefits from Use of a Windfarm* (December 2021); *Definition of a Lease—
+Substitution Rights* (April 2023); *Economic Benefits from Use of a Battery under an Offtake
+Arrangement* (**April 2026**, below).
+
+**IFRS 9 / IFRS 16** — *Lessor Forgiveness of Lease Payments* (October 2022).
+
+**IFRS 9 / IAS 20** — *TLTRO III Transactions* (March 2022).
+
+**IFRS 17** — *Transfer of Insurance Coverage under a Group of Annuity Contracts* (July 2022);
+*Multi-currency Groups of Insurance Contracts* (with IAS 21, October 2022); *Premiums Receivable
+from an Intermediary* (with IFRS 9, October 2023).
+
+**IAS 1 / IAS 32 / IFRS 2** — *Special Purpose Acquisition Companies (SPAC): Accounting for
+Warrants at Acquisition* (October 2022); *SPAC: Classification of Public Shares as Financial
+Liabilities or Equity* (July 2022); *Accounting for Warrants that are Classified as Financial
+Liabilities on Initial Recognition* (October 2021).
+
+**IAS 2** — *Costs Necessary to Sell Inventories* (June 2021).
+
+**IAS 7** — *Classification of Cash Flows related to Variation Margin Calls on 'Collateralised-to-
+Market' Contracts* (February 2025); *Disclosure of Changes in Liabilities Arising from Financing
+Activities* (September 2019, **updated January 2026 for IFRS 18**).
+
+**IAS 10** — *Preparation of Financial Statements when an Entity is No Longer a Going Concern*
+(June 2021).
+
+**IAS 12** — *Multiple Tax Consequences of Recovering an Asset* (April 2020); *Deferred Tax related
+to an Investment in a Subsidiary* (June 2020).
+
+**IAS 19** — *Attributing Benefit to Periods of Service* (May 2021); *Homes and Home Loans Provided
+to Employees* (October 2023).
+
+**IAS 21 / IAS 29** — three decisions of March 2020: *Translation of a Hyperinflationary Foreign
+Operation—Presenting Exchange Differences*; *Cumulative Exchange Differences before a Foreign
+Operation becomes Hyperinflationary*; *Presenting Comparative Amounts when a Foreign Operation
+first becomes Hyperinflationary*.
+
+**IAS 27** — *Merger between a Parent and Its Subsidiary in Separate Financial Statements* (January
+2024).
+
+**IAS 29** — *Assessing Indicators of Hyperinflationary Economies* (July 2025).
+
+**IAS 37** — *Climate-related Commitments* (April 2024).
+
+**IAS 38** — *Player Transfer Payments* (June 2020); *Recognition of Intangible Assets Resulting
+from Climate-related Expenditure* (April 2025).
+
+**IAS 41** — *Subsequent Expenditure on Biological Assets* (September 2019, **updated January 2026
+for IFRS 18**).
+
+---
+
+### The IFRS 18 agenda-decision review — six updated, three withdrawn
+
+In the light of IFRS 18, the IASB asked the Committee to review agenda decisions referring to the
+general requirements on **presentation, materiality and aggregation** and to consider replacing
+IAS 1 references with IFRS 18 references. The outcome, finalised by the Committee in **November
+2025 and March 2026** and published in Compilation Volume 14:
+
+**Six agenda decisions updated** (references replaced; new text underlined and deleted text struck
+through in the compilation):
+
+1. *Disclosure of Revenues and Expenses for Reportable Segments* (IFRS 8), originally July 2024.
+2. *Physical Settlement of Contracts to Buy or Sell a Non-financial Item* (IFRS 9), originally
+   March 2019.
+3. *Normal operating cycle* (IAS 1), originally June 2005.
+4. *Demand Deposits with Restrictions on Use arising from a Contract with a Third Party* (IAS 7),
+   originally April 2022.
+5. *Disclosure of Changes in Liabilities Arising from Financing Activities* (IAS 7), originally
+   September 2019.
+6. *Subsequent Expenditure on Biological Assets* (IAS 41), originally September 2019.
+
+**Three agenda decisions withdrawn as from 1 January 2027**, the date IFRS 18 becomes effective
+(IASB decisions of April 2025 and January 2026):
+
+1. *Issues related to the application of IAS 1* (IAS 1), originally May 2014.
+2. *Presentation of Liabilities or Assets Related to Uncertain Tax Treatments* (IAS 1), originally
+   September 2019. **Its full text is reproduced after IFRS 18.103(q).**
+3. *Income and expenses arising on financial instruments with a negative yield—presentation in the
+   statement of comprehensive income* (IAS 39 and IAS 1), originally January 2015. The IASB agreed
+   this withdrawal at its **27–28 January 2026** meeting; **all 13 members** supported it.
+
+**Still pending at 28 August 2026.** In April 2026 the Committee finalised the agenda decision
+*Presentation of Taxes or Other Charges that Are Not Tax Expense or Tax Income Applying IAS 12
+Income Taxes* (IFRS 18), together with updates to *Presentation of payments on non-income taxes*
+(IAS 1 and IAS 12) and *Classification of tonnage taxes* (IAS 12). **In May 2026 the IASB deferred
+a decision on whether it objects to these**, so they are not yet published and are not in
+Compilation Volume 14. Watch this space for non-income-tax presentation.
+
+### New agenda decisions published November 2025 – April 2026 (Compilation Volume 14)
+
+**Economic Benefits from Use of a Battery under an Offtake Arrangement (IFRS 16) — April 2026.**
+Battery owner and electricity retailer are both registered participants in a **gross pool**
+electricity market. The owner retains custody but is contractually obliged to operate the battery
+on the retailer's instructions covering **100% of capacity**; the battery cannot be substituted.
+The retailer pays a **fixed amount** for the right to use the battery, payable regardless of
+charging or discharging; the owner transacts with the market operator at spot and passes all
+resulting cash flows to or from the retailer; the parties settle net in cash periodically. The
+question was **IFRS 16.B9(a)** only — whether the retailer has the right to obtain substantially
+all the economic benefits from use — B9(b) (right to direct use) was assumed. **Conclusion: yes.**
+Applying **IFRS 16.B21**, the economic benefits derive from the battery's **storage capability and
+capacity** — the battery stores and releases electricity, it does not produce it — and the retailer
+has the exclusive right to use the entire capacity throughout the period of use and to direct
+whether, when and by how much to charge and discharge. *Directly relevant to the wave of battery
+storage, grid-services and renewables offtake arrangements now being structured.*
+
+**Assessment of a Specified Main Business Activity for the Purposes of the Separate Financial
+Statements of a Parent (IFRS 18) — April 2026.** A parent whose only substantive activity is
+holding investments in unconsolidated subsidiaries, accounted for at cost. **Conclusion:** the
+absence of any other substantive activity is **sufficient evidence** that investing in
+unconsolidated subsidiaries is a main business activity for the purposes of the separate financial
+statements; the parent therefore has a **specified main business activity** and, applying
+**IFRS 18.55(b)**, classifies the income and expenses from those investments in the **operating**
+category. Three important observations: the **IFRS 18.B34–B36** factors (segmental analysis,
+subtotals used to explain operating performance) do not apply where the entity provides none, and
+their absence is **not determinative**; the absence of a parent from the **IFRS 18.B31** examples is
+not determinative, those examples not being exhaustive; and — per **IFRS 18.BC98–BC99** — the
+assessment is made for the **reporting entity as a whole**, so the outcome for a parent's separate
+financial statements **can differ** from the outcome for the consolidated financial statements.
+Relevant framework: IFRS 18.49, 52, 53(a), B30, B33, B37, B42, B44(c).
+
+**Classification of a Foreign Exchange Difference from an Intragroup Monetary Liability (or Asset)
+(IFRS 18) — April 2026.** An intragroup loan between entities with different functional currencies,
+not part of the net investment. The balance and its income and expenses are eliminated on
+consolidation, but **IAS 21.45** requires the exchange difference to survive elimination and be
+recognised in consolidated profit or loss. **IFRS 18.B65** requires foreign exchange differences to
+be classified in the same category as the income and expenses from the items that gave rise to
+them, unless undue cost or effort (IFRS 18.B68). **The Committee concluded that two readings are
+both reasonable and the entity must choose one as an IAS 8 accounting policy:**
+- **View 1** — there is no 'same' category available, because the income and expenses from the loan
+  are not in the consolidated statement of profit or loss; the entity classifies the exchange
+  difference in the **operating** category by default under **IFRS 18.52**.
+- **View 2** — B65 does not require the income and expenses to be *included* in the consolidated
+  statement of profit or loss; the entity classifies the exchange difference in the category in
+  which the loan's income and expenses **would have been** classified before elimination, falling
+  back to operating where that involves undue cost or effort (assessed **per item** under
+  IFRS 18.B68). Under View 2 the classification is made **from the consolidated group's
+  perspective**, so it may differ from the subsidiary's own classification — for example where the
+  group's specified main business activities differ from the subsidiary's.
+
+Two readings were rejected as **not reasonable**: classifying in the **financing** category on the
+basis that the transaction involves only the raising of finance (it does not always), and
+classifying in the **investing** category on the basis that cash conversion caused the difference
+(it is not cash that gave rise to it).
+
+**Classification of Gains and Losses on a Derivative Managing a Foreign Currency Exposure
+(IFRS 18) — April 2026.** Parent P has Subsidiary A holding an FC100 investing asset and Subsidiary
+B with an FC120 financing liability, both in functional currency LC — a **net liability exposure of
+FC20**. Treasury Entity enters an **external** forward for FC20 to manage that **net** exposure per
+group risk management policy; it is **not designated as a hedging instrument** under IFRS 9.
+Internal derivatives with A and B also exist. **Conclusion:** the analysis addresses **only the
+external derivative** — per **IFRS 9.BC6.144**, risk mitigation matters for financial reporting only
+where risk is transferred outside the reporting entity. Applying **IFRS 18.B70–B76**, the entity
+first identifies the risk the derivative manages (here, expected to be evident from the approved
+risk management policy), then the categories affected. Because P classifies foreign exchange
+differences on financial liabilities in the **financing** category, and the derivative manages only
+the **net** liability exposure — a risk affecting a **single category** — no grossing up arises
+(IFRS 18.B74–B75), the **IFRS 18.B72** prohibition does not bite, and P is **required** to classify
+the gain or loss in the **financing** category. **Counterfactual, stated expressly:** had the policy
+been to manage the investing asset and the financing liability on a **gross** basis, the risks would
+affect line items in two categories, classification would require grossing up, that is prohibited by
+IFRS 18.B72, and the gain or loss would instead go to the **operating** category. **Risk management
+policy documentation now drives P&L geography.**
+
+**Scope of the Requirement to Disclose Expenses by Nature (IFRS 18) — April 2026.** Does
+**IFRS 18.83** apply only to the operating expenses listed in IFRS 18.75(a)(ii), or to **any**
+expense presented by function in the operating category, including the IFRS 9 and IFRS 17 amounts
+in IFRS 18.75(b)–(c)? **Conclusion: the wider reading.** IFRS 18.83 **contains no exceptions or
+exclusions**, so the reason an expense is classified by function — the entity's judgement, or a
+requirement in another Standard — is **irrelevant**. Paragraph 83 applies to any line item
+comprising expenses classified by function in the operating category. Per **IFRS 18.B84**, the
+amounts disclosed need not be the amounts recognised as expense in the period and may include
+amounts recognised in the carrying amount of an asset; where an entity applying **IFRS 18.83(b)**
+discloses such amounts, it must give a **qualitative explanation identifying the assets involved**.
+Note 1 to **IFRS 18 IE7** illustrates. *Directly affects insurers, whose insurance service expense
+includes amortisation of previously capitalised insurance acquisition cash flows.*
+
+**Fair Presentation and Compliance with IFRS Accounting Standards (IAS 1 [IAS 8]) — April 2026.**
+Where an entity departs from a requirement under **IAS 1.19 [IAS 8.6E]**, must it still comply with
+the fair presentation requirement in **IAS 1.15 [IAS 8.6A]**? The Committee found the fact pattern
+arises **infrequently**, concluded the matter does not have widespread effect, and added no project.
+*Note the bracketed references: IFRS 18 relocates the fair presentation and true-and-fair-override
+requirements from IAS 1.15–24 to **IAS 8.6A–6J**, IAS 8 having been retitled* Basis of Preparation
+of Financial Statements.
+
+### Tentative agenda decisions open at 28 August 2026 — early warning
+
+**IFRIC Update June 2026 — eight tentative agenda decisions, comments closed 9 September 2026.**
+Seven of the eight are IFRS 18 application questions, which is a fair indication of where the
+implementation pressure now sits:
+
+1. *Management-defined Performance Measures—Hypothetical Income and Expenses* (IFRS 18) — whether
+   a measure including hypothetical, unrecognised income and expenses meets the IFRS 18.117
+   definition of an MPM.
+2. *Management-defined Performance Measures—Public Communications* (IFRS 18) — whether a
+   confidential presentation to a small number of identifiable shareholders is a "public
+   communication".
+3. *Classification of Income and Expenses from Cash and Cash Equivalents* (IFRS 18) — for entities
+   with more than one main business activity, one of which is investing in financial assets.
+4. *Classification of Income and Expenses—Financing to Customers Activity* (IFRS 18) — classifying
+   expenses from finance-raising liabilities in consolidated financial statements.
+5. *Control Assessment for a Single-investor Fund* (IFRS 10) — whether a sole investor
+   automatically delegates decision-making to the fund manager as agent.
+6. *Assessment of Specified Main Business Activities—Manufacturer-Lessor* (IFRS 18) — whether
+   aggregated finance and operating lease activities constitute a main business activity of
+   providing financing to customers.
+7. *Labels of Subtotals* (IFRS 18) — whether a subtotal's label must explicitly list everything
+   included and excluded.
+8. *Presentation of Operating Expenses* (IFRS 18) — when a **mixed** presentation (nature and
+   function combined) is required, and disaggregation of expenses of the same nature.
+
+**IFRIC Update March 2026** also carried a tentative agenda decision on *Reassessment of Control*
+(IFRS 10), which the Committee concluded does not have widespread effect.
