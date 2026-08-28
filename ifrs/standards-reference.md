@@ -1703,7 +1703,7 @@ Two irrevocable elections sit at the scope boundary and are frequently missed:
 
 **Scope:** Applies to all general purpose financial statements prepared in accordance with IFRS Accounting Standards. Sets requirements for the presentation of the primary financial statements and for disclosure in the notes. Supersedes IAS 1 in its entirety (IFRS 18.C8). Recognition and measurement are unaffected — IFRS 18 changes *where* and *how* amounts appear, not what those amounts are.
 
-**Status and amendments:** Issued 9 April 2024; effective for annual reporting periods beginning on or after 1 January 2027; earlier application permitted, and an early adopter must disclose that fact in the notes (IFRS 18.C1). EU-endorsed 13 February 2026, published in the Official Journal 16 February 2026, EU effective date 1 January 2027 (EFRAG Endorsement Status Report, 17 July 2026); **UK-adopted 10 December 2025** (A10 effective-date register). Unlike IFRS 19, IFRS 18 is **mandatory** — IFRS 18.C1 says an entity *shall* apply it. Appendix D makes consequential amendments to other Standards, applied for periods beginning on or after 1 January 2027 or earlier if IFRS 18 is applied early. Four IFRIC agenda decisions on IFRS 18 were published in April 2026 (see **IFRIC agenda decisions** below); the IASB has withdrawn three IAS 1-era agenda decisions with effect from 1 January 2027.
+**Status and amendments:** Issued 9 April 2024; effective for annual reporting periods beginning on or after 1 January 2027; earlier application permitted, and an early adopter must disclose that fact in the notes (IFRS 18.C1). EU-endorsed 13 February 2026, published in the Official Journal 16 February 2026, EU effective date 1 January 2027 (EFRAG Endorsement Status Report, 17 July 2026); **UK-adopted 10 December 2025** (UKEB, adoption statement published 12 December 2025). Unlike IFRS 19, IFRS 18 is **mandatory** — IFRS 18.C1 says an entity *shall* apply it. Appendix D makes consequential amendments to other Standards, applied for periods beginning on or after 1 January 2027 or earlier if IFRS 18 is applied early. Four IFRIC agenda decisions on IFRS 18 were published in April 2026 (see **IFRIC agenda decisions** below); the IASB has withdrawn three IAS 1-era agenda decisions with effect from 1 January 2027.
 
 **Core principle:** Financial statements must communicate, not merely comply. The primary financial statements provide *useful structured summaries* of recognised assets, liabilities, equity, income, expenses and cash flows; the notes provide the material information needed to understand those summaries and to supplement them (IFRS 18.16–18). Three substantive changes drive everything else: a defined five-category structure with two mandated subtotals in the statement of profit or loss; mandatory disclosure of management-defined performance measures; and explicit principles governing aggregation and disaggregation.
 
@@ -1871,7 +1871,7 @@ Two irrevocable elections sit at the scope boundary and are frequently missed:
 
 **Scope:** An **election**, not a requirement. An entity may elect to apply IFRS 19 in its consolidated, separate or individual financial statements if, and only if, **at the end of the reporting period** (IFRS 19.7): (a) it is a subsidiary as defined in IFRS 10; (b) it does not have public accountability; and (c) it has an ultimate or intermediate parent that produces **consolidated financial statements available for public use that comply with IFRS Accounting Standards**. All three conditions must hold.
 
-**Status and amendments:** Issued 9 May 2024. **1 January 2027 is the date the election becomes *available*, not a compliance deadline.** IFRS 19.A1 reads *"An entity **may elect** to apply this Standard for reporting periods beginning on or after 1 January 2027"* — contrast IFRS 18.C1, *"An entity **shall** apply this Standard for annual reporting periods beginning on or after 1 January 2027"*. Same date, opposite obligation. An eligible subsidiary that does nothing simply continues to apply full IFRS disclosures; it is never in breach for not electing. Earlier application is permitted, and an early adopter discloses that fact (IFRS 19.A1). **Amendments to IFRS 19 issued 21 August 2025**, effective 1 January 2027, completing the catch-up so that IFRS 19 reflects reduced disclosures for Standards and amendments issued between February 2021 and May 2024 — specifically IFRS 18, *Supplier Finance Arrangements* (IAS 7 and IFRS 7), *International Tax Reform—Pillar Two Model Rules* (IAS 12), *Lack of Exchangeability* (IAS 21), and *Amendments to the Classification and Measurement of Financial Instruments* (IFRS 9 and IFRS 7). The IASB has said it will update IFRS 19 in parallel with future Standards rather than in periodic catch-ups. **EU/UK divergence — material to eligibility:** **not yet EU-endorsed** as at 28 August 2026 (EFRAG advice 25 September 2025, ARC vote 5 June 2026, endorsement expected Q3/Q4 2026 for both IFRS 19 and its 2025 amendments — EFRAG Endorsement Status Report, 17 July 2026), but **UK-adopted 8 May 2026** (per A10's effective-date register). So a UK subsidiary may elect IFRS 19 for 2027; an **EU subsidiary cannot yet elect it at all**, and should not build a 2027 disclosure-reduction plan around it until endorsement completes.
+**Status and amendments:** Issued 9 May 2024. **1 January 2027 is the date the election becomes *available*, not a compliance deadline.** IFRS 19.A1 reads *"An entity **may elect** to apply this Standard for reporting periods beginning on or after 1 January 2027"* — contrast IFRS 18.C1, *"An entity **shall** apply this Standard for annual reporting periods beginning on or after 1 January 2027"*. Same date, opposite obligation. An eligible subsidiary that does nothing simply continues to apply full IFRS disclosures; it is never in breach for not electing. Earlier application is permitted, and an early adopter discloses that fact (IFRS 19.A1). **Amendments to IFRS 19 issued 21 August 2025**, effective 1 January 2027, completing the catch-up so that IFRS 19 reflects reduced disclosures for Standards and amendments issued between February 2021 and May 2024 — specifically IFRS 18, *Supplier Finance Arrangements* (IAS 7 and IFRS 7), *International Tax Reform—Pillar Two Model Rules* (IAS 12), *Lack of Exchangeability* (IAS 21), and *Amendments to the Classification and Measurement of Financial Instruments* (IFRS 9 and IFRS 7). The IASB has said it will update IFRS 19 in parallel with future Standards rather than in periodic catch-ups. **EU/UK divergence — material to eligibility:** **not yet EU-endorsed** as at 28 August 2026 (EFRAG advice 25 September 2025, ARC vote 5 June 2026, endorsement expected Q3/Q4 2026 for both IFRS 19 and its 2025 amendments — EFRAG Endorsement Status Report, 17 July 2026), but **UK-adopted 8 May 2026** (UKEB Adoption Status Report, 13 May 2026). So a UK subsidiary may elect IFRS 19 for 2027; an **EU subsidiary cannot yet elect it at all**, and should not build a 2027 disclosure-reduction plan around it until endorsement completes.
 
 **Core principle:** An eligible subsidiary applies **all** the requirements of other IFRS Accounting Standards **except their disclosure requirements**, and applies IFRS 19's reduced disclosure requirements instead (IFRS 19.2). Recognition, measurement and presentation are entirely unchanged. The point is cost relief for subsidiaries that feed a listed parent's consolidation but have no public accountability of their own.
 
@@ -3796,7 +3796,7 @@ way as historical household waste, the same principles apply via the IAS 8.10–
 that hierarchy is likewise relevant for other regulations imposing obligations on a similar cost
 attribution model (IFRIC 6.7). **This is now a general-purpose precedent for cost-attribution
 environmental levies**, and the Committee relied on it in the 2022 negative low-emission vehicle
-credits agenda decision (see A9.2).
+credits agenda decision (see *IFRS Interpretations Committee Agenda Decisions* below).
 
 *Effective for annual periods beginning on or after 1 December 2005.*
 
@@ -4223,7 +4223,7 @@ to point at **IFRS 18.46** and the *Conceptual Framework*).
 
 *Effective 25 March 2002. Date of consensus May 2001.*
 *Practice note:* SIC-32 is the natural analogue for the April 2021 cloud-computing agenda decision
-(see A9.2) — SIC-32 governs a site the entity controls; the agenda decision governs configuration
+(see *IFRS Interpretations Committee Agenda Decisions* below) — SIC-32 governs a site the entity controls; the agenda decision governs configuration
 of software it does not.
 
 ### Withdrawn Interpretations — do not cite these as live
@@ -4317,7 +4317,7 @@ decisions:
 | Supply Chain Financing—Reverse Factoring | December 2020 | December 2020 *(same)* |
 | Lessee's Incremental Borrowing Rate | September 2019 | September 2019 *(same)* |
 
-**Dates used throughout this document are publication dates**, per the compilations. Citing "the
+**Dates used throughout this section are publication dates**, per the compilations. Citing "the
 April 2021 cloud computing agenda decision" and "the March 2021 cloud computing agenda decision"
 are both defensible; citing them as two different decisions is not.
 
@@ -4338,92 +4338,15 @@ is the *annotated* population — see the cut-off caveat below.
 IFRS 9 with 36 and IAS 12 with 17 are the standards where reading only the numbered paragraphs
 leaves the most on the table.
 
-**Counting recipe — two traps, both of which inflate the count.** A naive
-`grep -o "Agenda Decision, '[^']*" | tr -s ' ' | sort -u` returns **12** for IFRS 15, not 10:
+**How to read the census, and three caveats that bite.**
 
-1. **Table-of-contents mentions.** IFRS 15 lines 36–37 quote two decision titles in the contents
-   list. They are mentions, not annotations. Filtering to line-start `E<n> [IFRIC` markers excludes
-   them — the same TOC-decoy problem the brief flags for paragraph numbers, in a different guise.
-2. **`tr -s ' '` does not fully normalise.** It squeezes *runs* of spaces but leaves a single space
-   after a bracket, so `contract ( IFRS 15 …)` and `contract (IFRS 15 …)` survive as two entries.
-   The real-estate decisions appear in both forms and double-count. `tr -d ' '` before `sort -u`
-   fixes it.
+- **Edition dependency matters for exactly seven standards.** Per the 2026 front matter, agenda decisions published since 1 January 2025 were added as annotations to **IFRS 9, IFRS 15, IFRS 17, IAS 7, IAS 29, IAS 37 and IAS 38** only; for every other standard the 2025 and 2026 editions agree. Counting IFRS 15 on the 2025 edition gives **8** distinct decisions against **10** on the 2026 edition — the two additions being the March 2025 pair, *Recognition of Revenue from Tuition Fees* and *Guarantees Issued on Obligations of Other Entities*.
+- **Marker count is not decision count, and the gap is informative.** IFRS 16 carries 11 annotation markers for 9 decisions, because *Lease Term and Useful Life of Leasehold Improvements* is annotated twice (at B34 and at B37) and *Subsurface Rights* twice. IAS 12 carries 29 markers for 17 decisions. **A decision annotated at several paragraphs is one that bears on several requirements**, which is exactly what makes the anchor table below useful.
+- **An annotation in a standard is not necessarily a decision *about* that standard.** Three patterns explain most of the census: **genuine joint decisions**, correctly counted under both hosts (*Lease Term and Useful Life of Leasehold Improvements* — IFRS 16 and IAS 16; *Lessor Forgiveness of Lease Payments* — IFRS 9 and IFRS 16; *Training Costs to Fulfil a Contract* — IFRS 15 and IAS 38; *Guarantees Issued on Obligations of Other Entities* — IFRS 9, IFRS 15, IFRS 17 and IAS 37); **cross-references to another standard's decision**, which inflate the host's count (IAS 37 hosts the IAS 12 decision on interest and penalties related to income taxes; IAS 21 hosts *Transition issues under IFRS 1*); and **predecessor-standard decisions** — the bulk of IFRS 9's 36 are **IAS 39** decisions carried forward, on derecognition, embedded derivatives and revolving structures. They remain useful, but "IFRS 9 has 36 agenda decisions" overstates how many were written against IFRS 9 itself.
 
-```bash
-grep -E "^E[0-9]+ \[IFRIC" "$1" \
-  | grep -o "Agenda Decision, ‘[^’]*" \
-  | sed "s/Agenda Decision, ‘ *//" \
-  | tr -d ' ' | sort -u | wc -l
-```
+Treat the census as *decisions a preparer of that standard should read* — the useful question — rather than *decisions formally issued under that standard*.
 
-This reproduces the independently verified counts (IFRS 15 → 10, IFRS 16 → 9).
-
-**⚠ Do not "correct" these counts upward to match a broad-pattern figure.** Two independent
-effects on IFRS 15 both happen to equal 2, which makes a wrong reconciliation very easy. Measured
-on the same files, same recipe each side:
-
-| | 2025 edition | 2026 edition |
-|---|---|---|
-| Broad pattern (inflated) | 10 | **12** |
-| Corrected (distinct decisions) | 8 | **10** |
-
-The edition genuinely adds two decisions — *Recognition of Revenue from Tuition Fees* and
-*Guarantees Issued on Obligations of Other Entities*, both March 2025, confirmed by diffing the two
-editions. **And** the broad pattern independently inflates by two in *both* editions. So "2025 → 10,
-2026 → 12" and "2026 → 10 distinct" are all correct statements about different quantities. The
-census above is distinct decisions on 2026 files, and already includes both March 2025 additions.
-
-**Edition dependency — it matters for exactly seven standards.** Per the 2026 front matter, agenda
-decisions published since 1 January 2025 were added as annotations to **IFRS 9, IFRS 15, IFRS 17,
-IAS 7, IAS 29, IAS 37 and IAS 38** only; for every other standard the two editions agree. Six of
-those seven are in my census and all were pulled from the `/2026/` path this session, corroborated
-by the presence of post-January-2025 annotations in IFRS 9, IFRS 15, IAS 29, IAS 37 and IAS 38.
-IAS 7 shows none, correctly — its most recent decision is the November 2024 variation-margin one,
-so the editions agree for it. IFRS 17 is not in my census; its three decisions in Part 2 come from
-Compilation Volumes 7 and 9, not from annotations.
-
-**Attribution — an annotation in a standard is not necessarily a decision *about* that standard.**
-This bites my own census and must be read alongside it. Three patterns:
-- **Genuine joint decisions**, correctly counted under both hosts: *Lease Term and Useful Life of
-  Leasehold Improvements* (IFRS 16 and IAS 16), *Lessor Forgiveness of Lease Payments* (IFRS 9 and
-  IFRS 16), *Training Costs to Fulfil a Contract* (IFRS 15 and IAS 38), *Guarantees Issued on
-  Obligations of Other Entities* (IFRS 9, IFRS 15, IFRS 17 and IAS 37).
-- **Cross-references to another standard's decision.** IAS 37 hosts *IAS 12—Interest and penalties
-  related to income taxes*, which is an IAS 12 decision; IAS 21 hosts *Transition issues under
-  IFRS 1*. These inflate the host's count.
-- **Predecessor-standard decisions.** The bulk of IFRS 9's 36 are **IAS 39** decisions carried
-  forward — derecognition, embedded derivatives, revolving structures and so on. They are real and
-  still useful, but "IFRS 9 has 36 agenda decisions" overstates how many were written against
-  IFRS 9 itself.
-
-Treat the census as *decisions a preparer of that standard should read*, which is the useful
-question, rather than *decisions formally issued under that standard*.
-
-**One further recipe caveat, found while auditing the above.** The title-capture `[^’]*` terminates
-at a curly apostrophe used as punctuation, so any title containing one is truncated in the output —
-*Customer's Right to Receive Access…* renders as `IAS 38 Intangible Assets —Customer`. Apostrophe
-characters are inconsistent in the source (`’` truncates, `'` does not), so the effect is patchy.
-**Counts are unaffected**: I checked every repeated title and all are genuine same-decision-annotated-
-at-multiple-paragraphs cases, not collisions between distinct decisions. IAS 12 is the clean proof —
-deduping on whole annotation lines gives 23 against 17 titles, and the gap is exactly three
-decisions each annotated twice. Displayed titles need eyeballing; the numbers stand.
-
-**Marker count ≠ decision count, and the gap is informative.** IFRS 16 has 11 `E` markers but 9
-decisions: *Lease Term and Useful Life of Leasehold Improvements* is annotated twice (at B34 and at
-B37) and *Subsurface Rights* twice. IAS 12 has 29 markers for 17 decisions. A decision annotated at
-several paragraphs is one that bears on several requirements — which is precisely how the anchor
-table below was built, so do not dedupe the markers away when you are hunting anchors.
-
-**Cut-off — verified, and narrower than it looks.** The "2026" edition carries content issued as at
-**31 December 2025**, so no calendar-2026 decision is annotated anywhere. I confirmed directly that
-*Determining and Accounting for Transaction Costs*, *Embedded Prepayment Option*, *Economic Benefits
-from Use of a Battery* and *Scope of the Requirement to Disclose Expenses by Nature* are **absent
-from the standards text**. All eight new Vol 14 decisions must come from the compilation.
-*One caution against over-reading this:* the latest annotation across the twelve standards I first
-pulled was March 2025, which looks like an earlier wall — but it is not. Fetching IAS 29 shows the
-*Assessing Indicators of Hyperinflationary Economies* decision annotated and dated June 2025. The
-apparent March 2025 ceiling was an artefact of which standards happened to be in hand. Test the
-cut-off on the standard a decision actually attaches to, not on a convenience sample.
+**The edition cut-off is 31 December 2025, so no calendar-2026 decision is annotated anywhere in the standards text.** *Determining and Accounting for Transaction Costs*, *Embedded Prepayment Option*, *Economic Benefits from Use of a Battery under an Offtake Arrangement* and *Scope of the Requirement to Disclose Expenses by Nature* are all **absent from the standards text**; all eight new Volume 14 decisions must be read from the compilation. Do not infer the cut-off from a convenience sample of standards — the latest annotation across a dozen standards may read as March 2025, while IAS 29 carries the *Assessing Indicators of Hyperinflationary Economies* decision dated June 2025. Test the cut-off on the standard a decision actually attaches to.
 
 ### Which paragraph each key decision attaches to
 
@@ -4476,8 +4399,7 @@ prepayment point the 2021 decision then carries into IAS 38.70).
 
 ### Agenda decisions from 2020 that change practice
 
-#### Supply Chain Financing Arrangements—Reverse Factoring (IFRS 7, IAS 1, IAS 7) — December 2020
-##### ⚠ WITHDRAWN BY THE IASB, JULY 2026
+#### Supply Chain Financing Arrangements—Reverse Factoring (IFRS 7, IAS 1, IAS 7) — December 2020, WITHDRAWN JULY 2026
 
 **Fact pattern:** a financial institution agrees to pay amounts the entity owes its suppliers, and
 the entity agrees to pay the institution at the same date as, or later than, suppliers are paid.
@@ -5285,8 +5207,7 @@ climate-related risks and opportunities on the entity's prospects, using the fou
 - Confusing IFRS S2.C4 (first-time IFRS S2 reliefs) with IFRS S2.C6 (transition into the 2025 amendments
   for an entity already applying IFRS S2). They are different populations and different mechanics.
 
-**ISSB pipeline as at 28 August 2026 — what has and has not been issued.** State this plainly; it is the
-part most likely to be reported wrongly from stale training data.
+**ISSB pipeline as at 28 August 2026 — what has and has not been issued.** This is the part most likely to be reported wrongly from stale training data, so state it plainly.
 
 | Project | Status at 28 Aug 2026 |
 |---|---|
