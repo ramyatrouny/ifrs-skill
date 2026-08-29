@@ -3,7 +3,7 @@
 | Channel | Status | Link |
 |---------|--------|------|
 | **GitHub Repo** | Live | [ramyatrouny/ifrs-skill](https://github.com/ramyatrouny/ifrs-skill) |
-| **GitHub Release** | v2.0.0 | [Release page](https://github.com/ramyatrouny/ifrs-skill/releases/tag/v2.0.0) |
+| **GitHub Release** | v2.1.0 | [Release page](https://github.com/ramyatrouny/ifrs-skill/releases/tag/v2.1.0) |
 | **Skills.sh** | Installed to 36 agents | `npx skills add ramyatrouny/ifrs-skill` |
 | **anthropics/skills** | PR submitted | [anthropics/skills#808](https://github.com/anthropics/skills/pull/808) |
 | **awesome-claude-skills** | PR submitted | [travisvn/awesome-claude-skills#448](https://github.com/travisvn/awesome-claude-skills/pull/448) |
