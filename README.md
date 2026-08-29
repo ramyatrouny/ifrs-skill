@@ -33,6 +33,7 @@ application. Installation for each is [below](#installation).
 - [Quickstart](#quickstart)
 - [Coverage](#coverage)
 - [IFRS 18 — Presentation and Disclosure, mandatory 2027](#ifrs-18--presentation-and-disclosure-mandatory-2027)
+- [Reviewing software that produces accounting figures](#reviewing-software-that-produces-accounting-figures)
 - [Installation](#installation)
 - [Troubleshooting](#troubleshooting)
 - [Example queries](#example-queries)
@@ -123,7 +124,7 @@ An agent answering from its own knowledge cannot produce that list.
 | Workflows | **17** | Multi-step procedures with worked figures and complete journal entries |
 | Templates | **12** | Disclosure checklists, materiality, going concern, interim, audit response |
 | Checklist rows | **1,554** | Cited disclosure requirements, each with its paragraph reference |
-| Paragraph citations | **4,438** | Resolved against the standards' own text where a source exists |
+| Paragraph citations | **4,439** | Resolved against the standards' own text where a source exists |
 
 Sustainability standards IFRS S1 and IFRS S2 are covered, as is the Conceptual Framework, the
 IFRS for SMEs Accounting Standard, and a jurisdictional adoption map including EU and UK
@@ -152,6 +153,48 @@ measures (MPMs) with the reconciliation IFRS 18.B137(a) requires.
 **IFRS 19** *Subsidiaries without Public Accountability* is covered and is **elective, not
 mandatory** — IFRS 19.A1 says an eligible subsidiary *may elect* to apply it from 1 January 2027.
 That is the date the election becomes available, not a deadline.
+
+## Reviewing software that produces accounting figures
+
+Most of this repository answers questions. `feature-review.md` does something different: it
+reviews **your code**.
+
+Give it a feature that produces an accounting figure — a billing engine, a revenue report, a
+balance-sheet generator — together with one real output it produced, and it reports what is
+wrong in language a developer can act on. It refuses to run on code alone: reading an
+implementation and pronouncing it correct is guessing at the output rather than looking at it.
+
+Findings carry a class, which says who fixes it:
+
+| Class | The defect is | Fixed by |
+|---|---|---|
+| Non-compliant | A requirement is broken | Accounting logic |
+| Wrong | Approach permitted, figures or timing incorrect | Calculation |
+| Incomplete | Figures right, data for a required disclosure never captured | Data model |
+| Untraceable | Figures right and complete, no evidence trail | Logging |
+
+and a severity — **Blocking**, **Needs work**, **Conforms** — from which the verdict follows
+arithmetically. Any blocking finding means not ready. The reviewer states what a standard
+requires and what the code does instead; it never recommends a provision rate, an estimate or
+a policy, because those are decisions for a qualified accountant.
+
+Standard numbers stay out of the body of a finding and sit in a source line at the end, so the
+review reads as plain English to an engineer and remains checkable by their accountant.
+
+It covers six standards — the ones software actually touches: **IFRS 15** revenue, **IFRS 9**
+receivables and expected credit losses, **IAS 1 and IFRS 18** presentation, **IAS 21** foreign
+currency, **IFRS 16** leases, and **IAS 7** cash flows. Anything a feature touches outside
+those is named as unchecked rather than guessed at, because silence would read as approval.
+Every review also checks the 1 January 2027 presentation change, since code written today is
+still running then.
+
+Where the host supports parallel agents it runs one per standard the feature triggers, at most
+six, and verifies every blocking finding with a second agent that tries to disprove it. Where
+it does not, it works the same list sequentially and says so.
+
+`tests/` holds the acceptance fixture: a deliberately defective balance-sheet generator with
+four planted defects, and an answer key kept outside the fixture directory so a reviewing agent
+cannot read it. See [`tests/README.md`](tests/README.md).
 
 ## Installation
 
@@ -224,6 +267,14 @@ For a project-scoped install, use the project equivalent — `.claude/skills/`, 
 > Which IFRS 18 management-defined performance measure disclosures are required, and what does the
 > reconciliation need to show?
 
+**Engineers and product managers**
+
+> Review `src/billing/` against IFRS. Here is the module and a balance sheet it generated for
+> the year to 31 December 2026 — tell me what is wrong and what to change.
+
+> Our revenue report books an invoice as earned the day it is issued. Is that right, and if not
+> what does it do to the numbers?
+
 **Learners**
 
 > Explain the difference between a mandatory exception and an optional exemption in IFRS 1, with
@@ -243,6 +294,7 @@ the read without making it small:
 | File | Size | Approx. tokens |
 |---|---|---|
 | `SKILL.md` | 6 KB | ~1,600 |
+| `feature-review.md` | 11 KB | ~2,700 |
 | `transition-guide.md` | 164 KB | ~43,000 |
 | `workflows.md` | 196 KB | ~51,000 |
 | `compliance-templates.md` | 322 KB | ~85,000 |
@@ -251,7 +303,8 @@ the read without making it small:
 A guidance question routes to `standards-reference.md`, around **244,000 tokens**. A compliance task
 routes to that plus `compliance-templates.md`, around **327,000 tokens**. Use an agent with a large
 context window, and name the standard you are asking about — a question scoped to IFRS 16 costs far
-less than an open one.
+less than an open one. A feature review is far cheaper than either: `feature-review.md` is
+small, and it reads one section of the reference per standard rather than the whole file.
 
 | File | Purpose |
 |---|---|
@@ -270,8 +323,9 @@ in `feature-review.md`, which describe convention rather than requirement and ar
 — see Scope and limitations, and [`docs/adr/0001-uncited-practice-notes.md`](docs/adr/0001-uncited-practice-notes.md).
 
 **Resolution — does the cited paragraph exist in the standard's own text?**
-Of 4,438 paragraph citations, 4,231 can be checked against an extracted copy of the standard;
-**4,225 of those resolve (99.86%)**. The remaining 207 cite standards for which no machine-readable
+Of 4,452 paragraph citations — 4,439 in the skill and 13 in the acceptance answer keys, held
+to the same bar — 4,245 can be checked against an extracted copy of the standard;
+**4,239 of those resolve (99.86%)**. The remaining 207 cite standards for which no machine-readable
 source was obtainable — chiefly IAS 39 and nine IFRIC and SIC interpretations. Six citations do not
 resolve and are correct as written: four Basis for Conclusions pointers, one Illustrative Examples
 reference, and `IFRS 7.27A`, which the text identifies as a deleted paragraph.

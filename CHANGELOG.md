@@ -10,6 +10,54 @@ for corrections and editorial work.
 
 ## [Unreleased]
 
+## [2.1.0] - 2026-08-29
+
+Adds a capability the skill did not previously have: reviewing software that produces
+accounting figures, rather than answering questions about the standards. Released as a minor
+version because it is new coverage — nothing in versions 1.0.0 or 2.0.0 changes meaning, and
+no guidance a reader may already have relied on is altered.
+
+### Added
+
+- **`ifrs/feature-review.md`** — an IFRS review of an implementation. Given a feature that
+  produces an accounting figure and one real output it produced, it reports what is wrong in
+  language a developer can act on. It refuses to run on code alone. Findings carry a class
+  (Non-compliant, Wrong, Incomplete, Untraceable) saying who fixes the defect, and a severity
+  (Blocking, Needs work, Conforms) from which the verdict follows arithmetically. Standard
+  numbers appear only in the evidence line closing each finding, never in its body, because
+  the reader is technical and not an accountant.
+- **A trigger map** connecting code artefacts to the standards to check against them — an
+  invoices table to IFRS 15 and IFRS 9, a balance-sheet renderer to IAS 1 and IFRS 18, a
+  currency field to IAS 21. It covers six standards: IFRS 15, IFRS 9, IAS 1 and IFRS 18,
+  IAS 21, IFRS 16 and IAS 7. Anything a feature touches outside them is reported as unchecked
+  rather than guessed at.
+- **The 1 January 2027 presentation change in every review.** Code written today is still
+  running when IFRS 18 replaces IAS 1, so a statement renderer is checked against both, and
+  what breaks later is its own finding at Needs work rather than Blocking.
+- **`tests/`** — the acceptance fixture. A deliberately defective balance-sheet generator with
+  four planted defects, its real generated output, and an answer key held outside the fixture
+  directory so a reviewing agent cannot read what it is being tested on.
+- **`scripts/check_feature_review.py`** — checks a review's shape against the rules the skill
+  sets: citations only in evidence lines, nothing cited outside the covered standards, the
+  fixed practice-note heading, and a verdict consistent with the severities. It checks shape,
+  never whether the findings are correct.
+- **`tests/fixtures/invoice-balance-sheet/verify_key_figures.py`** — asserts every figure the
+  answer key quotes, and now runs in CI.
+- **`CONTEXT.md`** — the domain glossary, and **`docs/adr/`** recording two decisions: that
+  practice notes may be uncited under a fixed heading, and that reviews split by standard.
+
+### Changed
+
+- `SKILL.md` routes to the new file, discriminating on whether code is involved:
+  `compliance-templates.md` reviews financial statements, `feature-review.md` reviews the
+  software that produces them.
+- `scripts/check_citations.py` now resolves the citations in `tests/expected/` as well as
+  `ifrs/`. An answer key with a wrong paragraph reference in it would fail a correct review,
+  so keys are held to the same bar as the skill. 4,239 of 4,245 checkable citations resolve.
+- The README states the one exception to the repository's citation rule rather than implying
+  citation is universal. Labelled practice notes describe what finance teams conventionally do,
+  which no standard says and nothing can cite.
+
 ## [2.0.0] - 2026-08-28
 
 A full content re-verification and expansion. Every paragraph citation in the repository was
@@ -106,6 +154,7 @@ version 1.0.0, and readers who relied on them need to know.
 - `transition-guide.md` — GAAP-to-IFRS transition guidance with the IFRS 1 exemption
   framework and a three-phase project plan.
 
-[Unreleased]: https://github.com/ramyatrouny/ifrs-skill/compare/v2.0.0...HEAD
+[Unreleased]: https://github.com/ramyatrouny/ifrs-skill/compare/v2.1.0...HEAD
+[2.1.0]: https://github.com/ramyatrouny/ifrs-skill/compare/v2.0.0...v2.1.0
 [2.0.0]: https://github.com/ramyatrouny/ifrs-skill/compare/v1.0.0...v2.0.0
 [1.0.0]: https://github.com/ramyatrouny/ifrs-skill/releases/tag/v1.0.0
