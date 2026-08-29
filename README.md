@@ -259,12 +259,15 @@ less than an open one.
 | `standards-reference.md` | Standard-by-standard detail, interpretations, sustainability, amendment register |
 | `workflows.md` | Multi-step procedures with worked examples and journal entries |
 | `compliance-templates.md` | Per-standard disclosure checklists and audit templates |
+| `feature-review.md` | Reviewing software that produces accounting figures, in plain English |
 | `transition-guide.md` | First-time adoption, IFRS 1 exemptions, GAAP difference matrices |
 
 ## How the content was verified
 
 Two checks were run, and they measure different things. The distinction matters more than either
-number.
+number. Both cover every claim in the skill with one stated exception: the labelled practice notes
+in `feature-review.md`, which describe convention rather than requirement and are uncited by design
+— see Scope and limitations, and [`docs/adr/0001-uncited-practice-notes.md`](docs/adr/0001-uncited-practice-notes.md).
 
 **Resolution — does the cited paragraph exist in the standard's own text?**
 Of 4,438 paragraph citations, 4,231 can be checked against an extracted copy of the standard;
@@ -327,6 +330,12 @@ Sources, method, and the traps encountered are documented in [`docs/SOURCING.md`
   to an agenda decision that quotes them. The skill never characterises what a BC paragraph argues.
 - **Jurisdiction matters.** EU-adopted IFRS is not the same as IFRS as issued by the IASB, and an
   unendorsed standard cannot be applied in the EU. The amendment register records endorsement status.
+- **Practice notes in `feature-review.md` are uncited by design.** Every other claim in this
+  skill resolves to a paragraph of a standard. Feature reviews additionally carry blocks headed
+  *"In practice — how finance teams usually handle this. Not a requirement."*, describing what
+  teams conventionally do rather than what IFRS obliges. No standard says any of it, so none of
+  it is citable. The heading is fixed so the two can never be confused; the reasoning is in
+  [`docs/adr/0001-uncited-practice-notes.md`](docs/adr/0001-uncited-practice-notes.md).
 - **Content is current as at 28 August 2026** and will drift. Standards change; verify effective
   dates for periods after that.
 
@@ -334,7 +343,8 @@ Sources, method, and the traps encountered are documented in [`docs/SOURCING.md`
 
 Contributions are welcome, subject to the evidentiary standard the content is held to: every
 technical claim carries a paragraph-level citation verified against the standard's own text, and
-every worked example balances and ships with a runnable assertion. See
+every worked example balances and ships with a runnable assertion. The single exception is the
+labelled practice notes in `feature-review.md`, described under Scope and limitations. See
 [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
 Corrections are especially welcome. If a citation is wrong, open a content-correction issue with the

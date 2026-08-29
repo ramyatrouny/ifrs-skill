@@ -21,7 +21,10 @@ import re
 import sys
 
 CORPUS = ".upgrade/sources/std"
-SKILL = "ifrs"
+# Every committed markdown file that carries paragraph citations. The answer keys
+# under tests/expected/ cite standards too, and a key with a wrong reference in it
+# would fail a correct review — so they are held to the same bar as the skill.
+CITED = ("ifrs/*.md", "tests/expected/*.md")
 
 # IFRS 15.35(c), IAS 36.104, IFRS 9.5.5.3, IAS 8.6K, IFRS 16.B21, IFRS 1.D9E
 CITE = re.compile(r"\b(IFRS|IAS|IFRIC|SIC)[ -](\d+)\.([0-9A-Za-z]+(?:\.\d+)*)")
@@ -59,7 +62,8 @@ def main() -> int:
     total = resolved = no_source = 0
     unresolved: dict[str, int] = {}
 
-    for path in sorted(glob.glob(os.path.join(SKILL, "*.md"))):
+    paths = sorted(p for pattern in CITED for p in glob.glob(pattern))
+    for path in paths:
         with open(path, encoding="utf-8") as fh:
             text = fh.read()
         for family, number, para in CITE.findall(text):

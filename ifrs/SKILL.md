@@ -1,6 +1,6 @@
 ---
 name: ifrs
-description: Use when answering questions about IFRS standards, IAS standards, IASB, financial reporting, revenue recognition, lease accounting, impairment, financial instruments, expected credit loss, ECL, hedge accounting, consolidation, business combinations, fair value measurement, first-time adoption, deferred tax, Pillar Two, provisions, insurance contracts, hyperinflation, journal entries, disclosure requirements, IFRS compliance checks, audit support, GAAP differences, goodwill, IFRS 18, IFRS 19, IFRS 20, presentation and disclosure, management-defined performance measures, MPM, IFRS S1, IFRS S2, sustainability disclosure, ISSB, IFRIC, SIC, agenda decision, IFRS for SMEs, Conceptual Framework, EU endorsement, or transitioning from local GAAP to IFRS.
+description: Use when answering questions about IFRS standards, IAS standards, IASB, financial reporting, revenue recognition, lease accounting, impairment, financial instruments, expected credit loss, ECL, hedge accounting, consolidation, business combinations, fair value measurement, first-time adoption, deferred tax, Pillar Two, provisions, insurance contracts, hyperinflation, journal entries, disclosure requirements, IFRS compliance checks, audit support, GAAP differences, goodwill, IFRS 18, IFRS 19, IFRS 20, presentation and disclosure, management-defined performance measures, MPM, IFRS S1, IFRS S2, sustainability disclosure, ISSB, IFRIC, SIC, agenda decision, IFRS for SMEs, Conceptual Framework, EU endorsement, transitioning from local GAAP to IFRS, or reviewing whether a feature, codebase or system produces correct accounting figures — feature review, implementation review, does this code handle revenue correctly, is this implementation IFRS-compliant.
 ---
 
 # IFRS
@@ -14,12 +14,15 @@ Comprehensive IFRS guidance, compliance support, and GAAP-to-IFRS transition ass
 - **Guidance question** — Read `standards-reference.md` for the relevant standard(s)
 - **Multi-step calculation or journal entries** — Read `workflows.md`; add `standards-reference.md` for the underlying requirements
 - **Compliance/audit task** — Read `compliance-templates.md` + `standards-reference.md`
+- **Reviewing an implementation** — a repository, a directory, or a report produced by a system — Read `feature-review.md`
 - **Transition task** — Read `transition-guide.md` + `standards-reference.md`
 - **Interpretations / agenda decisions** — Read the IFRIC and SIC section of `standards-reference.md`
 - **Effective dates, amendments, endorsement status** — Read the amendment register at the end of `standards-reference.md`
 - **Sustainability (IFRS S1/S2, ISSB)** — Read the sustainability section of `standards-reference.md`
 - **General/learning question** — Answer from this file; load reference only if deeper detail needed
 - **Mixed task** — Load all relevant files; use the most structured output format
+
+**Which review?** `compliance-templates.md` reviews **financial statements**. `feature-review.md` reviews **the software that produces them**. The discriminator is whether code or a system is involved, not whether the user said "compliance".
 
 ### 2. Detect Audience
 
@@ -77,6 +80,7 @@ Note: IFRS adoption varies by jurisdiction; some countries apply IFRS with local
 | `standards-reference.md` | Standard-by-standard detail, IFRIC/SIC interpretations and agenda decisions, sustainability standards, and the amendment and effective-date register |
 | `workflows.md` | Multi-step procedures with worked examples and journal entries (ECL, leases, CSM roll-forward, goodwill impairment, diluted EPS, IFRS 18 categorisation) |
 | `compliance-templates.md` | Per-standard disclosure checklists with paragraph references, plus materiality, going-concern, interim, first-time-adoption, MPM and audit-response templates |
+| `feature-review.md` | Reviewing software that produces accounting figures: the locate-and-fan-out procedure, the code-artefact-to-standard trigger map, finding classes and severities, and the plain-English output template |
 | `transition-guide.md` | First-time adoption, IFRS 1 exemptions and exceptions, US GAAP and local GAAP difference matrices, and transition to IFRS 18 |
 
 *This skill provides technical guidance but does not replace professional judgment. Consult qualified professionals for specific accounting decisions.*

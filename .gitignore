@@ -19,3 +19,7 @@ Thumbs.db
 
 # Repository-upgrade research working area (transient, re-derivable)
 .repo-upgrade/
+
+# Python bytecode
+__pycache__/
+*.py[cod]

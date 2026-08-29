@@ -37,3 +37,6 @@ jobs:
 
       - name: Check journal entries and run assertion blocks
         run: python3 scripts/check_journal_entries.py
+
+      - name: Verify feature-review fixture answer-key figures
+        run: python3 tests/fixtures/invoice-balance-sheet/verify_key_figures.py

@@ -209,11 +209,32 @@ To recognise the sale-and-leaseback.
 ```bash
 python3 scripts/check_skill_structure.py
 python3 scripts/check_journal_entries.py
+python3 tests/fixtures/invoice-balance-sheet/verify_key_figures.py
 npx --yes markdownlint-cli2@0.23.2 "**/*.md" "#node_modules"
 ```
 
-All three run in CI on every pull request. Run them before you push; a failing check is the
+All four run in CI on every pull request. Run them before you push; a failing check is the
 most common reason a pull request sits unreviewed.
+
+Two further checks do not run in CI, because each needs something the repository does not
+hold:
+
+```bash
+python3 scripts/check_citations.py                      # needs the source corpus
+python3 scripts/check_feature_review.py <review.md> --fixture invoice-balance-sheet
+```
+
+`check_citations.py` resolves every paragraph citation in `ifrs/` and `tests/expected/`
+against the standards' own text. It needs the extracted corpus, which is third-party
+copyrighted material and is not committed — `docs/SOURCING.md` says how to rebuild it.
+Without the corpus it reports that it skipped and exits 0.
+
+`check_feature_review.py` checks the shape of a feature review's output against the rules in
+`ifrs/feature-review.md`: that standard numbers appear only in evidence lines, that nothing
+outside the covered standards is cited, that practice notes carry the fixed heading, and that
+the verdict follows arithmetically from the severities. It needs a review to check, and no
+review output is committed — see `tests/README.md`. It checks shape, never whether the
+findings are correct; that judgement is made against the answer key by a person.
 
 ## Making the change
 
@@ -221,7 +242,7 @@ most common reason a pull request sits unreviewed.
 2. Keep the change focused. A citation correction and a new workflow are two pull requests.
 3. Write the change in the register-neutral, formal style of the surrounding text. The
    audience is a qualified accountant.
-4. Run the three checks above.
+4. Run the four checks above.
 5. Complete the pull request template in full. It asks for your sources, and for explicit
    confirmation that you read the paragraphs and that the examples balance. Those are the
    two things a reviewer cannot verify cheaply and must take on trust.

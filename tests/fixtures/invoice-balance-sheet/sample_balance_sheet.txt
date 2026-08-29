@@ -1,0 +1,10 @@
+BALANCE SHEET as at 2026-12-31
+
+ASSETS
+  Cash                           12,000.00
+  Trade receivables              19,200.00
+  Total assets                   31,200.00
+
+EQUITY AND LIABILITIES
+  Retained earnings              31,200.00
+  Total equity and liabilities   31,200.00
